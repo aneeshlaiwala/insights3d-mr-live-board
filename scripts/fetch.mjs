@@ -147,19 +147,56 @@ function dedupeSort(all) {
 }
 
 function makeHashtags(items) {
-  const stop = new Set('the a an and or to for of in on with & from by as into over under about at is are was were be being been this that those these it its their our your his her them you we they research market consumer insight ai data survey brand study report'.split(' '));
+  // 1) Strip common publisher suffix in titles: " ... - Business Standard"
+  const cleanTitle = (t='') => t.split(' - ').shift();
+
+  // 2) Very broad stop list + publishers/domains we often see via Google News
+  const STOP = new Set([
+    'the','a','an','and','or','to','for','of','in','on','with','from','by','as','about','at','is','are','was','were','be','been','this','that','these','those','it','its',
+    'market','research','consumer','insight','insights','study','report','reports','forecast','forecasts','global','expected','growth','industry','analysis','trend','trends',
+    'says','saying','reach','reaches','billion','million','usd','us','cagr','percent','year','years','2023','2024','2025','2026','2027','2028','2029','2030',
+    // publishers / domains often appended in titles
+    'globenewswire','openpr','industrytodaycouk','industrytoday','researchandmarkets','businessstandard','financialcontent','prnewswire','yahoo','yahoofinance',
+    'com','newsgoogle','google','news','press','release'
+  ]);
+
+  // allow short MR acronyms
+  const ALLOW_SHORT = new Set(['ai','mr','cx','ux','b2b','b2c','cpg','d2c','cxi','nps']);
+
   const freq = {};
   for (const it of items) {
-    const words = (it.title || '').toLowerCase().replace(/[^a-z0-9\s#]/g, '').split(/\s+/);
-    for (const w of words) {
-      if (!w || stop.has(w) || w.length < 3) continue;
+    const title = cleanTitle(it.title || '');
+    const words = title
+      .toLowerCase()
+      .replace(/[^a-z0-9\s#]/g,' ')
+      .split(/\s+/)
+      .filter(Boolean);
+
+    for (let w of words) {
+      // drop numeric-only, 1–2 chars, or stop words (unless in allow list)
+      if (!ALLOW_SHORT.has(w) && (w.length < 3 || /^\d+$/.test(w))) continue;
+      if (STOP.has(w)) continue;
+      // drop domainy tokens like something.com
+      if (/^[a-z0-9-]+\.com$/.test(w)) continue;
+      // drop tokens that are obviously stitched domains from Google News
+      if (/^(?:[a-z0-9-]+)(?:co|uk|in|us|eu|de|fr|it)$/.test(w)) continue;
+
       freq[w] = (freq[w] || 0) + 1;
     }
   }
-  return Object.entries(freq)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 20)
-    .map(([w]) => ({ label: `#${w}`, url: `https://x.com/search?q=%23${encodeURIComponent(w)}` }));
+
+  // rank by frequency, then alphabetically for stability
+  const ranked = Object.entries(freq)
+    .sort((a,b) => (b[1]-a[1]) || a[0].localeCompare(b[0]))
+    .map(([w]) => w);
+
+  // prefer meaningful tokens: min length 4 or allow short whitelisted ones
+  const curated = ranked.filter(w => w.length >= 4 || ALLOW_SHORT.has(w)).slice(0, 20);
+
+  return curated.map(w => ({
+    label: (ALLOW_SHORT.has(w) ? `#${w.toUpperCase()}` : `#${w}`),
+    url: `https://x.com/search?q=%23${encodeURIComponent(w)}`
+  }));
 }
 
 async function run() {
