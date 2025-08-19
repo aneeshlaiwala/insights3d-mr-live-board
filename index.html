@@ -1,10 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Market Research Live Board</title>
-  <script defer src="app.js"></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Market Research — Live Board</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-white text-gray-900">
@@ -16,11 +15,19 @@
   </header>
 
   <main class="max-w-6xl mx-auto px-6 py-8 space-y-12">
+    <!-- Topics Filter -->
+    <section id="topics-section" class="hidden">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-xl font-semibold">Topics</h2>
+        <button id="clear-topics" class="text-sm text-blue-600 hover:underline">Clear</button>
+      </div>
+      <div id="topics-row" class="flex flex-wrap gap-2"></div>
+    </section>
+
     <!-- Top 6 news -->
     <section>
       <div class="flex items-center justify-between mb-3">
         <h2 class="text-xl font-semibold">Top News & Analysis</h2>
-        <a href="#" id="rss-link" class="text-sm text-blue-600 hover:underline hidden">Full feed</a>
       </div>
       <div id="news-list" class="grid md:grid-cols-2 gap-6"></div>
     </section>
@@ -46,58 +53,92 @@
   </div>
 
   <style>
-    @keyframes marquee {
-      0% { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
-    }
-    .animate-marquee {
-      animation: marquee 35s linear infinite;
-    }
+    @keyframes marquee { 0% {transform: translateX(100%);} 100% {transform: translateX(-100%);} }
+    .animate-marquee { animation: marquee 35s linear infinite; }
+    .clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .chip { padding: 0.25rem 0.75rem; border-radius: 9999px; background: #f3f4f6; font-size: .875rem; cursor: pointer; }
+    .chip:hover { background: #e5e7eb; }
+    .chip-active { background: #2563eb; color: white; }
   </style>
 
   <script>
-  async function loadData(){
-    try{
-      const resp = await fetch('data/news.json?cb=' + Date.now());
-      const data = await resp.json();
+    // ---------- State ----------
+    let STATE = { raw: null, selectedTopics: new Set() };
+
+    // ---------- Helpers ----------
+    function topicChip(topic) {
+      const btn = document.createElement('button');
+      btn.className = 'chip';
+      btn.textContent = topic;
+      btn.onclick = () => {
+        STATE.selectedTopics.has(topic) ? STATE.selectedTopics.delete(topic) : STATE.selectedTopics.add(topic);
+        render();
+      };
+      return btn;
+    }
+    function setActive(el, active) { el.classList.toggle('chip-active', active); }
+    function matchesTopics(item) {
+      if (STATE.selectedTopics.size === 0) return true;
+      const topics = item.topics || []; // tolerate missing topics
+      return topics.some(t => STATE.selectedTopics.has(t));
+    }
+
+    // ---------- Renderers ----------
+    function renderTopicsBar(data) {
+      const section = document.getElementById('topics-section');
+      const row = document.getElementById('topics-row');
+      row.innerHTML = '';
+
+      const list = data.topics_available || []; // may be absent in your current JSON
+      if (list.length === 0) { section.classList.add('hidden'); return; }
+      section.classList.remove('hidden');
+
+      list.forEach(t => {
+        const chip = topicChip(t);
+        setActive(chip, STATE.selectedTopics.has(t));
+        row.appendChild(chip);
+      });
+    }
+
+    function renderLists(data) {
       // Top news
       const newsEl = document.getElementById('news-list');
       newsEl.innerHTML = '';
-      data.top_news.slice(0,6).forEach(item => {
+      (data.top_news || []).filter(matchesTopics).slice(0, 6).forEach(item => {
         const card = document.createElement('article');
         card.className = 'border rounded-lg p-4 hover:shadow transition';
-        card.innerHTML = \`
-          <a class="block" href="\${item.link}" target="_blank" rel="noopener">
-            <h3 class="font-semibold mb-2">\${item.title}</h3>
-            <p class="text-sm text-gray-700 mb-2">\${item.summary || ''}</p>
-            <div class="text-xs text-gray-500">\${new Date(item.isoDate).toLocaleString()} • \${item.source || ''}</div>
-          </a>\`;
+        card.innerHTML = `
+          <a class="block" href="${item.link}" target="_blank" rel="noopener">
+            <h3 class="font-semibold mb-2">${item.title}</h3>
+            <p class="text-sm text-gray-700 mb-2 clamp-3">${item.summary || ''}</p>
+            <div class="text-xs text-gray-500">${new Date(item.isoDate).toLocaleString()} • ${item.source || ''}</div>
+            ${(item.topics||[]).length ? `<div class="mt-2 flex flex-wrap gap-2">${(item.topics||[]).map(t=>`<span class="text-xs px-2 py-0.5 rounded-full bg-gray-100">${t}</span>`).join('')}</div>` : ''}
+          </a>`;
         newsEl.appendChild(card);
       });
 
       // Funding
       const fundEl = document.getElementById('funding-list');
       fundEl.innerHTML = '';
-      data.funding_ma.slice(0,8).forEach(item => {
+      (data.funding_ma || []).filter(matchesTopics).slice(0, 8).forEach(item => {
         const card = document.createElement('article');
         card.className = 'border rounded-lg p-4 hover:shadow transition';
-        card.innerHTML = \`
-          <a class="block" href="\${item.link}" target="_blank" rel="noopener">
-            <h3 class="font-semibold mb-2">\${item.title}</h3>
-            <p class="text-sm text-gray-700 mb-2">\${item.summary || ''}</p>
-            <div class="text-xs text-gray-500">\${new Date(item.isoDate).toLocaleString()} • \${item.source || ''}</div>
-          </a>\`;
+        card.innerHTML = `
+          <a class="block" href="${item.link}" target="_blank" rel="noopener">
+            <h3 class="font-semibold mb-2">${item.title}</h3>
+            <p class="text-sm text-gray-700 mb-2 clamp-3">${item.summary || ''}</p>
+            <div class="text-xs text-gray-500">${new Date(item.isoDate).toLocaleString()} • ${item.source || ''}</div>
+            ${(item.topics||[]).length ? `<div class="mt-2 flex flex-wrap gap-2">${(item.topics||[]).map(t=>`<span class="text-xs px-2 py-0.5 rounded-full bg-gray-100">${t}</span>`).join('')}</div>` : ''}
+          </a>`;
         fundEl.appendChild(card);
       });
 
       // Hashtags
       const tagsEl = document.getElementById('hashtags');
       tagsEl.innerHTML = '';
-      (data.hashtags || []).slice(0,20).forEach(tag => {
+      (data.hashtags || []).slice(0, 20).forEach(tag => {
         const a = document.createElement('a');
-        a.href = tag.url;
-        a.target = '_blank';
-        a.rel = 'noopener';
+        a.href = tag.url; a.target = '_blank'; a.rel = 'noopener';
         a.className = 'px-3 py-1 rounded-full bg-gray-100 hover:bg-gray-200 text-sm';
         a.textContent = tag.label;
         tagsEl.appendChild(a);
@@ -109,18 +150,37 @@
       (data.ticker || []).forEach(t => {
         const span = document.createElement('span');
         span.className = 'mx-6 text-sm';
-        span.innerHTML = \`<a href="\${t.link}" target="_blank" class="hover:underline">\${t.text}</a>\`;
+        span.innerHTML = `<a href="${t.link}" target="_blank" class="hover:underline">${t.text}</a>`;
         ticker.appendChild(span);
       });
 
       // Last updated
-      document.getElementById('last-updated').textContent = 'Updated ' + new Date(data.generated_at).toLocaleString();
-    }catch(e){
-      document.getElementById('last-updated').textContent = 'Failed to load data';
-      console.error(e);
+      document.getElementById('last-updated').textContent =
+        'Updated ' + new Date(data.generated_at).toLocaleString();
     }
-  }
-  loadData();
+
+    function render() {
+      if (!STATE.raw) return;
+      renderTopicsBar(STATE.raw);
+      renderLists(STATE.raw);
+    }
+
+    // ---------- Boot ----------
+    document.getElementById('clear-topics').addEventListener('click', () => {
+      STATE.selectedTopics.clear(); render();
+    });
+
+    (async function loadData(){
+      try {
+        const resp = await fetch('./data/news.json?cb=' + Date.now());
+        const data = await resp.json();
+        STATE.raw = data;
+        render();
+      } catch (e) {
+        console.error(e);
+        document.getElementById('last-updated').textContent = 'Failed to load data';
+      }
+    })();
   </script>
 </body>
 </html>
