@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-19T21:09:07.167Z",
+  "generated_at": "2025-08-19T21:14:24.334Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -44,14 +44,14 @@
       ]
     },
     {
-      "title": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5",
-      "isoDate": "2025-08-19T20:52:26.000Z",
+      "title": "New Haven residents encouraged to fill out survey to guide city’s new wellness initiative - 21Alive",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkhJNFY2bE9talRMZkl4VFNmU3JCTmMxMGFhTm00RWRyODNUWlpndy1sWVhwbFl1STFLWEhaakdqWTN0NDdWUjFPNHhCSlhDOHc2LVctU3FNYlFxQzFIalZxM216NlQyejljSGhETmNZMlBJcTJmTm1CQmpRZ2hfWFNVV3BYREdsS3JqVW0zaENndG82eUNFd2h6Z2Frb1QySW55VWdCd1pCMlNxQWQzSDBBdEF5TnhDSEN2Mno4bw?oc=5",
+      "isoDate": "2025-08-19T20:44:00.000Z",
       "source": "news.google.com",
-      "raw": "Trump administration cancels annual employee survey amid civil service tumult  The Washington Post",
-      "summary": "Trump administration cancels annual employee survey amid civil service tumult The Washington Post",
+      "raw": "New Haven residents encouraged to fill out survey to guide city’s new wellness initiative  21Alive",
+      "summary": "New Haven residents encouraged to fill out survey to guide city’s new wellness initiative 21Alive",
       "topics": [
-        "(Other)"
+        "AI in MR"
       ]
     },
     {
@@ -638,6 +638,10 @@
       "url": "https://x.com/search?q=%23choice"
     },
     {
+      "label": "#city",
+      "url": "https://x.com/search?q=%23city"
+    },
+    {
       "label": "#completed",
       "url": "https://x.com/search?q=%23completed"
     },
@@ -652,10 +656,6 @@
     {
       "label": "#demand",
       "url": "https://x.com/search?q=%23demand"
-    },
-    {
-      "label": "#digital",
-      "url": "https://x.com/search?q=%23digital"
     }
   ],
   "ticker": [
@@ -672,8 +672,8 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXhoaGVxTnM4a2xWYnhVaXpfSHZCS0d3dlBtNEczaXJxa0JXeG9SamwwNDVkRTFWcVB4dVdTdG0tSUdjMHRQVDFnakx0Q1Zfel9MLTAwWExvUTFrOXg4WjFSeTNYWEVuRmJ1dHEyWVFFd0gxRm5oTm9QN1k1NC10T3R4and4UUdvT2xYSDNseko1YzlIUmczeVdvZFVPbE1YQnhFd2ZEeEZtOWlDMXk1OVREZk13US1tMlAxcWZ6V3RXcUVW0gHKAUFVX3lxTFAxejYzVDJKSV9XYkZWWEhNM0lYZkIyS01ya2N3NjNjblNxMnZjbzhvMHNPSklzOEZfbFgxUlFOZjVaS3JvR01MSzhtel9PT3F3SXpUaVlhcHVwSHBrWlhoODRxWmpwWDdIZ3hyUjFVUmxlMjdSUWZJeWtnbzRGRGxoeFRlcVBSV09rRnN1RmdjMTl4MURVUnk0QldiWW1uVXVJZXk2bHZlN2hzZ3BnY3RfQUhBb0MzZkRLaFNHSFk2TDhQeExLQUZZaWc?oc=5"
     },
     {
-      "text": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5"
+      "text": "New Haven residents encouraged to fill out survey to guide city’s new wellness initiative - 21Alive",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkhJNFY2bE9talRMZkl4VFNmU3JCTmMxMGFhTm00RWRyODNUWlpndy1sWVhwbFl1STFLWEhaakdqWTN0NDdWUjFPNHhCSlhDOHc2LVctU3FNYlFxQzFIalZxM216NlQyejljSGhETmNZMlBJcTJmTm1CQmpRZ2hfWFNVV3BYREdsS3JqVW0zaENndG82eUNFd2h6Z2Frb1QySW55VWdCd1pCMlNxQWQzSDBBdEF5TnhDSEN2Mno4bw?oc=5"
     },
     {
       "text": "Newbie Investors Are Taking More Risks Than Experienced Ones, Survey Finds - Barron's",
