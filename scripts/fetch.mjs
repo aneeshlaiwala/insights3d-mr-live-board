@@ -11,14 +11,15 @@ import { fileURLToPath } from 'url';
 
 // Feeds (can add/remove)
 const FEEDS = [
-  // Broad search
-  'https://news.google.com/rss/search?q=%22market%20research%22%20OR%20%22consumer%20insights%22&hl=en-IN&gl=IN&ceid=IN:en',
-
-  // Specific industry sources
+  // Your focused MR publishers
   'https://www.research-live.com/rss',
   'https://www.quirks.com/rss',
-  'https://www.mrweb.com/drno/rssdailynews.xml'
+  'https://www.mrweb.com/drno/rssdailynews.xml',
+
+  // (Optional) Broader Google News scrape — we will filter it heavily below:
+  'https://news.google.com/rss/search?q=%22market%20research%22%20OR%20%22consumer%20insights%22%20OR%20%22customer%20experience%22%20OR%20%22focus%20group%22%20OR%20%22survey%22&hl=en-IN&gl=IN&ceid=IN:en'
 ];
+
 
 // Topic definitions (simple keyword maps)
 const TOPICS = {
