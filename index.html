@@ -54,7 +54,11 @@
 
   <style>
     @keyframes marquee { 0% {transform: translateX(100%);} 100% {transform: translateX(-100%);} }
-    .animate-marquee { animation: marquee 35s linear infinite; }
+    /* Slower by default; duration is tuned in JS based on text length */
+    .animate-marquee { animation: marquee var(--marquee-duration, 90s) linear infinite; }
+    /* Pause when hovering so people can read */
+    #ticker-wrap:hover .animate-marquee { animation-play-state: paused; }
+
     .clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
     .chip { padding: 0.25rem 0.75rem; border-radius: 9999px; background: #f3f4f6; font-size: .875rem; cursor: pointer; }
     .chip:hover { background: #e5e7eb; }
@@ -89,7 +93,7 @@
       const row = document.getElementById('topics-row');
       row.innerHTML = '';
 
-      const list = data.topics_available || []; // may be absent in your current JSON
+      const list = data.topics_available || [];
       if (list.length === 0) { section.classList.add('hidden'); return; }
       section.classList.remove('hidden');
 
@@ -154,21 +158,19 @@
         ticker.appendChild(span);
       });
 
+      // Tune marquee speed to content length (slower for longer) + set pause-on-hover via CSS above
+      const totalChars = Array.from(ticker.querySelectorAll('span')).reduce((n, el) => n + (el.innerText || '').length, 0);
+      const secs = Math.max(50, Math.min(140, Math.round(totalChars / 16))); // ~slower baseline
+      ticker.style.setProperty('--marquee-duration', `${secs}s`);
+
       // Last updated
-      document.getElementById('last-updated').textContent =
-        'Updated ' + new Date(data.generated_at).toLocaleString();
+      document.getElementById('last-updated').textContent = 'Updated ' + new Date(data.generated_at).toLocaleString();
     }
 
-    function render() {
-      if (!STATE.raw) return;
-      renderTopicsBar(STATE.raw);
-      renderLists(STATE.raw);
-    }
+    function render() { if (!STATE.raw) return; renderTopicsBar(STATE.raw); renderLists(STATE.raw); }
 
     // ---------- Boot ----------
-    document.getElementById('clear-topics').addEventListener('click', () => {
-      STATE.selectedTopics.clear(); render();
-    });
+    document.getElementById('clear-topics').addEventListener('click', () => { STATE.selectedTopics.clear(); render(); });
 
     (async function loadData(){
       try {
