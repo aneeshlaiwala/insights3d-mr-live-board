@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Market Research Live Board</title>
+  <script defer src="app.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-900">
+  <header class="px-6 py-4 border-b sticky top-0 bg-white/90 backdrop-blur z-50">
+    <div class="max-w-6xl mx-auto flex items-center justify-between">
+      <h1 class="text-2xl font-bold">Market Research — Live Board</h1>
+      <div id="last-updated" class="text-sm text-gray-500">Loading…</div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 py-8 space-y-12">
+    <!-- Top 6 news -->
+    <section>
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-xl font-semibold">Top News & Analysis</h2>
+        <a href="#" id="rss-link" class="text-sm text-blue-600 hover:underline hidden">Full feed</a>
+      </div>
+      <div id="news-list" class="grid md:grid-cols-2 gap-6"></div>
+    </section>
+
+    <!-- Funding & M&A -->
+    <section>
+      <h2 class="text-xl font-semibold mb-3">Funding & M&A</h2>
+      <div id="funding-list" class="grid md:grid-cols-2 gap-6"></div>
+    </section>
+
+    <!-- Hashtags -->
+    <section>
+      <h2 class="text-xl font-semibold mb-3">Trending Hashtags</h2>
+      <div id="hashtags" class="flex flex-wrap gap-2"></div>
+    </section>
+  </main>
+
+  <!-- Ticker -->
+  <div class="w-full border-t">
+    <div class="overflow-hidden whitespace-nowrap py-2" id="ticker-wrap">
+      <div id="ticker" class="inline-block animate-marquee"></div>
+    </div>
+  </div>
+
+  <style>
+    @keyframes marquee {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+    .animate-marquee {
+      animation: marquee 35s linear infinite;
+    }
+  </style>
+
+  <script>
+  async function loadData(){
+    try{
+      const resp = await fetch('data/news.json?cb=' + Date.now());
+      const data = await resp.json();
+      // Top news
+      const newsEl = document.getElementById('news-list');
+      newsEl.innerHTML = '';
+      data.top_news.slice(0,6).forEach(item => {
+        const card = document.createElement('article');
+        card.className = 'border rounded-lg p-4 hover:shadow transition';
+        card.innerHTML = \`
+          <a class="block" href="\${item.link}" target="_blank" rel="noopener">
+            <h3 class="font-semibold mb-2">\${item.title}</h3>
+            <p class="text-sm text-gray-700 mb-2">\${item.summary || ''}</p>
+            <div class="text-xs text-gray-500">\${new Date(item.isoDate).toLocaleString()} • \${item.source || ''}</div>
+          </a>\`;
+        newsEl.appendChild(card);
+      });
+
+      // Funding
+      const fundEl = document.getElementById('funding-list');
+      fundEl.innerHTML = '';
+      data.funding_ma.slice(0,8).forEach(item => {
+        const card = document.createElement('article');
+        card.className = 'border rounded-lg p-4 hover:shadow transition';
+        card.innerHTML = \`
+          <a class="block" href="\${item.link}" target="_blank" rel="noopener">
+            <h3 class="font-semibold mb-2">\${item.title}</h3>
+            <p class="text-sm text-gray-700 mb-2">\${item.summary || ''}</p>
+            <div class="text-xs text-gray-500">\${new Date(item.isoDate).toLocaleString()} • \${item.source || ''}</div>
+          </a>\`;
+        fundEl.appendChild(card);
+      });
+
+      // Hashtags
+      const tagsEl = document.getElementById('hashtags');
+      tagsEl.innerHTML = '';
+      (data.hashtags || []).slice(0,20).forEach(tag => {
+        const a = document.createElement('a');
+        a.href = tag.url;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.className = 'px-3 py-1 rounded-full bg-gray-100 hover:bg-gray-200 text-sm';
+        a.textContent = tag.label;
+        tagsEl.appendChild(a);
+      });
+
+      // Ticker
+      const ticker = document.getElementById('ticker');
+      ticker.innerHTML = '';
+      (data.ticker || []).forEach(t => {
+        const span = document.createElement('span');
+        span.className = 'mx-6 text-sm';
+        span.innerHTML = \`<a href="\${t.link}" target="_blank" class="hover:underline">\${t.text}</a>\`;
+        ticker.appendChild(span);
+      });
+
+      // Last updated
+      document.getElementById('last-updated').textContent = 'Updated ' + new Date(data.generated_at).toLocaleString();
+    }catch(e){
+      document.getElementById('last-updated').textContent = 'Failed to load data';
+      console.error(e);
+    }
+  }
+  loadData();
+  </script>
+</body>
+</html>

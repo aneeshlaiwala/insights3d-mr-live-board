@@ -1,0 +1,11 @@
+{
+  "name": "mr-live-board",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/fetch.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
