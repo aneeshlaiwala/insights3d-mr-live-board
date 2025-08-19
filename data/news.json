@@ -1,0 +1,33 @@
+{
+  "generated_at": "2025-08-19T16:01:40.404330Z",
+  "top_news": [
+    {
+      "title": "Welcome to your MR Live Board",
+      "link": "https://example.com",
+      "isoDate": "2025-08-19T16:01:40.404340Z",
+      "source": "setup",
+      "summary": "Hourly GitHub Action will replace this with real items."
+    }
+  ],
+  "funding_ma": [
+    {
+      "title": "(Sample) InsightCo raises seed round",
+      "link": "https://example.com/funding",
+      "isoDate": "2025-08-19T16:01:40.404342Z",
+      "source": "setup",
+      "summary": "This section auto-filters for funding/mergers keywords."
+    }
+  ],
+  "hashtags": [
+    {
+      "label": "#insights",
+      "url": "https://x.com/search?q=%23insights"
+    }
+  ],
+  "ticker": [
+    {
+      "text": "Your ticker will scroll latest headlines here.",
+      "link": "https://example.com"
+    }
+  ]
+}
