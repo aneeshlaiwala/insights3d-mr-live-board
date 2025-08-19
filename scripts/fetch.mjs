@@ -13,6 +13,14 @@ const FEEDS = [
   // 👉 Replace/extend with trusted Market Research sources you follow
   'https://news.google.com/rss/search?q=%22market%20research%22%20OR%20%22consumer%20insights%22&hl=en-IN&gl=IN&ceid=IN:en',
   // Add more: company blogs, industry publications, etc.
+  // Research Live
+  'https://www.research-live.com/rss',
+
+  // Quirk’s
+  'https://www.quirks.com/rss',
+
+  // MRWeb (daily newswire)
+  'https://www.mrweb.com/drno/rssdailynews.xml'
 ];
 
 const parser = new Parser();
