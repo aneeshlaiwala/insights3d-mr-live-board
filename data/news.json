@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T22:07:47.921Z",
+  "generated_at": "2025-08-20T22:13:28.388Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Honkai: Star Rail Hyte PC Collection Feedback Survey Appears - Siliconera",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQU02bmNZUEwxS1JYRklOUzdWWE1SbGdDeWVxUlBDcDdLNlNZaEdxS0otZVNaeWhkOXV0T0VscWlYWWNlNU5pUTM3VEIxTkVBdUQ2Yjl5eWE1MzZ3cTI4dXBOTW82bXZLdy1OaDNjMG1zZkVETmt5MkQ5QzZTTjl4cDlRX011bHJKRmtUMXpJVlQ0eVFyQzg0cVc1OFRPMUxfSzRVMldzUGV2dS1PcUh6QkV0bEozMXlDUF9wLTBxWTJvaFZGZ0FDYl9TX2s3bTVzQkFhdVdjMC04TFhiWWx0c1gybWZ2Rmpqazh5c2N4Nzh3NjZ6bHd3dFlLTGRhS3hMV19ZZ2M1SHVaeTQ0TFJfYUxBekt5XzlwaXc?oc=5",
+      "isoDate": "2025-08-20T22:00:00.000Z",
+      "source": "news.google.com",
+      "raw": "Honkai: Star Rail Hyte PC Collection Feedback Survey Appears  Siliconera",
+      "summary": "Honkai: Star Rail Hyte PC Collection Feedback Survey Appears Siliconera",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5",
@@ -477,17 +488,6 @@
       ]
     },
     {
-      "title": "Hyatt’s Customer Experience Strategy: Where Standards Meet Personalization - CMSWire.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1pjZlV6TnF5SVhtcEJ4RUFQcEVIWVQyS2t3dWdYSHVqWnNrYzNCUVQ1UEtnT0l2anFjWkZDNDZndi1rRXpCWng4VE1WM0RRSEVubldBVkFxbFdoZHpWLXZ4cGNabmItbktHcmZSYzkyaGVRNk00LWFhU2xjTG1UNDVsRFFzV25MTFRzT2NtZ2RISlNHY05ncEdETzZaRWRJVkE?oc=5",
-      "isoDate": "2025-08-20T13:07:30.000Z",
-      "source": "news.google.com",
-      "raw": "Hyatt’s Customer Experience Strategy: Where Standards Meet Personalization  CMSWire.com",
-      "summary": "Hyatt’s Customer Experience Strategy: Where Standards Meet Personalization CMSWire.com",
-      "topics": [
-        "CX"
-      ]
-    },
-    {
       "title": "ARPC earns high ratings from insurer customer survey - Insurance Business America",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGZ0a2w2Y2JuOHk0UTB1djJIelF4RVE5LTZOMFdBSkVrQlZ2Z1dTS2pqUVNidEJXdXFlUm9SN09sVnNSak90OG8xdS12RmxnUWRmYndyZjNXS2tEQ0FVNlk0ODFDMTFQUThWblRWTENfS3ZoTXFZcTNoT040MGN2c1Z4N21MZElXQmxyYm1zTFBWdGJ5M0pzV2k3U2JsWWpyNmVTVVNTS3FwTmkwaGNsUnhsOGpHSDNMOXBvRXZn?oc=5",
       "isoDate": "2025-08-20T13:07:30.000Z",
@@ -580,16 +580,12 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#customer",
-      "url": "https://x.com/search?q=%23customer"
-    },
-    {
       "label": "#reveals",
       "url": "https://x.com/search?q=%23reveals"
     },
     {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
     },
     {
       "label": "#shows",
@@ -602,6 +598,10 @@
     {
       "label": "#costs",
       "url": "https://x.com/search?q=%23costs"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#gaps",
@@ -649,6 +649,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Honkai: Star Rail Hyte PC Collection Feedback Survey Appears - Siliconera",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQU02bmNZUEwxS1JYRklOUzdWWE1SbGdDeWVxUlBDcDdLNlNZaEdxS0otZVNaeWhkOXV0T0VscWlYWWNlNU5pUTM3VEIxTkVBdUQ2Yjl5eWE1MzZ3cTI4dXBOTW82bXZLdy1OaDNjMG1zZkVETmt5MkQ5QzZTTjl4cDlRX011bHJKRmtUMXpJVlQ0eVFyQzg0cVc1OFRPMUxfSzRVMldzUGV2dS1PcUh6QkV0bEozMXlDUF9wLTBxWTJvaFZGZ0FDYl9TX2s3bTVzQkFhdVdjMC04TFhiWWx0c1gybWZ2Rmpqazh5c2N4Nzh3NjZ6bHd3dFlLTGRhS3hMV19ZZ2M1SHVaeTQ0TFJfYUxBekt5XzlwaXc?oc=5"
+    },
     {
       "text": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5"
@@ -764,10 +768,6 @@
     {
       "text": "Survey: Saints fans become more romantic following a win - fox8live.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnpCcW01N0IyUFlnVlZVbk10RWN4Uld5S2U5VUNQaTB0LWdEYU95aU9saENGY0pFb0JkeU5tQTBYcjk4b3lmaC01cUU2NHd3Q3pKTkFELW1TaXczT0dSekdYdXBuYmtMWjdUQUxBMnhPZzNLOTB3dVhGME8wM3c2UzROUzUxdndJcGctZ0xOcVFGQTlz?oc=5"
-    },
-    {
-      "text": "Office workers not above trying to access colleagues’ devices – survey - TechCentral.ie",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ25ZeXFVVGxVcXJicll1UDVlaVMtTmk2WUxDWGhYTzMwRkJuQ1pOd2NiTUxBMnJWemU3Y3E3RzdZYVE5YnRrUkhXTmdWYW1OUG5NQ3pIOWNacXZLNjNEQnhuV1Zsdy10WDJTZWxyWUhsaEQ5X1IxWUdBX1VETUlTWUZqckpMNXV1X1NLcllBd3RSaFFNaWpFdG4yTQ?oc=5"
     }
   ]
 }
