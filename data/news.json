@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T20:11:17.146Z",
+  "generated_at": "2025-08-20T20:17:16.435Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Many Employees Want AI Making Management Decisions, a New Survey Says - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjB5WVJBOW93ZWpzV1FrNHVNaFZEWnRTeVZaQTU1eWdrVnkxSmpENnI4RnV1azB1U1JFMl9PM3p2NnhwWS13aF9vWFU1dVlMYzdKdExJRU9xUHJUMWk2bW40R1dwTWVnMmZYX0ZxOUQxOEltME94UXV2dWxSUGFUMW02NnRTMHBpYUhpeWlmcmt4MDE3Vjh5X3JsZm5hN2lUZ1RsTkpPbC1WXzFsYlA3Zw?oc=5",
+      "isoDate": "2025-08-20T19:59:08.000Z",
+      "source": "news.google.com",
+      "raw": "Many Employees Want AI Making Management Decisions, a New Survey Says  Inc.com",
+      "summary": "Many Employees Want AI Making Management Decisions, a New Survey Says Inc.com",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "Bio/Pharma's Tariff Response: Key Insights from Industry Survey Results - PharmTech",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjRjVGFhLUZmakczN1F1aENtY3JSOFVKREg2dTB1YXJaYWtZcm5WaFBiZzMtOTlQMzkzWTdhLXBCOEJKNkpMM2VFRmdHS3pmZ201VTY1ODFkZGR5UUJjRmVPNVZWdU9OSk9fX21EU0FCbVJaeDZFZzEwS2x4MThTbTV6a1pBVzcwTTFwMnFvRlhqWDEzandhR3NtUWRaSVU4S0U0dUlBdkppdmJXM0VDNWhKZlQ4SDJHQTJMU29uNA?oc=5",
@@ -63,17 +74,6 @@
       "summary": "Trump administration cancels annual employee survey amid civil service tumult The Washington Post",
       "topics": [
         "(Other)"
-      ]
-    },
-    {
-      "title": "Many Employees Want AI Making Management Decisions, a New Survey Says - Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjB5WVJBOW93ZWpzV1FrNHVNaFZEWnRTeVZaQTU1eWdrVnkxSmpENnI4RnV1azB1U1JFMl9PM3p2NnhwWS13aF9vWFU1dVlMYzdKdExJRU9xUHJUMWk2bW40R1dwTWVnMmZYX0ZxOUQxOEltME94UXV2dWxSUGFUMW02NnRTMHBpYUhpeWlmcmt4MDE3Vjh5X3JsZm5hN2lUZ1RsTkpPbC1WXzFsYlA3Zw?oc=5",
-      "isoDate": "2025-08-20T18:33:45.000Z",
-      "source": "news.google.com",
-      "raw": "Many Employees Want AI Making Management Decisions, a New Survey Says  Inc.com",
-      "summary": "Many Employees Want AI Making Management Decisions, a New Survey Says Inc.com",
-      "topics": [
-        "AI in MR"
       ]
     },
     {
@@ -648,6 +648,10 @@
   ],
   "ticker": [
     {
+      "text": "Many Employees Want AI Making Management Decisions, a New Survey Says - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjB5WVJBOW93ZWpzV1FrNHVNaFZEWnRTeVZaQTU1eWdrVnkxSmpENnI4RnV1azB1U1JFMl9PM3p2NnhwWS13aF9vWFU1dVlMYzdKdExJRU9xUHJUMWk2bW40R1dwTWVnMmZYX0ZxOUQxOEltME94UXV2dWxSUGFUMW02NnRTMHBpYUhpeWlmcmt4MDE3Vjh5X3JsZm5hN2lUZ1RsTkpPbC1WXzFsYlA3Zw?oc=5"
+    },
+    {
       "text": "Bio/Pharma's Tariff Response: Key Insights from Industry Survey Results - PharmTech",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjRjVGFhLUZmakczN1F1aENtY3JSOFVKREg2dTB1YXJaYWtZcm5WaFBiZzMtOTlQMzkzWTdhLXBCOEJKNkpMM2VFRmdHS3pmZ201VTY1ODFkZGR5UUJjRmVPNVZWdU9OSk9fX21EU0FCbVJaeDZFZzEwS2x4MThTbTV6a1pBVzcwTTFwMnFvRlhqWDEzandhR3NtUWRaSVU4S0U0dUlBdkppdmJXM0VDNWhKZlQ4SDJHQTJMU29uNA?oc=5"
     },
@@ -666,10 +670,6 @@
     {
       "text": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5"
-    },
-    {
-      "text": "Many Employees Want AI Making Management Decisions, a New Survey Says - Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjB5WVJBOW93ZWpzV1FrNHVNaFZEWnRTeVZaQTU1eWdrVnkxSmpENnI4RnV1azB1U1JFMl9PM3p2NnhwWS13aF9vWFU1dVlMYzdKdExJRU9xUHJUMWk2bW40R1dwTWVnMmZYX0ZxOUQxOEltME94UXV2dWxSUGFUMW02NnRTMHBpYUhpeWlmcmt4MDE3Vjh5X3JsZm5hN2lUZ1RsTkpPbC1WXzFsYlA3Zw?oc=5"
     },
     {
       "text": "Laos iGaming Market Research Report - iGamingToday.com",
