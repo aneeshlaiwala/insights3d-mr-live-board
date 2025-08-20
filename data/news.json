@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T17:08:37.523Z",
+  "generated_at": "2025-08-20T17:13:12.751Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -41,6 +41,17 @@
       "summary": "Boards are spending too much time looking backwards, survey of UK and US governance professionals finds | Governance Intelligence",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Consumer confidence declining: survey - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Z1pra2JNaEhOWFRQelRUcHpxS2ludHRvMjdfVGU5RHRsMHJqek1BcEpRS1FfeWNUd0NObzhfR0pYYVIzTHZIMG8xTHZPZXlYQXhlcGQwTzhranNoMTE4UUR5V05aQjdtVE9sclo0S1l5bmpSSkE?oc=5",
+      "isoDate": "2025-08-20T16:00:00.000Z",
+      "source": "news.google.com",
+      "raw": "Consumer confidence declining: survey  Taipei Times",
+      "summary": "Consumer confidence declining: survey Taipei Times",
+      "topics": [
+        "AI in MR"
       ]
     },
     {
@@ -365,17 +376,6 @@
       ]
     },
     {
-      "title": "Real’s July Agent Survey: Agent Optimism Index Jumps to Four-Month High as Transaction Activity Shows Signs of Improvement - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSmU5RGRtRDJuSWlZaEFVZDMtT1c4T3JTeno2M0RsUUgzTlJkUG5kUzBKOWFMWkhMS3FpalFCNlROTHlKcXdHV29PTUdEdlBfMnV6ZFlwTzEybWl1OVdrRXFlaFBNSjUwQ0tnVVRDc09SaHdjU1BnSGxvcy1wX1NfTWtrRjhfZkNGM1pBTGdadkh3NmtmQURqN3JqSF9DVUJ1dExQZWpCeGpOMzlUSklDMzNlV1R3Sl9WZlZ6VUg1cVA2Yk9Va0ZWRlQyMDB3cHV1YllLcTZDenduYVhnTHdqOGtIRmhhcnd2Vll0Y0xSX25FSlEwRElHOUFDQzJBUGNYVFNjcGpnRzRyZVNJUUlPaUhrc21sMndFSEhTNUdWR0ppSEtzQUR1YXE5cWRFR1g5VjJJ?oc=5",
-      "isoDate": "2025-08-20T12:23:01.000Z",
-      "source": "news.google.com",
-      "raw": "Real’s July Agent Survey: Agent Optimism Index Jumps to Four-Month High as Transaction Activity Shows Signs of Improvement  The Globe and Mail",
-      "summary": "Real’s July Agent Survey: Agent Optimism Index Jumps to Four-Month High as Transaction Activity Shows Signs of Improvement The Globe and Mail",
-      "topics": [
-        "AI in MR"
-      ]
-    },
-    {
       "title": "Zensurance survey finds 24% drop in small business insurance uptake - Insurance Business America",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGF5eXhETVl5elVDelBONGhqOHBHZ0x5d1RzMkZ4MUFGUlpPZUoxenJxV1k1cTJsUV9HQ2R0VC1VNkZOUmxydjVRcW9WQjMySnRIRVNFQnNwNEN5MEVUeDBkQTRtenZXeEpLUGdWTHVnWlhiRmo3RE1HYTllRXk0dGJtbE5qdjNiWDVzaUpvbXhTSFBCRWdtaDhNcm9FSFVhenFxMV9VUFRWLUhyTlBYc2gya3RjTUtCT0d1UTZ3YzZWRGwwanFTUDZURFdnX0RqdDdr?oc=5",
       "isoDate": "2025-08-20T12:03:20.000Z",
@@ -587,16 +587,12 @@
       "url": "https://x.com/search?q=%23experience"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
+      "label": "#confidence",
+      "url": "https://x.com/search?q=%23confidence"
     },
     {
       "label": "#have",
       "url": "https://x.com/search?q=%23have"
-    },
-    {
-      "label": "#high",
-      "url": "https://x.com/search?q=%23high"
     },
     {
       "label": "#reveals",
@@ -611,6 +607,10 @@
       "url": "https://x.com/search?q=%23services"
     },
     {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
+    },
+    {
       "label": "#their",
       "url": "https://x.com/search?q=%23their"
     },
@@ -619,16 +619,8 @@
       "url": "https://x.com/search?q=%23advanced"
     },
     {
-      "label": "#agent",
-      "url": "https://x.com/search?q=%23agent"
-    },
-    {
       "label": "#cnbc",
       "url": "https://x.com/search?q=%23cnbc"
-    },
-    {
-      "label": "#confidence",
-      "url": "https://x.com/search?q=%23confidence"
     },
     {
       "label": "#deliver",
@@ -645,6 +637,14 @@
     {
       "label": "#enhanced",
       "url": "https://x.com/search?q=%23enhanced"
+    },
+    {
+      "label": "#fans",
+      "url": "https://x.com/search?q=%23fans"
+    },
+    {
+      "label": "#first",
+      "url": "https://x.com/search?q=%23first"
     }
   ],
   "ticker": [
@@ -659,6 +659,10 @@
     {
       "text": "Boards are spending too much time looking backwards, survey of UK and US governance professionals finds - | Governance Intelligence",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUJlWlBKYXJ5U1ZFRDhNMEltS1FMRUo1ZUZtS1h2MVg1NE8tTjB1WHF2bFVqSGl5eVlWMkg4RkY5cnh6MUNGTVZpUmNNblByeEctRGJlY3ExQm9Ha211QjFTUl94REFhNkZ0bEFlaGJCcHVXZXNFcHdhTE1SN2o0aldOTTFLcDdmS1I5dy05NXVzVzBaN2ptcXpRREFDZXhhTXpZemdJSjM1ODJDRW9qRWxPZ2k3ekNfaGZCRXN6Zk94QQ?oc=5"
+    },
+    {
+      "text": "Consumer confidence declining: survey - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Z1pra2JNaEhOWFRQelRUcHpxS2ludHRvMjdfVGU5RHRsMHJqek1BcEpRS1FfeWNUd0NObzhfR0pYYVIzTHZIMG8xTHZPZXlYQXhlcGQwTzhranNoMTE4UUR5V05aQjdtVE9sclo0S1l5bmpSSkE?oc=5"
     },
     {
       "text": "Survey: AI tools nearly matching primary care referrals when choosing a healthcare provider - Oral Health Group",
@@ -763,10 +767,6 @@
     {
       "text": "Natural Hydrogen: Geophysical Survey at Wicheeda North REE - Fuel Cells Works",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnRYbzV5Z2pybWs3WnNfbXBFVjNVMlROaFhKUE45YW4tVnpIQlgyOEpySzJpV0F5R3lHY3g3ZWRKM3JneEZydXo5YXlSZXZaUEtNUW8zZDE3Xy1mSXAyQVd1cDBnajRzUTQxMmF3N05rSFhVRDVlRTNKQlU1eVRkTVFnLTlKUFdUcnVMS0xROWdXNndfT1hjdG40Y2R1aVhnM1FBNDQ3R0ZkbU9WeHBzcU8zR1V0UGtiRjllVWN5UTNhUmpUVzVvdW1lZV8?oc=5"
-    },
-    {
-      "text": "T.N. government plans survey to understand in-migration of labourers from other States, implications for State’s economy - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcDA2SWlWc3VHVkxsalQ4X2tZaloybXc2Vm1Ud2QwSXhiNUprempYNXRuenp3c1duTmZqbTlPUTBaTjlJSmgwV1htSzZESDhiUU5wRTk5akYwX1VkNVhTdTJFdFpheTFZdVdieGVnMnVLdlJWOEZuT0g1ODgzOFl5WHo4Z0VfUlJyOWQyZkJPdUdWeEZBRmFTalp3bGowYUdYdXVSWkN4eVNQNlpHY0dvbVI0cWFPdEI2d0swR0pJQ0JrUlFtUjl4Z0c3alRMREJicEJfbzRNd1UtOEtZQnZWWUJHWENWRHh2OExHZjRuVVZhLXVrNzJoSWhGMlotSXZ3ZEJ2NG52eGY0M01Oa1pLSVFVSGbSAZsCQVVfeXFMUDJQMG5jYnB0andSUFpIV1lXMmp3X2FTVk5ldXFLdXM1bWJUN3B3bWNjdEw0dW1fZGIxeEJyOWN6SzdwTEdvSFlQVnkza3RGVFhzY3NBMTZFa09EVjJrRGtONjk5YkFzSnZqeUlZWHZkUm14Y1NPZFB4WktMeTJvd1FvTEEzNzNZZmNyZkdNeVJTbkhBMDB1eWpwSHVyZ2NYZkJpM3NPZlo3YUdfa1ZMVHpZZndFN0d4T1pEMDZBUEs5RW1NUGRLeGdJZTJ3ak10RWVXOVdOcEZKZ2FnODk3M0VPNm1IeG16X2ZJWll5UzBfQXJvWEFseWJZcm9RWjNRRG9sQmQ4UFBiVUJpNWh5SkFEck5HN0NfaUtiYw?oc=5"
     }
   ]
 }
