@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T10:10:58.323Z",
+  "generated_at": "2025-08-20T10:16:26.851Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -61,6 +61,17 @@
       "source": "news.google.com",
       "raw": "Rule-based transport mode classification in a smart travel and mobility survey  Centraal Bureau voor de Statistiek | CBS",
       "summary": "Rule-based transport mode classification in a smart travel and mobility survey Centraal Bureau voor de Statistiek | CBS",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Hospitality Operating At Only 85% Of Capacity, New Survey Reveals - CLH News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2xoRVRGVmV6SGJCNGxBSHJ1cno5Z0dWakl3Z1E4NDUxVmRsYmlIQWtVQkM2UWZoYmRLcEtBMnRoV1BrZ1ZWMlV4UGRLNGRnOG5KdXVXY3RNdUZZMUJrYVIyQkVYN2NJUkZSYVk1Y0poTUk2eHNyTEZMVUhWVVRZZTdHaEZ5ZEZvRzVMbFMxZjR1UFR1SmRZ?oc=5",
+      "isoDate": "2025-08-20T08:42:36.000Z",
+      "source": "news.google.com",
+      "raw": "Hospitality Operating At Only 85% Of Capacity, New Survey Reveals  CLH News",
+      "summary": "Hospitality Operating At Only 85% Of Capacity, New Survey Reveals CLH News",
       "topics": [
         "(Other)"
       ]
@@ -232,12 +243,12 @@
       ]
     },
     {
-      "title": "Chandigarh Housing Board to survey demand for Sector 54 housing project - propnewstime.com",
+      "title": "Chandigarh Housing Board to survey demand for Sector 54 housing project - Prop News Time",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2NoLTdxcWtIRDFFQ0hycnhwU3R4U0NFRXhjYXBBS3NlU3hhT2pJMGI2dUFIYXkwcmdTNXF4aHE0Ny16VVNGYi11R3VxU0VFaG9QYmNoM29nSlRaV0NpZko3R3V3Q3F0OUpBY1FkQ2ZPWEtBWlZrR3BGdnZ3N0xzNWZnS1d4X01fbHdPVzU5SndzVGxzUkRUc2s1em1BQVJIVzluNHE5TWpYYWZUTjFfZHRKYVlhcldnTTcyYXhCR2E?oc=5",
       "isoDate": "2025-08-20T01:30:31.000Z",
       "source": "news.google.com",
-      "raw": "Chandigarh Housing Board to survey demand for Sector 54 housing project  propnewstime.com",
-      "summary": "Chandigarh Housing Board to survey demand for Sector 54 housing project propnewstime.com",
+      "raw": "Chandigarh Housing Board to survey demand for Sector 54 housing project  Prop News Time",
+      "summary": "Chandigarh Housing Board to survey demand for Sector 54 housing project Prop News Time",
       "topics": [
         "(Other)"
       ]
@@ -550,17 +561,6 @@
         "AI in MR",
         "CX"
       ]
-    },
-    {
-      "title": "Government survey shows dip in unemployment rate - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTExqaC0zYUVMUzFCZWd2ZFN3STJPbzZsWE9qS0NnNG9RNkR0ZzRscUhZb3pQeDZwcU45dnRnblpNM1hUYzR5c1VnYlZyMzhpaFBQdDRZLVRHTWJXQUhmQXF3SVRpeHNWdmRMaFhaNHp2WFJzOW9CS3RMU19vUElxLWVHRTd3eURMYXhGWXY1ejhzSDk5bWJBbjZZb3dOOFk5bTRHMkxWWncySWfSAbIBQVVfeXFMTkg3T2l0VnAwcDYyQ2FOSFJITllKOGgwc2VERDR0NUJ3VVM2VjRwY2hQTjFhY3dJRnJfbF9LQXB6dHFMd09iUUo3QUhOWHN4aXlUX29adnpPeHdTMzdYQ2JKUXNvZHY5MlF1LTY2QmVZaGJreWxaZ2dEUUluYVg1SVVCR0NnNFBrX0NoUVlOZTBtM19iUUJ1RkRzV2tuN3dMeHRqSW5Rb05PVE4wU1VCM3pLZw?oc=5",
-      "isoDate": "2025-08-18T17:35:00.000Z",
-      "source": "news.google.com",
-      "raw": "Government survey shows dip in unemployment rate  The Hindu",
-      "summary": "Government survey shows dip in unemployment rate The Hindu",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -650,12 +650,12 @@
       "url": "https://x.com/search?q=%23services"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
-    },
-    {
       "label": "#annual",
       "url": "https://x.com/search?q=%23annual"
+    },
+    {
+      "label": "#awareness",
+      "url": "https://x.com/search?q=%23awareness"
     }
   ],
   "ticker": [
@@ -678,6 +678,10 @@
     {
       "text": "Rule-based transport mode classification in a smart travel and mobility survey - Centraal Bureau voor de Statistiek | CBS",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS25jako1clhubGZmLVFkZ0JYY2REU0ZiM2QzcFRsdkU0ZGticUotYTFJVVNNbjZYX1F0cmJiaUxjN09NSTllYzJrd2dzQU5SNUpHTEFQQ3FxSDRVU3RLUV93OWN3dWZndUtocUNwNGJBbEtJX0Z5eVJpbDZWcWU1d3VqUUl6WWJZRERrZU5SMnJZcmdjaTJjVVRWaDlOd0NWODlSQTYtdDhwRFN6NXdWbENMU0tsWVk5dXJjb3VyZw?oc=5"
+    },
+    {
+      "text": "Hospitality Operating At Only 85% Of Capacity, New Survey Reveals - CLH News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2xoRVRGVmV6SGJCNGxBSHJ1cno5Z0dWakl3Z1E4NDUxVmRsYmlIQWtVQkM2UWZoYmRLcEtBMnRoV1BrZ1ZWMlV4UGRLNGRnOG5KdXVXY3RNdUZZMUJrYVIyQkVYN2NJUkZSYVk1Y0poTUk2eHNyTEZMVUhWVVRZZTdHaEZ5ZEZvRzVMbFMxZjR1UFR1SmRZ?oc=5"
     },
     {
       "text": "Universities misunderstood by UK public, survey finds - Research Professional News",
@@ -740,7 +744,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjQ1MjVKTmxYM1FqS3NnNXVrM3ByWlRJdk1LeWNGT010U2xwV2k3bDVubHpaWHNRME95alYtYXhKazR0WDZLaGdvRmJmekZLMWlidVdtaXlqSGE5VVNMRkVKdlZ5UXpFMEhXcmtUelhsMUtLSEN5allRSmxJelFCbmYzak5Iamh1dkI2UmhlSU1IekVMZHFSMFJ0emhMN3ZnaFNwRUxWUkc?oc=5"
     },
     {
-      "text": "Chandigarh Housing Board to survey demand for Sector 54 housing project - propnewstime.com",
+      "text": "Chandigarh Housing Board to survey demand for Sector 54 housing project - Prop News Time",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2NoLTdxcWtIRDFFQ0hycnhwU3R4U0NFRXhjYXBBS3NlU3hhT2pJMGI2dUFIYXkwcmdTNXF4aHE0Ny16VVNGYi11R3VxU0VFaG9QYmNoM29nSlRaV0NpZko3R3V3Q3F0OUpBY1FkQ2ZPWEtBWlZrR3BGdnZ3N0xzNWZnS1d4X01fbHdPVzU5SndzVGxzUkRUc2s1em1BQVJIVzluNHE5TWpYYWZUTjFfZHRKYVlhcldnTTcyYXhCR2E?oc=5"
     },
     {
@@ -774,10 +778,6 @@
     {
       "text": "Survey Says: States Are Frontloading Security and Aligning Data and AI - GovTech",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUEUxT01EM1JjdHo3cGRiTlN5X3JvWXBJWElQUnZpVi1qVkRqRlZMRmJmQWxKOXJGTlNlOUhLMmI4LWdrREZTVlBZT05kdWh2aFJlTjlqTGwzV0prSnhESjRHcTl5MjdxbkdQWXYyUXF3RHh2UWJmV2laS05nZ3BZR0xkX3p2Tnc1LXBJSHBmMUpiV3BKbTRhRkQycjFnY0h6RXc?oc=5"
-    },
-    {
-      "text": "Latest Education Survey: Good News for Private Choice, Bad for Public Schooling, Sobering for Ending Fed Ed - Cato Institute",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1NiUXFZNHpLVXZWaURMbF9yOVpSSUZRd3ZETmZDTDA5c09oUlJhd0xqczN3QlRQaWpibWdFUWQzUkJ0bXVncENWVWFRUi1QN0R4UGlaX01FbkxCUXlIQUttVl9KdTBRVVctTE5ZWEF0OFlPMDhHLWtRTXUxYTJWOGlvUFVUZ1ItSUR1T2dIS09CUzllYVBlY2hjTlM3VnRCZVN0WEx6MXJpTTZZWlU5ME1BSkl2ckhwN3c?oc=5"
     }
   ]
 }
