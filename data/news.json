@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T19:07:50.996Z",
+  "generated_at": "2025-08-20T19:12:33.787Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -30,17 +30,6 @@
       "summary": "Many Employees Want AI Making Management Decisions, a New Survey Says Inc.com",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Osceola County launches survey on community safety plan - WFTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVp0SGItZ0xzYVpYb0xOVGdIc3NoYlR1eHp0Uk5jOHVNal95eWs3TjRtako5VUtPQXNyV3pFOUd5TVlpb0Fkb0NJb19ERldFRlMtSW1rVU9jNTlSbTluNzA1NTRWQ3FhT2hGQlA2VXNmdExBZ1Fhb1hjX09VWHk2MjM2WE1ZazZmTUE2ZGJHVUV2MDhvbUVSejhJVWZHczdvN0traXJEY2hGdDBRbGR2cEVR0gHGAUFVX3lxTE5Sd3dSUm5MLThxU1lubE5mRzMzOUMyaHQzLXp4bFc5a1E5aUNXV19ua0RwQ2puc2p4Z0tOY2FLblR4MDhyNml1OW9tX3MwNDV5WDhxNkZ2UmVBWXZkVFh2NE9jNzViLXY2c3FNREtUVlJOSTBwY0ZxNXF3TTZYMkMyWS1PZ3pfUGpRSnJESlZNUVpjMERZdWtyc2p3c1Etb3Q4V2VSYU56V0t6VE5VX3RpbHJ4RWg3NGRkMzY5SnE4d3p5SEJQQQ?oc=5",
-      "isoDate": "2025-08-20T18:30:58.000Z",
-      "source": "news.google.com",
-      "raw": "Osceola County launches survey on community safety plan  WFTV",
-      "summary": "Osceola County launches survey on community safety plan WFTV",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -561,6 +550,17 @@
       "topics": [
         "CX"
       ]
+    },
+    {
+      "title": "BTN Launches Landmark Study on the Future of Customer Experience in Aviation - Breaking Travel News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb21ZWkQ2NWlwdnVybUUwV1V0VVNkemtzZlZmNTFTcWt6UEpsdFBUUlozZHFxQkNteVhKSDFtU1ZZNVBycHBucFpnT2F4YUZ2Y1NhSXVwU0tlekFjaW5raUQ3SE5RSTUzZGI5bHpTekR2bEEtUExWOWRMSmwyZC01aGE0LWdnQlFhaXFqREdlLTFKcE8yLUtyd3FCSm9QRnF4b0gtSHFHNnNmeEhlSlo2N0pkandiT2pha3ZHdnhUZFlpZw?oc=5",
+      "isoDate": "2025-08-20T09:32:35.000Z",
+      "source": "news.google.com",
+      "raw": "BTN Launches Landmark Study on the Future of Customer Experience in Aviation  Breaking Travel News",
+      "summary": "BTN Launches Landmark Study on the Future of Customer Experience in Aviation Breaking Travel News",
+      "topics": [
+        "CX"
+      ]
     }
   ],
   "funding_ma": [],
@@ -574,12 +574,12 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#customer",
       "url": "https://x.com/search?q=%23customer"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#experience",
@@ -654,10 +654,6 @@
     {
       "text": "Many Employees Want AI Making Management Decisions, a New Survey Says - Inc.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjB5WVJBOW93ZWpzV1FrNHVNaFZEWnRTeVZaQTU1eWdrVnkxSmpENnI4RnV1azB1U1JFMl9PM3p2NnhwWS13aF9vWFU1dVlMYzdKdExJRU9xUHJUMWk2bW40R1dwTWVnMmZYX0ZxOUQxOEltME94UXV2dWxSUGFUMW02NnRTMHBpYUhpeWlmcmt4MDE3Vjh5X3JsZm5hN2lUZ1RsTkpPbC1WXzFsYlA3Zw?oc=5"
-    },
-    {
-      "text": "Osceola County launches survey on community safety plan - WFTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVp0SGItZ0xzYVpYb0xOVGdIc3NoYlR1eHp0Uk5jOHVNal95eWs3TjRtako5VUtPQXNyV3pFOUd5TVlpb0Fkb0NJb19ERldFRlMtSW1rVU9jNTlSbTluNzA1NTRWQ3FhT2hGQlA2VXNmdExBZ1Fhb1hjX09VWHk2MjM2WE1ZazZmTUE2ZGJHVUV2MDhvbUVSejhJVWZHczdvN0traXJEY2hGdDBRbGR2cEVR0gHGAUFVX3lxTE5Sd3dSUm5MLThxU1lubE5mRzMzOUMyaHQzLXp4bFc5a1E5aUNXV19ua0RwQ2puc2p4Z0tOY2FLblR4MDhyNml1OW9tX3MwNDV5WDhxNkZ2UmVBWXZkVFh2NE9jNzViLXY2c3FNREtUVlJOSTBwY0ZxNXF3TTZYMkMyWS1PZ3pfUGpRSnJESlZNUVpjMERZdWtyc2p3c1Etb3Q4V2VSYU56V0t6VE5VX3RpbHJ4RWg3NGRkMzY5SnE4d3p5SEJQQQ?oc=5"
     },
     {
       "text": "Laos iGaming Market Research Report - iGamingToday.com",
@@ -766,6 +762,10 @@
     {
       "text": "Embracing agentic AI: The next frontier in AI-driven customer experience - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnlROWNybFR2WTN4N0w5Mkg5Z1BtZmxtZGpDMXpjemFBaS1rbkFjdDhZVFJEc3NjSlhxN0ViaTdwZW10eGt0QUp3RkZhZTdYaXlWMkpHcTd4V215Unhvc1FUWllaUWxaVy1JUDBUcE5EQ2hQbnp1QnpBUFBjeWgyM2Zua0plM2plYWw5b3plVmgwWVRaQ1VNU2ZCRzhuOUhRTHJhbHVnUGJQakIy?oc=5"
+    },
+    {
+      "text": "Cost Increases Impact UK Hospitality Sector Capacity, Survey Shows - Hotel News Resource",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yckNsRy1MWkxQelZadlBCQ0NDdW5kMHRWZHc2NzRoSzhDVVlIczdZSXZsZFo0OW9oRU5FOEVoLUVqa21uLXMxRWRDMFpXN1ppeWE5akIyTjZQSWw1aExSMmhB?oc=5"
     }
   ]
 }
