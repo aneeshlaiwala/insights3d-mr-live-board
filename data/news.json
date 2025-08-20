@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T06:15:25.923Z",
+  "generated_at": "2025-08-20T06:23:49.903Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -11,9 +11,20 @@
   ],
   "top_news": [
     {
+      "title": "Comic Book UK launches survey in support of government plans for a new “Creative Freelance Champion” - downthetubes.net",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTDBKbnVMaDRlajZJaDZVRmJ1OGpUMkNjQ0dQSEJHYUVXZjhtOG9LRTNUdHh2ajdxSFpHR0hya3pua3puSFo0NGNkVVBZUm1MWUdLQlliZG1nVFBHX0x5c2ZZS2F4Tl9HSFc4a3MxN2FIaTRia0g2REVvT3pLVkhVS1pxT253dkZyeWJ5clVDaWhVQURCY0pPdkZrWlp6elhodzhJR2pQa082TlVwdUxRb0FlNTF6UWN5aUk0ZnpwZUlhQQ?oc=5",
+      "isoDate": "2025-08-20T06:15:13.000Z",
+      "source": "news.google.com",
+      "raw": "Comic Book UK launches survey in support of government plans for a new “Creative Freelance Champion”  downthetubes.net",
+      "summary": "Comic Book UK launches survey in support of government plans for a new “Creative Freelance Champion” downthetubes.net",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5",
-      "isoDate": "2025-08-20T05:52:27.000Z",
+      "isoDate": "2025-08-20T06:13:30.000Z",
       "source": "news.google.com",
       "raw": "Trump administration cancels annual employee survey amid civil service tumult  The Washington Post",
       "summary": "Trump administration cancels annual employee survey amid civil service tumult The Washington Post",
@@ -549,17 +560,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Parents in England skipping meals to afford school uniforms, survey finds - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeF9KdkQxd1ROZnduYkRUMzQ2UmZ3ZDdOYUVfS09DdEVndzdpSzdEYkR3NWtPcEJvS3RiVDZ0Ul9pOG1VbkJEVk1ZSmR3YXdFcE94R3pLakF6NnhyanpUNXZ1d3NqclZiRURwQWY4cVF0UkI1QmFiNkJZVm5SZVlfNVdwT2VYWGNxQWY2QTVUYTNRYmIzbDFjQnB5UENBZWhDTmtBQ05YUmZjZlVodEYzUlJLZw?oc=5",
-      "isoDate": "2025-08-19T04:13:00.000Z",
-      "source": "news.google.com",
-      "raw": "Parents in England skipping meals to afford school uniforms, survey finds  The Guardian",
-      "summary": "Parents in England skipping meals to afford school uniforms, survey finds The Guardian",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -567,10 +567,6 @@
     {
       "label": "#survey",
       "url": "https://x.com/search?q=%23survey"
-    },
-    {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#india",
@@ -585,12 +581,20 @@
       "url": "https://x.com/search?q=%23customer"
     },
     {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
+    },
+    {
       "label": "#more",
       "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#most",
       "url": "https://x.com/search?q=%23most"
+    },
+    {
+      "label": "#support",
+      "url": "https://x.com/search?q=%23support"
     },
     {
       "label": "#data",
@@ -615,10 +619,6 @@
     {
       "label": "#students",
       "url": "https://x.com/search?q=%23students"
-    },
-    {
-      "label": "#support",
-      "url": "https://x.com/search?q=%23support"
     },
     {
       "label": "#turn",
@@ -646,6 +646,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Comic Book UK launches survey in support of government plans for a new “Creative Freelance Champion” - downthetubes.net",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTDBKbnVMaDRlajZJaDZVRmJ1OGpUMkNjQ0dQSEJHYUVXZjhtOG9LRTNUdHh2ajdxSFpHR0hya3pua3puSFo0NGNkVVBZUm1MWUdLQlliZG1nVFBHX0x5c2ZZS2F4Tl9HSFc4a3MxN2FIaTRia0g2REVvT3pLVkhVS1pxT253dkZyeWJ5clVDaWhVQURCY0pPdkZrWlp6elhodzhJR2pQa082TlVwdUxRb0FlNTF6UWN5aUk0ZnpwZUlhQQ?oc=5"
+    },
     {
       "text": "Trump administration cancels annual employee survey amid civil service tumult - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0dTdzdqSWN4TlVBTnE4QjBOYUVvRlFEdWI0TGEzd3NORjRPTGRpVThSR01uMkNubnY4cEdXQXQzamJnNjJRZ3pNcl9Fb21qOXRDSUl2ME8wNi10UVNPRmp3TFdLZmlvSTd4QW9ud05ONFJYZ3o0dW5YNEJKUVF0OWw5dGQwUWxtc09YNENR?oc=5"
@@ -761,10 +765,6 @@
     {
       "text": "Newbie Investors Are Taking More Risks Than Experienced Ones, Survey Finds - Barron's",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXZ1cDQ1WFVlWHBIRnRnRmkxWGE2c1NXUnJNV3plNEdERDhaUk9xUi12M1UzSkxCdHVyRC14ZXFVNE1ka1JJeUlWWFN5OXFPZmN1ZDU0elR0d09kX2w0N1htMDhFNlAxQjJjT1pveWVmajFPLUNaRXUyTXVLUk1RTEJ3VXNZcUFPMFVwZ21oUmpZQQ?oc=5"
-    },
-    {
-      "text": "SUMP: Begging 3rd village to sign MoU to support survey for PFR, DCM welcomes - Arunachal Observer",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2Z5YTh1SjVBcG1aM3pNNW1XUmw4SWt5VXM1ZTBpLWgwM0pMdlN2N3JsbkNVUTJlTWpuWk5QaGJMT2E2cHlYQ3Vmd0x1YmxzaWRxYkFYazRZT1JybG9PVmdxdlhhLVcwZjkyLWdmNENwcDhHVm5COTdBcHFpTUkwaERLVDdKVlh4ZEVkaDZLdnpaaTd4a2psaEFDWi1kalNhaUZXU3lZVHNFemdQTXEySGZ2OUtkYS1D?oc=5"
     }
   ]
 }
