@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T22:09:47.293Z",
+  "generated_at": "2025-08-21T22:15:35.292Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -530,6 +530,17 @@
       ]
     },
     {
+      "title": "Majority of Austrians want schools to retain Christian festivals, survey shows - The Catholic Herald",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWtxZnltSC03bjNzU2kxZ1BBZ3lneXFiaGVIaVVFZ21BR0J0LWpOXzFMT0w3bTBvemo4XzE3NXo5bTdTcGxOdnJRaGkxcm9BYXNpWFlWQnFxVW1WM253LU1TWU11ZnM1blREWlFFOGRnd05ZcF92cFF5aFJSZjU1OW8xTGVxa2ZmanFLYjloVmlMNXNmalRiWm9wMUJKZGRtWjY2ODlxa09mdmZzUExIWVI0b1hEdw?oc=5",
+      "isoDate": "2025-08-21T13:55:58.000Z",
+      "source": "news.google.com",
+      "raw": "Majority of Austrians want schools to retain Christian festivals, survey shows  The Catholic Herald",
+      "summary": "Majority of Austrians want schools to retain Christian festivals, survey shows The Catholic Herald",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
       "title": "Methodology B: Survey data on immigrants - Pew Research Center",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFBOU3pENGxvUUpBb2F0TVFhTFBaaDlZNUt1blhZUjRHaUZBdXltNzVhekJLdXZXWF92R3JUaWlCX1ZQRUdEOGhMRXM4NDlkT0NUTWdNMkdtYnUyYlNYa1dETW5reFhUak85WXdaX0wwdjVzMjhrSlVXX2JVbG4wQlBPR3hzeDNkT2VPQmRjV1RJeTBKWTVFSlZLazk1SnV0RkxoS3EyRi1xYUQ1elFIOHBBYlNmUE9HY2F0UHZLUQ?oc=5",
       "isoDate": "2025-08-21T13:54:00.000Z",
@@ -547,17 +558,6 @@
       "source": "news.google.com",
       "raw": "Rate swings complicate mortgage decisions across Canada: survey  Wealth Professional",
       "summary": "Rate swings complicate mortgage decisions across Canada: survey Wealth Professional",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Your voice, our fortress: Craven Cottage atmosphere survey - Fulham FC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNk9rUm1wbHNyWGFfWF9fbEZvSkp5MUZCV3RWbTAxcVB2WG94LV9pRlMxb2NBcFNfNzljM3VoOHlmQ3VySFVwbkJvQmlkdnlyMm1LZ1cxT0xWN05NRkk5Rnd2ZjExSHdOYWNmTGJ0Q2RERktVamFZa2VCZUtRTUk0ckVLQW0wSGNBdEsxeVA2ZDgwaGVXR09IcWV6dEpZcC1feVpSdQ?oc=5",
-      "isoDate": "2025-08-21T13:00:00.000Z",
-      "source": "news.google.com",
-      "raw": "Your voice, our fortress: Craven Cottage atmosphere survey  Fulham FC",
-      "summary": "Your voice, our fortress: Craven Cottage atmosphere survey Fulham FC",
       "topics": [
         "(Other)"
       ]
@@ -598,12 +598,12 @@
       "url": "https://x.com/search?q=%23savings"
     },
     {
-      "label": "#based",
-      "url": "https://x.com/search?q=%23based"
-    },
-    {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
+    },
+    {
+      "label": "#based",
+      "url": "https://x.com/search?q=%23based"
     },
     {
       "label": "#economic",
@@ -620,6 +620,10 @@
     {
       "label": "#grant",
       "url": "https://x.com/search?q=%23grant"
+    },
+    {
+      "label": "#majority",
+      "url": "https://x.com/search?q=%23majority"
     },
     {
       "label": "#mortgage",
@@ -640,10 +644,6 @@
     {
       "label": "#transformation",
       "url": "https://x.com/search?q=%23transformation"
-    },
-    {
-      "label": "#adoption",
-      "url": "https://x.com/search?q=%23adoption"
     }
   ],
   "ticker": [
