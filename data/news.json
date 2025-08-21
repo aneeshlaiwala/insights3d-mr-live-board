@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T03:34:09.805Z",
+  "generated_at": "2025-08-21T04:12:47.701Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -477,17 +477,6 @@
       ]
     },
     {
-      "title": "Office workers not above trying to access colleagues’ devices – survey - TechCentral.ie",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ25ZeXFVVGxVcXJicll1UDVlaVMtTmk2WUxDWGhYTzMwRkJuQ1pOd2NiTUxBMnJWemU3Y3E3RzdZYVE5YnRrUkhXTmdWYW1OUG5NQ3pIOWNacXZLNjNEQnhuV1Zsdy10WDJTZWxyWUhsaEQ5X1IxWUdBX1VETUlTWUZqckpMNXV1X1NLcllBd3RSaFFNaWpFdG4yTQ?oc=5",
-      "isoDate": "2025-08-20T14:07:06.000Z",
-      "source": "news.google.com",
-      "raw": "Office workers not above trying to access colleagues’ devices – survey  TechCentral.ie",
-      "summary": "Office workers not above trying to access colleagues’ devices – survey TechCentral.ie",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "$74,000 Is The ‘Perfect’ Salary For Americans, Survey Shows - Study Finds",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WNFh0cG52Q2FBWEZ1eV9objZDQ09fM3pySm1zUkp2OWxGYVRUR3BSZ2hwbF9IeTlaZTc0RGp5ZkN1MFhkYzdpTFlQbU9EQVhpaXdxcC0zT1Z5Z0swLVlCT0wzMXdDeHZOUHU0?oc=5",
       "isoDate": "2025-08-20T13:57:03.000Z",
@@ -563,6 +552,17 @@
       "topics": [
         "AI in MR"
       ]
+    },
+    {
+      "title": "Will AI Replace Jobs? Survey Results from 21 Countries - Visual Capitalist",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FKc0dQQTY1RUxLYXQ3eW1mWEZQdi1yVEpTb0JnRmVnUmNHUzJZZ2pjNVh6bEJpVV9Ub3BJWExiQ0xzb3loQTQ1TTZWMTROX1NOdXFJdkV2VlppekNydW5haVNwVXloeFlRaDJXTFh6T3VDMjNlRzZBTmRLY0sydnVJVE5ObXhwSjI3ZjBleGk?oc=5",
+      "isoDate": "2025-08-19T14:33:48.000Z",
+      "source": "news.google.com",
+      "raw": "Will AI Replace Jobs? Survey Results from 21 Countries  Visual Capitalist",
+      "summary": "Will AI Replace Jobs? Survey Results from 21 Countries Visual Capitalist",
+      "topics": [
+        "AI in MR"
+      ]
     }
   ],
   "funding_ma": [],
@@ -590,6 +590,10 @@
     {
       "label": "#more",
       "url": "https://x.com/search?q=%23more"
+    },
+    {
+      "label": "#will",
+      "url": "https://x.com/search?q=%23will"
     },
     {
       "label": "#according",
@@ -622,10 +626,6 @@
     {
       "label": "#data",
       "url": "https://x.com/search?q=%23data"
-    },
-    {
-      "label": "#devices",
-      "url": "https://x.com/search?q=%23devices"
     },
     {
       "label": "#digital",
