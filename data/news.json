@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T21:08:43.385Z",
+  "generated_at": "2025-08-21T21:13:54.427Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -541,17 +541,6 @@
       ]
     },
     {
-      "title": "How FundedNext excels in customer experience as a prop firm - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblFZNHdJSDRQSlpaWDNWNUZEWUlyalBObk5jeER1OHZtUGNtbFViY2ZYYXZLOW02TWcyNnBwUUhCYUphTUtMVWhCUzFGWnY0cl9ueUZiSVlKMDJUaGo1MmxfSWhuc3NERW13UFhOLTVpSzctZUt5NThiZFV4WnJzdzRBRQ?oc=5",
-      "isoDate": "2025-08-21T13:13:04.000Z",
-      "source": "news.google.com",
-      "raw": "How FundedNext excels in customer experience as a prop firm  Traders Union",
-      "summary": "How FundedNext excels in customer experience as a prop firm Traders Union",
-      "topics": [
-        "CX"
-      ]
-    },
-    {
       "title": "Honeywell Global Survey: Middle East retailers investing in AI to streamline operations, boost customer experiences - ZAWYA",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRTNBZFhWUWxWN0wxYzVmOGdNMHdmNHkzMUhYR25xSnF6RnpCUkh6TldZd2N3dHNTV3N6eFJUVVlLYjJCMFhWcXdlXzVEQXd2TEcxU21sLUwyRHB3R2RKMzNBSXE4OGI3cnZsSENDSmhRY1NOTTd0akYyVnNQR05Vd2hhNk5IRkdQSUdLMS1tLVRmNjJfRFA1ZUJDQXNxSnlRckhNME1HWkNiZlRNM2lwX3dqV09yVTFEUXRrdEpQZDdJcUpvVjMzM0ZKak5BZl9rWnVTOHZfMHpKQjNrMGRBUVF1MG40VlhjSkJMalA0eU8zSjZsbU9hcHpiSl91YmVramR1ZzJPS2ZaNmdqYlBF?oc=5",
       "isoDate": "2025-08-21T13:07:39.000Z",
@@ -561,6 +550,17 @@
       "topics": [
         "AI in MR",
         "CX"
+      ]
+    },
+    {
+      "title": "Survey finds 75% of Canadian employees cite personalized benefits as reason to stay in current role - Benefits Canada.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNU51V0N0R0VfYlBaRzdOSHFRS0VaTU5IRG41RW1zaEIyRVdpb0Y5c1BrTzVMRjREbFNNRkFsU1ZIRFdDRDZBZHAxZ2ItMEpuSHJzWnJlS3dTaFp0Zm9rVGJUNkMtWTRsSk5BNXN0aFNVdHVWdE1aYm50TGNGdnUyemdZcnJ3dElubGNxRDVpODhDWkhjVG5TUnhMRjllMDFDUWZmODNvZVJHZXhHYVpzSU1mZW4xYURHM3MwTDhYOXJ2bS00c29XbVpQb3ZkdDE3Z0NYRWxXNHV3X1p3Q0dnc3hYbw?oc=5",
+      "isoDate": "2025-08-21T13:00:24.000Z",
+      "source": "news.google.com",
+      "raw": "Survey finds 75% of Canadian employees cite personalized benefits as reason to stay in current role  Benefits Canada.com",
+      "summary": "Survey finds 75% of Canadian employees cite personalized benefits as reason to stay in current role Benefits Canada.com",
+      "topics": [
+        "(Other)"
       ]
     }
   ],
@@ -607,16 +607,20 @@
       "url": "https://x.com/search?q=%23customer"
     },
     {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
-    },
-    {
       "label": "#economic",
       "url": "https://x.com/search?q=%23economic"
     },
     {
+      "label": "#employees",
+      "url": "https://x.com/search?q=%23employees"
+    },
+    {
       "label": "#employer",
       "url": "https://x.com/search?q=%23employer"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#grant",
@@ -641,10 +645,6 @@
     {
       "label": "#thornton",
       "url": "https://x.com/search?q=%23thornton"
-    },
-    {
-      "label": "#transformation",
-      "url": "https://x.com/search?q=%23transformation"
     }
   ],
   "ticker": [
