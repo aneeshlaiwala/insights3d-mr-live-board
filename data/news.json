@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T07:14:09.613Z",
+  "generated_at": "2025-08-21T07:18:30.471Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -477,17 +477,6 @@
       ]
     },
     {
-      "title": "$74,000 Is The ‘Perfect’ Salary For Americans, Survey Shows - Study Finds",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WNFh0cG52Q2FBWEZ1eV9objZDQ09fM3pySm1zUkp2OWxGYVRUR3BSZ2hwbF9IeTlaZTc0RGp5ZkN1MFhkYzdpTFlQbU9EQVhpaXdxcC0zT1Z5Z0swLVlCT0wzMXdDeHZOUHU0?oc=5",
-      "isoDate": "2025-08-20T13:57:03.000Z",
-      "source": "news.google.com",
-      "raw": "$74,000 Is The ‘Perfect’ Salary For Americans, Survey Shows  Study Finds",
-      "summary": "$74,000 Is The ‘Perfect’ Salary For Americans, Survey Shows Study Finds",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Gen Z wants to have their AI cake and eat it, too: KPMG intern survey reveals a generation that wants to have things both ways - Fortune",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjVnR1dqTnhkWEdkZ01zU0NwTzRLVDlvSlBoNXJlenVhd09mSHJmWFNTOTJIcUV3S3ppSGFncnlPejUyb19BcEtKLUJrWWRZeUd1NmRKeTEzMjZfWFFiOHdpQ214M2stRVpZcXhGeUtTQkQtT1pXTmF6UHVoZmV2LTJZekZDTE0?oc=5",
       "isoDate": "2025-08-20T13:43:00.000Z",
@@ -563,6 +552,17 @@
       "topics": [
         "CX"
       ]
+    },
+    {
+      "title": "Biodiversity of Thattekad Bird Sanctuary in Kerala grows richer as survey reveals nine more species - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0lOSDI5YldVVExqV1UweDd3SE9OS2VxMThsRFhPU3h1Um4zQUFldV9ISTlDRnJZc3BPM3J2ZnQwMl9NVnVFWlNMXzcyUVdld2l5TTdLZ3MwTVpzenNiVng0aUJlZVp0WERpUG41Zk5HQTZaNFdFM1JxZXk2TVNSWEhHVllhV3NTeGFxNE5VRFk3dXJBQWxpdEJVRUU2LU1tSUl4eVFMeGZDNzY3bE43SHdBRU11ZXAzN3U5ZXNDdnpOcUZFUnpybXFKdGJzanhkc1lGVFBuS3lic1JxbUNoZ1hjb0JYMmNiN1dkdUYwai0wQdIB-AFBVV95cUxPUU8wN1hTcnNiYXlIRlNzWXg2Wm56TFAyckVaNnNjOGtEcnZJQzVhRlg5T2pYZENLaDN0SkpGUF9XRHRRRC1FSmNyR1ozNGNRNGxYNzA1N3hNX19MZXdabS1Ob1ltRUZ0ekdlMTcxRWN6cllvQnpfTTZWUGlqZ0ZnYkpDWTNSdXFXZENWendEdGFUTnpBTWVFRFV4TVJ2blVJd2pKOGhXNGdHY0E3SklKVGhmMEJjVHdGRlRvQlNJVTRpclY2c0xtNjlha0dFU2xRazZUcWhRZVhxT0c3ZFFFRnA0dklBVHd5b3NqMk1sYl91a3FET1MyVA?oc=5",
+      "isoDate": "2025-08-19T06:11:00.000Z",
+      "source": "news.google.com",
+      "raw": "Biodiversity of Thattekad Bird Sanctuary in Kerala grows richer as survey reveals nine more species  The Hindu",
+      "summary": "Biodiversity of Thattekad Bird Sanctuary in Kerala grows richer as survey reveals nine more species The Hindu",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -596,12 +596,12 @@
       "url": "https://x.com/search?q=%23customer"
     },
     {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
-    },
-    {
       "label": "#reveals",
       "url": "https://x.com/search?q=%23reveals"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#digital",
@@ -610,6 +610,10 @@
     {
       "label": "#indian",
       "url": "https://x.com/search?q=%23indian"
+    },
+    {
+      "label": "#more",
+      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#most",
@@ -654,10 +658,6 @@
     {
       "label": "#gaps",
       "url": "https://x.com/search?q=%23gaps"
-    },
-    {
-      "label": "#have",
-      "url": "https://x.com/search?q=%23have"
     }
   ],
   "ticker": [
