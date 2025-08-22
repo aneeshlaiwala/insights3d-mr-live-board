@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-22T11:08:26.189Z",
+  "generated_at": "2025-08-22T11:12:53.626Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -72,6 +72,17 @@
       "source": "news.google.com",
       "raw": "Joint survey in Yadgir to assess crop damage due to rain in Karnataka  The Hindu",
       "summary": "Joint survey in Yadgir to assess crop damage due to rain in Karnataka The Hindu",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "SCVO launches policy and public affairs survey - Third Force News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVbmpKNFRUdGV3Mk01V2h4X05hYnlsTUFlSFRqZDViZldNdG1PQndJeXM1QTNkejAyNDF0MGlPTE9GWGtBZV9DU1ZLc3NHVUJMdUJmZ0tfT203NDdwRUNkd3hmN0RWRzZEY3dxSXVDaTZQMk1wcENv?oc=5",
+      "isoDate": "2025-08-22T10:36:30.000Z",
+      "source": "news.google.com",
+      "raw": "SCVO launches policy and public affairs survey  Third Force News",
+      "summary": "SCVO launches policy and public affairs survey Third Force News",
       "topics": [
         "AI in MR"
       ]
@@ -552,17 +563,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "New NFPA Survey Spotlights AI Adoption, Skilled Trades Trends - Facility Executive Magazine",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTJxaklOYjVEMnVuQUJ6SXNUMU5yRTRXRUptcFJuT0Nab3dVU0xQTkIyVU02akpxWGljSWEwTnJaVXl4cW1MMjcyRS1LTTUyNTZzdi1yb0tBNmVFOHF2STgxbEk4VnBTaDQyWGJMOUFhV3JXeFRucnpOYTN4Ty00TWdEcW1ycFk3VG1FSlc1aGNUUXBP?oc=5",
-      "isoDate": "2025-08-21T17:20:00.000Z",
-      "source": "news.google.com",
-      "raw": "New NFPA Survey Spotlights AI Adoption, Skilled Trades Trends  Facility Executive Magazine",
-      "summary": "New NFPA Survey Spotlights AI Adoption, Skilled Trades Trends Facility Executive Magazine",
-      "topics": [
-        "AI in MR"
-      ]
     }
   ],
   "funding_ma": [],
@@ -592,10 +592,6 @@
       "url": "https://x.com/search?q=%23reveals"
     },
     {
-      "label": "#adoption",
-      "url": "https://x.com/search?q=%23adoption"
-    },
-    {
       "label": "#based",
       "url": "https://x.com/search?q=%23based"
     },
@@ -614,6 +610,10 @@
     {
       "label": "#indian",
       "url": "https://x.com/search?q=%23indian"
+    },
+    {
+      "label": "#adoption",
+      "url": "https://x.com/search?q=%23adoption"
     },
     {
       "label": "#adults",
@@ -672,6 +672,10 @@
     {
       "text": "Joint survey in Yadgir to assess crop damage due to rain in Karnataka - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalkzQUNYSEJwXzFlbEZlZWNZdE1HSlcwTWxNMjgzYURranNrTC1KT0dlaDNMczlGbi1NdzB6YmUxdERDQXhHajMzOTcwUmhNTzh2U2NOMERSeUVfT3BLT29yQzRtc1B2RWJHbDZ5RnJBUl9MaU40UkxsQWh6dUhMOEFIRWMyeTMwc1gzOU43QVpPcVkwYllVd2wwckJhSTRraDJIQmlZOVJwU2dxQ0hjUXIzUHFySXBKUGRKYzVfZ2cxYTlDTEp6QVF1a1NoN0ZfbUNnZ9IB2wFBVV95cUxNYUljTVpaaWtGeFpIWmhTRE50NF83aG04bjJPVndPN1otcE5BcWRYOHlHWWVTUjBZN09qU2VBMUowNHYzQ3lzcUprcmhlMjcyOXh5Q01UdERBQXVjcnBLNkJnS0dVMVBWRzR6SEVrLXpPV2UwSUdfYlg3dGU2bmdjTENxaHB4Q2E1RnZ4NnNvX0xTMVZzMUxUZmFVM0hLYjVMWmZiTGduSXNNcHo3Y2hDWWJNS09INDI3Yi10Y05EUmFuNXBPeXBzVnRGVDVxa25XSXkwVDh4TGJGS1E?oc=5"
+    },
+    {
+      "text": "SCVO launches policy and public affairs survey - Third Force News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVbmpKNFRUdGV3Mk01V2h4X05hYnlsTUFlSFRqZDViZldNdG1PQndJeXM1QTNkejAyNDF0MGlPTE9GWGtBZV9DU1ZLc3NHVUJMdUJmZ0tfT203NDdwRUNkd3hmN0RWRzZEY3dxSXVDaTZQMk1wcENv?oc=5"
     },
     {
       "text": "NFPA survey reports AI and training trends - International Fire & Safety Journal",
@@ -764,10 +768,6 @@
     {
       "text": "Govt orders joint survey on rain-hit crops, promises timely compensation - The Hans India",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0pOaHVmaGJfZTFIdXJfcXlvMkZ4X3NUOUpYUnNjTWZxcUgtck9lTUhLNDV0aU1fRjVvaWE3YTlhaEFweWVXeWxuWjNLSEY0Zm5NX0RkNEJDTnBkeXZrMmdwc3drWmdIX3JiVy1qUklZZE1pTjI0N1dEeldzQ3NkVTZ1NG9DTmp5WUtNUExsQ3l2eGowMzZtY0FlRkIzeUw1eVlRZTQxRkt4dlY1ZkNZZC16ZHYtY1hq0gG-AUFVX3lxTFB4Qk4zX1RKNkg0Z1Q1NTlsUTFJU18xdjJTMU0wTFljc19MeXRvaldGdmRKLWcxTmdrU2pqd2VoNkluUG9GRUVhZk85TUc4ckJORXZuYWF6SmF4a0J0MjB2aXZpYzhPY2dZWVNrZFpmX2pJNUhaQ21KZ2g4a0o3cy1WMFBCVjQ0blNvbWpaNF9nOUhLanNmN3QzcjgzUzkxNF9DYS1PX21sb091UlBtYUJyWHc0YmYtOFFVb3ZoTlE?oc=5"
-    },
-    {
-      "text": "Kolkata Diary: Survey vessel ‘Ikshak’ shipped by Garden Reach - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlV3MzdET1lleVlBbjVVemZaeDFLNUw1eEMwMkUtUGJ4UVowZHJYVExKRlhMMkVWOVJDeXMzSXVPdUowM0VpNUZDTXg4a3NwTjVMeWZkT29JS2ViN0dNQ1daSFJiT1lXWGFLRlh5RzNmV3N1bWN3WWJlQmZWZUZGV3hGNDgtYmJXTXY3R0JPLV84VE5oa2d3MkRmMjFSQTJKbVlYUEcwLVpuSVdCbS1R0gG8AUFVX3lxTE9TY1FuWlFSemlELWFHTHlWQjdhS28yYmtTWFIzSXladkluY0xiZUNXTlRhdDJvR1BJWjJJaUZsSUd4MGhwTmRjQTBrLXA4cEk3cXhJMUFyYjZoRDJjWkpNeElkVVgtWWk2Rm1NbEladDlsYzdRQU03eENKX3pnR203NWhJOHlhUEh2aVcyNmhISVdYTy1vdTREMUMtcmZGRElDSGFmcEtLcGVSYmFyajZVMXQ0U1RyemlCQzBk?oc=5"
     }
   ]
 }
