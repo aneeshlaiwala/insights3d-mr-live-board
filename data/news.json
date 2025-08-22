@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-22T22:09:03.653Z",
+  "generated_at": "2025-08-22T22:14:13.510Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -300,6 +300,17 @@
       ]
     },
     {
+      "title": "U.K. TV Industry in Crisis as Bectu Survey Reveals Nearly Half of Workers Unemployed - IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWlhrbVJ4RGQwMkRrWkpSUkRvZmpLbjhxQnJBbGNfUzBmWDNnZEpwRXBFcHZEb08wN1N3Y0JxVngwa1RocWlVUmdNT2pDaDFNSVh1aGVyREs4M2VadjNQaUFZd2lhZm1ZaUE?oc=5",
+      "isoDate": "2025-08-22T11:23:38.000Z",
+      "source": "news.google.com",
+      "raw": "U.K. TV Industry in Crisis as Bectu Survey Reveals Nearly Half of Workers Unemployed  IMDb",
+      "summary": "U.K. TV Industry in Crisis as Bectu Survey Reveals Nearly Half of Workers Unemployed IMDb",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "GRSE Delivers the 4th Survey Vessel (Large) Ikshak to the Indian Navy - Forceindia.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHpRTFBHb181T0I1Nmlsc3NQQ2NXRGYxNlRuY0pLZHhTWW5vWGtoejREMC1EVUhvQzdZdU03aXl2QTROdk96NVZlbHBZQ2oyaFZxdjhCUHVMdzlrMW56VEt0ZmxHbEs0REwxOEFqY1BTd0MwOU1OWmpGa1RveHA4bjRJRVlNdUMzWUJrRE9TUVAyOGJWa0lkX29Naw?oc=5",
       "isoDate": "2025-08-22T11:21:49.000Z",
@@ -554,17 +565,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Gold price continues to tread water above $3,300 as Philly Fed Survey drops to -0.3 - KITCO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlhaWUFQOTkwZkFkZHJvd2dmVHYwQW96R0xnYzlTUEE3Q09fOHp2bERpWWh0LW9kWllTUUV0SnlTTk1FYmJnS1VVOTZYMjV2WWVXblF4LWR4M0l1ZkhzQWt0R29mRWdUUXFZU294TzFtYV85NDE1V04tNnZhY0ZGV19TNURVVHF3WkxjVmw4TWlyYkhfWWtlQmtaRmVtQkdUczZnZnVtODctS3VtTnBWTmswQTFsZTQ?oc=5",
-      "isoDate": "2025-08-21T16:39:00.000Z",
-      "source": "news.google.com",
-      "raw": "Gold price continues to tread water above $3,300 as Philly Fed Survey drops to -0.3  KITCO",
-      "summary": "Gold price continues to tread water above $3,300 as Philly Fed Survey drops to -0.3 KITCO",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -638,16 +638,16 @@
       "url": "https://x.com/search?q=%23department"
     },
     {
-      "label": "#drops",
-      "url": "https://x.com/search?q=%23drops"
-    },
-    {
       "label": "#educational",
       "url": "https://x.com/search?q=%23educational"
     },
     {
       "label": "#govt",
       "url": "https://x.com/search?q=%23govt"
+    },
+    {
+      "label": "#honeywell",
+      "url": "https://x.com/search?q=%23honeywell"
     }
   ],
   "ticker": [
@@ -756,6 +756,10 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWIxc0RmOHlBS1J4OGtxdGFidjJjWndRWm1RcFpQOGVQQkhzeXlDckVJX2tUOVlfZ19zWTBGVWc2MTdkODhyU0RDX2dNYVk4R0ZNTUJvMjFhQWU1RGh1a3lzX21jNTNMT1NxWjlJU0FQMGNoWjVKVW4wcXNuZHNWcVIwdzI0NnYwSEZZMUtjUWpCM2QzN0hYV3VPcTNNa05LOG14TmNfNHgtSmhKaTduYTVvSndqRHR3aFMyRTYyUnJXdngxTFFoeXpUQkxRampaV2JZM3BNS2w?oc=5"
     },
     {
+      "text": "U.K. TV Industry in Crisis as Bectu Survey Reveals Nearly Half of Workers Unemployed - IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWlhrbVJ4RGQwMkRrWkpSUkRvZmpLbjhxQnJBbGNfUzBmWDNnZEpwRXBFcHZEb08wN1N3Y0JxVngwa1RocWlVUmdNT2pDaDFNSVh1aGVyREs4M2VadjNQaUFZd2lhZm1ZaUE?oc=5"
+    },
+    {
       "text": "GRSE Delivers the 4th Survey Vessel (Large) Ikshak to the Indian Navy - Forceindia.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHpRTFBHb181T0I1Nmlsc3NQQ2NXRGYxNlRuY0pLZHhTWW5vWGtoejREMC1EVUhvQzdZdU03aXl2QTROdk96NVZlbHBZQ2oyaFZxdjhCUHVMdzlrMW56VEt0ZmxHbEs0REwxOEFqY1BTd0MwOU1OWmpGa1RveHA4bjRJRVlNdUMzWUJrRE9TUVAyOGJWa0lkX29Naw?oc=5"
     },
@@ -766,10 +770,6 @@
     {
       "text": "Nilgiris faces high landslide risk, Geological Survey of India warns - Vartha Bharati",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkd0ZVVqWFBNcC1lOWtrR3RoTVppM3NldjdQa1NfVUNiMk5oeGxfalhha0JSeFI2N19MWm45UXVDb292cVMwaFRIdWMxeEd1ck1pZTZKSEZpRDlwSWFCRzFXVTNPMUJrOEg2X3BkVXBNOWUtOExOT1F4UDF4RE5BX0ttY2RjeVVUUHZsV2xYaWtSZFJhTGFLX2UwQ2FvZVBrUWt6WXoxWU1OUQ?oc=5"
-    },
-    {
-      "text": "Bank Primacy: Survey Reveals Secrets to Customer Loyalty - MarketScreener",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3c1MWtwRjUzcVpWYmxoUTdrM1g4NXV3VjVWcUMtZUgyYW96M2pQQXhRN2lrWWxKR0hCSk1LX3BNYWFZcUhyLW1mRDktYzFwVXYzQUVIZEZXU1J1Tm1XSE9sZk9mV09LSXhRRVFPby1RQ0FPeXNBemJva1NOVTltZDVuVmVwVTFmbEs3cWN0dlZ3YVkyNUVTcVhFU3lfdUVsb01OLWs0MHlVVkVk?oc=5"
     }
   ]
 }
