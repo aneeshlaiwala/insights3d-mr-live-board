@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-22T20:11:02.609Z",
+  "generated_at": "2025-08-22T20:16:47.602Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "The Hidden Cost of \"Free\" Gifts: How Survey Scams Are Evolving to Steal Financial Data - KnowBe4",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVE1IZWV2TDJlUGlYbHZsTnhkdWhWdmlfbC16dGdTWUFNdWVRQ1lDdy1nRmx5OVNweFdBUGpEMnpYU0FJSDhzRjBKdGRBRW9sWHB5dXhZTUtJLV9NVmxIYVA1dGxsV1VDSUJnRC1zdUI4UjJaVGE4cEVjZlpVZGlmeU5wT3lRZnQ3U19TOG5VNWNnanoxOHpTQzdpMFFYbWwwbW5OOUc1N3pQMUNp?oc=5",
+      "isoDate": "2025-08-22T20:11:58.000Z",
+      "source": "news.google.com",
+      "raw": "The Hidden Cost of \"Free\" Gifts: How Survey Scams Are Evolving to Steal Financial Data  KnowBe4",
+      "summary": "The Hidden Cost of \"Free\" Gifts: How Survey Scams Are Evolving to Steal Financial Data KnowBe4",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Majority of employers using deferred compensation plans to retain executive talent: survey - Benefits Canada.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVhtVFZmQ1Yxbml2blBwb1FYdkZmREJ3enJTeE1MLWJaYmMyUWZuWHhfeUNpaVZTU3M2MjZEak91Q1RvMmdKRlBWU29oajR4cmpqQU1IQUZETlRTRnV0eTZ0NFU1NldTX1NTWExhZUM2c1pXZkNFQS1aaHNvbWllNF83ZjNRWUJFNW0tbjhfVFpLa2NzYklwdVl0T1FoVXg5SFVQWmpodklxSzlQX2F0SV9ueU5WZVlfcjYyZGdiSUNLazBINWVZd1E5cmtjdw?oc=5",
@@ -554,17 +565,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "Kolkata Diary: Survey vessel ‘Ikshak’ shipped by Garden Reach - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlV3MzdET1lleVlBbjVVemZaeDFLNUw1eEMwMkUtUGJ4UVowZHJYVExKRlhMMkVWOVJDeXMzSXVPdUowM0VpNUZDTXg4a3NwTjVMeWZkT29JS2ViN0dNQ1daSFJiT1lXWGFLRlh5RzNmV3N1bWN3WWJlQmZWZUZGV3hGNDgtYmJXTXY3R0JPLV84VE5oa2d3MkRmMjFSQTJKbVlYUEcwLVpuSVdCbS1R0gG8AUFVX3lxTE9TY1FuWlFSemlELWFHTHlWQjdhS28yYmtTWFIzSXladkluY0xiZUNXTlRhdDJvR1BJWjJJaUZsSUd4MGhwTmRjQTBrLXA4cEk3cXhJMUFyYjZoRDJjWkpNeElkVVgtWWk2Rm1NbEladDlsYzdRQU03eENKX3pnR203NWhJOHlhUEh2aVcyNmhISVdYTy1vdTREMUMtcmZGRElDSGFmcEtLcGVSYmFyajZVMXQ0U1RyemlCQzBk?oc=5",
-      "isoDate": "2025-08-22T02:07:50.000Z",
-      "source": "news.google.com",
-      "raw": "Kolkata Diary: Survey vessel ‘Ikshak’ shipped by Garden Reach  The New Indian Express",
-      "summary": "Kolkata Diary: Survey vessel ‘Ikshak’ shipped by Garden Reach The New Indian Express",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -622,8 +622,16 @@
       "url": "https://x.com/search?q=%23court"
     },
     {
+      "label": "#data",
+      "url": "https://x.com/search?q=%23data"
+    },
+    {
       "label": "#educational",
       "url": "https://x.com/search?q=%23educational"
+    },
+    {
+      "label": "#financial",
+      "url": "https://x.com/search?q=%23financial"
     },
     {
       "label": "#govt",
@@ -634,23 +642,19 @@
       "url": "https://x.com/search?q=%23honeywell"
     },
     {
-      "label": "#ikshak",
-      "url": "https://x.com/search?q=%23ikshak"
-    },
-    {
       "label": "#india",
       "url": "https://x.com/search?q=%23india"
     },
     {
       "label": "#information",
       "url": "https://x.com/search?q=%23information"
-    },
-    {
-      "label": "#joint",
-      "url": "https://x.com/search?q=%23joint"
     }
   ],
   "ticker": [
+    {
+      "text": "The Hidden Cost of \"Free\" Gifts: How Survey Scams Are Evolving to Steal Financial Data - KnowBe4",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVE1IZWV2TDJlUGlYbHZsTnhkdWhWdmlfbC16dGdTWUFNdWVRQ1lDdy1nRmx5OVNweFdBUGpEMnpYU0FJSDhzRjBKdGRBRW9sWHB5dXhZTUtJLV9NVmxIYVA1dGxsV1VDSUJnRC1zdUI4UjJaVGE4cEVjZlpVZGlmeU5wT3lRZnQ3U19TOG5VNWNnanoxOHpTQzdpMFFYbWwwbW5OOUc1N3pQMUNp?oc=5"
+    },
     {
       "text": "Majority of employers using deferred compensation plans to retain executive talent: survey - Benefits Canada.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVhtVFZmQ1Yxbml2blBwb1FYdkZmREJ3enJTeE1MLWJaYmMyUWZuWHhfeUNpaVZTU3M2MjZEak91Q1RvMmdKRlBWU29oajR4cmpqQU1IQUZETlRTRnV0eTZ0NFU1NldTX1NTWExhZUM2c1pXZkNFQS1aaHNvbWllNF83ZjNRWUJFNW0tbjhfVFpLa2NzYklwdVl0T1FoVXg5SFVQWmpodklxSzlQX2F0SV9ueU5WZVlfcjYyZGdiSUNLazBINWVZd1E5cmtjdw?oc=5"
@@ -766,10 +770,6 @@
     {
       "text": "Urban Inequality in India: CIUG Survey Exposes Gaps - Frontline Magazine",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGJNdnZlNTFFZmVDcVQwMHdVZm43NGNUeUtLSUVYQlFlUVRKZE9xZ3M0clktVmtmcUF6QmFSQzQzMUhBcjJpYlY2MWhJcXZ4SnRydzM1YWFfbkZGX0k5S1dwQTBCal9INl9MZDJ1enMxZGUtNEdSZzNIZmpHb3FkTWpHalE2U3FOcnFtQ211dUYya09ObWtQSHlCUTFZaEotZXZkMjh6RTZWdWhXUmVZWXNuckRzZXdNU0VycXo4Q3hwd0ox0gHLAUFVX3lxTE1uTW1DbUJrMU1tblZRU3o0OHhEbFk1dTRlY08zSXhaTjAwX3JMVVE0cFBIODhuOWkxSDRFMVZzbUVodGVPbzBxWHh6Wk9iNy1qWURxV183QjdIenNCaDVGb1NCWjhKeS0yYzBvUmZaa09Qc1pxbi1QbVVBemc0TUNCZnJLZzY3ZmJmM3N6bEJrdHBEM28zX1Y4cW1CRzVrZm1pdHdjbGNhbkNObFhkQm9UTVVtV2dSR2pfWEMwdWVuWmJEaW9kUzV5VXFV?oc=5"
-    },
-    {
-      "text": "Bank Primacy: Survey Reveals Secrets to Customer Loyalty - MarketScreener",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3c1MWtwRjUzcVpWYmxoUTdrM1g4NXV3VjVWcUMtZUgyYW96M2pQQXhRN2lrWWxKR0hCSk1LX3BNYWFZcUhyLW1mRDktYzFwVXYzQUVIZEZXU1J1Tm1XSE9sZk9mV09LSXhRRVFPby1RQ0FPeXNBemJva1NOVTltZDVuVmVwVTFmbEs3cWN0dlZ3YVkyNUVTcVhFU3lfdUVsb01OLWs0MHlVVkVk?oc=5"
     }
   ]
 }
