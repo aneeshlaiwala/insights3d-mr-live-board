@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-23T15:08:08.708Z",
+  "generated_at": "2025-08-23T15:13:11.221Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -182,6 +182,17 @@
       "source": "news.google.com",
       "raw": "QuackQuack Survey Finds 57% Prefer Non-Traditional Relationships  SMEStreet",
       "summary": "QuackQuack Survey Finds 57% Prefer Non-Traditional Relationships SMEStreet",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Bihar Revenue Maha Abhiyan: Door-to-Door Survey Underway to Update Land Records - Patna Press",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQTVYbXV0R1lNeU9vSzJjdmRWMl95eC1Ma3gxcHlLOXFHbmlPaFpnYVdvb2ZxVmk3cXFfNW1kVTUwU3FQVWhKV29KVThQVEVJLUxBNzVJeFRlSEdVWVdaZmVEeEJrVlg5ZzZmQlM4aWlBSjQwc2FKbEZWY21xc296a1BlOUU5VU9PcTl2NVVvaFJ1dGFkc0MxTXBiMU0zb0l3V0hOOQ?oc=5",
+      "isoDate": "2025-08-23T04:00:23.000Z",
+      "source": "news.google.com",
+      "raw": "Bihar Revenue Maha Abhiyan: Door-to-Door Survey Underway to Update Land Records  Patna Press",
+      "summary": "Bihar Revenue Maha Abhiyan: Door-to-Door Survey Underway to Update Land Records Patna Press",
       "topics": [
         "(Other)"
       ]
@@ -550,17 +561,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "India’s private sector posts record growth in August: HSBC flash survey - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcTZEejB6THBFcXNVaVlKNVlFRVF4Vm9ia0N4ZmZGVUNTNjdsaEd6bFN3bk9zYUZNZkgxMjV5LTA4TEtOMW9UNXNrQ2x2angzbk5BdXJpR3Y1bUJJeXpKRXFWWmZHUGZWRHpWU25lSEpVQWlkU1Q0RWl3TnBNUmxiNnBYdDA3aVpSTHZYSDV4TnZpaFRGRnByMF9qdExSSkVObWo1dUR0YnpSMXQ3Ny0yaXFLalJKbEFkQ3FnaVV4ZUh2THNob2JxYVNHdE0xNVFJOW53SW1NU0dKWnBHX1RTMHNDZ0FVVU9SQnZBX2VFaThxQmNsZ0JUU1FIb9IBgAJBVV95cUxOUWdDMEJPZFJzdE91UXZVaTFPVmdKUmQzV1o3cVRadkV1UjF2T0paZlhzdlJFcENkQzg5OHh5Z0pDOU8wQVM3MlVPZXVmNGUzSE1uVXk5VTE2WmN3bjRhOFNxcF9LRkZoVGVabEw4dkdHVDlZSkpCTTFJeWg0OUNlT2JpLU91QWlxc0hQb3RYUkdmRThlWDJ5bXVjUGZhRW9iUlg1eHhldzMxSE5sQllEZUx0aGFBR0Y1bmxqQVNoMXkxSHVQUl9wUEt5OTJhZU9KblFMWGplVWNSLVJWaFdfVDA1cWhPb0ZmYmhEaS1ubzFJR0hXY0dBbXlpYkYzWm1D?oc=5",
-      "isoDate": "2025-08-21T06:23:55.000Z",
-      "source": "news.google.com",
-      "raw": "India’s private sector posts record growth in August: HSBC flash survey  Mint",
-      "summary": "India’s private sector posts record growth in August: HSBC flash survey Mint",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -570,16 +570,16 @@
       "url": "https://x.com/search?q=%23survey"
     },
     {
-      "label": "#august",
-      "url": "https://x.com/search?q=%23august"
-    },
-    {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
+    },
+    {
+      "label": "#august",
+      "url": "https://x.com/search?q=%23august"
     },
     {
       "label": "#educational",
@@ -604,10 +604,6 @@
     {
       "label": "#health",
       "url": "https://x.com/search?q=%23health"
-    },
-    {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
     },
     {
       "label": "#students",
@@ -636,6 +632,10 @@
     {
       "label": "#based",
       "url": "https://x.com/search?q=%23based"
+    },
+    {
+      "label": "#bihar",
+      "url": "https://x.com/search?q=%23bihar"
     },
     {
       "label": "#changes",
@@ -712,6 +712,10 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUFnbWJMVGZFWlU5SlA2c005NHNKSzZaNThucVZqRmRZX3RyX08tQjFWYlRTbnRQcGJSRlVfUnhOVnRxR3VEbWdmVVNLOEk1ckRMdFpjUFROWUZ0RWlRYkJ1TG9sTHNrSlBWU2pBaDBWZ0M3T21rSnJ3R0w1V2dJSXo5M1E1dFk3Y3VPbktoeHUtT044ZHlyVFVQNXdMOWJVS0QtaNIBpAFBVV95cUxPOUFnbWJMVGZFWlU5SlA2c005NHNKSzZaNThucVZqRmRZX3RyX08tQjFWYlRTbnRQcGJSRlVfUnhOVnRxR3VEbWdmVVNLOEk1ckRMdFpjUFROWUZ0RWlRYkJ1TG9sTHNrSlBWU2pBaDBWZ0M3T21rSnJ3R0w1V2dJSXo5M1E1dFk3Y3VPbktoeHUtT044ZHlyVFVQNXdMOWJVS0QtaA?oc=5"
     },
     {
+      "text": "Bihar Revenue Maha Abhiyan: Door-to-Door Survey Underway to Update Land Records - Patna Press",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQTVYbXV0R1lNeU9vSzJjdmRWMl95eC1Ma3gxcHlLOXFHbmlPaFpnYVdvb2ZxVmk3cXFfNW1kVTUwU3FQVWhKV29KVThQVEVJLUxBNzVJeFRlSEdVWVdaZmVEeEJrVlg5ZzZmQlM4aWlBSjQwc2FKbEZWY21xc296a1BlOUU5VU9PcTl2NVVvaFJ1dGFkc0MxTXBiMU0zb0l3V0hOOQ?oc=5"
+    },
+    {
       "text": "Oklahoma teachers weigh in on student cellphone use in exclusive survey - News 9",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUctcldRN0FxT3JEdlhLWVBYbHNxWjVmaDhGSms1UzA2XzdsRmNZd1BpQ2pQRm5OTWNEb3pnaGNJVVZLeV9NN1FpNTkwWjBJLW9FUFpPcks5LTF1Ni0xVEZweG9sS0lsVHR4QjRKTkh6c0J6S3Q3SHBYU1gwR1pwaG5laklacURFdDZKTGczVDRGMVFXSU9CLVhPOA?oc=5"
     },
@@ -762,10 +766,6 @@
     {
       "text": "KPMG Survey Finds Gen Z Interns Expect 20% of Their Jobs to be Automated - Inside Public Accounting",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVpTLTVPcGFwZDlEM3lzOUZhSUIzTFJaY0tVdVpiMmJUWFkyZVJfWmprdDMweGxpbkN0Wnlwbk4zbnV5bVJFeTcxcE4xVTNndjFTSk8ySGtMUTJoT2lDV0NQbU9icUpBNUJGa1RNX2h5WGljeWZScUR1T1N1elB0WURjaldRcW8wb1R2Zk5EbGcwWE84QWZUaklNcDNjVUZtSUZkQ0NlanU1dHpoNk9SbGFZOFFWVTZiVHc?oc=5"
-    },
-    {
-      "text": "Survey identifies employer roadblocks for work-based learning for students, adults - Indiana Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1FIMlRzMzlkd214X3ZoTGRDbzZVb1hYQ2x1Ri05WUgzRzY0SF8yM054eDh0V0VtQmVZUEpSdjZobzYtUzQ3TVRmaTN4cFV5dzlqTXQ0QkpjNG1VMzRKZmhRY2FubzREamlna1hEeHNYZ3BVamZYM0o4cjhDalVydTJrWHpWNVJyMUxKUENiMUU3OGJHbW90bjhJMHhKSG55VWp4R0E5R0p6cnUzRlVmUlJyTnJjcHQ4?oc=5"
     }
   ]
 }
