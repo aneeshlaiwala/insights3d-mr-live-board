@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-23T03:28:58.563Z",
+  "generated_at": "2025-08-23T03:37:37.089Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Social and educational survey of Backward Classes from August 23 - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVp3NHRNWkhKTFBXaDN1STRKTV95clBxTjlBamRYQnpjblAwd3BGbl81SzNNYm5LRzQtaWNtTmttMDFoeUtXNFRiTzZMRW1RZFRXQzI2ZDNBR21PcUszaklBZXYwbDVDcm9Gd1RFNUViN0dER0tLQkJOVFdvaV9jbk8xek1rMG9PUnVzOG8tTzJzbE1JeEpnb3RjZUtGTXg2b29oYzUyMjl6UzA2YjJpVkRzY202SjBJNWlhZGQ4N1ZjNkpRQTZJ0gHUAUFVX3lxTE16SmFWc1pWaVVKZ2FFaW0wME9xSnlIX1RTSUM0Y2twOHlwb2FOVzRTbVkzS2JFR0VyTGZUY3F4b3QwU1hKVVI4SjFZVUNHUzRSSDFGYmdrYzFPbWFSQnRRZWR2QkplbjljMHdSSlNia01sMkZNRVF1aW9URjhla0RKdTFGOU5yZ1dGQ0x4TnVkNktZNTdzYmNLakkybDNhNWdMUWQ3Yl8wOGZscS1FYWstenRiZDk1SldCVHZPWFVGdEw2UTBxSlJwOXhYNUVHMDhTcWR2?oc=5",
+      "isoDate": "2025-08-23T03:28:50.000Z",
+      "source": "news.google.com",
+      "raw": "Social and educational survey of Backward Classes from August 23  The New Indian Express",
+      "summary": "Social and educational survey of Backward Classes from August 23 The New Indian Express",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "NJBIA Health Benefits Survey: Business Owners Show Resolve in Keeping Employees Covered - New Jersey Business & Industry Association",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmZmSHJWdDNLM19NTlZuYjBlVndsN2hZcDZ6andSVGNlaVFuLWVfeFZkU2N1Y19ZUEl1M1loY0FtTW5xeUJySVlaV1FBRjN0NzVEamxqZG96RXdJZ1ZpcTh1b3pscTNwRk81dWs0MTF1eWV3THJ3WWtFbFVpczJURzVCNUg0OF85VUlUQ0xNNUZ6clBZbGpLY3pnWllXb1p1V0xvNy1rZ3I?oc=5",
@@ -533,17 +544,6 @@
       ]
     },
     {
-      "title": "Gold price continues to tread water above $3,300 as Philly Fed Survey drops to -0.3 - KITCO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlhaWUFQOTkwZkFkZHJvd2dmVHYwQW96R0xnYzlTUEE3Q09fOHp2bERpWWh0LW9kWllTUUV0SnlTTk1FYmJnS1VVOTZYMjV2WWVXblF4LWR4M0l1ZkhzQWt0R29mRWdUUXFZU294TzFtYV85NDE1V04tNnZhY0ZGV19TNURVVHF3WkxjVmw4TWlyYkhfWWtlQmtaRmVtQkdUczZnZnVtODctS3VtTnBWTmswQTFsZTQ?oc=5",
-      "isoDate": "2025-08-21T16:39:00.000Z",
-      "source": "news.google.com",
-      "raw": "Gold price continues to tread water above $3,300 as Philly Fed Survey drops to -0.3  KITCO",
-      "summary": "Gold price continues to tread water above $3,300 as Philly Fed Survey drops to -0.3 KITCO",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "US business activity picks up in August, factories lead the way, survey says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUQxZmlna1dYOVJBcnFQem9KN00xaUVOT2NYY2RNZG1Fb3Rvd2pvNnMxbmJRTmNlTkpxUXhrMExrdGJpTEpHZjdIMmFPM25fQ0tCNUFZaU1jSkdSb0ZtUmN4MnQyVWVGSndibEF0NTRxMms3dnMtX1M2MDV2anF2ZUZfOHhYb25Ob3ZrdVRkVEVTWXJUM0FQNE9rVFYxNkNITjRWclg0MmM5eXJkbjBHc2RR?oc=5",
       "isoDate": "2025-08-21T14:04:54.000Z",
@@ -597,6 +597,14 @@
       "url": "https://x.com/search?q=%23karnataka"
     },
     {
+      "label": "#august",
+      "url": "https://x.com/search?q=%23august"
+    },
+    {
+      "label": "#educational",
+      "url": "https://x.com/search?q=%23educational"
+    },
+    {
       "label": "#identifies",
       "url": "https://x.com/search?q=%23identifies"
     },
@@ -613,10 +621,6 @@
       "url": "https://x.com/search?q=%23adults"
     },
     {
-      "label": "#august",
-      "url": "https://x.com/search?q=%23august"
-    },
-    {
       "label": "#business",
       "url": "https://x.com/search?q=%23business"
     },
@@ -629,14 +633,6 @@
       "url": "https://x.com/search?q=%23department"
     },
     {
-      "label": "#drops",
-      "url": "https://x.com/search?q=%23drops"
-    },
-    {
-      "label": "#educational",
-      "url": "https://x.com/search?q=%23educational"
-    },
-    {
       "label": "#expect",
       "url": "https://x.com/search?q=%23expect"
     },
@@ -647,9 +643,17 @@
     {
       "label": "#firms",
       "url": "https://x.com/search?q=%23firms"
+    },
+    {
+      "label": "#indian",
+      "url": "https://x.com/search?q=%23indian"
     }
   ],
   "ticker": [
+    {
+      "text": "Social and educational survey of Backward Classes from August 23 - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVp3NHRNWkhKTFBXaDN1STRKTV95clBxTjlBamRYQnpjblAwd3BGbl81SzNNYm5LRzQtaWNtTmttMDFoeUtXNFRiTzZMRW1RZFRXQzI2ZDNBR21PcUszaklBZXYwbDVDcm9Gd1RFNUViN0dER0tLQkJOVFdvaV9jbk8xek1rMG9PUnVzOG8tTzJzbE1JeEpnb3RjZUtGTXg2b29oYzUyMjl6UzA2YjJpVkRzY202SjBJNWlhZGQ4N1ZjNkpRQTZJ0gHUAUFVX3lxTE16SmFWc1pWaVVKZ2FFaW0wME9xSnlIX1RTSUM0Y2twOHlwb2FOVzRTbVkzS2JFR0VyTGZUY3F4b3QwU1hKVVI4SjFZVUNHUzRSSDFGYmdrYzFPbWFSQnRRZWR2QkplbjljMHdSSlNia01sMkZNRVF1aW9URjhla0RKdTFGOU5yZ1dGQ0x4TnVkNktZNTdzYmNLakkybDNhNWdMUWQ3Yl8wOGZscS1FYWstenRiZDk1SldCVHZPWFVGdEw2UTBxSlJwOXhYNUVHMDhTcWR2?oc=5"
+    },
     {
       "text": "NJBIA Health Benefits Survey: Business Owners Show Resolve in Keeping Employees Covered - New Jersey Business & Industry Association",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmZmSHJWdDNLM19NTlZuYjBlVndsN2hZcDZ6andSVGNlaVFuLWVfeFZkU2N1Y19ZUEl1M1loY0FtTW5xeUJySVlaV1FBRjN0NzVEamxqZG96RXdJZ1ZpcTh1b3pscTNwRk81dWs0MTF1eWV3THJ3WWtFbFVpczJURzVCNUg0OF85VUlUQ0xNNUZ6clBZbGpLY3pnWllXb1p1V0xvNy1rZ3I?oc=5"
@@ -765,10 +769,6 @@
     {
       "text": "Sambhal mosque case: Supreme Court orders maintenance of status quo on challenge by Muslims to Allahabad High Court order, permitting survey of the disputed site - OpIndia",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWIxc0RmOHlBS1J4OGtxdGFidjJjWndRWm1RcFpQOGVQQkhzeXlDckVJX2tUOVlfZ19zWTBGVWc2MTdkODhyU0RDX2dNYVk4R0ZNTUJvMjFhQWU1RGh1a3lzX21jNTNMT1NxWjlJU0FQMGNoWjVKVW4wcXNuZHNWcVIwdzI0NnYwSEZZMUtjUWpCM2QzN0hYV3VPcTNNa05LOG14TmNfNHgtSmhKaTduYTVvSndqRHR3aFMyRTYyUnJXdngxTFFoeXpUQkxRampaV2JZM3BNS2w?oc=5"
-    },
-    {
-      "text": "GRSE Delivers the 4th Survey Vessel (Large) Ikshak to the Indian Navy - Forceindia.net",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHpRTFBHb181T0I1Nmlsc3NQQ2NXRGYxNlRuY0pLZHhTWW5vWGtoejREMC1EVUhvQzdZdU03aXl2QTROdk96NVZlbHBZQ2oyaFZxdjhCUHVMdzlrMW56VEt0ZmxHbEs0REwxOEFqY1BTd0MwOU1OWmpGa1RveHA4bjRJRVlNdUMzWUJrRE9TUVAyOGJWa0lkX29Naw?oc=5"
     }
   ]
 }
