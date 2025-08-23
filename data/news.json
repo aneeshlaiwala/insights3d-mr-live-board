@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-23T18:11:36.940Z",
+  "generated_at": "2025-08-23T18:19:16.240Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -141,6 +141,17 @@
       "summary": "Kitimat extends deadline for business survey on immigration changes Northern Sentinel",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVZ2NnpCNnlab3RpZ21sNWRCS0pyNlNLakx0VGlPRi0xUUJBdGpVeUhqaU1Kbi1teU4tZjBKTVAzTENYT1V5YU1ua0JvMEw0eHFhZGJKZGRuaDNrdHpCMDF2NWNRTXN5dFJXQ0VDbl90Q3MzQXhYZ29WTEpnY3FPZNIBhgFBVV95cUxPVzY4djBFRTAzeFYzYlh6T1ozTGQ0Y3VZRHVHZEF6b2YtclA3ODM5MUtXQnVoX2tCeG15M0htdVBWWnJtLVhMUUtMUWNpVFlYbFNkR0hnZzdzS0ZneUVsOFdIR2lRMDRJY0pJLXBsRVFwZXkwTHFHeUZJVnpvTXBKX2oyU19RQQ?oc=5",
+      "isoDate": "2025-08-23T11:00:01.000Z",
+      "source": "news.google.com",
+      "raw": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend  CNBC",
+      "summary": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend CNBC",
+      "topics": [
+        "AI in MR"
       ]
     },
     {
@@ -421,17 +432,6 @@
       ]
     },
     {
-      "title": "SC to Weigh If Sambhal Mosque Survey Falls Under Places of Worship Act; Status Quo Till Aug 25 - LawBeat",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0FsSkU4WmQ5ME5GZDNiM2dneHl4amEzVjVMN1hiNnMxdXRYUVhUZHp5eEFQSUlULXNYNE9wMjc2TjhiQ05TVXpuTTh4TUN0V2xxc2tFREtsTjNEc2ZicDR0a3FZaUlCVlpfY0E4QU0xVmpuWWRYX1dHQ3RLeGJoSkpvUlI0X29hVGRIRXhXaTZ1alBnMXpxczlCelRlbG11WlRLSnhRaHN0VkIzSDByTmprdWhIY1cxUFkzbjFiVzUzZXRPYzBVSGFwd2Q3UdIB0wFBVV95cUxPVEZJT05NQ0FQay02RGl4QVFiSmpFSjRUVXVVT3JGTVNueWNJaFpqUW1PbVdLTUp5SmFkcXBiT1JNdVdhN0o4RF93V0xxT2toSG1CSERZel9VbnVwZHlMVDN2VFpuWWhsMEpJQU5XdExWNGZ1V2k3S3ZXbW9ra0g2S3N4VTJFTElLTVc1dkRiQzRBYzNVOE9DRXRFMHFBRTdhM3ZfUUNFeHUtVDB2aFpwYms0NnR0Nm1aUnBybURjbXpWNm1MSUJGNmxpRUZ4LTVNX3BB?oc=5",
-      "isoDate": "2025-08-22T13:23:52.000Z",
-      "source": "news.google.com",
-      "raw": "SC to Weigh If Sambhal Mosque Survey Falls Under Places of Worship Act; Status Quo Till Aug 25  LawBeat",
-      "summary": "SC to Weigh If Sambhal Mosque Survey Falls Under Places of Worship Act; Status Quo Till Aug 25 LawBeat",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Shoppers concerned about store hygiene, says survey - Talking Retail",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEdFVG1kWWJqbDBjZFFCWmVQZFJYUGhBdmJ3eWFOellzSGoxSzl1X2ZTbVd4SHBoS1NLSWJSdDFKa1djREVWZ3J5RjduaThKX0xmXzNoaHBHQUtLNlFtdVBFVDVja29xY3QzcnhldkdsYTR0SUV5UWhuWUJmZU5CczJCSFkxc2ZpNW1NVWtXRFVpV0RTUFphWmthZWpsSFk3X0h5OGQ2ZEloVTNKbkRmcQ?oc=5",
       "isoDate": "2025-08-22T13:18:15.000Z",
@@ -599,6 +599,10 @@
       "url": "https://x.com/search?q=%23concerns"
     },
     {
+      "label": "#financial",
+      "url": "https://x.com/search?q=%23financial"
+    },
+    {
       "label": "#health",
       "url": "https://x.com/search?q=%23health"
     },
@@ -619,6 +623,14 @@
       "url": "https://x.com/search?q=%23adults"
     },
     {
+      "label": "#advisors",
+      "url": "https://x.com/search?q=%23advisors"
+    },
+    {
+      "label": "#average",
+      "url": "https://x.com/search?q=%23average"
+    },
+    {
       "label": "#backward",
       "url": "https://x.com/search?q=%23backward"
     },
@@ -633,18 +645,6 @@
     {
       "label": "#changes",
       "url": "https://x.com/search?q=%23changes"
-    },
-    {
-      "label": "#classes",
-      "url": "https://x.com/search?q=%23classes"
-    },
-    {
-      "label": "#door",
-      "url": "https://x.com/search?q=%23door"
-    },
-    {
-      "label": "#expect",
-      "url": "https://x.com/search?q=%23expect"
     }
   ],
   "ticker": [
@@ -695,6 +695,10 @@
     {
       "text": "Kitimat extends deadline for business survey on immigration changes - Northern Sentinel",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdLTFZtN0Y5X25vaVpMSUJ1dWc4TDNxbTE3MkpDQXdDTzQzMm9zQlR6Sjh4ZHRGN19YVlJBQW5IRHJabDdETTNkTktmWF80Y2Q3Szg2OXBEaENFNHJNaXpZazRydVR3cGVob3BwRDcwVnJmQklvNEVBN19JMkVxTWxndHRkUFUzTHBTbHAyNHV2bU4zMHFOVDRPTFpLa1UtZzZZd05xQkRPQ3VVLXBXOU5KRlNBczB2eWRr?oc=5"
+    },
+    {
+      "text": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVZ2NnpCNnlab3RpZ21sNWRCS0pyNlNLakx0VGlPRi0xUUJBdGpVeUhqaU1Kbi1teU4tZjBKTVAzTENYT1V5YU1ua0JvMEw0eHFhZGJKZGRuaDNrdHpCMDF2NWNRTXN5dFJXQ0VDbl90Q3MzQXhYZ29WTEpnY3FPZNIBhgFBVV95cUxPVzY4djBFRTAzeFYzYlh6T1ozTGQ0Y3VZRHVHZEF6b2YtclA3ODM5MUtXQnVoX2tCeG15M0htdVBWWnJtLVhMUUtMUWNpVFlYbFNkR0hnZzdzS0ZneUVsOFdIR2lRMDRJY0pJLXBsRVFwZXkwTHFHeUZJVnpvTXBKX2oyU19RQQ?oc=5"
     },
     {
       "text": "Prevalence and determinants of hypertension in rwanda: a secondary data analysis using the WHO STEPS survey 2022 - Nature",
@@ -763,10 +767,6 @@
     {
       "text": "Karnataka to Launch Statewide Socio-Educational Survey from Sept 22 - Deccan Chronicle",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTkRQWTBnbUVGNjR3bFZ3X2s4UEdsRmdfZU9OVW0yYjRRNzBGbjJTWmxwVFhrTE90WWpKM0ItV1FNLWlBOVhWQzN1MXJtelJtRE1md2xyamtTMVBMNmZzM1g2c3VqLTV1YWwwdGQxUmJFejRWdnFZNExwQW5qZ0ZKek5WNDJwT2luakE2dHZEQXd2akpaUGJaRXJUaHRXUERCQlBSZ2tfQkF1MVBqNVFRUnZRdjNvbnZaWWZNMGxXQW5vZG8tN1BTZ3FGRmtDQdIB0wFBVV95cUxNUVhZMWFLdy1xVGtuY3pCZWxDUWdZaEo0OEJ2dTBNV2tUWEJ2MUZoWWNtMFRjZDlQV1pvMUYzMVdFc0J4QVFIVjN6ME9JRklfVWxQMVN6UGtBb1NtSjRaNXhsUWl3akpPZUxtTGItZWZ0Z1duRkpOQlI4VWppSlhBU0pqYlh3Z2hSWTlIRkNZejdzbnRTRWV6SDFHbF9CTVdHbXQ4TlFObklSYUcyakZtMkR3cWRjc1doSnpmZkZ6WDViZWQ2UVNZYTByVndyYVR1anBN?oc=5"
-    },
-    {
-      "text": "KPMG Survey Finds Gen Z Interns Expect 20% of Their Jobs to be Automated - Inside Public Accounting",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVpTLTVPcGFwZDlEM3lzOUZhSUIzTFJaY0tVdVpiMmJUWFkyZVJfWmprdDMweGxpbkN0Wnlwbk4zbnV5bVJFeTcxcE4xVTNndjFTSk8ySGtMUTJoT2lDV0NQbU9icUpBNUJGa1RNX2h5WGljeWZScUR1T1N1elB0WURjaldRcW8wb1R2Zk5EbGcwWE84QWZUaklNcDNjVUZtSUZkQ0NlanU1dHpoNk9SbGFZOFFWVTZiVHc?oc=5"
     }
   ]
 }
