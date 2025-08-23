@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-23T00:44:43.039Z",
+  "generated_at": "2025-08-23T01:09:48.314Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -30,17 +30,6 @@
       "summary": "Lingayat leaders hold meeting for accurate community count in survey Deccan Herald",
       "topics": [
         "(Other)"
-      ]
-    },
-    {
-      "title": "Survey: Business Execs See \"Better AI Governance\" As \"Essential\" - The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjlsek1ZTEQ2b3BrcFdFVE03U1ZRN09jVXotY3BSV050NkhZRElaUWVqLURqVkJRRVZWQTEwdVM0ck9RVlN2ZjZvc09ONGYxMXJYNjhTczByQkEzYjFDOHhZTkF3SHdNSW9aR1g4VmxjYTdBb1N1R0kzaHdjZGZOSmZUVFVOUURGNXRrUVI5SWt1cknSAZgBQVVfeXFMT2piN3c3SmZnV1dwdWJvOFJUOTNwclA0SGkySzEzR2V0clpRQXJfc3p1SXAwanE1STNlendNWFk4UWJaLTBuNmppLV9iX2xIUjRTQU9MdUtrZE9zbmtsX0J4bldFUVg3OTVybldBNDJUajRaZjJsOFhpVlRXZVBlMzFEZlE3NXFmR2F3THdfQS1HM2RWTFNuMnU?oc=5",
-      "isoDate": "2025-08-22T22:24:39.000Z",
-      "source": "news.google.com",
-      "raw": "Survey: Business Execs See \"Better AI Governance\" As \"Essential\"  The National Law Review",
-      "summary": "Survey: Business Execs See \"Better AI Governance\" As \"Essential\" The National Law Review",
-      "topics": [
-        "AI in MR"
       ]
     },
     {
@@ -564,6 +553,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "US business activity picks up in August, factories lead the way, survey says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUQxZmlna1dYOVJBcnFQem9KN00xaUVOT2NYY2RNZG1Fb3Rvd2pvNnMxbmJRTmNlTkpxUXhrMExrdGJpTEpHZjdIMmFPM25fQ0tCNUFZaU1jSkdSb0ZtUmN4MnQyVWVGSndibEF0NTRxMms3dnMtX1M2MDV2anF2ZUZfOHhYb25Ob3ZrdVRkVEVTWXJUM0FQNE9rVFYxNkNITjRWclg0MmM5eXJkbjBHc2RR?oc=5",
+      "isoDate": "2025-08-21T14:04:54.000Z",
+      "source": "news.google.com",
+      "raw": "US business activity picks up in August, factories lead the way, survey says  Reuters",
+      "summary": "US business activity picks up in August, factories lead the way, survey says Reuters",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [],
@@ -657,10 +657,6 @@
     {
       "text": "Lingayat leaders hold meeting for accurate community count in survey - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEJWbzFUNWZBSVdYb29zZnZhOFJMSjNRNmZpczM1VE4wLXl1N05Nd2h0ZVRlX2x4a3draFd6RzhNcnVMV2U3TmdnT3hRYlMyWWFkQmNMN284RVFBQWNKeE1vRXJiaGhKWWpyUDAwdU5wVmZHSzhmNjNnT2g2UExVQWtZdkFkOWE2ejl4bWZfTjRCNEhPWXo1QnpHT2FVZEtiY0lfLWNZMGdVLVYyMWJpazNCX3laS3dhQ1lRd1B3?oc=5"
-    },
-    {
-      "text": "Survey: Business Execs See \"Better AI Governance\" As \"Essential\" - The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjlsek1ZTEQ2b3BrcFdFVE03U1ZRN09jVXotY3BSV050NkhZRElaUWVqLURqVkJRRVZWQTEwdVM0ck9RVlN2ZjZvc09ONGYxMXJYNjhTczByQkEzYjFDOHhZTkF3SHdNSW9aR1g4VmxjYTdBb1N1R0kzaHdjZGZOSmZUVFVOUURGNXRrUVI5SWt1cknSAZgBQVVfeXFMT2piN3c3SmZnV1dwdWJvOFJUOTNwclA0SGkySzEzR2V0clpRQXJfc3p1SXAwanE1STNlendNWFk4UWJaLTBuNmppLV9iX2xIUjRTQU9MdUtrZE9zbmtsX0J4bldFUVg3OTVybldBNDJUajRaZjJsOFhpVlRXZVBlMzFEZlE3NXFmR2F3THdfQS1HM2RWTFNuMnU?oc=5"
     },
     {
       "text": "Karnataka caste survey: Geo-tagging of electricity meters from today - Deccan Herald",
@@ -769,6 +765,10 @@
     {
       "text": "GRSE Delivers the 4th Survey Vessel (Large) Ikshak to the Indian Navy - Forceindia.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHpRTFBHb181T0I1Nmlsc3NQQ2NXRGYxNlRuY0pLZHhTWW5vWGtoejREMC1EVUhvQzdZdU03aXl2QTROdk96NVZlbHBZQ2oyaFZxdjhCUHVMdzlrMW56VEt0ZmxHbEs0REwxOEFqY1BTd0MwOU1OWmpGa1RveHA4bjRJRVlNdUMzWUJrRE9TUVAyOGJWa0lkX29Naw?oc=5"
+    },
+    {
+      "text": "Optimism around insight drops, says survey - Research Live",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGowcWZkYU04cGdjMHQxSkpOUDJ0dEt5VUthTDgzcm43R3AyR3ZBcUFFZFRFWk9GQ2lydWNJdXlsd2JzZ2k1U29Nb2xBaW1vd0xVa2o4by1PMEpuYTFtRDBNQUdnZUtja1FRR19HazJYZUFFaU82cE5hdFdTbDFJUVdXRVVReUhzSGxaeVdOM19oY2lXdGxZQXduSQ?oc=5"
     }
   ]
 }
