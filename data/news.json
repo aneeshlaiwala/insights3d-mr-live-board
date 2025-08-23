@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-23T22:08:13.045Z",
+  "generated_at": "2025-08-23T22:13:23.842Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Wary Consumers Putting Projects on Hold, Survey Finds - Kitchen & Bath Design News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEdKVmRZR3laWTZ1dDZsTFR4Q0swanJEYWxBN1ZmNDQ4YTVDWU41OVdlOUxoSXhmUjdHTXB6dTAteFhjX3Q1QXhhbThaZFgtRGU4RzJ2M3RHaTE2WVZRYnRLaWpZLUxwcG5wei1RbmM4bnNyS2NacEVsb2o4Y1p5cXJkb18wWUpiQmVFMmFZWVI?oc=5",
+      "isoDate": "2025-08-23T22:07:27.000Z",
+      "source": "news.google.com",
+      "raw": "Wary Consumers Putting Projects on Hold, Survey Finds  Kitchen & Bath Design News",
+      "summary": "Wary Consumers Putting Projects on Hold, Survey Finds Kitchen & Bath Design News",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Vaishnaw: Survey underway for upgrade of Pathankot-Jogindernagar railway line - Tribune India",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEVUWTBSN3F2eWpDUUM5LTl4ZzRUclpQZFk0UU1NYkRLbFV4b2w2alROcE9DR1dHcnIyVjdjOFBQMDBFWHJTTGhhZmg1VkIyR2ZaTGJzWXFTTHhUNXZMZEFicUE4cUltMzhPVkdTUUlvTnNFZjlxVi1QY0RwMDVMcU5zSzZ4WXl2REpaX1hUekFMSnlBaGFtWUhTVE9TUDl2MVY3cDdSOGlrVTJ0WGhwSnpxNjRaZ2gyUE1KSNIBwAFBVV95cUxQMU5sdVBsWW1uU1RyNnpIR0NPSHlISHhIdzhKLTJMaGxzSWdiNTl6aERhaEs3aks5VS1vVGRyblUwdkR0YUYxZ2pRay1WN3BKc3RJdGc1VWtIbjh2ZDg5TmFDUF9NYlk5VTMwZ0JORy0tTUJjNFNSZTJBbG5fU3F5VFFOVnRoVl9SdlJkNzRyam5ldkp6MDMyajJEZS02NC1uM2c3aVg2aFpOVS1EcGJWSmNMSkN4X2J3ejNfV3pfNjQ?oc=5",
@@ -185,17 +196,6 @@
       "summary": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend MSN",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Kitimat extends deadline for business survey on immigration changes - Northern Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdLTFZtN0Y5X25vaVpMSUJ1dWc4TDNxbTE3MkpDQXdDTzQzMm9zQlR6Sjh4ZHRGN19YVlJBQW5IRHJabDdETTNkTktmWF80Y2Q3Szg2OXBEaENFNHJNaXpZazRydVR3cGVob3BwRDcwVnJmQklvNEVBN19JMkVxTWxndHRkUFUzTHBTbHAyNHV2bU4zMHFOVDRPTFpLa1UtZzZZd05xQkRPQ3VVLXBXOU5KRlNBczB2eWRr?oc=5",
-      "isoDate": "2025-08-23T11:15:46.000Z",
-      "source": "news.google.com",
-      "raw": "Kitimat extends deadline for business survey on immigration changes  Northern Sentinel",
-      "summary": "Kitimat extends deadline for business survey on immigration changes Northern Sentinel",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -582,10 +582,6 @@
       "url": "https://x.com/search?q=%23shows"
     },
     {
-      "label": "#business",
-      "url": "https://x.com/search?q=%23business"
-    },
-    {
       "label": "#concerns",
       "url": "https://x.com/search?q=%23concerns"
     },
@@ -644,9 +640,17 @@
     {
       "label": "#bihar",
       "url": "https://x.com/search?q=%23bihar"
+    },
+    {
+      "label": "#business",
+      "url": "https://x.com/search?q=%23business"
     }
   ],
   "ticker": [
+    {
+      "text": "Wary Consumers Putting Projects on Hold, Survey Finds - Kitchen & Bath Design News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEdKVmRZR3laWTZ1dDZsTFR4Q0swanJEYWxBN1ZmNDQ4YTVDWU41OVdlOUxoSXhmUjdHTXB6dTAteFhjX3Q1QXhhbThaZFgtRGU4RzJ2M3RHaTE2WVZRYnRLaWpZLUxwcG5wei1RbmM4bnNyS2NacEVsb2o4Y1p5cXJkb18wWUpiQmVFMmFZWVI?oc=5"
+    },
     {
       "text": "Vaishnaw: Survey underway for upgrade of Pathankot-Jogindernagar railway line - Tribune India",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEVUWTBSN3F2eWpDUUM5LTl4ZzRUclpQZFk0UU1NYkRLbFV4b2w2alROcE9DR1dHcnIyVjdjOFBQMDBFWHJTTGhhZmg1VkIyR2ZaTGJzWXFTTHhUNXZMZEFicUE4cUltMzhPVkdTUUlvTnNFZjlxVi1QY0RwMDVMcU5zSzZ4WXl2REpaX1hUekFMSnlBaGFtWUhTVE9TUDl2MVY3cDdSOGlrVTJ0WGhwSnpxNjRaZ2gyUE1KSNIBwAFBVV95cUxQMU5sdVBsWW1uU1RyNnpIR0NPSHlISHhIdzhKLTJMaGxzSWdiNTl6aERhaEs3aks5VS1vVGRyblUwdkR0YUYxZ2pRay1WN3BKc3RJdGc1VWtIbjh2ZDg5TmFDUF9NYlk5VTMwZ0JORy0tTUJjNFNSZTJBbG5fU3F5VFFOVnRoVl9SdlJkNzRyam5ldkp6MDMyajJEZS02NC1uM2c3aVg2aFpOVS1EcGJWSmNMSkN4X2J3ejNfV3pfNjQ?oc=5"
@@ -710,10 +714,6 @@
     {
       "text": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend - MSN",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSThVTGRVQUE3TzdpbWctM3RlQ21oY0QyWE1ORDdORF9LelB3S09vQ1BsX21kLTQ3eDlNa2FmQU4xRDlzVU1ZS0pGYVczZ2h1LWhyNlM5VTdXb0lrR2pudVIzcDNmY0ZOT3lnaUNRcUZKZXNVRzJRYmdXTXZFZTBzWGV6dVNhMDU3X3cxbG9ha1hOQ3hwRkhUT01xYXlDY2FMck96TzhmYUNDeXNXUmlmd2dkZVNaS2xmSXZSQmZfNVFfX2pISnpMMjdpTWpySU1IcW5JQXNpT3d0LTktcXV6a0ZDZVYxanFmdWg0M29R?oc=5"
-    },
-    {
-      "text": "Kitimat extends deadline for business survey on immigration changes - Northern Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdLTFZtN0Y5X25vaVpMSUJ1dWc4TDNxbTE3MkpDQXdDTzQzMm9zQlR6Sjh4ZHRGN19YVlJBQW5IRHJabDdETTNkTktmWF80Y2Q3Szg2OXBEaENFNHJNaXpZazRydVR3cGVob3BwRDcwVnJmQklvNEVBN19JMkVxTWxndHRkUFUzTHBTbHAyNHV2bU4zMHFOVDRPTFpLa1UtZzZZd05xQkRPQ3VVLXBXOU5KRlNBczB2eWRr?oc=5"
     },
     {
       "text": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend - CNBC",
