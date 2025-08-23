@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-23T12:28:06.587Z",
+  "generated_at": "2025-08-23T13:17:30.574Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -17,6 +17,17 @@
       "source": "news.google.com",
       "raw": "Survey: Czech Views on Prostitution, Abortion, Euthanasia  Prague Morning",
       "summary": "Survey: Czech Views on Prostitution, Abortion, Euthanasia Prague Morning",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSThVTGRVQUE3TzdpbWctM3RlQ21oY0QyWE1ORDdORF9LelB3S09vQ1BsX21kLTQ3eDlNa2FmQU4xRDlzVU1ZS0pGYVczZ2h1LWhyNlM5VTdXb0lrR2pudVIzcDNmY0ZOT3lnaUNRcUZKZXNVRzJRYmdXTXZFZTBzWGV6dVNhMDU3X3cxbG9ha1hOQ3hwRkhUT01xYXlDY2FMck96TzhmYUNDeXNXUmlmd2dkZVNaS2xmSXZSQmZfNVFfX2pISnpMMjdpTWpySU1IcW5JQXNpT3d0LTktcXV6a0ZDZVYxanFmdWg0M29R?oc=5",
+      "isoDate": "2025-08-23T12:01:09.000Z",
+      "source": "news.google.com",
+      "raw": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend  MSN",
+      "summary": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend MSN",
       "topics": [
         "AI in MR"
       ]
@@ -94,17 +105,6 @@
       "source": "news.google.com",
       "raw": "Consumer survey reveals incredible success of new Amazon feature: 'Already having a significant impact'  The Cool Down",
       "summary": "Consumer survey reveals incredible success of new Amazon feature: 'Already having a significant impact' The Cool Down",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Choice Hotels International Survey Reveals Waffles Are the Heart of Vacations - Breaking Travel News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVB2emMxZ1pOdnQ5Rk5UdEhRbjJVc2hnMHdPMExuSkk5SFFZaWJoQXJJNVNwbzl1aXBCaHE0cXB2a0FQeDB3Zkc4UVRBd0x3SmVzci1aMHJNV2h6YU9xZ1hXMEI2OG1NcVhNaEloT3M2V0VrekQwU1NjaFY2RDhXTjJJd21FN0MzTkZZaWRyTTREeFh5by1tRDdzMHQ0RG8xRjBfX0lRTGVyeWdKMnRJdGhabGR5NlI0eHIwSzI0dkNkdw?oc=5",
-      "isoDate": "2025-08-23T06:38:41.000Z",
-      "source": "news.google.com",
-      "raw": "Choice Hotels International Survey Reveals Waffles Are the Heart of Vacations  Breaking Travel News",
-      "summary": "Choice Hotels International Survey Reveals Waffles Are the Heart of Vacations Breaking Travel News",
       "topics": [
         "(Other)"
       ]
@@ -476,17 +476,6 @@
       ]
     },
     {
-      "title": "Nilgiris faces high landslide risk, Geological Survey of India warns - Vartha Bharati",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkd0ZVVqWFBNcC1lOWtrR3RoTVppM3NldjdQa1NfVUNiMk5oeGxfalhha0JSeFI2N19MWm45UXVDb292cVMwaFRIdWMxeEd1ck1pZTZKSEZpRDlwSWFCRzFXVTNPMUJrOEg2X3BkVXBNOWUtOExOT1F4UDF4RE5BX0ttY2RjeVVUUHZsV2xYaWtSZFJhTGFLX2UwQ2FvZVBrUWt6WXoxWU1OUQ?oc=5",
-      "isoDate": "2025-08-22T10:57:00.000Z",
-      "source": "news.google.com",
-      "raw": "Nilgiris faces high landslide risk, Geological Survey of India warns  Vartha Bharati",
-      "summary": "Nilgiris faces high landslide risk, Geological Survey of India warns Vartha Bharati",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Joint survey in Yadgir to assess crop damage due to rain in Karnataka - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalkzQUNYSEJwXzFlbEZlZWNZdE1HSlcwTWxNMjgzYURranNrTC1KT0dlaDNMczlGbi1NdzB6YmUxdERDQXhHajMzOTcwUmhNTzh2U2NOMERSeUVfT3BLT29yQzRtc1B2RWJHbDZ5RnJBUl9MaU40UkxsQWh6dUhMOEFIRWMyeTMwc1gzOU43QVpPcVkwYllVd2wwckJhSTRraDJIQmlZOVJwU2dxQ0hjUXIzUHFySXBKUGRKYzVfZ2cxYTlDTEp6QVF1a1NoN0ZfbUNnZ9IB2wFBVV95cUxNYUljTVpaaWtGeFpIWmhTRE50NF83aG04bjJPVndPN1otcE5BcWRYOHlHWWVTUjBZN09qU2VBMUowNHYzQ3lzcUprcmhlMjcyOXh5Q01UdERBQXVjcnBLNkJnS0dVMVBWRzR6SEVrLXpPV2UwSUdfYlg3dGU2bmdjTENxaHB4Q2E1RnZ4NnNvX0xTMVZzMUxUZmFVM0hLYjVMWmZiTGduSXNNcHo3Y2hDWWJNS09INDI3Yi10Y05EUmFuNXBPeXBzVnRGVDVxa25XSXkwVDh4TGJGS1E?oc=5",
       "isoDate": "2025-08-22T10:42:00.000Z",
@@ -562,6 +551,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "C Voter survey shows public support for Rahul Gandhi’s concerns over voter list in Bihar - Vartha Bharati",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM1ZITE1TV1B1TFN1aHh1SzA3TDA2U0dvRnhBczZUbzF1UHdBckVhY0w1N25RNlY5RFNOZHdlYmFGc3g2aG4taVhLNTZINHZZME44NGJEbjlpVXdVNFRTeVZMX0NXaThfUXk4dHhRMTVESkg4WG8yUEtiUk5WX1V2TVJEVGJmZU1MTnBlOWxUYVBPakR2ODNKdjVWMVhNQXEzZjQ4TXZoclVlVEJZMHFwV18zTG9RN2VYZHBXRkF1SEVzZGRi?oc=5",
+      "isoDate": "2025-08-21T09:20:00.000Z",
+      "source": "news.google.com",
+      "raw": "C Voter survey shows public support for Rahul Gandhi’s concerns over voter list in Bihar  Vartha Bharati",
+      "summary": "C Voter survey shows public support for Rahul Gandhi’s concerns over voter list in Bihar Vartha Bharati",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [],
@@ -579,20 +579,16 @@
       "url": "https://x.com/search?q=%23karnataka"
     },
     {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
+    },
+    {
       "label": "#august",
       "url": "https://x.com/search?q=%23august"
     },
     {
       "label": "#educational",
       "url": "https://x.com/search?q=%23educational"
-    },
-    {
-      "label": "#high",
-      "url": "https://x.com/search?q=%23high"
-    },
-    {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
     },
     {
       "label": "#adults",
@@ -611,8 +607,8 @@
       "url": "https://x.com/search?q=%23experience"
     },
     {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
+      "label": "#high",
+      "url": "https://x.com/search?q=%23high"
     },
     {
       "label": "#activity",
@@ -639,6 +635,10 @@
       "url": "https://x.com/search?q=%23community"
     },
     {
+      "label": "#concerns",
+      "url": "https://x.com/search?q=%23concerns"
+    },
+    {
       "label": "#data",
       "url": "https://x.com/search?q=%23data"
     },
@@ -651,6 +651,10 @@
     {
       "text": "Survey: Czech Views on Prostitution, Abortion, Euthanasia - Prague Morning",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UQWw0dDdNS1NQTGdONVU3c1FhQzk3b2hyVFd0QmZWRGN5b3NwQ2M4ekU0UHlNSFZxcnpQbld6VjJjOHl1b3lPbHRFUUZxWnY1M1Qxald0N09pTXlSN1lVcmVRSGtzNGRCc29Hc2RYVDJLekpmakE?oc=5"
+    },
+    {
+      "text": "Retirement age 'should' be 58, survey respondents say, on average. Here's what financial advisors recommend - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSThVTGRVQUE3TzdpbWctM3RlQ21oY0QyWE1ORDdORF9LelB3S09vQ1BsX21kLTQ3eDlNa2FmQU4xRDlzVU1ZS0pGYVczZ2h1LWhyNlM5VTdXb0lrR2pudVIzcDNmY0ZOT3lnaUNRcUZKZXNVRzJRYmdXTXZFZTBzWGV6dVNhMDU3X3cxbG9ha1hOQ3hwRkhUT01xYXlDY2FMck96TzhmYUNDeXNXUmlmd2dkZVNaS2xmSXZSQmZfNVFfX2pISnpMMjdpTWpySU1IcW5JQXNpT3d0LTktcXV6a0ZDZVYxanFmdWg0M29R?oc=5"
     },
     {
       "text": "Kitimat extends deadline for business survey on immigration changes - Northern Sentinel",
@@ -679,10 +683,6 @@
     {
       "text": "Consumer survey reveals incredible success of new Amazon feature: 'Already having a significant impact' - The Cool Down",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjdYWVYyM20yZFJ5ZVk3X3Zqc0xOcW9RR0lDU0VQdVFLak1fS1NmTzJvZklXanRFYzBHM19pVHFiNGw0YjROSHVGOUhmN0RNMS1yRU5FR1lwb1UxM1JCRGhEQjgxRFE4U2JLZnVySUpLZmZCMGhhZmRPaklqT2ROQzVvcm52YlpfYm5jbFFjSkdsU1FqTUlWTEZ1RUdaZzA?oc=5"
-    },
-    {
-      "text": "Choice Hotels International Survey Reveals Waffles Are the Heart of Vacations - Breaking Travel News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVB2emMxZ1pOdnQ5Rk5UdEhRbjJVc2hnMHdPMExuSkk5SFFZaWJoQXJJNVNwbzl1aXBCaHE0cXB2a0FQeDB3Zkc4UVRBd0x3SmVzci1aMHJNV2h6YU9xZ1hXMEI2OG1NcVhNaEloT3M2V0VrekQwU1NjaFY2RDhXTjJJd21FN0MzTkZZaWRyTTREeFh5by1tRDdzMHQ0RG8xRjBfX0lRTGVyeWdKMnRJdGhabGR5NlI0eHIwSzI0dkNkdw?oc=5"
     },
     {
       "text": "Karnataka: Social and educational survey of Backward Classes to begin on August 23 - Vartha Bharati",
