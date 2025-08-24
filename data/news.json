@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T14:12:45.160Z",
+  "generated_at": "2025-08-24T15:08:30.821Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGxWd2VReE1FYXYzVmZDcnN5dXdrcmpyVUVycXRndTQtU3dwSUVwcGZYWXI0VENjNDYwOUpidE5WMkpMaGtnVEhNZGtFS1kwMXRCZ25abXNQMTdOYVJiR0xoNmJvMVVqZ0djZ1BYZ3hQNHItc3d0LW12ZFl3cFp6bEpSb2FldFFWUlk0RXpoLUpqbGVCa0RkRnZtX000OXhqQUtPXzRvWFZZc3NyOXAwbkxzQkMzS0lJNmo0OW1wNVFWLWg1dFlhYmJGTllxWjdiY1NMLV9uTjltdzRvOXlV?oc=5",
+      "isoDate": "2025-08-24T14:45:34.000Z",
+      "source": "news.google.com",
+      "raw": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots  CoinDesk",
+      "summary": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots CoinDesk",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "Zoological Survey of India and Dept. of Applied Zoology document 817 species of fauna on Mangalore University campus - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaG5tMTdnUHZQS0pMc1ljeldvQTZOM0ZYZVlvWEVpUGNwSXN4c3l1VEJSc0xJc3Bjc2FfNWdWVzNLZ1otVzhZZ1ZSNTRuYlBmR2swWnY2ZENURXBDSVRUYnNpUVBSZkZvWE5OUFEyVElmZGJDMHRpYk92dElBYS1PSGs0UDRZb3ExbXZLYnFkeVNORzdpVzByb2g2VkhLU2paZzR5X0g1blo4WG1jTG40R1dMckdmYnlXQTVLeGZMTVlXZ09fb1JLNTZPT29jdzg2QzBCaFpUTUdZeUpOeElRWjNwc0hYbC1sNTByNC1OV0FyUXVXdjVkV3ZXeDRwZWlMV0R3WU53RmF6WmlIUXhZ0gGWAkFVX3lxTFB6cWdSTlZmNG0zOXg1YXNmbExPVEkyTGVfbUg0Y3h0SkoxWWg1VTkxUXJkYjBLR0tHSE05b2M5X21aUHY4Rk1qTGJCZWd3TjdnVHpmMEtEa0w4NUxPeWdpcVRqaTAyaGw5X1dPelpzc3Q4TjFReTY3bDEzS1pKcFB5VjNMbjVBUTZkbmtNdVVXWDJOV2pNdmZ1Nm5zZ19zWEtkeWhUdTdKQ2h3RHVaekFuZVdmZzlsNEJCUmZMcV9XVHRoSV9Rd1ZVWHRyUUR6TnBjMHNOUGpHN0UxNWhtU1lfUW9IbUx0S1BDNjl6QnZuZ09pc2xPTWNDUzZySXpUM29kZmZIbkQyS01oVnBKd1N6UmxmVThB?oc=5",
@@ -263,17 +274,6 @@
       "summary": "Govt warns striking survey workers of action Times of India",
       "topics": [
         "(Other)"
-      ]
-    },
-    {
-      "title": "Survey Finds Oncology Patients Open to Pharmacist-Administered Vaccines - geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSU5lQUJUQWI5dnNoV3NaVFlwRnF6cHlyVnJrMFFWWmU4dzU1aFV0X0U0ZmpyZTFxdFUxV1dtRjY1aDdwTzMzNjJXUEY0N3A1eVRKMzNqTzFfZlVxOUctOWRoOXBfcUtVLVRjdFg4S2ZXWTR5WFFwdEJvWVFERHZKWE5oOGRCVFcyTTYzUjdaTGsySDdONTFVX2picUhiQXJn?oc=5",
-      "isoDate": "2025-08-23T17:03:49.000Z",
-      "source": "news.google.com",
-      "raw": "Survey Finds Oncology Patients Open to Pharmacist-Administered Vaccines  geneonline.com",
-      "summary": "Survey Finds Oncology Patients Open to Pharmacist-Administered Vaccines geneonline.com",
-      "topics": [
-        "Healthcare"
       ]
     },
     {
@@ -582,6 +582,10 @@
       "url": "https://x.com/search?q=%23india"
     },
     {
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
+    },
+    {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
     },
@@ -598,10 +602,6 @@
       "url": "https://x.com/search?q=%23mental"
     },
     {
-      "label": "#reveals",
-      "url": "https://x.com/search?q=%23reveals"
-    },
-    {
       "label": "#students",
       "url": "https://x.com/search?q=%23students"
     },
@@ -612,6 +612,10 @@
     {
       "label": "#activity",
       "url": "https://x.com/search?q=%23activity"
+    },
+    {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#americans",
@@ -640,13 +644,13 @@
     {
       "label": "#gandhi",
       "url": "https://x.com/search?q=%23gandhi"
-    },
-    {
-      "label": "#govt",
-      "url": "https://x.com/search?q=%23govt"
     }
   ],
   "ticker": [
+    {
+      "text": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGxWd2VReE1FYXYzVmZDcnN5dXdrcmpyVUVycXRndTQtU3dwSUVwcGZYWXI0VENjNDYwOUpidE5WMkpMaGtnVEhNZGtFS1kwMXRCZ25abXNQMTdOYVJiR0xoNmJvMVVqZ0djZ1BYZ3hQNHItc3d0LW12ZFl3cFp6bEpSb2FldFFWUlk0RXpoLUpqbGVCa0RkRnZtX000OXhqQUtPXzRvWFZZc3NyOXAwbkxzQkMzS0lJNmo0OW1wNVFWLWg1dFlhYmJGTllxWjdiY1NMLV9uTjltdzRvOXlV?oc=5"
+    },
     {
       "text": "Zoological Survey of India and Dept. of Applied Zoology document 817 species of fauna on Mangalore University campus - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaG5tMTdnUHZQS0pMc1ljeldvQTZOM0ZYZVlvWEVpUGNwSXN4c3l1VEJSc0xJc3Bjc2FfNWdWVzNLZ1otVzhZZ1ZSNTRuYlBmR2swWnY2ZENURXBDSVRUYnNpUVBSZkZvWE5OUFEyVElmZGJDMHRpYk92dElBYS1PSGs0UDRZb3ExbXZLYnFkeVNORzdpVzByb2g2VkhLU2paZzR5X0g1blo4WG1jTG40R1dMckdmYnlXQTVLeGZMTVlXZ09fb1JLNTZPT29jdzg2QzBCaFpUTUdZeUpOeElRWjNwc0hYbC1sNTByNC1OV0FyUXVXdjVkV3ZXeDRwZWlMV0R3WU53RmF6WmlIUXhZ0gGWAkFVX3lxTFB6cWdSTlZmNG0zOXg1YXNmbExPVEkyTGVfbUg0Y3h0SkoxWWg1VTkxUXJkYjBLR0tHSE05b2M5X21aUHY4Rk1qTGJCZWd3TjdnVHpmMEtEa0w4NUxPeWdpcVRqaTAyaGw5X1dPelpzc3Q4TjFReTY3bDEzS1pKcFB5VjNMbjVBUTZkbmtNdVVXWDJOV2pNdmZ1Nm5zZ19zWEtkeWhUdTdKQ2h3RHVaekFuZVdmZzlsNEJCUmZMcV9XVHRoSV9Rd1ZVWHRyUUR6TnBjMHNOUGpHN0UxNWhtU1lfUW9IbUx0S1BDNjl6QnZuZ09pc2xPTWNDUzZySXpUM29kZmZIbkQyS01oVnBKd1N6UmxmVThB?oc=5"
@@ -738,10 +742,6 @@
     {
       "text": "Govt warns striking survey workers of action - Times of India",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT01sMm1MZTdjdzB5dWY5bW1qVXg3alhZZFdHRXZqdHd4YU5iTVhuYW9TLWZJaWFXVnlXRXJqNkQyLTNYZ3Z0ZWM2TEVnV09IUVlYbWlmMjByYTdCTXJjQU14ZF9rcGM4bHJ1UFRSNldydWlTa0lnb2hOSWkwNWZGdUhfclYwV3BCbE14SjdyOUlIQmw1bEUtWHJvQUNGQnlxREdVOGR0djlkcjVTaGpZR1pRLTduRmpE0gG-AUFVX3lxTE5pSGRHcmk0TTUxQjNHSVRNUE9NSERPVmlGbUt0ZEdQaWt1NUhCZjFGN0VxaHhkU1pwZElaOU4wMHd4RkgybEs2WmRPNHF1bGlORGxyUktNcXBVUHlEZGVuVGotYlAzZ3RIWU1FcnFNTTRzZUphU0c3RnhlOTYtVW9jNFVXMFpITmtKaEZnNklpU1QycEhyQm1QVTZJSDI3Ni1Qcno3dHVyTm9Rel9MRG1jVzFoVUdscTAxcFZzNkE?oc=5"
-    },
-    {
-      "text": "Survey Finds Oncology Patients Open to Pharmacist-Administered Vaccines - geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSU5lQUJUQWI5dnNoV3NaVFlwRnF6cHlyVnJrMFFWWmU4dzU1aFV0X0U0ZmpyZTFxdFUxV1dtRjY1aDdwTzMzNjJXUEY0N3A1eVRKMzNqTzFfZlVxOUctOWRoOXBfcUtVLVRjdFg4S2ZXWTR5WFFwdEJvWVFERHZKWE5oOGRCVFcyTTYzUjdaTGsySDdONTFVX2picUhiQXJn?oc=5"
     },
     {
       "text": "Survey reveals gig workers’ concerns on income security - The Hindu",
