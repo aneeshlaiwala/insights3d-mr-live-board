@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T17:08:07.035Z",
+  "generated_at": "2025-08-24T17:12:30.009Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -541,23 +541,23 @@
       ]
     },
     {
+      "title": "CNET Survey Finds Adults Spend $3,000 a Year on Takeout and Restaurants. Meal Kits Could Be a Cheaper Option - CNET",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDLTlPSU1Ia3F2cmlaQWVPSW54bi1GODAzbGFsZ2RTeFhaRkxhWEFKbnNJUFlHMS1JbHkzdTQ5YTczUUdEeHdpd2wwUVpESEQ1ZEY1R1VtLWhKTHdUZVVkTXJMZFZtNlN2RlBmWA?oc=5",
+      "isoDate": "2025-08-20T12:00:00.000Z",
+      "source": "news.google.com",
+      "raw": "CNET Survey Finds Adults Spend $3,000 a Year on Takeout and Restaurants. Meal Kits Could Be a Cheaper Option  CNET",
+      "summary": "CNET Survey Finds Adults Spend $3,000 a Year on Takeout and Restaurants. Meal Kits Could Be a Cheaper Option CNET",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Doctors say medical misinformation has gotten worse, survey finds - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHJqaWpCN1EzUVNBdXlkeHl6Z1NwUm9jdDNVOXItckRSdWRKdmhGWEV1MGVhSjlJeDNJdzJJX3pyV2FkcjFLTlR4T3Jjc3BuampLRVcyVXBaTUlOc1lNdEp5ZlVkNnd4M3liWENxM0ZDbEVmS3pGX2FzWnYtNTB2NTh3alVPUXhMT2V4dHpyX3VFb0VPdkZxTUwzQmwyUkwtNWxEYUdaVi05QlBxcjFZTVJVQjdhd9IBVkFVX3lxTFBSRUlkOWpiZmVsUUJpT0lRaXJtWE9wQk51SzhZMTdXcGJDLVg2X3prdjJVMnAyRUc2djlEbk1BWjVhblU3c0NsZWFTcEhLVVNZX3NSek1n?oc=5",
       "isoDate": "2025-08-20T10:00:41.000Z",
       "source": "news.google.com",
       "raw": "Doctors say medical misinformation has gotten worse, survey finds  NBC News",
       "summary": "Doctors say medical misinformation has gotten worse, survey finds NBC News",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Southsea Food festival brought in more than £1.5m, survey says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcFJMcEJsN3BpUUdlcWpKZm8wX3JOcTU1Q192dVJfUUVQVVFzZ0tSQk9uVWFGQTFFcDhuU2FXaUZkanFEcFhWcHBPLUFnc1lWaDBvMzA0REc5Z9IBX0FVX3lxTE9uT1ZxaVFOXy1iVWdlVk9ORC14eUp4QVZQSExITk5WVGM3MGNsakpoUkxjby1XeDNOODhXVUFRR2lMcjY0OW04Nm9LTDlTaFFsSC1zUVhGU0VZMnRYclRN?oc=5",
-      "isoDate": "2025-08-20T05:10:03.000Z",
-      "source": "news.google.com",
-      "raw": "Southsea Food festival brought in more than £1.5m, survey says  BBC",
-      "summary": "Southsea Food festival brought in more than £1.5m, survey says BBC",
       "topics": [
         "(Other)"
       ]
@@ -626,6 +626,10 @@
       "url": "https://x.com/search?q=%23activity"
     },
     {
+      "label": "#adults",
+      "url": "https://x.com/search?q=%23adults"
+    },
+    {
       "label": "#americans",
       "url": "https://x.com/search?q=%23americans"
     },
@@ -640,10 +644,6 @@
     {
       "label": "#continues",
       "url": "https://x.com/search?q=%23continues"
-    },
-    {
-      "label": "#drone",
-      "url": "https://x.com/search?q=%23drone"
     }
   ],
   "ticker": [
