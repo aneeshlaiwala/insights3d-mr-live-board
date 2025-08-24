@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T16:10:24.837Z",
+  "generated_at": "2025-08-24T16:17:04.046Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "BT Group and AWS Unveil Strategic Partnership to Transform Customer Experience - Small Business Trends",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX29fa2tLaV9UU0lleWNPOG9GNW1PWi1rc1l3YXJvMUhHVXlYY2NCUk1pUTh3NW1sbUJ6cGRSYTRPaXVEaHB2Z1lrX2U5M2Y4eXQxazZJTkQ4RlFEYng4MDhtWEJVWUltREY0Q3VpODBZcm9lX3FCZlpaMG8zaWRIQmdnLXVLYjA4cWx1c3lKNnp2dGxwWjhLU3FPZjl3TFZHUEc1MmUyTG9iZw?oc=5",
+      "isoDate": "2025-08-24T16:10:43.000Z",
+      "source": "news.google.com",
+      "raw": "BT Group and AWS Unveil Strategic Partnership to Transform Customer Experience  Small Business Trends",
+      "summary": "BT Group and AWS Unveil Strategic Partnership to Transform Customer Experience Small Business Trends",
+      "topics": [
+        "CX"
+      ]
+    },
     {
       "title": "DNR using AI to survey elk population - Michigan Public",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZC1NTEJCXzBsLVV3SHhRMGhQRkVwNkNHazJFZ3NwRWwtb1MxUUtUN0NOX1ZScXhuOU9fVnBoVlpCTHk5X3ZQTFU0QVBIU3RHOEtBTTNaN2NMdHpHU1JkWHJDLVdHU2ZwSG9wMnY2UjhqenZfa2h1SG52WnhUSkxMOWRJb2FHSFVfUmtlY0RaOGhhVHFyV0h1bDlKOXBUbWRXX3ZmVXBFdW5uQQ?oc=5",
@@ -155,7 +166,7 @@
     },
     {
       "title": "Patient Satisfaction With Minimally Invasive Cardiac Incisions: A Retrospective Single-Centre Survey - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmpORWsydjVISnNneFo3QjJxNXBtQUJhckx0UWRsQl9mS1BUdnYtR2loYzRPV0VkcWNZY1ZvYnNlT0FQamw5ajVCa3dOVzlJUGdsbkxJYXJmaEtDb21yUFlfSVNHVGMzeGRhM1FYLTBKWm9CVlFrRS1PQkxfOUxQV2taZU5vRjRLbE43T25SSG9Relg0NDdRWVJIX0xCbVN2Rko2T1VTc3U4SFhYYU9uUjNNVHRlcnZ3RTktWmxzcjMteHU1Rko4WVFYc1l4c2VUbEIzWXhWdFdOcktFTlowZkFDNzBQazJwXzBWa1BR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXcwUFhiY1JLU0Q1ZEttV2ROczc5MnBfaHo4LUxhZ0F0ZlNhZEVTV3VialhXNTdTVXB0NG9OTkVhcldyOXRQU2h1WlhrdUV2OEFWRmRTQi1VZHRUV1ZhZ2hZX0VWMEg1elVmQTBMb1ZSMjBDVjB4RUh0OE1nMTdqOE1YSUl4TVFZMTdnckJXSkFXZjFJRm5vVHFKUWJhSHJnOW91U1MtUWNDM3A1OExnMC1Yd0JFdTRENmg4TG12cWxvazR1UkZKRXBXUnZDaHZzVjc2WA?oc=5",
       "isoDate": "2025-08-24T07:44:57.000Z",
       "source": "news.google.com",
       "raw": "Patient Satisfaction With Minimally Invasive Cardiac Incisions: A Retrospective Single-Centre Survey  Cureus",
@@ -550,17 +561,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Southsea Food festival brought in more than £1.5m, survey says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcFJMcEJsN3BpUUdlcWpKZm8wX3JOcTU1Q192dVJfUUVQVVFzZ0tSQk9uVWFGQTFFcDhuU2FXaUZkanFEcFhWcHBPLUFnc1lWaDBvMzA0REc5Z9IBX0FVX3lxTE9uT1ZxaVFOXy1iVWdlVk9ORC14eUp4QVZQSExITk5WVGM3MGNsakpoUkxjby1XeDNOODhXVUFRR2lMcjY0OW04Nm9LTDlTaFFsSC1zUVhGU0VZMnRYclRN?oc=5",
-      "isoDate": "2025-08-20T05:10:03.000Z",
-      "source": "news.google.com",
-      "raw": "Southsea Food festival brought in more than £1.5m, survey says  BBC",
-      "summary": "Southsea Food festival brought in more than £1.5m, survey says BBC",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -602,6 +602,14 @@
       "url": "https://x.com/search?q=%23concerns"
     },
     {
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
+    },
+    {
       "label": "#mental",
       "url": "https://x.com/search?q=%23mental"
     },
@@ -630,16 +638,8 @@
       "url": "https://x.com/search?q=%23continues"
     },
     {
-      "label": "#customer",
-      "url": "https://x.com/search?q=%23customer"
-    },
-    {
       "label": "#drone",
       "url": "https://x.com/search?q=%23drone"
-    },
-    {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#gandhi",
@@ -647,6 +647,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "BT Group and AWS Unveil Strategic Partnership to Transform Customer Experience - Small Business Trends",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX29fa2tLaV9UU0lleWNPOG9GNW1PWi1rc1l3YXJvMUhHVXlYY2NCUk1pUTh3NW1sbUJ6cGRSYTRPaXVEaHB2Z1lrX2U5M2Y4eXQxazZJTkQ4RlFEYng4MDhtWEJVWUltREY0Q3VpODBZcm9lX3FCZlpaMG8zaWRIQmdnLXVLYjA4cWx1c3lKNnp2dGxwWjhLU3FPZjl3TFZHUEc1MmUyTG9iZw?oc=5"
+    },
     {
       "text": "DNR using AI to survey elk population - Michigan Public",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZC1NTEJCXzBsLVV3SHhRMGhQRkVwNkNHazJFZ3NwRWwtb1MxUUtUN0NOX1ZScXhuOU9fVnBoVlpCTHk5X3ZQTFU0QVBIU3RHOEtBTTNaN2NMdHpHU1JkWHJDLVdHU2ZwSG9wMnY2UjhqenZfa2h1SG52WnhUSkxMOWRJb2FHSFVfUmtlY0RaOGhhVHFyV0h1bDlKOXBUbWRXX3ZmVXBFdW5uQQ?oc=5"
@@ -701,7 +705,7 @@
     },
     {
       "text": "Patient Satisfaction With Minimally Invasive Cardiac Incisions: A Retrospective Single-Centre Survey - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmpORWsydjVISnNneFo3QjJxNXBtQUJhckx0UWRsQl9mS1BUdnYtR2loYzRPV0VkcWNZY1ZvYnNlT0FQamw5ajVCa3dOVzlJUGdsbkxJYXJmaEtDb21yUFlfSVNHVGMzeGRhM1FYLTBKWm9CVlFrRS1PQkxfOUxQV2taZU5vRjRLbE43T25SSG9Relg0NDdRWVJIX0xCbVN2Rko2T1VTc3U4SFhYYU9uUjNNVHRlcnZ3RTktWmxzcjMteHU1Rko4WVFYc1l4c2VUbEIzWXhWdFdOcktFTlowZkFDNzBQazJwXzBWa1BR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXcwUFhiY1JLU0Q1ZEttV2ROczc5MnBfaHo4LUxhZ0F0ZlNhZEVTV3VialhXNTdTVXB0NG9OTkVhcldyOXRQU2h1WlhrdUV2OEFWRmRTQi1VZHRUV1ZhZ2hZX0VWMEg1elVmQTBMb1ZSMjBDVjB4RUh0OE1nMTdqOE1YSUl4TVFZMTdnckJXSkFXZjFJRm5vVHFKUWJhSHJnOW91U1MtUWNDM3A1OExnMC1Yd0JFdTRENmg4TG12cWxvazR1UkZKRXBXUnZDaHZzVjc2WA?oc=5"
     },
     {
       "text": "Toll collection continues in MP despite pothole-ridden roads: Survey of 4 national highways shows people pa... - Bhaskar English",
@@ -762,10 +766,6 @@
     {
       "text": "'Vote chori' allegations: Do Indians trust Rahul Gandhi or EC? | Survey - The Federal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGRrSkZzUF9udnhwYmlEa2llYWZJMmI0YlQ0RTZMcll1bjBpamZ6ZGEyZEtNM3BGRkVUMmF2V1g0bzRkb3JrX3ZEZGY0QnUyaE1kdDVqYS1qZlhmdElCakFOU0tteThpVnN5d3MtdFZxTWx2WUQ2cmZCaHh4dm05Um14dEVvVmQwZHgteXRJTENRM1lESG5VTk9Vam8?oc=5"
-    },
-    {
-      "text": "SanDisk India not a Taxable DAPE of Western Digital: ITAT Rejects Survey Based Profit Attribution of ₹194.44 Cr under India-US DTAA [Read Order] - Taxscan",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRk1MTU9qeFBmX0ZKbll3ZTBhbDg2UF9ZM3Bjdno5bUpQeTVwczNpR1V2S3dpWE51aWxQSE50OUhoVnR3OF9mS3JLb2NQSkpSZmxnbUFVLS05dWZRZnhZeV9pblBJTlZ4QkNmeGNZNUdJRGJ0SVNQeGVwZmRvTkl3dXlvUllScHN0MVFSRjdNamM3eTdWakRnc0x0amhzUVBlaEo5WlIwakh6T0Q3eHFfTkxTRmpsc19wS2ZMTUhzelhJS21sNFJ2cG5oLXl0bW5CMkY5a2dXREFWbFNXT0pkcklUcmM3RWpJVldWUnV4b25uak1rdW9qUTFXQjFzMFBy?oc=5"
     }
   ]
 }
