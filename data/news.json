@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-25T19:07:44.579Z",
+  "generated_at": "2025-08-25T19:12:16.538Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Take the Alamosa Parks and Recreation tree survey - Alamosa Citizen",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXJla09ZUG0wcHVlcjRQcllnU2k1REptLVJJTjIxcjNEeTZ6a1VtS1hGZHVTZ29pemgybW1QRzZNQ2piNFk5UXpVOC1hNnBYVzAxMnRwRkZxZnhrSTVSRlJvN0dINUVOVWdTaTUwVGRjdUVxUGx3NjFuQmtOZkdldnBHaUhrUm1B?oc=5",
+      "isoDate": "2025-08-25T19:09:40.000Z",
+      "source": "news.google.com",
+      "raw": "Take the Alamosa Parks and Recreation tree survey  Alamosa Citizen",
+      "summary": "Take the Alamosa Parks and Recreation tree survey Alamosa Citizen",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "What does the data say? Buckingham shares school survey results - The Farmville Herald",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTd1WFhicFRXa1pFVF96Qmp0TkhxWFB0WWhEYWJjTUpXQmx1UzhObVNFbG9iaENBbC15aWN6UEtMRmRla3VxQVpvOTNHS1owUlBkZ3Rzd2JyTVF4V25aZ0I3RGU5VU5PZjA1eVdyY3p4SjhnLUtRUUxmSVItUWZLMTFQVDd3TVIxSVdBVndXcw?oc=5",
@@ -72,6 +83,17 @@
       "source": "news.google.com",
       "raw": "BNZ survey finds Kiwis missing out on offset savings  MPA Mag",
       "summary": "BNZ survey finds Kiwis missing out on offset savings MPA Mag",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "One in four households now below poverty line, survey finds - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHVaMzZ1dUE1TUFOLTNadE9CMUtoanl4ZFl4N2VnUk96WFhDN2EtMXAyQVd1cGVIazVINDU2ZHlwX19nTlZ5YUR2a1BWdFBqVklDaF9TSDRsYXI2SVg4bmUwNE5FVHVKODJUdXFoZUJxaE9qb2hzM1JmbGhlTk44UFNwWEduZmdyNExPT05lYVhFaEN4OXItX3dhUdIBoAFBVV95cUxQZVNtVG56Z2ZfYWRLWllUaHc4MGlxMVhKaUxnc1lPS2ZmdWhhaGhfMm1vOXFzRDJZNDN1Zms2Ymd5OVRpcTBqbnpidlRKSlVlQkV6RjF4clV2bWdITUhkSlZEd0RrbHNvUjg5WHNVZ0pIREVDUW9fckRSMmRTZHdZTmduOVRmWTNmbV8yUWc5eXVJM2VUdU80RDB2Z2xmLS0z?oc=5",
+      "isoDate": "2025-08-25T18:06:22.000Z",
+      "source": "news.google.com",
+      "raw": "One in four households now below poverty line, survey finds  The Business Standard",
+      "summary": "One in four households now below poverty line, survey finds The Business Standard",
       "topics": [
         "(Other)"
       ]
@@ -431,6 +453,17 @@
       ]
     },
     {
+      "title": "New Ontario survey exposes the ai adoption paradox: buzz outpaces reality, trust lags - Liaison Strategies",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORTdpbkIwY3NBRC1KbDFQRjFZdmJDMlk5aXY1R0hCTzdFQTR2UHZIa3RyM0hHWTlfOTRKUl9xMVByVTlNYXNBNHRpWmYyWXFMbUNUVm1RUEdpcFZzbnBSa1B3eGI3dGlMRks3Zm5fNjAxdWdDSlUtbmJhY1ZTajhKeGhoek9uZXZ2b2xjbnJiWVhYcmtjZjBIdzd4N1l1NWRtdWRMMUozT1FCM2xhVC1jWEhQSlI3RU02dnltSTF2UXlkeGkwbElScFpHVmZ5enpWd2Y0b2hBRnhVbWhaUjRpdmFEOHd3UU9W?oc=5",
+      "isoDate": "2025-08-25T10:32:13.000Z",
+      "source": "news.google.com",
+      "raw": "New Ontario survey exposes the ai adoption paradox: buzz outpaces reality, trust lags  Liaison Strategies",
+      "summary": "New Ontario survey exposes the ai adoption paradox: buzz outpaces reality, trust lags Liaison Strategies",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
       "title": "German Businesses Accentuate Positives in Ifo Survey, Says ING - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzlyVnRWTG9TWVdDS2VZN0xIYW5ibDNUZmQ2dUh0M3hvVHV3X2w4bEZTRHR0TVFQZmNyYUpwR0FJN01WTzA4QnBsSmJaMXZsWktfQkYzYi1SejRhaGdYNVRqcnZ0VzAxRGJXNkNXVHQtX3NIRTZTQy1TZlZtNUxUSDlXU3dZZkJHd0xqcUQ1TF9jV3pKX0NXZC10bDY4OGpvZWZzdDNoaE9QM29WM2pIZkFQakw?oc=5",
       "isoDate": "2025-08-25T10:20:09.000Z",
@@ -519,45 +552,12 @@
       ]
     },
     {
-      "title": "One in four households now below poverty line, survey finds - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHVaMzZ1dUE1TUFOLTNadE9CMUtoanl4ZFl4N2VnUk96WFhDN2EtMXAyQVd1cGVIazVINDU2ZHlwX19nTlZ5YUR2a1BWdFBqVklDaF9TSDRsYXI2SVg4bmUwNE5FVHVKODJUdXFoZUJxaE9qb2hzM1JmbGhlTk44UFNwWEduZmdyNExPT05lYVhFaEN4OXItX3dhUdIBoAFBVV95cUxQZVNtVG56Z2ZfYWRLWllUaHc4MGlxMVhKaUxnc1lPS2ZmdWhhaGhfMm1vOXFzRDJZNDN1Zms2Ymd5OVRpcTBqbnpidlRKSlVlQkV6RjF4clV2bWdITUhkSlZEd0RrbHNvUjg5WHNVZ0pIREVDUW9fckRSMmRTZHdZTmduOVRmWTNmbV8yUWc5eXVJM2VUdU80RDB2Z2xmLS0z?oc=5",
-      "isoDate": "2025-08-25T05:25:00.000Z",
-      "source": "news.google.com",
-      "raw": "One in four households now below poverty line, survey finds  The Business Standard",
-      "summary": "One in four households now below poverty line, survey finds The Business Standard",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "District Survey Report Without A Proper Replenishment Study Is Untenable: Supreme Court - Verdictum",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcWFoS19ZTzBWY1lHNktodG1EYkhucmNPNU1pc3hXczJQd2NqeWdtVEJzMG8wZkxITlo5YzFLTVJWbFE2cnIyclctSnFmMEFEV0Nwb3BhM1NkLTN4VUVFRW5LblJsT29UN3p5aUpjRVVLbm1kVHViTzBzLVBXMzJEcW5FZjUxcHNPczhzd3JSN1hsV2owYlFrVVI0d3BPT2RZV0RDUjB3Q3JBZ2FERjQwYzFEN2dodkl5dHlfZ0xQMnZxdzBsN05Ocy1oRERsNmVCZ2ZzRy1aRUtCMkhHd0UyMm1BUmJSay1abTZ6ZHdIeXdQa03SAfgBQVVfeXFMTThXcDA1dzZ5d1dxWmd1Y2NjWXVKUUVDcHdCZDdCSWlYUnRYM2ZJNWpWVi1mbUpSbDItSnlobWxBSlZueEt3WHlVV1hVRm8wbWgzcS1nSWUzdXZTT21Eazg3UUxXUHU5YnI4VWhkWDg4YmRadTBjUmVxSWUzZ1NGNWl3c3hIaHZNSl9XUjE0cjZGRlRPX0VFc3IwRmJBVzBxRk1rVTNXZzZIRzl6dm5wMzB2bnFGWEJ4X1dsdV90WkV1WnQxSTlCY3lqRWVzS3A5c20yaTFtLWRSa29VV2tzRU1ORGwzbi0zUFBYeUM3UFE2Tk4tbGc4RUc?oc=5",
       "isoDate": "2025-08-24T10:30:02.000Z",
       "source": "news.google.com",
       "raw": "District Survey Report Without A Proper Replenishment Study Is Untenable: Supreme Court  Verdictum",
       "summary": "District Survey Report Without A Proper Replenishment Study Is Untenable: Supreme Court Verdictum",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Few HR pros can detect fake job candidate information, survey shows - HR Dive",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGxnSnJjNWxxWW80WXZWOU9LN3VIVVBnUnJjU2FLMVdoQjhiTVBGSXl4TzNJVXowVmh2WGM4dGdoSThaZGltOGVmcWFYa3ZEeW9vUlJpTDBPS0RSZmlpVy01bGpNYW9JSjN2bVQzS0puVS1EVndnNjZSTFA2ZjJsNkprXzZvejhYaVNxNkd4M3NuUUU?oc=5",
-      "isoDate": "2025-08-22T14:50:49.000Z",
-      "source": "news.google.com",
-      "raw": "Few HR pros can detect fake job candidate information, survey shows  HR Dive",
-      "summary": "Few HR pros can detect fake job candidate information, survey shows HR Dive",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Survey: Most Students Affected by OBBBA Student Loan Changes - Inside Higher Ed",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclNPbDJscXEtblpuTDVWRWlTOHNYNlZRVlp5dW5aajV1Z3p3RW9GRGl5bDBWRTBYWVlZYVRXWXVvTVBOTTJrd1FLLXU1T184eFJ2Zk5zMWUwQ2RhSHEzVlhhVnBMZ1cwVklxeGVWWUhxampxR193Wk01OThXTTlLaEN6MnN6WGVlajA1SExwanV1VVhTelFSeF9ST2FRTDlxR1hoeUx6QWNJdVpoNnNMQWI4V1o2dw?oc=5",
-      "isoDate": "2025-08-22T07:07:30.000Z",
-      "source": "news.google.com",
-      "raw": "Survey: Most Students Affected by OBBBA Student Loan Changes  Inside Higher Ed",
-      "summary": "Survey: Most Students Affected by OBBBA Student Loan Changes Inside Higher Ed",
       "topics": [
         "(Other)"
       ]
@@ -595,10 +595,6 @@
       "url": "https://x.com/search?q=%23reveals"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
-    },
-    {
       "label": "#india",
       "url": "https://x.com/search?q=%23india"
     },
@@ -615,8 +611,16 @@
       "url": "https://x.com/search?q=%23school"
     },
     {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
+    },
+    {
       "label": "#across",
       "url": "https://x.com/search?q=%23across"
+    },
+    {
+      "label": "#adoption",
+      "url": "https://x.com/search?q=%23adoption"
     },
     {
       "label": "#agents",
@@ -653,13 +657,13 @@
     {
       "label": "#diabetes",
       "url": "https://x.com/search?q=%23diabetes"
-    },
-    {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
     }
   ],
   "ticker": [
+    {
+      "text": "Take the Alamosa Parks and Recreation tree survey - Alamosa Citizen",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXJla09ZUG0wcHVlcjRQcllnU2k1REptLVJJTjIxcjNEeTZ6a1VtS1hGZHVTZ29pemgybW1QRzZNQ2piNFk5UXpVOC1hNnBYVzAxMnRwRkZxZnhrSTVSRlJvN0dINUVOVWdTaTUwVGRjdUVxUGx3NjFuQmtOZkdldnBHaUhrUm1B?oc=5"
+    },
     {
       "text": "What does the data say? Buckingham shares school survey results - The Farmville Herald",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTd1WFhicFRXa1pFVF96Qmp0TkhxWFB0WWhEYWJjTUpXQmx1UzhObVNFbG9iaENBbC15aWN6UEtMRmRla3VxQVpvOTNHS1owUlBkZ3Rzd2JyTVF4V25aZ0I3RGU5VU5PZjA1eVdyY3p4SjhnLUtRUUxmSVItUWZLMTFQVDd3TVIxSVdBVndXcw?oc=5"
@@ -683,6 +687,10 @@
     {
       "text": "BNZ survey finds Kiwis missing out on offset savings - MPA Mag",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTlsY2JqS1VibVd4TU9YVWdVVldGSFJuTVQtRWNPaU12cFJsLXZPR1gzMHhBdGdfSW5JSDlOcGpwb2NEZUFEMTJxVU83QTJqR1VTNF9SaEQ0M1FDU1JZZWpoVlJuaXlFbjJTZEV6UWR3cDZEVXI5OWZ5a2R6T1BaZk5ESDg3cjd2SExuVHBiYUp0REtmTHFUZnAtbWdMWnM?oc=5"
+    },
+    {
+      "text": "One in four households now below poverty line, survey finds - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHVaMzZ1dUE1TUFOLTNadE9CMUtoanl4ZFl4N2VnUk96WFhDN2EtMXAyQVd1cGVIazVINDU2ZHlwX19nTlZ5YUR2a1BWdFBqVklDaF9TSDRsYXI2SVg4bmUwNE5FVHVKODJUdXFoZUJxaE9qb2hzM1JmbGhlTk44UFNwWEduZmdyNExPT05lYVhFaEN4OXItX3dhUdIBoAFBVV95cUxQZVNtVG56Z2ZfYWRLWllUaHc4MGlxMVhKaUxnc1lPS2ZmdWhhaGhfMm1vOXFzRDJZNDN1Zms2Ymd5OVRpcTBqbnpidlRKSlVlQkV6RjF4clV2bWdITUhkSlZEd0RrbHNvUjg5WHNVZ0pIREVDUW9fckRSMmRTZHdZTmduOVRmWTNmbV8yUWc5eXVJM2VUdU80RDB2Z2xmLS0z?oc=5"
     },
     {
       "text": "Mistrust, Confusion in Medicare Advantage Plan Members, Survey Says - Managed Healthcare Executive",
@@ -771,14 +779,6 @@
     {
       "text": "ProcureAbility Survey Confirms Widespread AI Development and Adoption in Procurement - Supply & Demand Chain Executive",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZFB5dWZwRGlJSW9YLXV5NGZQRUw3UXBldGNqZzBjaDlaQ2NtekU1SEV4YUlYSmtMR0RfUDg0azh4Y0J1ZTR5Uk85Tld2MkFpUGxvZm4tenF6NmlrYnp6UUFYd05UdlM1OTBHOXBCZkEtc25CenE2WFJkRXB0NDBITDdrMFBCOEpmMmxIaTlyVXRKMTItVHI4OUIzdmZ0ZEd1WVRpcVlEaHF6cnVneko3Uk5hN1owclE1TWdSbFdCaV8zcGtWQjFYSmVERUk3dEdmZUNaRnZqQXlQTVU0cVo4RjFRX2pMdEozVE1EODlrczg4a2VHUGJqOEVja2tmWmp5VWkyVExvQmphOUk?oc=5"
-    },
-    {
-      "text": "Reopening Assessments based only on Survey Material without Tangible Evidence of PE in India is not Valid: Delhi HC - Taxscan",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdnotMEY2RWpDRURtOVNpVUljd0lMTFNWcXI3NUV6M09YTS1QaEx0TFNsYXJ5aEg5VktFOG85eF91Y19PUTRpblpial9wUDdxTmtZUXYyQ3cwVWo2aUptbTFGUjVQbFM4ak9fWHdIbW9EYVpja1V3alpCd056UFN0NUxVWlpXZzNhdUVLNk1qR3QxX24tSHg0SG03TWJiRHc5VEVfa1FSVWRBZ2t3WXNJN29BR3daSHU3cm9JUkFYR1J0Q3JPNjBVY2ZBajVDYS1lRTNiZk82dGFNRzByMzcwR1lyeG5hT0hSZFlpOVR3?oc=5"
-    },
-    {
-      "text": "The AI-Driven Transformation of Customer Experience Software: Thoma Bravo's Strategic Acquisition of Verint and the Reshaping of the Sector by Private Equity - AInvest",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXh0ZW9zTkxIY2g4ZjNDSjZ5dXNwek1tSjdiSkw5LXh4MHZFT2E2V25WWDZQMEs2X2JtMVNUU1pDV2JISlN3U3hPVHU5dUVaQnhzemtSaUUycDVvVndYTGY0MlQ4X2Z0ZERPZERwWHpmekVKMUR2UUNyb0FZaUxJREpWSldLcm5oOHlhNk9ubkQyZ1VEdURvdmZ4SnRiUWJmZkd5dTFEaTVZWl9pZ3ZTY0JzYmxadXFwUFJpSGRUS0pOdmUxeHNhT2xkS1lFN0x1aXRpcXlGYjBqOGlBVGN5TF9Lb0ZJSlVlbHdwNmpQaTdRMzQ?oc=5"
     }
   ]
 }
