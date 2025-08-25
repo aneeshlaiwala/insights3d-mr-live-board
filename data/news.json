@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-25T13:24:10.182Z",
+  "generated_at": "2025-08-25T13:27:42.418Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -89,12 +89,12 @@
       ]
     },
     {
-      "title": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds - moneywise.ca",
+      "title": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds - Money.ca",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGxSRTRhX0NHd1k4VVVqOUpYUjFqUklGWV9WTlVGbzZiSzFBQkpWakszcG9veFZrOF83TGZOdTR2WHN4VzJkbi0zM1l0YXpFVmc1Q3NCS21JZTZYYzZDT3Zad2Z0c1c2Z2hfeUpPOEhVSHBuMzFvUkJyQ0NKV3k4OEN3?oc=5",
       "isoDate": "2025-08-25T12:10:11.000Z",
       "source": "news.google.com",
-      "raw": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds  moneywise.ca",
-      "summary": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds moneywise.ca",
+      "raw": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds  Money.ca",
+      "summary": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds Money.ca",
       "topics": [
         "(Other)"
       ]
@@ -295,17 +295,6 @@
       "summary": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots CoinDesk",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Three seaside areas deemed 'littered', IBAL survey finds - RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VaXp6Wm1PbU1fd0xWakpIWDhwZ1poQ01NS193VkF6WHB5NXBQbFdSbnMtRFJMY0ZoQkJPeklvRW5DbjQzTWVLRGRjaGk3M1hqS0NFVTM4Z25IR0trdjdqZG1tVjdYRVFtQWlYOVRMMHpxOGlESlFKLQ?oc=5",
-      "isoDate": "2025-08-25T07:01:49.000Z",
-      "source": "news.google.com",
-      "raw": "Three seaside areas deemed 'littered', IBAL survey finds  RTE.ie",
-      "summary": "Three seaside areas deemed 'littered', IBAL survey finds RTE.ie",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -560,6 +549,17 @@
       "topics": [
         "AI in MR"
       ]
+    },
+    {
+      "title": "Will AI Replace Jobs? Survey Results from 21 Countries - Visual Capitalist",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FKc0dQQTY1RUxLYXQ3eW1mWEZQdi1yVEpTb0JnRmVnUmNHUzJZZ2pjNVh6bEJpVV9Ub3BJWExiQ0xzb3loQTQ1TTZWMTROX1NOdXFJdkV2VlppekNydW5haVNwVXloeFlRaDJXTFh6T3VDMjNlRzZBTmRLY0sydnVJVE5ObXhwSjI3ZjBleGk?oc=5",
+      "isoDate": "2025-08-19T14:33:48.000Z",
+      "source": "news.google.com",
+      "raw": "Will AI Replace Jobs? Survey Results from 21 Countries  Visual Capitalist",
+      "summary": "Will AI Replace Jobs? Survey Results from 21 Countries Visual Capitalist",
+      "topics": [
+        "AI in MR"
+      ]
     }
   ],
   "funding_ma": [
@@ -688,7 +688,7 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3hvWXpYUVRBbzlJX3dPTl9tR2t2b2xEWmkwX0JqbUlnNEw0aC1ZWXJTajE4Um1JemFESTVZR2tGUW1XX2NBVzR3eDJvc3huMWUyZV8wMS15VFExUGZuQXZLUXJKWGRtTEI5b2xJZjMyYTNXUW04RUx0RDJEbzlVUGtpQ2pVNmVjWFFRcVo3QW5uUmNpQWczNDVjZ0s1MlRPYjY1VF9UcjlGeFpGendISkw4MGVNM29tXzQyWFh1dnYxQTM2Zk55Y3JfMFNsZw?oc=5"
     },
     {
-      "text": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds - moneywise.ca",
+      "text": "Your Neighbour’s Messy Yard Could Cost You a Sale, Survey Finds - Money.ca",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGxSRTRhX0NHd1k4VVVqOUpYUjFqUklGWV9WTlVGbzZiSzFBQkpWakszcG9veFZrOF83TGZOdTR2WHN4VzJkbi0zM1l0YXpFVmc1Q3NCS21JZTZYYzZDT3Zad2Z0c1c2Z2hfeUpPOEhVSHBuMzFvUkJyQ0NKV3k4OEN3?oc=5"
     },
     {
@@ -764,10 +764,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGxWd2VReE1FYXYzVmZDcnN5dXdrcmpyVUVycXRndTQtU3dwSUVwcGZYWXI0VENjNDYwOUpidE5WMkpMaGtnVEhNZGtFS1kwMXRCZ25abXNQMTdOYVJiR0xoNmJvMVVqZ0djZ1BYZ3hQNHItc3d0LW12ZFl3cFp6bEpSb2FldFFWUlk0RXpoLUpqbGVCa0RkRnZtX000OXhqQUtPXzRvWFZZc3NyOXAwbkxzQkMzS0lJNmo0OW1wNVFWLWg1dFlhYmJGTllxWjdiY1NMLV9uTjltdzRvOXlV?oc=5"
     },
     {
-      "text": "Three seaside areas deemed 'littered', IBAL survey finds - RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VaXp6Wm1PbU1fd0xWakpIWDhwZ1poQ01NS193VkF6WHB5NXBQbFdSbnMtRFJMY0ZoQkJPeklvRW5DbjQzTWVLRGRjaGk3M1hqS0NFVTM4Z25IR0trdjdqZG1tVjdYRVFtQWlYOVRMMHpxOGlESlFKLQ?oc=5"
-    },
-    {
       "text": "District Survey Report Without A Proper Replenishment Study Is Untenable: Supreme Court - Verdictum",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcWFoS19ZTzBWY1lHNktodG1EYkhucmNPNU1pc3hXczJQd2NqeWdtVEJzMG8wZkxITlo5YzFLTVJWbFE2cnIyclctSnFmMEFEV0Nwb3BhM1NkLTN4VUVFRW5LblJsT29UN3p5aUpjRVVLbm1kVHViTzBzLVBXMzJEcW5FZjUxcHNPczhzd3JSN1hsV2owYlFrVVI0d3BPT2RZV0RDUjB3Q3JBZ2FERjQwYzFEN2dodkl5dHlfZ0xQMnZxdzBsN05Ocy1oRERsNmVCZ2ZzRy1aRUtCMkhHd0UyMm1BUmJSay1abTZ6ZHdIeXdQa03SAfgBQVVfeXFMTThXcDA1dzZ5d1dxWmd1Y2NjWXVKUUVDcHdCZDdCSWlYUnRYM2ZJNWpWVi1mbUpSbDItSnlobWxBSlZueEt3WHlVV1hVRm8wbWgzcS1nSWUzdXZTT21Eazg3UUxXUHU5YnI4VWhkWDg4YmRadTBjUmVxSWUzZ1NGNWl3c3hIaHZNSl9XUjE0cjZGRlRPX0VFc3IwRmJBVzBxRk1rVTNXZzZIRzl6dm5wMzB2bnFGWEJ4X1dsdV90WkV1WnQxSTlCY3lqRWVzS3A5c20yaTFtLWRSa29VV2tzRU1ORGwzbi0zUFBYeUM3UFE2Tk4tbGc4RUc?oc=5"
     },
@@ -778,6 +774,10 @@
     {
       "text": "87,000 classrooms in Rajasthan govt schools completely dilapidated, preliminary survey finds - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWtXblN3aVFoMEZxTzRyMndJU0RrUFdiOHR5UEdQMUY5VV9teV8zeGxraEQxd1puVHF5TDM1bkRVZGJWS2x4bldQLU9OWE1WRmh2WUxLYS1hYTY3eDhGMEY0SndQWlBDWXlFSV9hcmhNb0tjZHhXUWtqNW1TX1dlRElneGxfRk8zZnIzSGppeEpNNTlsdG1vSHdBeUVNeVVIRlpVck1oelllS2x00gGzAUFVX3lxTE5WTEIzTDJRb2xBcHZDRHQzcDhrdGRHRzBHY0x1WFp3VlRfSUdISUZiOWl3UVlFeFpmNDFYXzM4enJ0MDBnVFJtQ2dENkxDalRWNlRaRDB3MGNocXRLX2tqa054aTVuRE13X3k1UVkxMC1rMGpoZFBaLU5DekZGS0w2Q0h6QzU5blhXM0w3dGdqMlUwbWoxUEpXQTJiYjVnZlF2cWVlX1lDMUdwOWs2djF4ZjZV?oc=5"
+    },
+    {
+      "text": "Few HR pros can detect fake job candidate information, survey shows - HR Dive",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGxnSnJjNWxxWW80WXZWOU9LN3VIVVBnUnJjU2FLMVdoQjhiTVBGSXl4TzNJVXowVmh2WGM4dGdoSThaZGltOGVmcWFYa3ZEeW9vUlJpTDBPS0RSZmlpVy01bGpNYW9JSjN2bVQzS0puVS1EVndnNjZSTFA2ZjJsNkprXzZvejhYaVNxNkd4M3NuUUU?oc=5"
     }
   ]
 }
