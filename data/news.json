@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-25T15:10:56.090Z",
+  "generated_at": "2025-08-25T15:16:22.400Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -333,17 +333,6 @@
       ]
     },
     {
-      "title": "Survey finds traffic, cost of living, pollution among top concerns for Bucharest residents - Romania Insider",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUtwbTl3UTVxd2lhR3BZQ3pYMEpLelB2V242UzFWaVRmdTl2TVZ6bWNveWJZMmUweHk0Mm1BUWhQZmlJTmJxV0tsRkRlaC1oTXpYSXMwa0NRQVBzbWg2Rl84YVhtcnBEQlJNRmR3ckpSVVZZRXNDeU1wRUtoRzgycHkxcXVCZ9IBiwFBVV95cUxPbEFBd1FYb2VSQ0h3Y185NGxUVG1jTy1BM1U0UFpXQXRNUTd5ZWJQQ3ZfWnl0bmF0RVhSS0FlcGlCbnJFcjJHQzlzYXhseC1ZNVg3T3I5NFJMeWVzSGZYQmtfVFlHNFZma2tfTjRUckp4aTAxUU9BZHhqdHJ6QzZNYWxPaU1DVXBzcXlZ?oc=5",
-      "isoDate": "2025-08-25T07:44:36.000Z",
-      "source": "news.google.com",
-      "raw": "Survey finds traffic, cost of living, pollution among top concerns for Bucharest residents  Romania Insider",
-      "summary": "Survey finds traffic, cost of living, pollution among top concerns for Bucharest residents Romania Insider",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGxWd2VReE1FYXYzVmZDcnN5dXdrcmpyVUVycXRndTQtU3dwSUVwcGZYWXI0VENjNDYwOUpidE5WMkpMaGtnVEhNZGtFS1kwMXRCZ25abXNQMTdOYVJiR0xoNmJvMVVqZ0djZ1BYZ3hQNHItc3d0LW12ZFl3cFp6bEpSb2FldFFWUlk0RXpoLUpqbGVCa0RkRnZtX000OXhqQUtPXzRvWFZZc3NyOXAwbkxzQkMzS0lJNmo0OW1wNVFWLWg1dFlhYmJGTllxWjdiY1NMLV9uTjltdzRvOXlV?oc=5",
       "isoDate": "2025-08-25T07:09:44.000Z",
@@ -562,6 +551,17 @@
       "topics": [
         "AI in MR"
       ]
+    },
+    {
+      "title": "Biodiversity of Thattekad Bird Sanctuary in Kerala grows richer as survey reveals nine more species - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0lOSDI5YldVVExqV1UweDd3SE9OS2VxMThsRFhPU3h1Um4zQUFldV9ISTlDRnJZc3BPM3J2ZnQwMl9NVnVFWlNMXzcyUVdld2l5TTdLZ3MwTVpzenNiVng0aUJlZVp0WERpUG41Zk5HQTZaNFdFM1JxZXk2TVNSWEhHVllhV3NTeGFxNE5VRFk3dXJBQWxpdEJVRUU2LU1tSUl4eVFMeGZDNzY3bE43SHdBRU11ZXAzN3U5ZXNDdnpOcUZFUnpybXFKdGJzanhkc1lGVFBuS3lic1JxbUNoZ1hjb0JYMmNiN1dkdUYwai0wQdIB-AFBVV95cUxPUU8wN1hTcnNiYXlIRlNzWXg2Wm56TFAyckVaNnNjOGtEcnZJQzVhRlg5T2pYZENLaDN0SkpGUF9XRHRRRC1FSmNyR1ozNGNRNGxYNzA1N3hNX19MZXdabS1Ob1ltRUZ0ekdlMTcxRWN6cllvQnpfTTZWUGlqZ0ZnYkpDWTNSdXFXZENWendEdGFUTnpBTWVFRFV4TVJ2blVJd2pKOGhXNGdHY0E3SklKVGhmMEJjVHdGRlRvQlNJVTRpclY2c0xtNjlha0dFU2xRazZUcWhRZVhxT0c3ZFFFRnA0dklBVHd5b3NqMk1sYl91a3FET1MyVA?oc=5",
+      "isoDate": "2025-08-19T06:11:00.000Z",
+      "source": "news.google.com",
+      "raw": "Biodiversity of Thattekad Bird Sanctuary in Kerala grows richer as survey reveals nine more species  The Hindu",
+      "summary": "Biodiversity of Thattekad Bird Sanctuary in Kerala grows richer as survey reveals nine more species The Hindu",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -631,16 +631,8 @@
       "url": "https://x.com/search?q=%23shows"
     },
     {
-      "label": "#among",
-      "url": "https://x.com/search?q=%23among"
-    },
-    {
       "label": "#bravo",
       "url": "https://x.com/search?q=%23bravo"
-    },
-    {
-      "label": "#concerns",
-      "url": "https://x.com/search?q=%23concerns"
     },
     {
       "label": "#customer",
@@ -653,6 +645,10 @@
     {
       "label": "#india",
       "url": "https://x.com/search?q=%23india"
+    },
+    {
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
     },
     {
       "label": "#thoma",
@@ -677,6 +673,10 @@
     {
       "label": "#agents",
       "url": "https://x.com/search?q=%23agents"
+    },
+    {
+      "label": "#among",
+      "url": "https://x.com/search?q=%23among"
     },
     {
       "label": "#assets",
@@ -801,8 +801,8 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjVjTXFVRDEtWFFtU2VaYjdlOGJSVFlEYXlLTW1GTG9ZeFU4SXN6bGpsN0V0S3otR0x3WGRFSlVtWmJFRk1oTDBzMVZSdWZ2QzZrTGhSbW5ROVNuNTRlQmJaMW5yV1BRSDhwYU5RbUtuOHVIbHJMQVZsTDRxNkZua1hURDhQVkk3amRYRVVFY0hlRXhRU3otcG1XZ1ZjcjZvbGNlX25SbFVITi0wZlVScGRsSWhBZ9IBuwFBVV95cUxNbmdaZW1NY1Q1dU9KZ1Vra3ZzejFhckRERzZrNUpSOGhGeElYcnZCTTBPYm5QWmxEazdkaHc2eUJzNmZIeGJqdmFDbWdkS19tcW9YRVprd0ZDRVBVMThybHVuQ0Nsc1hqc3ZDRGw2aXAyZG8yNTdwSlZ1WUI5d2t4cmU0RnFFaWFXb2lDZ0NvNHhTUGFyX2EydUlvTHhxb29JVzU0bHdGbDlfOVBIOTRWSXZ6a05CbTU4N2RN?oc=5"
     },
     {
-      "text": "Survey finds traffic, cost of living, pollution among top concerns for Bucharest residents - Romania Insider",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUtwbTl3UTVxd2lhR3BZQ3pYMEpLelB2V242UzFWaVRmdTl2TVZ6bWNveWJZMmUweHk0Mm1BUWhQZmlJTmJxV0tsRkRlaC1oTXpYSXMwa0NRQVBzbWg2Rl84YVhtcnBEQlJNRmR3ckpSVVZZRXNDeU1wRUtoRzgycHkxcXVCZ9IBiwFBVV95cUxPbEFBd1FYb2VSQ0h3Y185NGxUVG1jTy1BM1U0UFpXQXRNUTd5ZWJQQ3ZfWnl0bmF0RVhSS0FlcGlCbnJFcjJHQzlzYXhseC1ZNVg3T3I5NFJMeWVzSGZYQmtfVFlHNFZma2tfTjRUckp4aTAxUU9BZHhqdHJ6QzZNYWxPaU1DVXBzcXlZ?oc=5"
+      "text": "'We Are Still Early': Morgan Stanley's Intern Survey Reveals as Crypto Interest Lags Behind AI & Robots - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdGxWd2VReE1FYXYzVmZDcnN5dXdrcmpyVUVycXRndTQtU3dwSUVwcGZYWXI0VENjNDYwOUpidE5WMkpMaGtnVEhNZGtFS1kwMXRCZ25abXNQMTdOYVJiR0xoNmJvMVVqZ0djZ1BYZ3hQNHItc3d0LW12ZFl3cFp6bEpSb2FldFFWUlk0RXpoLUpqbGVCa0RkRnZtX000OXhqQUtPXzRvWFZZc3NyOXAwbkxzQkMzS0lJNmo0OW1wNVFWLWg1dFlhYmJGTllxWjdiY1NMLV9uTjltdzRvOXlV?oc=5"
     }
   ]
 }
