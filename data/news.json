@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-25T00:50:01.733Z",
+  "generated_at": "2025-08-25T01:15:14.903Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -61,6 +61,17 @@
       "source": "news.google.com",
       "raw": "Liechtenstein iGaming Market Research Report  iGamingToday.com",
       "summary": "Liechtenstein iGaming Market Research Report iGamingToday.com",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Polish Survey Shows 81% Choose Crypto to Diversify Investment - Live Bitcoin News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3FIclNUR3QxRGI3TXNNWk15M2VzVldRWjZWbjdmSHJVYUM0X0xHbEtOdGxJX1JwTFJ4cVI5Mmh3Qm1KYUhlRER2V0xYNTNwcGxQRi1PZXhyMTNzV0pTSm1ieHlzX09JaEtlT2YzQjFHQ19qVWV6cUJfWV9pOFJlaWxtbVhHTVVTYVBjWlBDeVM4V2xWa0lzMg?oc=5",
+      "isoDate": "2025-08-24T19:00:53.000Z",
+      "source": "news.google.com",
+      "raw": "Polish Survey Shows 81% Choose Crypto to Diversify Investment  Live Bitcoin News",
+      "summary": "Polish Survey Shows 81% Choose Crypto to Diversify Investment Live Bitcoin News",
       "topics": [
         "(Other)"
       ]
@@ -550,32 +561,33 @@
       "topics": [
         "AI in MR"
       ]
-    },
+    }
+  ],
+  "funding_ma": [
     {
-      "title": "Roman's High-Latitude Time-Domain Survey Will Find Tens of Thousands of Supernovae - Universe Today",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGViOG1oMkRwbnRQQjM5aHY1V1RaRmlSTG5sMzZpa05fLWRiMkRGTWV1RWQyM1EtM3Y2YTMxZkozdGNFNm5lLXdqdmEyblFLVHJtSVFEb2tKQ1huNEV1SEVic1FGcnBqNDYtTUFVUmEwcVdMZFNoSGRfaF9veWtWNEZTcmwyYXN0WjJHQ0lUY3hPWmZqNWZOS0JWMWdWLTNr?oc=5",
-      "isoDate": "2025-08-20T19:15:00.000Z",
+      "title": "Polish Survey Shows 81% Choose Crypto to Diversify Investment - Live Bitcoin News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3FIclNUR3QxRGI3TXNNWk15M2VzVldRWjZWbjdmSHJVYUM0X0xHbEtOdGxJX1JwTFJ4cVI5Mmh3Qm1KYUhlRER2V0xYNTNwcGxQRi1PZXhyMTNzV0pTSm1ieHlzX09JaEtlT2YzQjFHQ19qVWV6cUJfWV9pOFJlaWxtbVhHTVVTYVBjWlBDeVM4V2xWa0lzMg?oc=5",
+      "isoDate": "2025-08-24T19:00:53.000Z",
       "source": "news.google.com",
-      "raw": "Roman's High-Latitude Time-Domain Survey Will Find Tens of Thousands of Supernovae  Universe Today",
-      "summary": "Roman's High-Latitude Time-Domain Survey Will Find Tens of Thousands of Supernovae Universe Today",
+      "raw": "Polish Survey Shows 81% Choose Crypto to Diversify Investment  Live Bitcoin News",
+      "summary": "Polish Survey Shows 81% Choose Crypto to Diversify Investment Live Bitcoin News",
       "topics": [
-        "AI in MR"
+        "(Other)"
       ]
     }
   ],
-  "funding_ma": [],
   "hashtags": [
     {
       "label": "#survey",
       "url": "https://x.com/search?q=%23survey"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
-    },
-    {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
+    },
+    {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#finds",
@@ -596,6 +608,10 @@
     {
       "label": "#begins",
       "url": "https://x.com/search?q=%23begins"
+    },
+    {
+      "label": "#crypto",
+      "url": "https://x.com/search?q=%23crypto"
     },
     {
       "label": "#customer",
@@ -630,10 +646,6 @@
       "url": "https://x.com/search?q=%23concerns"
     },
     {
-      "label": "#crypto",
-      "url": "https://x.com/search?q=%23crypto"
-    },
-    {
       "label": "#drone",
       "url": "https://x.com/search?q=%23drone"
     },
@@ -666,6 +678,10 @@
     {
       "text": "Liechtenstein iGaming Market Research Report - iGamingToday.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSVNqcHB5bmh3MWdaREV4cVV1ZU5YdkZQdHFrSEQ3aHFkRGhpaW94LTl6MEZESTB6Y0Vja09fa000NnJUNEo3SzZ3YTZZbkJndDNUdW4wd3AxaUNkNjQwV1VWVWYyUFQwX0pNSmxXYUJXXzFNUWZFUTVoNFZrY00?oc=5"
+    },
+    {
+      "text": "Polish Survey Shows 81% Choose Crypto to Diversify Investment - Live Bitcoin News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3FIclNUR3QxRGI3TXNNWk15M2VzVldRWjZWbjdmSHJVYUM0X0xHbEtOdGxJX1JwTFJ4cVI5Mmh3Qm1KYUhlRER2V0xYNTNwcGxQRi1PZXhyMTNzV0pTSm1ieHlzX09JaEtlT2YzQjFHQ19qVWV6cUJfWV9pOFJlaWxtbVhHTVVTYVBjWlBDeVM4V2xWa0lzMg?oc=5"
     },
     {
       "text": "New Survey Shows Americans Are Feeling The Financial Squeeze - Benzinga",
@@ -762,10 +778,6 @@
     {
       "text": "BC commission begins preparations for socio-educational survey - The Hans India",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTNGUURXS1ZjclAwQm9tRk9IQ25fV3o4WXJkNHBsUUhoRm92UmtyVkVjTHpDUEwzanBRMXpLMEh3Vk5kSUJaUDRraUtOR0VRcTZXY0JWanpfY1hNNk1fZktILVhrandJZlBnUHBDcndoOG5sb0ZUTEpKR0xmNXdmeHFrZ3JFNFUxWG1kdU1UV3BCUEFfLWVuM3JscEVMSk1mREVxMG4yZlNwVktnUmdCamZVbWpWRUhhcGhwTdIBwgFBVV95cUxPV2xJMUxObHhuREloTnFnR1k1ZlhGR1BEVWRpa3BsZlY0eWlHajc0amRtdDZPT0hrc1pTck1FZnY0SVBxLXNqMDhyV0JfQ2plaVN5TlVUYTdfeVZwck5WM3NkZElIcndjVmR1eFBSbEZESndlOHI0VTBiTUE2bVFFdFhZNFBHNzc2Sk9YckV0MEltSGIxTm9EQzlVbFU5NEJvX0liNVlLTTFpUko1R3dCT2VZVExjNWNuRC1BS3Z2QkJ6UQ?oc=5"
-    },
-    {
-      "text": "Women bear loan assault: Survey finds violence, debt traps in microfinance sector - Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFl1S1ppRDJOOFB0bkg1azl6bFhmQ1VBN1dod2hLbDVlbUxKcVZkYktiMjRMZmU0ZEp5VWFOWUNqTlNtbV9YZ2JsVEhzd3BzYVRleERtckRuYmFKUGFxZTRGbWZMb1BDaTQtNkl0SVBnZ0pzWG5vajNzSkF1ZFpiaHh6T1dnV1ItZkRsdlNncnBicDEwNC1tRWlnZkc5LW1HSkV1LXliQXNLTGdDTFNhRC1raDZBMEYxZWR2TmxBa3ZRRG12Z092YVh4NF9KUdIB0wFBVV95cUxNemdCaU04dXhOeXhMRUpLc1RHalpUVGxrdnN5WllCc1owNFpWdzFQVEthbVNvaE1aWXV2bklJemEyN3g5UnE2bGJRdEVQUFhuQzRXejlxVFpuZW9iQ2lZdl8zdHZKR01ySWZaY1NheDA5MGpLQ3NnaXZndXkwcmdzVWpORFZqZjZuWi1vdE9HZW1XOURQNjAycVFWazl2enZ2LUFJMzVXa2RiWWtHbjRwbXZuNmhGcnhndWZyY2RUU2V1Y29VOTRnMlZFMlBZYXdaNmZj?oc=5"
     }
   ]
 }
