@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T19:07:27.846Z",
+  "generated_at": "2025-08-26T19:12:03.213Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Indians Show Low Concern Over Inequality: Ipsos Survey - BW People",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkgzWWRrT2FsQVlKNDZfd3NBbzlsaWtXX19vb3JPSy16SXlSR09mODBTdzM1eG1qaC1UcDh6QzFKSVZQLTlDSERCTzdPY1hJazByYXg2MlgtdkVuc1pMaDhsQ244ellCbkNiNy1zY2lGMlFhMFZXcGpCSm9VMVMycTlId2hZZ2p5eGZQMzJzeGM3bnVvSEww?oc=5",
+      "isoDate": "2025-08-26T19:09:21.000Z",
+      "source": "news.google.com",
+      "raw": "Indians Show Low Concern Over Inequality: Ipsos Survey  BW People",
+      "summary": "Indians Show Low Concern Over Inequality: Ipsos Survey BW People",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Survey of 90 Biopharma Professionals Reveals Tariffs Increased Production Costs and Disrupted Supply Chains - geneonline.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeXJGRzlCc3J4VEE2MXQ0dG16bnNOeWJrbFA4UlR3cko0TnQyYUVpZzlMMHA5MTBDREpwYkhWVjNyb3ZMbjFJMjZfcTZIVEF4Wmlaa1h6Yzk0UXVOTElMTVM4dTF0RV95dC1HckZUaGhob2xPTDhWOEdBaXVzdk5zNG92Q1BIZlFSRUNSMmZhd1lrSHJLSlRXOVNjX1B5dVc1QzluTjZQdTBWYjlBYjU3YlRLNU1mVFhfcGNtSU83RnR4N0RaTWY5T1FJdlRnYU1E?oc=5",
@@ -177,12 +188,12 @@
       ]
     },
     {
-      "title": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint - PYMNTS.com",
+      "title": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint - pymnts.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUFuYUVNcW1WOWFpTTE3VHNhanNvdVBvd2R0TVdTdGsxUk5xUjJMUzJSbDU2a2RBUEk5QUVvb3JyNFBEZEU4YXVJb0FoXzdzN3ZSeVJya0QzdFdYV1FyU0pFRDluWGNuaXhaektkZGxVZDdxQjVVcnBucWtRT29iUFNVQUJUOE5hb0VvMnNjYWh2RUFsNnBuRkl2Y2pBQUxhbEZsd1lLS2s5djc1elQ5TmFva1YzVjhI?oc=5",
       "isoDate": "2025-08-26T16:26:23.000Z",
       "source": "news.google.com",
-      "raw": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint  PYMNTS.com",
-      "summary": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint PYMNTS.com",
+      "raw": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint  pymnts.com",
+      "summary": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint pymnts.com",
       "topics": [
         "AI in MR",
         "CX"
@@ -552,17 +563,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "Europeans Demand Stricter Action against Foreign Interference, Survey Shows - Hungary Today",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEVOdVZrSTR0X3JNb0xmc1N6bWtZUm1FeEFYTzM0VDQ3WlFmYWs4Z1k2WW5nb2VOV1hqaDJlakt6dUs2UHhMck5MekE4akhCZWlpSDd5VjhsTWIyUERuTW9PUlBQelhkemtidnhZbktsTW5wQU90VGVpaDlGc01sb0V5ZGxhRkZnMFVldC0tMktJWHlyQVFBTmhQX3FyMm01?oc=5",
-      "isoDate": "2025-08-26T11:01:02.000Z",
-      "source": "news.google.com",
-      "raw": "Europeans Demand Stricter Action against Foreign Interference, Survey Shows  Hungary Today",
-      "summary": "Europeans Demand Stricter Action against Foreign Interference, Survey Shows Hungary Today",
-      "topics": [
-        "AI in MR"
-      ]
     }
   ],
   "funding_ma": [
@@ -612,16 +612,16 @@
       "url": "https://x.com/search?q=%23private"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
-    },
-    {
       "label": "#customer",
       "url": "https://x.com/search?q=%23customer"
     },
     {
       "label": "#experience",
       "url": "https://x.com/search?q=%23experience"
+    },
+    {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
     },
     {
       "label": "#urban",
@@ -661,6 +661,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Indians Show Low Concern Over Inequality: Ipsos Survey - BW People",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkgzWWRrT2FsQVlKNDZfd3NBbzlsaWtXX19vb3JPSy16SXlSR09mODBTdzM1eG1qaC1UcDh6QzFKSVZQLTlDSERCTzdPY1hJazByYXg2MlgtdkVuc1pMaDhsQ244ellCbkNiNy1zY2lGMlFhMFZXcGpCSm9VMVMycTlId2hZZ2p5eGZQMzJzeGM3bnVvSEww?oc=5"
+    },
     {
       "text": "Survey of 90 Biopharma Professionals Reveals Tariffs Increased Production Costs and Disrupted Supply Chains - geneonline.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeXJGRzlCc3J4VEE2MXQ0dG16bnNOeWJrbFA4UlR3cko0TnQyYUVpZzlMMHA5MTBDREpwYkhWVjNyb3ZMbjFJMjZfcTZIVEF4Wmlaa1h6Yzk0UXVOTElMTVM4dTF0RV95dC1HckZUaGhob2xPTDhWOEdBaXVzdk5zNG92Q1BIZlFSRUNSMmZhd1lrSHJLSlRXOVNjX1B5dVc1QzluTjZQdTBWYjlBYjU3YlRLNU1mVFhfcGNtSU83RnR4N0RaTWY5T1FJdlRnYU1E?oc=5"
@@ -722,7 +726,7 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KU2JYblJhZm02NTVmSFlLM3FLU09hUEYxNnBMT2VfRENqelpZTTZCMHRKWklQXzdISjNNRlFkLU9uT1RwMWJuN2FHN2g?oc=5"
     },
     {
-      "text": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint - PYMNTS.com",
+      "text": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint - pymnts.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUFuYUVNcW1WOWFpTTE3VHNhanNvdVBvd2R0TVdTdGsxUk5xUjJMUzJSbDU2a2RBUEk5QUVvb3JyNFBEZEU4YXVJb0FoXzdzN3ZSeVJya0QzdFdYV1FyU0pFRDluWGNuaXhaektkZGxVZDdxQjVVcnBucWtRT29iUFNVQUJUOE5hb0VvMnNjYWh2RUFsNnBuRkl2Y2pBQUxhbEZsd1lLS2s5djc1elQ5TmFva1YzVjhI?oc=5"
     },
     {
@@ -776,10 +780,6 @@
     {
       "text": "LFS survey both right and wrong as think tank finds UK unemployment could reach 5% - Investment Week",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEdoOUlHU0JJaUN1Q09nVGtJblEwRXhtdlYzTmlHc0VGOWZLTTk2NGZFUnp1QkxYSkhDVVhiWFhRTEMyX21vYjlmcEkwODVmMUt6WVo5YUlETW9vb3RZcGVFb2pidmlCSzZRWjNjR1lMSElvR3k0MzJkUDdnSGZDQ0xON0xqd2ZhNy11amwyNzlaQ2s?oc=5"
-    },
-    {
-      "text": "70% urban students in private schools, 27% take coaching: Mospi survey - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOFRsc2xCWFRHU3BkbmFPTmRsUHplN0NKeDlSUVktS1Boc3VkQTVQcU5ZaFlPRnhhVng2THFmbGtqWDBNSGNHX1g5bXZjQjROclpYZW80ZkRnT0ZIWnpOeDJtRDhmaXB0QzZyeWQ4SGpZVFBlNW1mVzhsdmJ5NWpWdXVzVGpvVDZuNk9GVW5neUV4Y25DT2w3ZUJOcDJqS3F4eEFHTERFaDJ3dGNCbWd1RDVNd1pBQzNwUGpBTVlWTFI0SkdqaW9yNVU5QjFORGNRWGl1aU8tTC15bXhvajdTYkV4MmNoZXIwYVlOSkJkclV1My1tTWfSAfsBQVVfeXFMT2tPWDYzNzNoTEM0QUtsS2FPTy05YVBwUzRsWXJkcGpBNzJzQlNfWHIybGplWlZhQXhOMUgyYTNKdVAtY0pBNm9JU2YwcTBnR2lvaVd4UFVuYlcyY1BnNjRid2UyOVYyVzBZYW1IUXk1MXM2SlBoSXlJanpHX3hNMWZqYlJWeGFrWDhXc3ZKbjVDZnowX0hzS3FJdlE3dVRoYUF2Z0NpVURZQjNtQUF1UDJxazBJVFl5d0dTbGlJSDdOeGZQTXRTT3ZlQVdSWGdHZEtPMk1LTnRJWkxQdXFaVTdPTVU5ZXlDSVl5ci0zTkhzaTJZQXpMUG5vV0E?oc=5"
     }
   ]
 }
