@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T15:10:17.082Z",
+  "generated_at": "2025-08-26T15:16:32.507Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -17,6 +17,17 @@
       "source": "news.google.com",
       "raw": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police  Parliament of South Africa",
       "summary": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police Parliament of South Africa",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Majority in regional cities agree Singapore's strict laws deter drug trafficking: MHA survey - CNA",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeG1saHlnSE5nMUdTejhMbW10d080dzdYd1JSMXl3Wlo4dWFNdVFxSkVwVUM5QXhKWmM1eEktS2NnY2QxVDI2TFBBcllJaVpDRG5BQ3hMQ2NyUEM1WTJpbzNNc0VhdUhwUHVaTmdLSUpoRWJKQ2FCcTFFTk9BUWZCV0dFZVJSdXFrUTZhUmJKeG9xWFVBc1FzdDBsSFhIdlBMM2k5NU1PXzVVNGVTX3ZGVDl5ZW9QU2oxaGJYWmRReVZYQURkZnROd19FUm94dw?oc=5",
+      "isoDate": "2025-08-26T14:45:55.000Z",
+      "source": "news.google.com",
+      "raw": "Majority in regional cities agree Singapore's strict laws deter drug trafficking: MHA survey  CNA",
+      "summary": "Majority in regional cities agree Singapore's strict laws deter drug trafficking: MHA survey CNA",
       "topics": [
         "(Other)"
       ]
@@ -552,17 +563,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey - The Assam Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTV4Y0o2UUhBeExITFliaHJzc3RydFVsRzZkbkQ3Wk1qN0lBc2tIZGQyMlRFQzdiVlFoTnJtUXBfYVZnbi1hT1RRUXdNUDRpVE1LOE03ZUFIVFMwaXZUZ0tEQ2k2REU5cW95NTh0WHZ1YmtscXkyczd5RW1FeExyaVdLUC1wVGdZQkRLdU5LaE5lUXJYY04teDlOeU5OWmdqVm1oUzdhajFoaWFqOTdwVkFXSnB4elJNNUxORzR4RkRjbDl4amdncXBLa9IB0AFBVV95cUxPLXI2bmxqNjc2MGQ3czBfTTl5bVhfNDRiMzlrTW80Rlh0UWFBWWtfay1PZ2FVdjNMVW0tNEVndW1KQzZleEVUczZkNFlCN3kxaG1ESmhuU2ZxOUNnNldfNzdEeXM5Z0VUODRHMldYdG9oZHdHa2F1V0F0TlNTRU1OMjFLeGVtZWNoVjFfd3JNekdBZHFUWlVid1ZrY1liem9WZ01udU9lZTJtRXRxXzNVa29EZTBTREUzaUFXV3BNUHZtWXV1cFdObDBibW5uV3JQ?oc=5",
-      "isoDate": "2025-08-26T07:09:18.000Z",
-      "source": "news.google.com",
-      "raw": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey  The Assam Tribune",
-      "summary": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey The Assam Tribune",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -631,6 +631,10 @@
       "url": "https://x.com/search?q=%23united"
     },
     {
+      "label": "#cities",
+      "url": "https://x.com/search?q=%23cities"
+    },
+    {
       "label": "#coaching",
       "url": "https://x.com/search?q=%23coaching"
     },
@@ -665,16 +669,16 @@
     {
       "label": "#across",
       "url": "https://x.com/search?q=%23across"
-    },
-    {
-      "label": "#after",
-      "url": "https://x.com/search?q=%23after"
     }
   ],
   "ticker": [
     {
       "text": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police - Parliament of South Africa",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWdRbHFoRjhySXhsUFhQekNXRm16RUZyeXpQNkdtZTA4WUxmRDhJVHJNWng4alNrdTBaY0NycUdpWjV4MlJiNERQQXllRUQ2MS1PdXVYTmRjZ2NOSS1tVjNwWGZYTlJ0Y0doTlRXVlo3Zl93V2xTRGNaNHpEU3BEX2FwaGJGekxpQVNBUTVyTnVZNmF5aDJWOXNyRHRWM0FTOTlhQVRBTlpVMWpnakVkTTRscnM5a0RFWmJlakk5ZjlyczFaTUJFQ1A4TUk?oc=5"
+    },
+    {
+      "text": "Majority in regional cities agree Singapore's strict laws deter drug trafficking: MHA survey - CNA",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeG1saHlnSE5nMUdTejhMbW10d080dzdYd1JSMXl3Wlo4dWFNdVFxSkVwVUM5QXhKWmM1eEktS2NnY2QxVDI2TFBBcllJaVpDRG5BQ3hMQ2NyUEM1WTJpbzNNc0VhdUhwUHVaTmdLSUpoRWJKQ2FCcTFFTk9BUWZCV0dFZVJSdXFrUTZhUmJKeG9xWFVBc1FzdDBsSFhIdlBMM2k5NU1PXzVVNGVTX3ZGVDl5ZW9QU2oxaGJYWmRReVZYQURkZnROd19FUm94dw?oc=5"
     },
     {
       "text": "Manufacturers vs. tariffs, the survey - HBS Dealer",
@@ -787,10 +791,6 @@
     {
       "text": "Europeans Demand Stricter Action Against Foreign Interference, Survey Shows - Hungary Today",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMEVOdVZrSTR0X3JNb0xmc1N6bWtZUm1FeEFYTzM0VDQ3WlFmYWs4Z1k2WW5nb2VOV1hqaDJlakt6dUs2UHhMck5MekE4akhCZWlpSDd5VjhsTWIyUERuTW9PUlBQelhkemtidnhZbktsTW5wQU90VGVpaDlGc01sb0V5ZGxhRkZnMFVldC0tMktJWHlyQVFBTmhQX3FyMm01?oc=5"
-    },
-    {
-      "text": "Advisors redefine income strategies amid market complexity, Nasdaq survey reveals - InvestmentNews",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTBtS1ZvRmh2ekxfcVRqRlpCLXZiNUh4Y2FEVmNwSkYyVUJqY3psLS1ELWRuZ0pmSlp3RXk0TjcxamdmM1E0SkhrMC1ycTluRlBpei0ydl81UzBoM1JMazR2d2RZRWlVbFZHeC1GUm1kcWhjNWZkWERJTTNQZnZZU1NhZ1g1SkNKZlpPRk9fQnRqZnlFZXl1RmlpLXh5eFJlUm9Kc0RULTNSaTZ4WnJGRWoyQnRObFhJMWRqblBlQ2g?oc=5"
     }
   ]
 }
