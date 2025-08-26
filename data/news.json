@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T17:08:43.737Z",
+  "generated_at": "2025-08-26T17:13:39.119Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -95,17 +95,6 @@
       "source": "news.google.com",
       "raw": "One-third of school students opt for private coaching, trend stronger in urban areas: Centre survey  PUNE PULSE",
       "summary": "One-third of school students opt for private coaching, trend stronger in urban areas: Centre survey PUNE PULSE",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police - Parliament of South Africa",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWdRbHFoRjhySXhsUFhQekNXRm16RUZyeXpQNkdtZTA4WUxmRDhJVHJNWng4alNrdTBaY0NycUdpWjV4MlJiNERQQXllRUQ2MS1PdXVYTmRjZ2NOSS1tVjNwWGZYTlJ0Y0doTlRXVlo3Zl93V2xTRGNaNHpEU3BEX2FwaGJGekxpQVNBUTVyTnVZNmF5aDJWOXNyRHRWM0FTOTlhQVRBTlpVMWpnakVkTTRscnM5a0RFWmJlakk5ZjlyczFaTUJFQ1A4TUk?oc=5",
-      "isoDate": "2025-08-26T15:08:58.000Z",
-      "source": "news.google.com",
-      "raw": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police  Parliament of South Africa",
-      "summary": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police Parliament of South Africa",
       "topics": [
         "(Other)"
       ]
@@ -563,6 +552,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "Exxonmobil Hires Shearwater For OBN Survey In Angola - Marine Technology News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX29YaGpDZV9mTnFlWDNTQmpXcWk5UzZ4c3Z1UTRfZnVCaFNfMkRER04xRXkxYjJuc1RYZzZPd0dhOTg3SkZMRVdhUGxLZE1TQ0RUT1VDYnBweTNSQkJvemh6ZVBhdUlWR25QcUNaQ1RyV19SU3BBNjJoQjhSdXp5Q0ZVa0hFY051SEow?oc=5",
+      "isoDate": "2025-08-26T08:59:58.000Z",
+      "source": "news.google.com",
+      "raw": "Exxonmobil Hires Shearwater For OBN Survey In Angola  Marine Technology News",
+      "summary": "Exxonmobil Hires Shearwater For OBN Survey In Angola Marine Technology News",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -663,12 +663,12 @@
       "url": "https://x.com/search?q=%23india"
     },
     {
-      "label": "#public",
-      "url": "https://x.com/search?q=%23public"
-    },
-    {
       "label": "#take",
       "url": "https://x.com/search?q=%23take"
+    },
+    {
+      "label": "#their",
+      "url": "https://x.com/search?q=%23their"
     }
   ],
   "ticker": [
@@ -703,10 +703,6 @@
     {
       "text": "One-third of school students opt for private coaching, trend stronger in urban areas: Centre survey - PUNE PULSE",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1d2d3FOOHBuSnJqUkwwUm9UOUpDdkt3dXVWQTRvaWZaOUl3ZDVsb3RLUTJIR29GRXc1WmoxZmFOc2owMWlFaHJiNW5CenFrZWlIZEFHU0RSWVdHSlFCRElRanVXWVcteVo3WjY3OWtYSUFoOTdjdEFjMldLU1dXU3Vwa2QtY0ZLdG43SmZPU25DWUxUM204QlFxQzFxWnZKN2txOHh6Ql9UclR2cjJmQXpXQnBrTWxiVW52U1lycUhvS3pY?oc=5"
-    },
-    {
-      "text": "Media Statement: Public Safety and Justice Survey Points to Inherent Challenge of Trust in the Police - Parliament of South Africa",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWdRbHFoRjhySXhsUFhQekNXRm16RUZyeXpQNkdtZTA4WUxmRDhJVHJNWng4alNrdTBaY0NycUdpWjV4MlJiNERQQXllRUQ2MS1PdXVYTmRjZ2NOSS1tVjNwWGZYTlJ0Y0doTlRXVlo3Zl93V2xTRGNaNHpEU3BEX2FwaGJGekxpQVNBUTVyTnVZNmF5aDJWOXNyRHRWM0FTOTlhQVRBTlpVMWpnakVkTTRscnM5a0RFWmJlakk5ZjlyczFaTUJFQ1A4TUk?oc=5"
     },
     {
       "text": "DataM Intelligence 4 Market Research LLP United Kingdom United States of America India - AD HOC NEWS",
@@ -791,6 +787,10 @@
     {
       "text": "Private school students pay nine times more than government school students, government survey finds - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVNkMVdaWUdQVFZxRF94Vm1SX3Z2TThPaWNJV2JEUk9sOEpSejRxQUlCUF9hcEE5Z3YtZ0VDa3lxZHpiaTZaMmFpcmdlVGNRT0Z1a3RFd0JmLWFWQlJtem1va2tHcTRhS2YtV250VjRSMGhyVFFxZGNoYjFXZVROMVI3TFdTbnhrbFZVSHBEal8yLUNkZTc4dExDUER4d0NIOHhyRUF4SGdpMWFwdENjR2RZN21XUVHSAb4BQVVfeXFMTmFUcWw0VjJZQzFqd21UZVk4YVVsTmZkLXRqVTBEMHFac204M1lzbVhyVmlqOFdPeUhXeGl6ZTh2YjFKSzYyb2FSNWhCdkRXWDBBOHNGbHZrQXJJMkdvODFvVVd3Qmk2MUswaWl6ZjNwdlNTTkFkaFZGNWdLYXUzQWtBY09mYzRGdWNTOU5VYVpCVnNEUFBmckdHRERTcVZJZVpZd1FzWWFVTGs1M0ppWkk4TV9INzJ3dTJ2d2d3QQ?oc=5"
+    },
+    {
+      "text": "Oil survey violates climate law, jeopardises just transition – Eco-justice groups - EnviroNews Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHNTSXN2Mk5FdHoxVlZrYXhaOERzSjBMYjdTdnJrVXE2VUdFalpUQUhkZENTTDhQR2pOSm9FTnN5NFJULWNMazQ1QUdZeXVCNzJrenNTaV83Vk82VkJuSElvVnpvc2h0SUVtTFBTcDFXTUlKRDR6THB2eko3SFRaZGtHNWEtRTgzY29zWm5pWnVBR0JvQzBIdW5IX1RWeHA3amRuX0lQTEcxMHRVQkl6NlRCTQ?oc=5"
     }
   ]
 }
