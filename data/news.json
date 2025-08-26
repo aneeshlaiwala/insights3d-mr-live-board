@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T11:09:17.987Z",
+  "generated_at": "2025-08-26T11:14:02.379Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -398,6 +398,17 @@
       ]
     },
     {
+      "title": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources - KTOO",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWZrVnBoNFlacUh5bGJJUGNiTENndEloOVVjVkoyWEtKN0JOTVgxaHI2aWUyb0EtY3JTWFdVTS1fZWVJMGVxSGVvTmU0ay1uVk1kb0JnRmxZQUtEUjZtMmhrQzUxZ1pwQUp3S2lSbjR2Qm56RldpMnM1SThkUzMtUVRxY1Y4dnBGMGMyQU5SdnVzUWlyZFdsRmpJc1FONzFLTjN5Mm5xTm5UVU1xOVozd1lIMDlpOTZQUnB5d1ZLRko?oc=5",
+      "isoDate": "2025-08-26T05:11:01.000Z",
+      "source": "news.google.com",
+      "raw": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources  KTOO",
+      "summary": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources KTOO",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Linxup survey highlights opportunities to strengthen fleet safety programs - Telematics Wire",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORS1PZDNjMWo0NUhXdU1PcEpQaUVrX3Y3YWNOSVpxTUZWMHdJaUVTNnB4azk3TWhlN1pDRVFmdDR5YTFQMERTcGttUWZxcTVUMHVfSzMzWlA5RERLZjFvTG9uZl9yZldCeTR5UmhyeFIwVGVpT2hhOWxzSHB1OG5uS1p5d2kyQktKSXNWbVJ5c18xbWNnNFlVNDZLQlp0N0Q2d0htcg?oc=5",
       "isoDate": "2025-08-26T05:04:14.000Z",
@@ -519,12 +530,12 @@
       ]
     },
     {
-      "title": "BI survey: Investors see AUM growth for ESG, climate - Bloomberg.com",
+      "title": "BI survey: Investors see AUM growth for ESG, climate - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbzB0ejc4TlNLMF9BR19DX05DWnI5cE11Z1U3N01JSjU3RkFJbzdKbWRONkJreW5wbHJ1LVJJTXBTYlZ3ZkFOWWJ4TTFIaHJkM3cwa3drYndza05uSEcxMzdWaXJpWkpGV081aTJlRnV3MjdCckZfVXA3VmFyUThEM1Zfb0V2dWhJamNaZVVYekdQUFNWZWdHaFNnTDExMy1PX3gyZW4zWXVOTTE5dTFrNlBtWGlKSTIyV1dR?oc=5",
       "isoDate": "2025-08-26T01:15:07.000Z",
       "source": "news.google.com",
-      "raw": "BI survey: Investors see AUM growth for ESG, climate  Bloomberg.com",
-      "summary": "BI survey: Investors see AUM growth for ESG, climate Bloomberg.com",
+      "raw": "BI survey: Investors see AUM growth for ESG, climate  Bloomberg",
+      "summary": "BI survey: Investors see AUM growth for ESG, climate Bloomberg",
       "topics": [
         "(Other)"
       ]
@@ -549,17 +560,6 @@
       "summary": "Pureprofile unveils AI tool to speed up open-text survey analysis IT Brief Australia",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Fergus appoints Hugh Walker as Head of Customer Experience role - IT Brief New Zealand",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjk1Wi1TdTRla1FQTUhRa1NjMnkwVngxWHBfSnl0SlBzZkxJbElETl9sZGZjb2dWTlVTWFN6OC1YUXdaVVhXVzg0aklRM3pxWHh4MkpqRXJCYU5zWDRiYzdMdkdBdWFPOFl6R0xWTmlNQzJNN0RXaXpxMl95RVRfa19DdEZONk5LSE1lb2hFd3VOWGhhc3c?oc=5",
-      "isoDate": "2025-08-25T22:39:00.000Z",
-      "source": "news.google.com",
-      "raw": "Fergus appoints Hugh Walker as Head of Customer Experience role  IT Brief New Zealand",
-      "summary": "Fergus appoints Hugh Walker as Head of Customer Experience role IT Brief New Zealand",
-      "topics": [
-        "CX"
       ]
     }
   ],
@@ -614,6 +614,10 @@
       "url": "https://x.com/search?q=%23project"
     },
     {
+      "label": "#resources",
+      "url": "https://x.com/search?q=%23resources"
+    },
+    {
       "label": "#shearwater",
       "url": "https://x.com/search?q=%23shearwater"
     },
@@ -632,10 +636,6 @@
     {
       "label": "#angola",
       "url": "https://x.com/search?q=%23angola"
-    },
-    {
-      "label": "#appoints",
-      "url": "https://x.com/search?q=%23appoints"
     },
     {
       "label": "#below",
