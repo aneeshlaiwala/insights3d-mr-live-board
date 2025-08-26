@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T16:11:47.086Z",
+  "generated_at": "2025-08-26T16:18:45.132Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -217,6 +217,17 @@
       "source": "news.google.com",
       "raw": "Survey by union Bectu finds almost half of UK’s TV industry is out of work  C21media",
       "summary": "Survey by union Bectu finds almost half of UK’s TV industry is out of work C21media",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "SEC survey results: Who should be each football team’s 3 annual rivals? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm83LXZnZVNxNWg5M0FOdTcwTTJKYTZQWmhUemFzSG5OTVdEeVFkVWRRM3o4bFJNalEzU2pFTEFMdEtPM3NLaVRwaGxTMmNJSlBCa0NJd1VXTm9TZExuR0lSSHhRZGt0RUY1VTVnUDNBU0hHYUZSajRCRkx6TFdNbkxBaEMzR2loSGlGZmZHTQ?oc=5",
+      "isoDate": "2025-08-26T13:47:20.000Z",
+      "source": "news.google.com",
+      "raw": "SEC survey results: Who should be each football team’s 3 annual rivals?  The New York Times",
+      "summary": "SEC survey results: Who should be each football team’s 3 annual rivals? The New York Times",
       "topics": [
         "(Other)"
       ]
@@ -552,17 +563,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "One-third of Swiss engineering firms plan shift to EU, survey finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWQxenVZNURGbmoxaE45WVZKSjM5NW9xQXVoNS1ud2RUd0NqNmQyTzg4RmcwSXprYnh3NGdBUVJ5MDdsNEx1RFZXcEUxckJzM3ZidXV4Y19xV1oxWG92LW1zYzRTN3gyckpTZ3JLS1hUTDdRaFpNNW9YbXBfLVlkSEFsRHdaQkFCcnFXVUZXNnRERW9lSE1GejlzSDRaVU1wV3B4NWYxQzE?oc=5",
-      "isoDate": "2025-08-26T08:10:55.000Z",
-      "source": "news.google.com",
-      "raw": "One-third of Swiss engineering firms plan shift to EU, survey finds  Reuters",
-      "summary": "One-third of Swiss engineering firms plan shift to EU, survey finds Reuters",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -599,12 +599,12 @@
       "url": "https://x.com/search?q=%23students"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#private",
@@ -621,10 +621,6 @@
     {
       "label": "#coaching",
       "url": "https://x.com/search?q=%23coaching"
-    },
-    {
-      "label": "#third",
-      "url": "https://x.com/search?q=%23third"
     },
     {
       "label": "#united",
@@ -669,6 +665,10 @@
     {
       "label": "#their",
       "url": "https://x.com/search?q=%23their"
+    },
+    {
+      "label": "#third",
+      "url": "https://x.com/search?q=%23third"
     }
   ],
   "ticker": [
@@ -749,6 +749,10 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVRtb3NVRGVWMko5RzYwMUJJX3FyMDdmOXBTMTZBRE82ZlBLUnlfVk0tcjhBUmZPZUQtXzJEemtVU0owWFB6ZlNLcF84eVpKbzl1Z2N4QUNmQkxISFF5dnFOMV9FMDdaOU5pclRqQXVvckFfWVF1Q24zMlg4NkZrRWVrNFRhbF9XVXVjbjFDWUFka2hVM3dHenBpQnlnQmpTQzFMQjFFdw?oc=5"
     },
     {
+      "text": "SEC survey results: Who should be each football team’s 3 annual rivals? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm83LXZnZVNxNWg5M0FOdTcwTTJKYTZQWmhUemFzSG5OTVdEeVFkVWRRM3o4bFJNalEzU2pFTEFMdEtPM3NLaVRwaGxTMmNJSlBCa0NJd1VXTm9TZExuR0lSSHhRZGt0RUY1VTVnUDNBU0hHYUZSajRCRkx6TFdNbkxBaEMzR2loSGlGZmZHTQ?oc=5"
+    },
+    {
       "text": "White Sox Reacts Survey: Looking ahead to the finish - South Side Sox",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGs4MVctQ1ZYc0d5QTJ6TUVPT3cwaVpwVG9vMllnemxnUEhkbER0cDllT09xakpxMnhRSHhWYzJFZDRKbzhmNjdXWU9yenIweWJ1WTRxWFZZQnpuMWJHZ3AtQkhnY3BTZUxRZVFlbVhPSmJjQUg2SWUxVmNDLW5pSVNaVmt1bDUtbHBXUWFTLTRBMVpvZ0pyZENoSQ?oc=5"
     },
@@ -787,10 +791,6 @@
     {
       "text": "Vertex Inc. Reveals Insights from Summer Consumer Tax Survey Highlighting Increased Off-Peak Retail Activity and Compliance Challenges - Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzEzbUdvZFRHc243UzhXTW40czlWai1FVS04dnhSTWtRUXRaeWFXbm5qM2YxQnF4aXAzQmVscUFXS1dia2hMWjZmalRhcjl2NzhYSkJXN3NadkdVSWZ1ODlXOWZyN3VYbGdhUlNlN2gzaWQ1c21MWUFHOGI4c21FbDVuSzJtcVlmQVpyZldvbHRZZ29wQmNLdzlOZE5GWTVxU28xeHNMQmZqSzZ1V3VobGR5ekhxb3lOd3c5bkt5MU01LUd1bWk2VkpiczJSQUJReVdHd1BmOVJKZUFGRnQ2VktVUVVicGxyWmhuaEEwbzZ0XzZtNnM0YVQtRQ?oc=5"
-    },
-    {
-      "text": "Back-to-School Adds Extra Financial Stress to Students, TD Survey Finds - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXVPYTB4U0lXNnI1bXI0SlZlT3hsTlhIR3hQLW1vNWlwRlltZWxLY1k3d2hkSUJyVElLMnQxdlFwUHZkYmIyZURqS0lOZEFUdGl6Wlc1WnZWa1I2dk9ldEc3Qm4yVzF1bEZOVU50WmdjUklGb1NmRVA5aU56dThxZnRGdWJOV0NCTUM2djdDaE0wb29CV0QySjRxX21CdzBaWjJxekhvZHlnY1k?oc=5"
     }
   ]
 }
