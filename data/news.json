@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T05:10:46.397Z",
+  "generated_at": "2025-08-26T05:15:53.953Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources - KTOO",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWZrVnBoNFlacUh5bGJJUGNiTENndEloOVVjVkoyWEtKN0JOTVgxaHI2aWUyb0EtY3JTWFdVTS1fZWVJMGVxSGVvTmU0ay1uVk1kb0JnRmxZQUtEUjZtMmhrQzUxZ1pwQUp3S2lSbjR2Qm56RldpMnM1SThkUzMtUVRxY1Y4dnBGMGMyQU5SdnVzUWlyZFdsRmpJc1FONzFLTjN5Mm5xTm5UVU1xOVozd1lIMDlpOTZQUnB5d1ZLRko?oc=5",
+      "isoDate": "2025-08-26T05:11:01.000Z",
+      "source": "news.google.com",
+      "raw": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources  KTOO",
+      "summary": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources KTOO",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Call for Focus Group Participants for Bird Library Assistive Technology Room - Syracuse University News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXRtanZ1My1NYkg3aXJsbHVybnJEU3pMLWd2MFROSWE1MnhzUjc0eklRYm1XbHRwUGZ6RmVvNVIzMWJZNDU5amRWUm5yQ1BHbWdPVjRuWkhKejljWEREZXFBWlYwNGtmZ0JsR1dvODJQSXg3LUxrWV9jQTFZZ0hHdnRFNHhUSFpMMGNmTWh3cm9VSTY2YnBTc1V6SEJVVnF2YTkzb29Qbm1HLXF5THByaVBOd0g?oc=5",
@@ -506,17 +517,6 @@
       ]
     },
     {
-      "title": "Nomura Says Survey Shows Many Are Skeptical That U.S. Tariffs on India to Be Implemented - MarketScreener",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXZidThSZDMwQzFxYUREMWpWcHQxQ0Y3b1piR1liM1BsSlk1Ri1aclk5U0R4dHcwSnNncTBZUmdybE01alFUTUVoSTNvTWNkOGkwM0lGOW5QcFdqbmlObzZCWW1pdTQ2QndEekJGZnN4Vm5fTHBUbUc5NEZyR2RsUDlma1NvWHRCZ1B2UnVyazVYUE94QkRpdEZ1UDBPWENMcWhUMHlPZUZXNHdLRVlHRVVVcW56Ymd5d2FoZGVBOTJIWUJoWEV4MkhQZmhDeXBDcTh0MjF4SQ?oc=5",
-      "isoDate": "2025-08-25T15:26:08.000Z",
-      "source": "news.google.com",
-      "raw": "Nomura Says Survey Shows Many Are Skeptical That U.S. Tariffs on India to Be Implemented  MarketScreener",
-      "summary": "Nomura Says Survey Shows Many Are Skeptical That U.S. Tariffs on India to Be Implemented MarketScreener",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Primary Hydrogen Begins Geophysical Survey at Wicheeda North - Hart Energy",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWtKOTdZMDdRbjFWdkFSLUxCaFJhc0h2TDlsQUhZRDZ2MFRhMlQ5VzBkVTd0Y0libEU2MGpndklFT1I2VHpjNGYtZWMySWJzQnVQUld2MDBNaF8ybmVmWThKaXFmNXE4WC1SZTNOeDFKcHZqWHFPNkZ3LTlBSFBYWFRkUkYtUjV2V012eG5jMVE3YVFlblE3eW04V0ZYd0pGNXNOcg?oc=5",
       "isoDate": "2025-08-25T15:21:10.000Z",
@@ -584,6 +584,10 @@
       "url": "https://x.com/search?q=%23education"
     },
     {
+      "label": "#resources",
+      "url": "https://x.com/search?q=%23resources"
+    },
+    {
       "label": "#reveals",
       "url": "https://x.com/search?q=%23reveals"
     },
@@ -638,13 +642,13 @@
     {
       "label": "#initiates",
       "url": "https://x.com/search?q=%23initiates"
-    },
-    {
-      "label": "#into",
-      "url": "https://x.com/search?q=%23into"
     }
   ],
   "ticker": [
+    {
+      "text": "US House Natural Resources Committee members tour Alaska to survey mining, timber resources - KTOO",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWZrVnBoNFlacUh5bGJJUGNiTENndEloOVVjVkoyWEtKN0JOTVgxaHI2aWUyb0EtY3JTWFdVTS1fZWVJMGVxSGVvTmU0ay1uVk1kb0JnRmxZQUtEUjZtMmhrQzUxZ1pwQUp3S2lSbjR2Qm56RldpMnM1SThkUzMtUVRxY1Y4dnBGMGMyQU5SdnVzUWlyZFdsRmpJc1FONzFLTjN5Mm5xTm5UVU1xOVozd1lIMDlpOTZQUnB5d1ZLRko?oc=5"
+    },
     {
       "text": "Call for Focus Group Participants for Bird Library Assistive Technology Room - Syracuse University News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXRtanZ1My1NYkg3aXJsbHVybnJEU3pMLWd2MFROSWE1MnhzUjc0eklRYm1XbHRwUGZ6RmVvNVIzMWJZNDU5amRWUm5yQ1BHbWdPVjRuWkhKejljWEREZXFBWlYwNGtmZ0JsR1dvODJQSXg3LUxrWV9jQTFZZ0hHdnRFNHhUSFpMMGNmTWh3cm9VSTY2YnBTc1V6SEJVVnF2YTkzb29Qbm1HLXF5THByaVBOd0g?oc=5"
@@ -760,10 +764,6 @@
     {
       "text": "1st Quarterly Periodic Labour Force Survey: At 29.6%, unemployment rate in Himachal highest in country; double the national average - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdVhYRGo2Si1ubThsVThQZ2txZ0Z3RjJqRU5TNkttYzRxaEZWMEhFem9Vc3Q0MDZXNEhneWFFTWNRTjFqb2d2TXB1c3o0SGliTVpSRDBES2N6RWxqSTdVSW1pa0hBd3Q0cWZZam13a19fZjhIZHlVa2dSSjBEZC13QU9wVGxwRlg2R0xpaEQ3bENEU1VBYVpzaUxkTkk4emF1QkhoNDk4bXQwTVJXT3lGbnFzYXUyMEVPUURoNEFGY0EwSnd3NWFjSHBCWmE5SVdWQk5WUmFwcGR5TXN4a3A3YnMyVFRTbE4zaERuckZFWUtvcU5KTU5TUXNGcWgzcXprX1ZBSlB4c1PSAY8CQVVfeXFMTzdDdmRHSGFYZUU4RldET1liWXlucFpyaXVVanpfdENWdW5qZUx6c0hkZ3BkQUZQanZQSHdnQUhWeGtkbkNuQktVa1NEY250OFZjNl9ZZ3I0SnBMeWQ0eThwMU1yQVVQYTN1bF9ZWU0yZ3RnQ3FydWR5TUVmUnk5dUpKOEozMXg4azB4MGxSVkFxQjVIdDU5Ym1sZjVVLTNiOEc0UGhVRzJ1VDVhYjY3VGVHYjNvZVZXck5KUzVnMVl3OUlYenViZ0tZb1Q1YXZXa0h3T2RtakdQWnY4czBDTjNmWlk0YmxyWm1CaWpIb2VKb3lvV2xncnYzTG1DOFo0Z0E5SGRnUEhqNDBqTjFnWQ?oc=5"
-    },
-    {
-      "text": "Survey: People not aware knee, groin pain can be signs of hip problems - The Ohio State University Wexner Medical Center",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10NTMyTjltWVRpclQzb0JQbUt1UkFfYWwweVRKYkFQYVdxbkdyWUxUczV2Z1RFVzU0dEhMMmVJdHlUM2hsdmdFTWFHNi1ScFB3Q3NhQTNDVkdJeWkwc1JpV1JYdnJHVEJEY0NjamFLUEUxdXlmVFJfNHVqTWw?oc=5"
     }
   ]
 }
