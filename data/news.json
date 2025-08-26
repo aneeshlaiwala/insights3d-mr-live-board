@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-26T07:10:51.263Z",
+  "generated_at": "2025-08-26T07:15:28.462Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey - The Assam Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTV4Y0o2UUhBeExITFliaHJzc3RydFVsRzZkbkQ3Wk1qN0lBc2tIZGQyMlRFQzdiVlFoTnJtUXBfYVZnbi1hT1RRUXdNUDRpVE1LOE03ZUFIVFMwaXZUZ0tEQ2k2REU5cW95NTh0WHZ1YmtscXkyczd5RW1FeExyaVdLUC1wVGdZQkRLdU5LaE5lUXJYY04teDlOeU5OWmdqVm1oUzdhajFoaWFqOTdwVkFXSnB4elJNNUxORzR4RkRjbDl4amdncXBLa9IB0AFBVV95cUxPLXI2bmxqNjc2MGQ3czBfTTl5bVhfNDRiMzlrTW80Rlh0UWFBWWtfay1PZ2FVdjNMVW0tNEVndW1KQzZleEVUczZkNFlCN3kxaG1ESmhuU2ZxOUNnNldfNzdEeXM5Z0VUODRHMldYdG9oZHdHa2F1V0F0TlNTRU1OMjFLeGVtZWNoVjFfd3JNekdBZHFUWlVid1ZrY1liem9WZ01udU9lZTJtRXRxXzNVa29EZTBTREUzaUFXV3BNUHZtWXV1cFdObDBibW5uV3JQ?oc=5",
+      "isoDate": "2025-08-26T07:09:18.000Z",
+      "source": "news.google.com",
+      "raw": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey  The Assam Tribune",
+      "summary": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey The Assam Tribune",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Everything, Everywhere All At Once: The chaos and clarity of modern customer experience - MyJoyOnline",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1hiWDRldzd3V2RvSG9TNk82cVZJRldneE01RDNnRkJjVTFGTjkyS05PejdZUlBCWmZIdTdKOXFIUEc3dWZnU1U1Sm5xT1Z5aXcxRWo4WDFSMy00ZDFLUWpDY1h5djZ3c1N4R2pqMnVMTFpDVldlTVo4cktKSllfaWJ0NzM0aUp6WE5hTUZKdmo0bDIwX3BPRVpkWDFwelRxRFU2T3JqQTNSczNMUUEzRXNhTHY?oc=5",
@@ -106,17 +117,6 @@
       "source": "news.google.com",
       "raw": "Shearwater awarded two-month OBN survey in Angola  TradingView",
       "summary": "Shearwater awarded two-month OBN survey in Angola TradingView",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "True North Copper Says Survey Confirms New Drill Targets at Queensland Project; Shares Rise63% - MarketScreener",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWh3cEwySzBmVVludjJBNmtqR1VyNk5iSEdEV3cyNWl6WXk4LWVHSkNUZkhpLVloZkFfUE1rS3dNWHlIVUlhb0hXMkxPZVkzNWVQN1ZmU1R1WjJaTkRiYUFuR1NobFpqVXBWTlNILXBQUU9FWExsQXhoNlRUUkE4Ml9kTUNzUXhpRnJkYUxadmxLS1Rfb3ZwcnRtZEozTDFGQk12N1lLb1hjNTFLeERLMzRCS25WS0ZsQnhWYjJOYkdrQ2xyUDFrME8tSXU5T09ySUNWZ3ZvbWhjMGlyRGc?oc=5",
-      "isoDate": "2025-08-26T05:28:07.000Z",
-      "source": "news.google.com",
-      "raw": "True North Copper Says Survey Confirms New Drill Targets at Queensland Project; Shares Rise63%  MarketScreener",
-      "summary": "True North Copper Says Survey Confirms New Drill Targets at Queensland Project; Shares Rise63% MarketScreener",
       "topics": [
         "(Other)"
       ]
@@ -593,6 +593,10 @@
       "url": "https://x.com/search?q=%23opportunities"
     },
     {
+      "label": "#over",
+      "url": "https://x.com/search?q=%23over"
+    },
+    {
       "label": "#project",
       "url": "https://x.com/search?q=%23project"
     },
@@ -639,13 +643,13 @@
     {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
-    },
-    {
-      "label": "#food",
-      "url": "https://x.com/search?q=%23food"
     }
   ],
   "ticker": [
+    {
+      "text": "Adi student body warns of stir over paramilitary presence in Siang hydro project survey - The Assam Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTV4Y0o2UUhBeExITFliaHJzc3RydFVsRzZkbkQ3Wk1qN0lBc2tIZGQyMlRFQzdiVlFoTnJtUXBfYVZnbi1hT1RRUXdNUDRpVE1LOE03ZUFIVFMwaXZUZ0tEQ2k2REU5cW95NTh0WHZ1YmtscXkyczd5RW1FeExyaVdLUC1wVGdZQkRLdU5LaE5lUXJYY04teDlOeU5OWmdqVm1oUzdhajFoaWFqOTdwVkFXSnB4elJNNUxORzR4RkRjbDl4amdncXBLa9IB0AFBVV95cUxPLXI2bmxqNjc2MGQ3czBfTTl5bVhfNDRiMzlrTW80Rlh0UWFBWWtfay1PZ2FVdjNMVW0tNEVndW1KQzZleEVUczZkNFlCN3kxaG1ESmhuU2ZxOUNnNldfNzdEeXM5Z0VUODRHMldYdG9oZHdHa2F1V0F0TlNTRU1OMjFLeGVtZWNoVjFfd3JNekdBZHFUWlVid1ZrY1liem9WZ01udU9lZTJtRXRxXzNVa29EZTBTREUzaUFXV3BNUHZtWXV1cFdObDBibW5uV3JQ?oc=5"
+    },
     {
       "text": "Everything, Everywhere All At Once: The chaos and clarity of modern customer experience - MyJoyOnline",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1hiWDRldzd3V2RvSG9TNk82cVZJRldneE01RDNnRkJjVTFGTjkyS05PejdZUlBCWmZIdTdKOXFIUEc3dWZnU1U1Sm5xT1Z5aXcxRWo4WDFSMy00ZDFLUWpDY1h5djZ3c1N4R2pqMnVMTFpDVldlTVo4cktKSllfaWJ0NzM0aUp6WE5hTUZKdmo0bDIwX3BPRVpkWDFwelRxRFU2T3JqQTNSczNMUUEzRXNhTHY?oc=5"
@@ -681,10 +685,6 @@
     {
       "text": "Shearwater awarded two-month OBN survey in Angola - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjNjMzdsZjBQTzBmOEhyS3E5YU40RFdIWTJWSm5VX2stUWtxOWs1Z2xucEF2M3BLWkdER1FIcTNHZlV5U3JPZEN5VFBJcTI3NkxvZEQ2Q1BpQlhZbnQ0OWs5TGMtRmNJc2JteWJUYjBRQ3g2TzFUaENpeFZ4MW5aVDUwNThHdEpBYVdDR3k5d3B3bVh1U3NWcWgyODJtOTBxX2ZIbUk1RGpNSU1LVVl1c0FDZXpQV2JtUkdhVm9ZRVFySGs?oc=5"
-    },
-    {
-      "text": "True North Copper Says Survey Confirms New Drill Targets at Queensland Project; Shares Rise63% - MarketScreener",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWh3cEwySzBmVVludjJBNmtqR1VyNk5iSEdEV3cyNWl6WXk4LWVHSkNUZkhpLVloZkFfUE1rS3dNWHlIVUlhb0hXMkxPZVkzNWVQN1ZmU1R1WjJaTkRiYUFuR1NobFpqVXBWTlNILXBQUU9FWExsQXhoNlRUUkE4Ml9kTUNzUXhpRnJkYUxadmxLS1Rfb3ZwcnRtZEozTDFGQk12N1lLb1hjNTFLeERLMzRCS25WS0ZsQnhWYjJOYkdrQ2xyUDFrME8tSXU5T09ySUNWZ3ZvbWhjMGlyRGc?oc=5"
     },
     {
       "text": "Bin lorry survey 'reveals Gloucestershire mobile black spots' - BBC",
