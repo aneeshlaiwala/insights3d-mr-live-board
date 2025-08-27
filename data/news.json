@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-27T15:10:35.497Z",
+  "generated_at": "2025-08-27T15:16:01.120Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -28,17 +28,6 @@
       "source": "news.google.com",
       "raw": "PNC Bank Survey Offers Insights, Analysis on Financial Wellness Mindset Among U.S. Workers and Employers  PR Newswire",
       "summary": "PNC Bank Survey Offers Insights, Analysis on Financial Wellness Mindset Among U.S. Workers and Employers PR Newswire",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Oregon revenue department asks taxpayers to take IRS survey to protect free, online tax filing - Oregon Capital Insider",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGtGRTRkaFBBX3RIOHd5WjQyMFpFTGhQLXpsWEQwSlVLcUhOS3FYY3BDRHBaWlpLYmh2NC15a0ZDNUZFTWRjVEV6RDE4SmVyRGRBZFJiTVgzdUZTUUFwSV94SUlXdVRmelJJVVFhbGdmZDJ1dkhmVGwxTi1jZ1Z3djE1MDNHU0N1blJPMHdqVVMtYkgycWR4Um1NWkRidVdpLVJyV0thN01KNjltV25PRDg1cHJRMklNTTJFOHEwWEt3RlN1RUQ1b293MGtDVDFKdVdBQg?oc=5",
-      "isoDate": "2025-08-27T15:02:55.000Z",
-      "source": "news.google.com",
-      "raw": "Oregon revenue department asks taxpayers to take IRS survey to protect free, online tax filing  Oregon Capital Insider",
-      "summary": "Oregon revenue department asks taxpayers to take IRS survey to protect free, online tax filing Oregon Capital Insider",
       "topics": [
         "(Other)"
       ]
@@ -561,6 +550,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "Stamford developer launches survey asking residents how former Fairway site should be used - Stamford Advocate",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2NsN1lsbDI0cWRURTlFTkZQTlR4SVFFR3doR3YtMGRQb2htMG40eGtmZ3B5MDB4enI2VFFydmtqNmp0cllNTUFTS0N4bW1Mb3hNLUVZOXQwZGlpb3VoNGoySnhacFJTUXUwdEFWZmhWZkNSTnVCYXlMd1VudV8yMVdOTUVSTGc4ZFdvYW04MFJrLWJpdGYyeFMtRDBJVTNPSGllTFVWeWdySXc?oc=5",
+      "isoDate": "2025-08-27T09:21:01.000Z",
+      "source": "news.google.com",
+      "raw": "Stamford developer launches survey asking residents how former Fairway site should be used  Stamford Advocate",
+      "summary": "Stamford developer launches survey asking residents how former Fairway site should be used Stamford Advocate",
+      "topics": [
+        "AI in MR"
+      ]
     }
   ],
   "funding_ma": [
@@ -638,10 +638,6 @@
       "url": "https://x.com/search?q=%23project"
     },
     {
-      "label": "#revenue",
-      "url": "https://x.com/search?q=%23revenue"
-    },
-    {
       "label": "#school",
       "url": "https://x.com/search?q=%23school"
     },
@@ -656,6 +652,10 @@
     {
       "label": "#adoption",
       "url": "https://x.com/search?q=%23adoption"
+    },
+    {
+      "label": "#assn",
+      "url": "https://x.com/search?q=%23assn"
     }
   ],
   "ticker": [
@@ -666,10 +666,6 @@
     {
       "text": "PNC Bank Survey Offers Insights, Analysis on Financial Wellness Mindset Among U.S. Workers and Employers - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDdlbS13U3B2TDVPNTkwNFVad01fX1laTTVscEFWakxlSnhIMTRHRGtPUW9uZE9KcXkzVnVocHM0VGJtdC1qdWE4dEoyZVJrY190SzVKdE95bXduQlpzMjZFbHA2cTRKc0ZKcEhsMHFlSXFuWmF4UERmbHNrd2d0dncxcmZ0WW9XNXBpM2puZ0pBLU5lcVltRDJwcHdZNXpDT25pcy1LREhHNHRfcWhuZC1GSjVia3JlblhjcXV0VzNpc1NVbGdhY3l5ZFhoRTNpeTBDOGlmOU1zRGN3ZFA2R1plWEN5VllPZmxYeXR3?oc=5"
-    },
-    {
-      "text": "Oregon revenue department asks taxpayers to take IRS survey to protect free, online tax filing - Oregon Capital Insider",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGtGRTRkaFBBX3RIOHd5WjQyMFpFTGhQLXpsWEQwSlVLcUhOS3FYY3BDRHBaWlpLYmh2NC15a0ZDNUZFTWRjVEV6RDE4SmVyRGRBZFJiTVgzdUZTUUFwSV94SUlXdVRmelJJVVFhbGdmZDJ1dkhmVGwxTi1jZ1Z3djE1MDNHU0N1blJPMHdqVVMtYkgycWR4Um1NWkRidVdpLVJyV0thN01KNjltV25PRDg1cHJRMklNTTJFOHEwWEt3RlN1RUQ1b293MGtDVDFKdVdBQg?oc=5"
     },
     {
       "text": "Sep. 17 – Linda Lighton: Love & War, A Fifty-Year Survey Book Launch - kcstudio.org",
@@ -778,6 +774,10 @@
     {
       "text": "New WalkMe Survey Shows Shadow AI Is Rampant; Training Gaps Undermine AI ROI - SAP News Center",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWVCWUVkMk5ZUDQ2MkZhM2pxZTV3dzFadmUyVkZWalBvbkI3OWVGX3dSVXBEcmNVY0M5a2hPaHczZEs1QkM5MWQ1cmtqaXFuU2RWUE90VXBHb25EVktKMFRTcjNaQlRabmtDNjFfTXdxdFVZUGF6Y0swTWh5NHY0UVNDLTdlTXQ3YnFkaVBFYWhHVlppLVpvWg?oc=5"
+    },
+    {
+      "text": "Statewide survey explores SD’s relationship with water; Deadline to complete survey is Aug. 31 - DRGNews",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjl3ODQ2TjJ1Z3NDdzI4VnkwSTZPMjV4bU1ldFJVVnVrY0tBYmJLbmJVMVBEQjBVdnJxbS1lNTlfZ2Y3XzJVTzVzYTR0b1k3dmJPUGJycVZvX0pTeC1ncWdrTVdSWXJEdVFFOUtuYTk4d2l4VjV2cDNPbUxoN3ZjN0ltR3F2cnFRNGRfU2NOUHA3MDZLZlBBa2p3bEU3UGZqUExsdjRYTzNfajNaeTJ6MmVMZ2VyUnUza1d3MmVBQWM?oc=5"
     }
   ]
 }
