@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-27T05:10:13.310Z",
+  "generated_at": "2025-08-27T05:14:55.634Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -39,6 +39,17 @@
       "source": "news.google.com",
       "raw": "Trust in local media is on the rise, new survey reveals  Yahoo News UK",
       "summary": "Trust in local media is on the rise, new survey reveals Yahoo News UK",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Exclusive: Urban- Rural Divide Students of Private - Government Schools in India: Survey - jharkhandstatenews.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1hab203VTM0VWpqQVhucy10MFJYc29Ib2tlREh1ajlPRHcxcWdrZDhycVhfdWg1X1otUF9VZVJOVGJ2MHVsNXVlbFEtOE1ZUXAyYkc5em41WllaZDg3UEtfMzl4ZHotQXNuWkdsN1pQN2k3TEF5WUVMemhjdjlQRnpwWHEtSl9oUkRXa1Zuckc3WmJMbHpQRDJSQ2h0MTZrOE1jN1NsQ3l6bHB1eEhkM2ZMSVZCdmpWQzA4QUFrd0VrV2ZNSThOUjJVenh3ZjljeUxoLVRoTQ?oc=5",
+      "isoDate": "2025-08-27T03:02:01.000Z",
+      "source": "news.google.com",
+      "raw": "Exclusive: Urban- Rural Divide Students of Private - Government Schools in India: Survey  jharkhandstatenews.com",
+      "summary": "Exclusive: Urban- Rural Divide Students of Private - Government Schools in India: Survey jharkhandstatenews.com",
       "topics": [
         "(Other)"
       ]
@@ -96,6 +107,18 @@
       "summary": "Business Survey Index Shows Improvement After 3-Month Decline Businesskorea",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUFuYUVNcW1WOWFpTTE3VHNhanNvdVBvd2R0TVdTdGsxUk5xUjJMUzJSbDU2a2RBUEk5QUVvb3JyNFBEZEU4YXVJb0FoXzdzN3ZSeVJya0QzdFdYV1FyU0pFRDluWGNuaXhaektkZGxVZDdxQjVVcnBucWtRT29iUFNVQUJUOE5hb0VvMnNjYWh2RUFsNnBuRkl2Y2pBQUxhbEZsd1lLS2s5djc1elQ5TmFva1YzVjhI?oc=5",
+      "isoDate": "2025-08-27T00:56:15.000Z",
+      "source": "news.google.com",
+      "raw": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint  PYMNTS.com",
+      "summary": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint PYMNTS.com",
+      "topics": [
+        "AI in MR",
+        "CX"
       ]
     },
     {
@@ -537,28 +560,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Half of college students say their mental health is ‘fair’ to ‘terrible,’ survey finds - Higher Ed Dive",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemJ6ZDlwa0txbzlXai1tSWVRVnJKLU9jMGVJc0xNdk1kdF9CcXF3Y1BBU1UzWEEtLTFtWEFxV3lJZFNtandSVVJZdmc5Zk1TRk5uWXl0c01KbkRNZ09rQnowTnVJS0V5OU9CSDJRM1ZCNTlRYzcyVUdNTmJsQjRFV3pKQmJWbTNVV2d6alU3Qmt5WVo4TGc4b1VxNFZ1MWFTQklyRm8wUjlxeVVMNHhWX1lR?oc=5",
-      "isoDate": "2025-08-26T09:17:54.000Z",
-      "source": "news.google.com",
-      "raw": "Half of college students say their mental health is ‘fair’ to ‘terrible,’ survey finds  Higher Ed Dive",
-      "summary": "Half of college students say their mental health is ‘fair’ to ‘terrible,’ survey finds Higher Ed Dive",
-      "topics": [
-        "AI in MR"
-      ]
-    },
-    {
-      "title": "One-third of Swiss engineering firms plan shift to EU, survey finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWQxenVZNURGbmoxaE45WVZKSjM5NW9xQXVoNS1ud2RUd0NqNmQyTzg4RmcwSXprYnh3NGdBUVJ5MDdsNEx1RFZXcEUxckJzM3ZidXV4Y19xV1oxWG92LW1zYzRTN3gyckpTZ3JLS1hUTDdRaFpNNW9YbXBfLVlkSEFsRHdaQkFCcnFXVUZXNnRERW9lSE1GejlzSDRaVU1wV3B4NWYxQzE?oc=5",
-      "isoDate": "2025-08-26T08:10:55.000Z",
-      "source": "news.google.com",
-      "raw": "One-third of Swiss engineering firms plan shift to EU, survey finds  Reuters",
-      "summary": "One-third of Swiss engineering firms plan shift to EU, survey finds Reuters",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -572,40 +573,40 @@
       "url": "https://x.com/search?q=%23shows"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#business",
       "url": "https://x.com/search?q=%23business"
     },
     {
-      "label": "#support",
-      "url": "https://x.com/search?q=%23support"
+      "label": "#private",
+      "url": "https://x.com/search?q=%23private"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
+      "label": "#support",
+      "url": "https://x.com/search?q=%23support"
     },
     {
       "label": "#community",
       "url": "https://x.com/search?q=%23community"
     },
     {
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
+    },
+    {
       "label": "#group",
       "url": "https://x.com/search?q=%23group"
     },
     {
-      "label": "#health",
-      "url": "https://x.com/search?q=%23health"
-    },
-    {
       "label": "#month",
       "url": "https://x.com/search?q=%23month"
-    },
-    {
-      "label": "#private",
-      "url": "https://x.com/search?q=%23private"
     },
     {
       "label": "#results",
@@ -658,6 +659,10 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EYkhQV3o5NWxsUU1sOV9QcUlqQUFxWlBmdkNveWxzMjVsUzlSMlFCYmdfdGVpaWx1R0h3MUtqMHpOaE9mbzJUR0JQSXV1TFp4NDZFSkNSNVAwR1YxQUdlNFpzUW4tdUxaaVVQbS1CWWVNelNTc1dybFpR?oc=5"
     },
     {
+      "text": "Exclusive: Urban- Rural Divide Students of Private - Government Schools in India: Survey - jharkhandstatenews.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1hab203VTM0VWpqQVhucy10MFJYc29Ib2tlREh1ajlPRHcxcWdrZDhycVhfdWg1X1otUF9VZVJOVGJ2MHVsNXVlbFEtOE1ZUXAyYkc5em41WllaZDg3UEtfMzl4ZHotQXNuWkdsN1pQN2k3TEF5WUVMemhjdjlQRnpwWHEtSl9oUkRXa1Zuckc3WmJMbHpQRDJSQ2h0MTZrOE1jN1NsQ3l6bHB1eEhkM2ZMSVZCdmpWQzA4QUFrd0VrV2ZNSThOUjJVenh3ZjljeUxoLVRoTQ?oc=5"
+    },
+    {
       "text": "An extensive survey on helminth community of Caretta caretta from the neritic feeding grounds of Northwestern Adriatic sea - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PRVp1aXFLRmF5XzhleWstc3pqNGdKcmtGVmx2Vk9DTjVlLW1xZzlqU1d4VEN0U0xmVXVWRmlrTGZDWS1QLUYtS2tzMjhxU1hjWGhOeTRQVGFUNmVFb1FV?oc=5"
     },
@@ -676,6 +681,10 @@
     {
       "text": "Business Survey Index Shows Improvement After 3-Month Decline - Businesskorea",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZ3N4RnYzMmpQMWxtcmxlaWY5YzVSWUt3b2c4NVN4Q1BXa2psY296TVo2Wmd6SXc5WHZKdnVhX1hxc09RNWREVG9mcTF0VzRPUUpWMUhBVTJTZW9jYTVEZG02c2FIZjdHQ1VPdTkwWjhSRnRi?oc=5"
+    },
+    {
+      "text": "Thoma Bravo to Expand AI-Powered Customer Experience Offering by Acquiring Verint - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUFuYUVNcW1WOWFpTTE3VHNhanNvdVBvd2R0TVdTdGsxUk5xUjJMUzJSbDU2a2RBUEk5QUVvb3JyNFBEZEU4YXVJb0FoXzdzN3ZSeVJya0QzdFdYV1FyU0pFRDluWGNuaXhaektkZGxVZDdxQjVVcnBucWtRT29iUFNVQUJUOE5hb0VvMnNjYWh2RUFsNnBuRkl2Y2pBQUxhbEZsd1lLS2s5djc1elQ5TmFva1YzVjhI?oc=5"
     },
     {
       "text": "Shearwater Awarded Two-Month OBN Survey in Angola - The Maritime Executive",
@@ -756,14 +765,6 @@
     {
       "text": "Bangladesh Businesses Say Tax Rates Unfair | Tax corruption key barrier to business growth: CPD survey - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2xWamRud1AzdEtrbFlzcGRvRzM2cHlMYnlfOE5pWF9FMTcyWDY0OGhPYVZwU3V4ZjRYRGNIcFd0WnkwZlRvRm5PU0tuNUpmZ1N3VVZ4TWFGYzRyWWZtbDRqMld6R013U3RPcFdXZGxfVWIwdzhfWm1MdHJGTDlmNnl3WTB0S0xvTUhwQWMxRzBrLTNKaWhwZDNuWnk1QzRPVEJ6V2NxOA?oc=5"
-    },
-    {
-      "text": "8x8 Expands Native SMS Support in Australia to Advance Customer Experience - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1NNaFNDa3drcG1VeG1acS1sLVY5UkNULUV3dlMtZnMyQVlkLTdoUnJyM3d3LUxyN3dhVVdnZTZhSTlhOHhqMVFQZXItWnRjeVFRRllDN1JHN0hxbkktWUhadDIxMXpNbnhoMGVOMllkVWdVSVIzc2xRTnQ5TnM1MG1Nc2NxQ1YwRVViaEQ3REtKbDNfekxKN19QNS1kdnQ3Qy1hbTJIRGoxQ3ZzUDdOUnpXUzNVWG1MakdURmctSzBtZFNKMUo3T0xqTQ?oc=5"
-    },
-    {
-      "text": "Using digital disruption to create next level customer experiences - Digital Insurance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdlA3M2U3TkR6TUpWWnBTUERPX3NHcTRFVjJGaUZSSEZDbTl5eGUtTEFUV3BlVDE4Z3p2RDMydDhBc0cxdlQ2RDVPcW1EUkNzWjF1ZnI5Q1VRSi04WUlrQjFoUVc2MGYzVGRBMUtHcWNpS21HTjFyTzhOcDNoWWRCQWJINGZzQW5WSWl4aWlWOA?oc=5"
     }
   ]
 }
