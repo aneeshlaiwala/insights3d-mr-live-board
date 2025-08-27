@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-27T11:08:40.911Z",
+  "generated_at": "2025-08-27T11:12:59.039Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -79,7 +79,7 @@
     {
       "title": "Shearwater Geoservices bags survey brace in Africa - Splash247",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSYzVoU3dYTGJuRVBBQmpCeF9PMmZySjE2cE4wdEJRME1qckstYjRtLXIxbVV0OTdmMGNMOU40UGllenUzRkg4OFBZUExPREVld0phcGJ2NVpHMFhqT1NyMVBnVk11WWhsQy1PRU9TSzRLWWlNR05DeV91UWw2Zw?oc=5",
-      "isoDate": "2025-08-27T10:44:50.000Z",
+      "isoDate": "2025-08-27T10:56:58.000Z",
       "source": "news.google.com",
       "raw": "Shearwater Geoservices bags survey brace in Africa  Splash247",
       "summary": "Shearwater Geoservices bags survey brace in Africa Splash247",
@@ -107,6 +107,17 @@
       "summary": "Fresh survey reveal diverging fraud trends in the Nordics Tietoevry",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "MoH launches Kuwait Nat’l Health Survey’s 1st awareness campaign - Kuwait Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUNWZkU0VTkxb19tZlhyTlFZT3JSSHF0WkNnZW9OYWQtc2NCNzhGdi1MbEdsaDZGRjQ2SUh3Z1RaY2FuZGZQaTNJWFFROFROaUtpRVl2dldlM0VXZjRoclpkTzJuNThYVmtPZnZVSGhWVTFDaUNpVUhnY09BUGFyZWNyVWgyQ3c5MExNWGpHNEdNdnRSOC1MWlJ3VGN2cmdaVUN1OXlhVHR1YUh0Yl9ReHg3MmctRWhNWE1V0gG_AUFVX3lxTE45eGFvQmJXd2d4QTRqcnk5T09wUjh4blZMTk9jTTZwd1oxMndTdm53STlmRUxxVnlvZjdPcW9zb0NfcGQta2NtU2xtcElnSjY4d3Y0eUJhdGlnem5TdE5odlRtanNGX2E3RnpyQndjeHEwQXFoOENfb09vMDVQWUVkUVBielB0RmozT1dndUFJZFREZUFaeXF2TURwd3lTdzF2NXJnVlRYZGgzNFVaT1BRWV9RY0MwNTYtTDRjakNN?oc=5",
+      "isoDate": "2025-08-27T10:38:10.000Z",
+      "source": "news.google.com",
+      "raw": "MoH launches Kuwait Nat’l Health Survey’s 1st awareness campaign  Kuwait Times",
+      "summary": "MoH launches Kuwait Nat’l Health Survey’s 1st awareness campaign Kuwait Times",
+      "topics": [
+        "AI in MR"
       ]
     },
     {
@@ -550,17 +561,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Microsoft survey hints more Perplexity Comet-like Edge browser features coming to Windows 11 - windowslatest.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDZoNWd1bnRNRlJMOF9tR1cwQTJScUlqd2pBSlo0dTRLNDdSQk5hQ1dQSExORTZOSVFaeE43R3ZENm5iUjd0TXN3U0RmOEJqcEJFazljQjBRSVY5U3VwcG9wY3VHMk1uZ0d3ZTluNkVQTDdyMlNuVlVFejNmZlNHZjNZMjVFam01LW13cGozVVMyRkFuZWJIYUg1cFRkMDFWMnJKNXFxX05pVnZVRDBmc3A0MXNkdGROUU1MaUJwOFpOc1V2YjdlUEFUazhEU0E?oc=5",
-      "isoDate": "2025-08-25T18:50:21.000Z",
-      "source": "news.google.com",
-      "raw": "Microsoft survey hints more Perplexity Comet-like Edge browser features coming to Windows 11  windowslatest.com",
-      "summary": "Microsoft survey hints more Perplexity Comet-like Edge browser features coming to Windows 11 windowslatest.com",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -590,8 +590,12 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
+      "label": "#health",
+      "url": "https://x.com/search?q=%23health"
+    },
+    {
+      "label": "#launches",
+      "url": "https://x.com/search?q=%23launches"
     },
     {
       "label": "#applications",
@@ -610,12 +614,8 @@
       "url": "https://x.com/search?q=%23falling"
     },
     {
-      "label": "#health",
-      "url": "https://x.com/search?q=%23health"
-    },
-    {
-      "label": "#launches",
-      "url": "https://x.com/search?q=%23launches"
+      "label": "#more",
+      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#mortgage",
@@ -682,6 +682,10 @@
     {
       "text": "Fresh survey reveal diverging fraud trends in the Nordics - Tietoevry",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNT1FRanhXN0ptemN5eVJHOXF6a2hCZUphZUx5b1N6SDk1WWhRQU5yYl9IZjhNR09MT3VtOTRMa1RqTTIzQ0VJMzJBbk9kRTRyeEwtN2JVMFVmQzRDa0hoU2MwRGpBSEs3bzJJVXlHaWx5VDBjcjFHOXVMR1NDbXRpTkRPSEItZE80U2dtZ0hpRXJIOXg5ZWxxcG1JZkZFSldEck5xLWhzYTg1VXlJTkh3cUxMa1pHQjQ1RkJFb0tBc3lfS0dOWFRWMnY0SkE2LXNFS0NDazNqcU40dllQUHpGSUVqM2t4RDlUMDBpamJhQ3lIeF9CTFZaQzdUWkF5OUNwTFY5M21TUV9kWVo0V2x1UWNTaUN1NnV5cThBSU9VX3NBTFJTM2dF?oc=5"
+    },
+    {
+      "text": "MoH launches Kuwait Nat’l Health Survey’s 1st awareness campaign - Kuwait Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUNWZkU0VTkxb19tZlhyTlFZT3JSSHF0WkNnZW9OYWQtc2NCNzhGdi1MbEdsaDZGRjQ2SUh3Z1RaY2FuZGZQaTNJWFFROFROaUtpRVl2dldlM0VXZjRoclpkTzJuNThYVmtPZnZVSGhWVTFDaUNpVUhnY09BUGFyZWNyVWgyQ3c5MExNWGpHNEdNdnRSOC1MWlJ3VGN2cmdaVUN1OXlhVHR1YUh0Yl9ReHg3MmctRWhNWE1V0gG_AUFVX3lxTE45eGFvQmJXd2d4QTRqcnk5T09wUjh4blZMTk9jTTZwd1oxMndTdm53STlmRUxxVnlvZjdPcW9zb0NfcGQta2NtU2xtcElnSjY4d3Y0eUJhdGlnem5TdE5odlRtanNGX2E3RnpyQndjeHEwQXFoOENfb09vMDVQWUVkUVBielB0RmozT1dndUFJZFREZUFaeXF2TURwd3lTdzF2NXJnVlRYZGgzNFVaT1BRWV9RY0MwNTYtTDRjakNN?oc=5"
     },
     {
       "text": "Congestion in School Zones Sparks Safety Concerns Among Ontario Parents, CAA Survey Finds - Newswire Canada",
@@ -762,10 +766,6 @@
     {
       "text": "Survey: Business Execs See \"Better AI Governance\" As \"Essential\" - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaG8wYnRldHctNXkydGFVaTItZl9YR1BKWEJTeDZvMVJzcFRtV0pQWDJlSU9tSWNRMHpJd0ZOejBMQlR1cjhOUjRtTFpER3doZGZIOXJBUzZPLXRSaklxSzhtcEVfOFR0S1pMaUVqajNwcFR0UFV2S3RlYUJySnRnRU9LdzNuUzRlQkZOS2FjTy11aHRuODI3TURfMTh2RjR5MWJ1UUJlM052RFJEbGhHd2hn?oc=5"
-    },
-    {
-      "text": "Survey: UK Plc seeking sustainability managers and climate data analysts - edie.net",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnNmLXB6RjB5bFpBRGJ2SEJwYVhHQ24xeENGNjNMbXE2YzhfNy1vR0s1VnBrN1VEX3ZUdDNjNTkyREpBYUNXa0F1TDU2UHRxbXBDMUtCWU4tLVFxRm9jVGhVZVlpVHBkcTdGWWdzT3l0ZWhPNllLWUp6VkNXV0ZwZFRwaHBfZ2JMNFcxb3FHdThqbHlIRnBqWdIBpAFBVV95cUxQUF9pRERZdjI0WWhRMXJmeFdrVzI2X0gwNHRSX2J5TWxjVC1hLWZrZWJLM0lTT0FMRDRhTmJla2l4YXd2RzgybVZfbnFCaXd6bEk5ZXZrQUc0RUVaLVFBNDgxU05RbnFsNEQ4dHVvWXFUcHZXVHExWEFnNDFISkZTNVJyV3dLbnpHMl8wVFk1eGRKeVBZRXdoc0dVZVEzQ2JqVElvbg?oc=5"
     }
   ]
 }
