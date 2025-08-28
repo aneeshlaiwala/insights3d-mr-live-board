@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T18:13:53.935Z",
+  "generated_at": "2025-08-28T18:21:19.356Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,17 +10,6 @@
     "Qualitative Research"
   ],
   "top_news": [
-    {
-      "title": "Tariffs impacting mortgage borrowers in B.C., says TD Bank survey - Business in Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEFHZHRWNzIxejVhMkV0aWhIdmd5MGYwQnRvbmJmMnU1U0FhUXpiVHZ1dEFjamFLcDd6NjhMUHBwYlRwcFBVM3pwVFVuVlpkU3JhXzhPQW5nTW9ZWXBHN3hlT1NpOXJrRWY3Y2p3TmQ2T05RcUQ3RmxfaW1DZ0k4Yk1hV0FwT3RuUy1fdkVDRmFJOGdZbDdrZV9pNkpFeUZmeWRJd3NKX0dXNTQ4?oc=5",
-      "isoDate": "2025-08-28T17:53:53.000Z",
-      "source": "news.google.com",
-      "raw": "Tariffs impacting mortgage borrowers in B.C., says TD Bank survey  Business in Vancouver",
-      "summary": "Tariffs impacting mortgage borrowers in B.C., says TD Bank survey Business in Vancouver",
-      "topics": [
-        "(Other)"
-      ]
-    },
     {
       "title": "Rival Technologies : Interning in Market Research Changed How I See Every Brand - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR0d0VEwxa0QxOUpOb0d2RzlTdHVaaVpTQXhENVNFQmsxeXpWTEI5N01ZN3VzaldnQ09uNm00UDJ1ZzVScUg3c3pzRGNKQmRpSU9oRXd4TGE2dUdHSjB2Y1JvT2MxczVWajhtMG1mdHhVV01JSUttSlY3Rzh4bGdsTjMtcEpWWmgtUW45cHJlQUNESFhyMVlBQjBVV3QzMWUxMTRZZlZYVTdrdkNMaXlQRkp5Wm5ONkxUUF9wa0R0SFNnczZsVkI2YTd3?oc=5",
@@ -319,6 +308,17 @@
       "topics": [
         "AI in MR",
         "Qualitative Research"
+      ]
+    },
+    {
+      "title": "Take our survey: We want to hear from Vermont’s young and rural voices - VTDigger",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcndNQ1dzLTlTbWZnWUwtV1ZDTXZGamlUSzY0VEdzaHZvTlpQQjE1aHl5ODlQdVBhdVNMM0U0WlcxZHpBQk10VmlXSkFUZDRqX0k2Z0YzVHlnZWFMTElLNGVGbDIycFRMQ2plMkIyNmtFYXlhekxVM2dUMlNvTkw0SDJrX1h6Z3FLTkJmcjE2S0E5VEtxRGNVT1J0cU9oQlNVSU00?oc=5",
+      "isoDate": "2025-08-28T14:46:11.000Z",
+      "source": "news.google.com",
+      "raw": "Take our survey: We want to hear from Vermont’s young and rural voices  VTDigger",
+      "summary": "Take our survey: We want to hear from Vermont’s young and rural voices VTDigger",
+      "topics": [
+        "(Other)"
       ]
     },
     {
@@ -623,10 +623,6 @@
       "url": "https://x.com/search?q=%23progress"
     },
     {
-      "label": "#tariffs",
-      "url": "https://x.com/search?q=%23tariffs"
-    },
-    {
       "label": "#aerial",
       "url": "https://x.com/search?q=%23aerial"
     },
@@ -657,13 +653,13 @@
     {
       "label": "#during",
       "url": "https://x.com/search?q=%23during"
+    },
+    {
+      "label": "#group",
+      "url": "https://x.com/search?q=%23group"
     }
   ],
   "ticker": [
-    {
-      "text": "Tariffs impacting mortgage borrowers in B.C., says TD Bank survey - Business in Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEFHZHRWNzIxejVhMkV0aWhIdmd5MGYwQnRvbmJmMnU1U0FhUXpiVHZ1dEFjamFLcDd6NjhMUHBwYlRwcFBVM3pwVFVuVlpkU3JhXzhPQW5nTW9ZWXBHN3hlT1NpOXJrRWY3Y2p3TmQ2T05RcUQ3RmxfaW1DZ0k4Yk1hV0FwT3RuUy1fdkVDRmFJOGdZbDdrZV9pNkpFeUZmeWRJd3NKX0dXNTQ4?oc=5"
-    },
     {
       "text": "Rival Technologies : Interning in Market Research Changed How I See Every Brand - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR0d0VEwxa0QxOUpOb0d2RzlTdHVaaVpTQXhENVNFQmsxeXpWTEI5N01ZN3VzaldnQ09uNm00UDJ1ZzVScUg3c3pzRGNKQmRpSU9oRXd4TGE2dUdHSjB2Y1JvT2MxczVWajhtMG1mdHhVV01JSUttSlY3Rzh4bGdsTjMtcEpWWmgtUW45cHJlQUNESFhyMVlBQjBVV3QzMWUxMTRZZlZYVTdrdkNMaXlQRkp5Wm5ONkxUUF9wa0R0SFNnczZsVkI2YTd3?oc=5"
@@ -771,6 +767,10 @@
     {
       "text": "Committee on Indian community’s progress holds first focus group session with Hindu organisations - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVm91QnZaZ1M5YjhBd1paNXl5MHc4c3V3T2tfUjNocE9IdFJmZ2dDbmxyU0VibEZva3VuNmZDMHkwMVkwdkhzQjlCdXdfbG5UWkFNUktMUW9uV2szVGZ3S2hJeENfaXdSUzBLRmZkaUR0X0YyMjJZVmxoNGpudXRRLUF0N0hleTFwZ29JeWppNzEzYzF0a3YzWWMxQUdnZXAtVm1mMHpRcnVpQS1Xa20yOVhMcFo4a0ROZ2xIQ2daUmU3UC1Gb0Rlc1BHZE5IaFdE?oc=5"
+    },
+    {
+      "text": "Take our survey: We want to hear from Vermont’s young and rural voices - VTDigger",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcndNQ1dzLTlTbWZnWUwtV1ZDTXZGamlUSzY0VEdzaHZvTlpQQjE1aHl5ODlQdVBhdVNMM0U0WlcxZHpBQk10VmlXSkFUZDRqX0k2Z0YzVHlnZWFMTElLNGVGbDIycFRMQ2plMkIyNmtFYXlhekxVM2dUMlNvTkw0SDJrX1h6Z3FLTkJmcjE2S0E5VEtxRGNVT1J0cU9oQlNVSU00?oc=5"
     },
     {
       "text": "Canada wheat, barley production down, canola and oats up, StatsCan survey finds - TradingView",
