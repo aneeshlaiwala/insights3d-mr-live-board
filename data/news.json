@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T05:10:09.479Z",
+  "generated_at": "2025-08-28T05:15:14.309Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Pharmacies need more financial support - survey - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUDBlWlNTSjZ2Z1lhaFkzUlIyU2xnZGNWSmNFWk12NDFBMldTOS0tVkhVcnBIb3BEU1E0bmh0Uks5cWNvclFEQUFzZzY5a2NQNDNDbjh2Y19vZ9IBX0FVX3lxTE1Wd1ZVU1JZM0FPXzBLZ1VzT0pWNjNIbmFYZHdxa3FYNVZiVnVySzBlZUltMVFRZHZyQThSbVZJVnR4UGdCQjZpdEJ4eUVVNnNSNk41YWdocjgwVVd5aDhr?oc=5",
+      "isoDate": "2025-08-28T05:08:12.000Z",
+      "source": "news.google.com",
+      "raw": "Pharmacies need more financial support - survey  BBC",
+      "summary": "Pharmacies need more financial support - survey BBC",
+      "topics": [
+        "Healthcare"
+      ]
+    },
     {
       "title": "Survey: Radio, Podcasts Gain Influence In Fragmented Media Landscape. - Insideradio.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdjVWaFRZWVRlWW5VSWpWRURCbUZMcXRyWWJMRm1uSHB0MFB3cU9KZllvZVYxOGVkV1Z6QzJyX2VhUFI4ZDkzSmt4RVp0MlV3a0ZPYlc4U3VQelVUUjd0TUs2eHlqbWFpT1dBbml2c2NUaVBtcmNRTGFfQXpkLTNCWC1tUWd1WkV0RWpHaUp5cHJxdDY3SzMyeDNib21PZjdLZUNTb000NmV6dEFTUTdUNm9xbS1nWHZFZ05rdHZsUTdPNmZUNmp2VFlRQ0FMU3VBNlV5bmstMWtzOEFkWG5IdDRoMA?oc=5",
@@ -549,17 +560,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Data User’s Conference on the Periodic Labour Force Survey (PLFS) - India Education Diary",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVNUYW81NWotSVlnbnR2YXFCREZDWGlrT0g5d2FndGpQcmRySVFmcnMtVkxDZVJnYVhKVjVBbk9IVF9FYjM4QTY0NXIxMEFyZHRyc21PcGZRUWxsSjc1X2JITkg1Y2liOTg4X0hxNmpWSktJVU8tdnpyNTY3ZzlyMTZvdDVSdzdtQVFnZEFIeWVUUnFDMWNTbHdR?oc=5",
-      "isoDate": "2025-08-27T14:56:34.000Z",
-      "source": "news.google.com",
-      "raw": "Data User’s Conference on the Periodic Labour Force Survey (PLFS)  India Education Diary",
-      "summary": "Data User’s Conference on the Periodic Labour Force Survey (PLFS) India Education Diary",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -622,8 +622,8 @@
       "url": "https://x.com/search?q=%23confidence"
     },
     {
-      "label": "#data",
-      "url": "https://x.com/search?q=%23data"
+      "label": "#financial",
+      "url": "https://x.com/search?q=%23financial"
     },
     {
       "label": "#first",
@@ -659,6 +659,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Pharmacies need more financial support - survey - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUDBlWlNTSjZ2Z1lhaFkzUlIyU2xnZGNWSmNFWk12NDFBMldTOS0tVkhVcnBIb3BEU1E0bmh0Uks5cWNvclFEQUFzZzY5a2NQNDNDbjh2Y19vZ9IBX0FVX3lxTE1Wd1ZVU1JZM0FPXzBLZ1VzT0pWNjNIbmFYZHdxa3FYNVZiVnVySzBlZUltMVFRZHZyQThSbVZJVnR4UGdCQjZpdEJ4eUVVNnNSNk41YWdocjgwVVd5aDhr?oc=5"
+    },
     {
       "text": "Survey: Radio, Podcasts Gain Influence In Fragmented Media Landscape. - Insideradio.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdjVWaFRZWVRlWW5VSWpWRURCbUZMcXRyWWJMRm1uSHB0MFB3cU9KZllvZVYxOGVkV1Z6QzJyX2VhUFI4ZDkzSmt4RVp0MlV3a0ZPYlc4U3VQelVUUjd0TUs2eHlqbWFpT1dBbml2c2NUaVBtcmNRTGFfQXpkLTNCWC1tUWd1WkV0RWpHaUp5cHJxdDY3SzMyeDNib21PZjdLZUNTb000NmV6dEFTUTdUNm9xbS1nWHZFZ05rdHZsUTdPNmZUNmp2VFlRQ0FMU3VBNlV5bmstMWtzOEFkWG5IdDRoMA?oc=5"
@@ -774,10 +778,6 @@
     {
       "text": "Trusting developers leads client concerns in latest Chicago Agent survey - Chicago Agent Magazine",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UdVI1SkFWWk5WRm5LbTFnRW1fWGRNaFFNZ0Y4VS0xeURxVkpTUmFuVlZ6dEJybzZxWENCUk9WQ0NiZWJrSmtRVlV1cDZSVmllU1JGVEdTSlRhVWUweGhZUXZDbnVXMVdFZWpyUENOdm9ybVBxSVVCb3dB?oc=5"
-    },
-    {
-      "text": "Mortgage Applications Decrease In Latest MBA Weekly Survey - CU Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzFGMVplTjVnV1F4aTBJZTI1OHVuaUNaQUtkZ0E5ZW5Vek9kQjRTOTVlbElWTGFOUm00WHlMeFNIcXZiOE4tczJDTVBycmRsNjBkVGM3Q0x0X0NRd0xOYV9mSVdXck9vWkhFVWo2eldMaFhTeHhJN01NSEQ4djlVQWkyYzQyTEVZQjUtdlZKdGxTMkhNMGFGMDlCWUUzdw?oc=5"
     }
   ]
 }
