@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T21:08:58.441Z",
+  "generated_at": "2025-08-28T21:13:29.626Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -215,6 +215,17 @@
       "source": "news.google.com",
       "raw": "3 in 4 Canadian jobseekers say job security thing of the past: survey  Canadian HR Reporter",
       "summary": "3 in 4 Canadian jobseekers say job security thing of the past: survey Canadian HR Reporter",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "CM Revanth conducts aerial survey of flood-hit areas in Telangana - Siasat.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0cyVWdwM1FjT1dLaGRxdlNhRjNsQkJiV2lRc2dZQ3B4Rkt6M2xpU0t6Z3JIZE9IZ3RlcUV2cHNRUGNRSXhQWFZqRFlkLVRUM3IwQmc3SzZwNUxVSGR0X2otbGpzemRRNjZ5T2lRSkhQcHJYcUN2M0ctclVIYmdkRU9PeVpIb2QzU1VVQUZhdzhDQ0k2NmZMQ0JyRGQ1QdIBowFBVV95cUxOQklYS1c1bVY5c045WjUtdXlTc0h4U2J0VW1UVHBCdG9hRnZacDc0UGNwZTRlbnJrYi1kQjZDX3RnNjY3SmltUDdET1haQlZaSVR5NUpNc2lZU09paVBoSUU2ZUF3alYyeW9nQmVLeDZHNHZ5YTRZSmV5WUVnTlJwYVdlNWxCRVBweEdKSm5JOF91RkN1Sy10NjdCYXYwU3RUR1pz?oc=5",
+      "isoDate": "2025-08-28T16:51:00.000Z",
+      "source": "news.google.com",
+      "raw": "CM Revanth conducts aerial survey of flood-hit areas in Telangana  Siasat.com",
+      "summary": "CM Revanth conducts aerial survey of flood-hit areas in Telangana Siasat.com",
       "topics": [
         "(Other)"
       ]
@@ -551,17 +562,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "CohnReznick and Unanet Conduct 9th Annual Government Contracting Industry Survey - CPA Practice Advisor",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcV85VTVjMzZ5NWw5Q2tZX1lwN25rR0lUUWR1Ui1OMGdpMGRvcThNRE9odjMxbWkxVUZxOGE1TDB2SXgwUVBQMlFhRnBGR19nTnd5MzQ2RlNTcklxQm5FaUF0X3Jvd0hDUkx0U01YR0VQY1FnS1JweUpqV1E4MXJ0Z3F6UEpjQS1ONkdNOUZFXy1TMDVsWFBjN08tcC1CVm10ck90QzFhdl9EdC1BUHljOTdyZjlUMmFPQTZOTnB4cnU1TTVwYmpGeGxtU2pRMjQ?oc=5",
-      "isoDate": "2025-08-28T13:58:01.000Z",
-      "source": "news.google.com",
-      "raw": "CohnReznick and Unanet Conduct 9th Annual Government Contracting Industry Survey  CPA Practice Advisor",
-      "summary": "CohnReznick and Unanet Conduct 9th Annual Government Contracting Industry Survey CPA Practice Advisor",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -589,10 +589,6 @@
     {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
-    },
-    {
-      "label": "#annual",
-      "url": "https://x.com/search?q=%23annual"
     },
     {
       "label": "#biggest",
@@ -639,12 +635,16 @@
       "url": "https://x.com/search?q=%23tariffs"
     },
     {
-      "label": "#best",
-      "url": "https://x.com/search?q=%23best"
+      "label": "#aerial",
+      "url": "https://x.com/search?q=%23aerial"
     },
     {
-      "label": "#canada",
-      "url": "https://x.com/search?q=%23canada"
+      "label": "#annual",
+      "url": "https://x.com/search?q=%23annual"
+    },
+    {
+      "label": "#best",
+      "url": "https://x.com/search?q=%23best"
     }
   ],
   "ticker": [
@@ -725,6 +725,10 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTURSMG9yNll0X0V2amtFbHZFcnlFaGNaRTNQNXh6V2tUdVFwbTlpbGUxdUd0aWRlbDNvc1lZVmRmMlJyekVYOHdoY0swTnFXM2N5RjlaWkh2SDRUX2o1NGpLUnBYT1hScnhzZm1yclp6Q25DTk9GVzNJdjFRd0NEbjRCRmpZZ3FuaHpmSkhnZ200VTMxVUV6LWxyRldfVWlSR2ZOUy01MnhvaS00STlCN3dKX01XZFVXb2xVU05xT2lPZXlZYXRkeUVRZURWb1pIX0pINVR3?oc=5"
     },
     {
+      "text": "CM Revanth conducts aerial survey of flood-hit areas in Telangana - Siasat.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0cyVWdwM1FjT1dLaGRxdlNhRjNsQkJiV2lRc2dZQ3B4Rkt6M2xpU0t6Z3JIZE9IZ3RlcUV2cHNRUGNRSXhQWFZqRFlkLVRUM3IwQmc3SzZwNUxVSGR0X2otbGpzemRRNjZ5T2lRSkhQcHJYcUN2M0ctclVIYmdkRU9PeVpIb2QzU1VVQUZhdzhDQ0k2NmZMQ0JyRGQ1QdIBowFBVV95cUxOQklYS1c1bVY5c045WjUtdXlTc0h4U2J0VW1UVHBCdG9hRnZacDc0UGNwZTRlbnJrYi1kQjZDX3RnNjY3SmltUDdET1haQlZaSVR5NUpNc2lZU09paVBoSUU2ZUF3alYyeW9nQmVLeDZHNHZ5YTRZSmV5WUVnTlJwYVdlNWxCRVBweEdKSm5JOF91RkN1Sy10NjdCYXYwU3RUR1pz?oc=5"
+    },
+    {
       "text": "63% of Indians worried about Trump's high tariffs: Mood of the Nation survey - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQejY1TUl6UTZtRlNQcldZdGJnNExxYVRHbnJXTUlDSFFvbVR1WF9vandwdjUxNVdLdkdTVVc3a1hVQnIxcjk5d3B4cFRySVFlOGUxd2VYbHJlN3hBLWhoTklZN3RhT3U4cmJrU3ZFSGJFMllPN1lKdkJiWnh5Zlo2c09yaHk4anA1ai1KNUhvRnlXbXQ4QWlOREF3MVoxXy1KUlFPX0RhaEFHQ3plXy1ZZHBqcnYwR2pQQWJXN21zQTZqVUhYMEdqNlhZb1B1dC16QnhXTmhXYnpOVlXSAeABQVVfeXFMT3ZzNFNzTEhEWkVIOVBiT2JhZEtqZ3ZxdWp5V21lR3F6ZzFFLWlOZXlxeTlPMk9YS1JLS1BtQ0JYWG1BQkRZUWVnTUtWS2MycjBzYWZWalJ5SjNITldNSDFiZVlhX0g2LXJvT3JFem42N0RncDFjNU9ldHRnUW42ckJkLXVvOEFkMzhXN2E3SjQ2WWF0bElPVlNsQTlISFA1cGFjVnczYW94MF91QUxITjQzRVhaSUxBMjB3QVd6bV9IZmg4YTh3UExvUlJCTEZzb0JTcEhoQnRxY1lzWC1rZnM?oc=5"
     },
@@ -763,10 +767,6 @@
     {
       "text": "Modi still best suited to lead India: Mood of the Nation survey - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2FYbHFsWHZIbVJKRFZCVm1BUzNZaldlR0VuNFNaZHZQdVVMcHQ4MWUwWGgzYlMwMlNraGp0ZWN4Q3o5MEdiR3g0dWtUVXRrUDM3T2FKSEd5MXVOSFNhWmVnT094b3N3enBTMFV6c0JpSUFqa0EyNUhKWjBEWXdnTndiMFBPQk1sX1lrUDV3NG5rd3lTS1VmUm5EdHZQWlEtSklocmNrTktCclhZMlBidW9FSEpfVUVFbkJfOElpMmNNT0JEaHRvUk11dUHSAdIBQVVfeXFMT1RlRGEwRjRnUUxiamJNTlVfMmRzQk5ib1pzd0ZGM2FJRENSSkpoWnFaWTBLY1pxWkw1bVVjM3EzZHF3TjZ2bDZwVklaYzFWZnJKclR1WGJyVy01a2NsOW5MeXBsWWU0NGpHYy1BaG5sNExqMFYtRTlUQkhlOW9ycVo3czlZNnpiNjVKd0NqN2RxTnRBckNvblRHdFQ5U2FONFJlcWdTLW5sMTc0SDlZSHFQVjVLWXNNX2JXOVZZSy1vQTQtclp4bFJJX3oyQU9PNzB3?oc=5"
-    },
-    {
-      "text": "Menopause knowledge, practices and attitudes (KAP) – A FIGO Survey - FIGO.org",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWUFJRGgyNkluSEw0Zk1nN3VRd19Fb1FUd0NTcWJXSDFxa0cxZmtjaDhlaFMtdDlRSkoyVXQ5eE9mSVZqeGU4dm81MjdNbVJFRmE2bEhfanZrV2QxR28yT2VBNndHTk9mbzFoTktUUjJDRHptNXhLeF81bEhSaHgwTzBoTG5LTHFYTGl1LTJB?oc=5"
     }
   ]
 }
