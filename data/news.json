@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T06:15:14.051Z",
+  "generated_at": "2025-08-28T06:22:55.946Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Survey Surfaces Raft of AI Coding Issues Involving Embedded Systems - DevOps.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR19GSzl2SVU3dFdVZmJzVm44RzJaM3pjYVlzalRZa0lIbWtPSDg0Tm9MYUMzT0VWZWY2Y2ZEZ1dyTXRSNF9WVFFiTGZLVjNHSUE2MmdZUFBsM0JTNmVpSGszanBhX3U3WjFvQ1dNUzlBVnhhcEl4WFNaaFVWYmsxbVZqbWZ5YUNMVUVvQURRbGc?oc=5",
+      "isoDate": "2025-08-28T06:11:13.000Z",
+      "source": "news.google.com",
+      "raw": "Survey Surfaces Raft of AI Coding Issues Involving Embedded Systems  DevOps.com",
+      "summary": "Survey Surfaces Raft of AI Coding Issues Involving Embedded Systems DevOps.com",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "UP sheds its 'BIMARU' tag, among top 5 states for employment industrial units in annual survey - India TV News",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPckp1RkJtLXBVY3dTVl95c3A1NnBGWTNOVFFFMWhDVWIyaldRRko3N1dHRGpiM21vV1JRaWVycG12LV9QVTNGZVktbTJuYVRHTW40R29OWVhvbFpXQ2VnT21vNFF6NGxMMWRmNjFkZmpoenNLTUJOc1FnVGxOVk9IT0x1SVJfRUs3MHMtZmZLQ2thZ2w0dUI1a1ctWUZIYTh5d19PUFV5elJwbi1zMW5ZYUsyZUYteGdrTmpDUzhZVjFNYkd1REp5SGQ1cTZTd2cxT2ZDOWt5aG9MdGVHY3k0Sm1MeHpYU3PSAewBQVVfeXFMTjJpU3A2aktaX0JtQkRPM2drLTloNkJITXVhUVpFWlM1YWJoMWNCR05FR0lzYy1jNmp5d3VJaE8takw5S1JyWFlVMV96RkpSeXY1RVZqMGlONnU2Qmd5N1E0N3dWcmtNQ2hQM1k3RGdFYUNfeFZja3cyNHk5ckVCaG1kX2EyV3ZaM2hvS1hYU3FDdFlTOFRDcTZNZFZ1SkJEdk5qUG1QbTl2LXB5UWgxQ3Jna0tueXhVVC1UenBhZmlYWUhLTlROQVktd0hYZmFlOFhxemFIRFlKaEJ1TTRlYzk5Y2hjTWZoZDdwYjM?oc=5",
@@ -549,17 +560,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "Survey Finds Gender Dynamics Evolving, Says The League’s Michael Kaye - DatingNews.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSldqVTZ4SnI1SkVnaGc2VWNER0xrN1Z0dWRfNDZCNmlOVjFLVVpTS3B5VGtuOGFhWFNDZDJBU0lfSHRjMlZqOWhsQjVOVFljQTN4MmJFeTVFLXVlNVRWcUNUbE9jcHYzeWdCejE4NXc4OGhCdE1PN01zd014RkV5UzFCTkUzejJZaVkya0dKb0t3U3Q3Z1RFa0huVVBwOVAwYlg5VVM4OVU0Z1ZjbGdjeNIBtgFBVV95cUxQcGx1STFKdU9idmM1aEVaVEQyMUQ0Vk1qLWR0RVB0RHRXN3Q1RHNvRmhYOFdvNXpGWm00MGVZbG5rbzZiR1NrRW12ZVdaZWJveWtheUtCbWdTdmVjRG03NXZ0czd6blMzVUdvUzRoN0ZpWWNIN3JWX0t3cmdUWURPaWp0WU5EckRTN1plXzdBa3kxdDFBY1BDVmJZU1E3RERvUU5NRVcxZkRpTkJBZ3cxSnFOTTNjZw?oc=5",
-      "isoDate": "2025-08-27T15:22:30.000Z",
-      "source": "news.google.com",
-      "raw": "Survey Finds Gender Dynamics Evolving, Says The League’s Michael Kaye  DatingNews.com",
-      "summary": "Survey Finds Gender Dynamics Evolving, Says The League’s Michael Kaye DatingNews.com",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -586,10 +586,6 @@
       "url": "https://x.com/search?q=%23annual"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#industries",
       "url": "https://x.com/search?q=%23industries"
     },
@@ -602,8 +598,16 @@
       "url": "https://x.com/search?q=%23employment"
     },
     {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
+    },
+    {
       "label": "#fy24",
       "url": "https://x.com/search?q=%23fy24"
+    },
+    {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#back",
@@ -642,23 +646,23 @@
       "url": "https://x.com/search?q=%23industrial"
     },
     {
+      "label": "#issues",
+      "url": "https://x.com/search?q=%23issues"
+    },
+    {
       "label": "#jobs",
       "url": "https://x.com/search?q=%23jobs"
     },
     {
       "label": "#latest",
       "url": "https://x.com/search?q=%23latest"
-    },
-    {
-      "label": "#media",
-      "url": "https://x.com/search?q=%23media"
-    },
-    {
-      "label": "#medical",
-      "url": "https://x.com/search?q=%23medical"
     }
   ],
   "ticker": [
+    {
+      "text": "Survey Surfaces Raft of AI Coding Issues Involving Embedded Systems - DevOps.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR19GSzl2SVU3dFdVZmJzVm44RzJaM3pjYVlzalRZa0lIbWtPSDg0Tm9MYUMzT0VWZWY2Y2ZEZ1dyTXRSNF9WVFFiTGZLVjNHSUE2MmdZUFBsM0JTNmVpSGszanBhX3U3WjFvQ1dNUzlBVnhhcEl4WFNaaFVWYmsxbVZqbWZ5YUNMVUVvQURRbGc?oc=5"
+    },
     {
       "text": "UP sheds its 'BIMARU' tag, among top 5 states for employment industrial units in annual survey - India TV News",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPckp1RkJtLXBVY3dTVl95c3A1NnBGWTNOVFFFMWhDVWIyaldRRko3N1dHRGpiM21vV1JRaWVycG12LV9QVTNGZVktbTJuYVRHTW40R29OWVhvbFpXQ2VnT21vNFF6NGxMMWRmNjFkZmpoenNLTUJOc1FnVGxOVk9IT0x1SVJfRUs3MHMtZmZLQ2thZ2w0dUI1a1ctWUZIYTh5d19PUFV5elJwbi1zMW5ZYUsyZUYteGdrTmpDUzhZVjFNYkd1REp5SGQ1cTZTd2cxT2ZDOWt5aG9MdGVHY3k0Sm1MeHpYU3PSAewBQVVfeXFMTjJpU3A2aktaX0JtQkRPM2drLTloNkJITXVhUVpFWlM1YWJoMWNCR05FR0lzYy1jNmp5d3VJaE8takw5S1JyWFlVMV96RkpSeXY1RVZqMGlONnU2Qmd5N1E0N3dWcmtNQ2hQM1k3RGdFYUNfeFZja3cyNHk5ckVCaG1kX2EyV3ZaM2hvS1hYU3FDdFlTOFRDcTZNZFZ1SkJEdk5qUG1QbTl2LXB5UWgxQ3Jna0tueXhVVC1UenBhZmlYWUhLTlROQVktd0hYZmFlOFhxemFIRFlKaEJ1TTRlYzk5Y2hjTWZoZDdwYjM?oc=5"
@@ -774,10 +778,6 @@
     {
       "text": "Survey Exposes The Ugly Side Of Borrowing Money From Friends And Family - Study Finds",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWnNtckF0dXV4SnJJaFBMcU92OEthSThOeVdVMUtycXZFbTZKM2g4bHVua2hWZ3FmVUxSWjdjOXlodi1ZWUdvMm00UDZnZGN6aEFJUmFwMG1OZ2ZoU3hidlVZejdQSXVvdWJxUnNFSlE4QzcxaG56ajRja3ZHY3FVMDJlcw?oc=5"
-    },
-    {
-      "text": "UM Health survey: Parents concerned over children’s mental & physical health - Upper Michigan's Source",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDhrZ1dGRGtnbU1BaDA5NXlrXzUxb0dlNzA0RHhRQUFCd21EU19LLVZyZllpa3phUktvQ1FUQWhqc1diRFhyTFF0U1lvdU0zbHBvdTQtZXd5RFZGVzY2VlVZTy04anUyMVAzcnItcGRGTnhEa2xGMEw4SzRBb3hRTGh2TWpxN2RCdkhOYkdVTDR3S0wwVVRNS3M2WjczSXFWV2FwYzYwSWt4UVcwcVp1QUlFVVhvU3dPSG9WSFVn0gHSAUFVX3lxTE4yYm01Z3VtNjR2TkZRQUlFMTRWLUtWWjBKRFdJLVNCVnlES1ZaRTlyZXQ2UXpsQTdfNHl5RGNsWVhVZkRRN0N2eWRPdTdNejlRS0VVODZOdTIxdlN3UkNXcHdlYWpzRTM4RVdVNjBTR2YwbzVBUE5vdFhvUlZ5MkdKUkRtSVpoNDhKZ3dWNDgtLVo2WTd4VlRkd0hZRWVzdkV2YW9KNHVyYWtTUWVGdEVlU2d1dGxVS2xiRURyeXozbVB1YVlpWEpFcml6TEpvblV3Zw?oc=5"
     }
   ]
 }
