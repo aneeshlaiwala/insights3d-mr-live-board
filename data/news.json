@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-28T23:09:26.641Z",
+  "generated_at": "2025-08-28T23:14:01.725Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -40,17 +40,6 @@
       "source": "news.google.com",
       "raw": "Tesla FSD turns off more U.S. consumers than its attracts, survey finds  CNBC",
       "summary": "Tesla FSD turns off more U.S. consumers than its attracts, survey finds CNBC",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "New Zealand consumer confidence hits lowest level in 10 months, survey says - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1g3MXBjWWJ4WTkycjZleV9SODFrZ3IxdXREZ0JtT0VRSDVkc1U4NlZDR2h1WFpGdUMxMWg5M005bjhTRXdmeEJFVWhMOGJGS2xuNXJZVWF6X1BRbmVGSy02MGhqanRfbnZMMlRMckE0QTlud0MwSGhBSGRhejZ1MXRzbHRtQjRvamlWMkQxWHNwM2VXZFBQc0c5UzJlelFTZC1RVENoUjBqWmU5a3FFaHpDRUJ5OElFVVlJNmpZaDkwYXd0WlNuNEVHU3U0LWt6NGVxY3JpSVROYlZw?oc=5",
-      "isoDate": "2025-08-28T22:00:01.000Z",
-      "source": "news.google.com",
-      "raw": "New Zealand consumer confidence hits lowest level in 10 months, survey says  TradingView",
-      "summary": "New Zealand consumer confidence hits lowest level in 10 months, survey says TradingView",
       "topics": [
         "(Other)"
       ]
@@ -563,6 +552,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "Lexus & Subaru Top Satisfaction Survey - Car Pro",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhemlBc0U3M0x1WGc4dnQ0eWREXzdUYXB0b3g3VUpUMGxkcDlnQzBpd2pnMHRtMXY3YzdMemRweVBWeE81OUpyWGtlVGc4Tnp3YjFMVmRXa2tTN1l1M0xnRVkxaTdOOHBMRFlVUlN2bzBEd9IBggFBVV95cUxPZDdUUnczWXpuVGkyVzYwSHdqaUtNTmw3ZTNXMGktTDV5R0pqUWE2TzhocFo3UEpkNkVWZTFDeC11X0dYbm9JWU5mZzZSNUZxRTZZYWRTR0VSbU11WlZpQ3VpVnE4UEZjTjZ4bENtU3dYNXgzd1lHQlpaNnZKVGxVR2FB?oc=5",
+      "isoDate": "2025-08-28T14:25:30.000Z",
+      "source": "news.google.com",
+      "raw": "Lexus & Subaru Top Satisfaction Survey  Car Pro",
+      "summary": "Lexus & Subaru Top Satisfaction Survey Car Pro",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [],
@@ -660,10 +660,6 @@
     {
       "text": "Tesla FSD turns off more U.S. consumers than its attracts, survey finds - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHR3YkdYSnRONms3ejhqMUtqTVRFbTQwU1l3M050TzdDLTE4TWZZd2p4NG9heFdyLXN6bFFtN2VJQXIyV3lZUHo4MGV4OHk0d3RWY1U0TTZvVjl3Y3Z2ZjBnX2lWcGlhY1BzVVVfa2tualRYSGJGY0JxQmdYX0NJU2IyOEdmSWRFRnZFeGlTdEpGODR2ZG92VGRfZTdkd2czd2ZsQdIBqgFBVV95cUxONXd5VUg5RHJIZm1ycTh4enFtQWhkbjkxRVBaM3JJX1FpV3ppVEwzRFl2R3g3WkJBM2dRZHNocGxaWFRZQ2g2azdnbHZOZUdMMTIxWDZsTW5IRjhTcElCR1luLXBQMVdOSGNUVlQtNjh5dVowTFVweDVZcm5NX005V0Z3Mm96akRlY0JzSHhuQnJJOU90V3pyeEpxVHpydW8yanNnSDk1b1ZoUQ?oc=5"
-    },
-    {
-      "text": "New Zealand consumer confidence hits lowest level in 10 months, survey says - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1g3MXBjWWJ4WTkycjZleV9SODFrZ3IxdXREZ0JtT0VRSDVkc1U4NlZDR2h1WFpGdUMxMWg5M005bjhTRXdmeEJFVWhMOGJGS2xuNXJZVWF6X1BRbmVGSy02MGhqanRfbnZMMlRMckE0QTlud0MwSGhBSGRhejZ1MXRzbHRtQjRvamlWMkQxWHNwM2VXZFBQc0c5UzJlelFTZC1RVENoUjBqWmU5a3FFaHpDRUJ5OElFVVlJNmpZaDkwYXd0WlNuNEVHU3U0LWt6NGVxY3JpSVROYlZw?oc=5"
     },
     {
       "text": "United Airlines Flight Attendants Reject New Tentative Contract, Union Now Survey Why - Aviation A2Z",
@@ -768,6 +764,10 @@
     {
       "text": "Fashion rental service Nuuly designs deeper customer-first experience - Retail Customer Experience",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXNDcGN5eC1FTXBwX2xBcW1LbGdBWVZRZ1ZJU2JJS1Bzd1NmYTVaUFJuVzdnNGFLZkR4TVFpa0JnNXNoMWhuVmhLZUdXTGluWnNPVlU0VlpRYWIyd1hLTUVJQldibjJxSXlSMnZ5TV9wMi13UFUxQ1NTbzZyZmoySmMyM2RSaXdJdDl0dlFfZHdhY2lxQjVZUnlXYjF2RXBtd3M3MmZOTDQ0N1lwQ3ZwTEI0SG9RU1Fvand4WA?oc=5"
+    },
+    {
+      "text": "Tassel Inaugural Survey Reveals Most Schools Are Losing the Crowd at Higher Ed’s Biggest Stage - 01net",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFBUeU9QbGY5VXhOSUh0X0dMQ2MtbWw0RWlJRFZjdzk2ejR1RFplX2ZmNGhfbmRyM2h6NzV0aDU0UEs0MHF6WXQzelBiTzlJYmpWeFBYY0hNOXdKemdGRGs2U1YyeVlra2I2bWk5UEhsM0VrWTdoN1VQZ2lQTHhXRkI1cS16MFRySXAtZVNKd3BZZ1o1RXdaVmRfVEVSVldPR1pXM054STMtWDcwcVJjbGp3cTFzQQ?oc=5"
     }
   ]
 }
