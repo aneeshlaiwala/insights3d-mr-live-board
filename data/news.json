@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-29T20:10:31.777Z",
+  "generated_at": "2025-08-29T20:15:59.050Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -270,17 +270,6 @@
       "source": "news.google.com",
       "raw": "Farmers oppose land survey for Narayanpet-Kodangal lift project  Telangana Today",
       "summary": "Farmers oppose land survey for Narayanpet-Kodangal lift project Telangana Today",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "McCormick survey finds how consumers feel about pumpkin pie spice - Bake Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlZaUFpCcDBsVHZ5M1UyWnZMUXRUcDhMTVVhQTdfN3ZIRHVUSEx5SUJaSlZIUzRyOU12NzNJOUZ6ZURXRlZMblZuNWhyWmN3SWhpRklNYktHbnZkS3ZJa1pMUFlFV1ZTNFZ6SzV6b2xBWnc1WC1PZGNuVndnamQ5NVd0aTJSQ3hPOWNiWGxKUENFdlRqM012dzlBX3d5ZWw1Xzhvc1BiUQ?oc=5",
-      "isoDate": "2025-08-29T14:19:02.000Z",
-      "source": "news.google.com",
-      "raw": "McCormick survey finds how consumers feel about pumpkin pie spice  Bake Magazine",
-      "summary": "McCormick survey finds how consumers feel about pumpkin pie spice Bake Magazine",
       "topics": [
         "(Other)"
       ]
@@ -559,6 +548,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "Complete our Public Sector Tech SME Survey - Wired-Gov",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVNQaGl4ZkVvOW4wMi1KMUZUUUxHbHhDa194Y0FyU0I3WC1taldtUklXbU9nU2pEc25EVkE0MWN4aWRYakM5a0FLTEFMYVJ3MjRzaXlOQlpBa05FeDFZMHQ1X1p3NGtLN25QSlpfdU4yY1h4elBaRnFGSF9IdVIwS1c5NFdkYWh0UjVtalo3M3JoN0F0VHVxTHpkb0hFT25Eekk5dHJoZHJ6aGFubUE?oc=5",
+      "isoDate": "2025-08-29T09:12:37.000Z",
+      "source": "news.google.com",
+      "raw": "Complete our Public Sector Tech SME Survey  Wired-Gov",
+      "summary": "Complete our Public Sector Tech SME Survey Wired-Gov",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -588,10 +588,6 @@
       "url": "https://x.com/search?q=%23back"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#india",
       "url": "https://x.com/search?q=%23india"
     },
@@ -606,6 +602,10 @@
     {
       "label": "#education",
       "url": "https://x.com/search?q=%23education"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#mood",
@@ -754,10 +754,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDhNNi1sLXB1ZGFFV09Nb3k4N2RicHVqYlFCVXZiQ18yWGpUQjZTczgwOUFKaWRBSXhIYWNqR245NmZDQ0puWkFOS1NZay16R2tsUTJsZzh2NmQwQ1hJNnlKZ3RCcUhiQ1B5YWRXMU1UWkZDY0pNTDVWRENxOWxhMlRya1FtallNaFYwQUttMHNxZ1la?oc=5"
     },
     {
-      "text": "McCormick survey finds how consumers feel about pumpkin pie spice - Bake Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlZaUFpCcDBsVHZ5M1UyWnZMUXRUcDhMTVVhQTdfN3ZIRHVUSEx5SUJaSlZIUzRyOU12NzNJOUZ6ZURXRlZMblZuNWhyWmN3SWhpRklNYktHbnZkS3ZJa1pMUFlFV1ZTNFZ6SzV6b2xBWnc1WC1PZGNuVndnamQ5NVd0aTJSQ3hPOWNiWGxKUENFdlRqM012dzlBX3d5ZWw1Xzhvc1BiUQ?oc=5"
-    },
-    {
       "text": "ChatGPT, AI tools gain traction as Google Search slips: Survey - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjJQRGJVQ3VmWU5XT0JxbmFZRU1VU2Q0c2Z4LWxwc2tBWV9UUm52Nzl5TVpwQUowQ2VrYTlkSnZqaVJwNGJ5Q1ZNZGp2MkR1NVA1Z0t5dS1kMGllWWU5REp0d3FzbDFaRGtRNThhZHh0MUtYZks2c1pDaGJnbHBkOTZqQW1GV3poTE1fRw?oc=5"
     },
@@ -776,6 +772,10 @@
     {
       "text": "Survey: Inflation expectations in the Eurozone remain above target - المتداول العربي",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckJRUFBpS0luVzdlVVhHRktvTkZrdzZPbU1MV3o3NDN1bzNwSVlXaVlwb3FxdmN1T2N6TlhpY1dXOGJ0YUxIcnZJTnlCRXp5UWpudlpCQzhqc1A1MkZyUnE0QUQ5VUZvSnlfWEFGUk1kQU1Bb3VvTlhhUC1CV0l4SXlWS2pxQW5OaW54azFxXzIzMVRhbkxXVE5QSkdGb0FzTFB5ZDFlMks5dGpHSG9ZMTA0WjdmeGw2SlFNTUZ4WWk?oc=5"
+    },
+    {
+      "text": "Burglary tops South Africa crimes survey - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXdsZUMzMXRlNlMtbFA3Y3ltSWlzZ0Q5NHBEbzQ4dHkzODNzZG9iandfNF9aQjgxNTJWUkRwMFp0cFdXYXcwMGNUV2RYY1FMTnQwWGRlNGxnelhGdnlSam0tc2RXOFFvd1VDajlDMXhTakFWVlNVWkJfTjZvLUZuMkxWd3dZUEhpTUJV?oc=5"
     }
   ]
 }
