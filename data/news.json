@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-29T10:10:03.666Z",
+  "generated_at": "2025-08-29T10:15:43.762Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -289,17 +289,6 @@
       ]
     },
     {
-      "title": "Employers demand risk leadership from brokers as expectations rise, survey shows - Insurance Business America",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUkycnllQTcyT1BwMEFnUE5hYlBfckt0SmVvOER3a3RoMTI4Z3JIejhBUVBhT2VFUkMySnZSUEE3bVdsN3k5RW5jVDRsWDV2WWQyem5GYkl2R1NOdXotYVBid3JIWHdncGhKYkM2S3o2YWFVd0ZrWTdlTEF3cENxcXEzX1BVOXVtMnJBeXZzSl9qcHgtd05sMEI3ZnljN1A1RTRBaVBxUklKMHU4b21UVHg4aHVMM2hZdTI2MWU5clVfSmZ0d3JEMFA1MFFvT0RK?oc=5",
-      "isoDate": "2025-08-29T04:14:29.000Z",
-      "source": "news.google.com",
-      "raw": "Employers demand risk leadership from brokers as expectations rise, survey shows  Insurance Business America",
-      "summary": "Employers demand risk leadership from brokers as expectations rise, survey shows Insurance Business America",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Tesla Stock Slips Another Day: New Survey Shows FSD Isn't Drawing In Buyers - MSN",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUl84OVhBSy1JaDVFb1FjSlBMNWR6Y0FFRkw2dUgwcE55RFFDLVkzckx0anlwdG56TlUzLURLWWlmWVVJTTBiNHAtRFZKREdRSzFTNjN2aXlCZ1ppWlU5WG5MMm5WNzhFNkU3YS1FZ19xMzdxaTFfcEVaUEJidGZoai1kc3RKUFRhT2NBeFpTMktvVWhablEzOHFvMGhnOFVzM0xVSWdGdTZaUGVPdkZGbGowYVpZNVFlTlFlVEJBNllDTjdhdHhQSE1BRUFzUWlPTFBKMUlRQi1NTmpSWXp0TmhqV0tlZm5XWkE?oc=5",
       "isoDate": "2025-08-29T03:23:36.000Z",
@@ -566,6 +555,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "Modi still best suited to lead India: Mood of the Nation survey - MSN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEUwdV9ockZOWkpEdmpqU0ZkVmVFei1SYzFqQkw2d3RBR0FiSHNyeEE0UTQ2X21XU3RQV2lUNlhhZ0QyTDVKTlByOWYtdjg4bmlPVXc3ZV90dG5ZWDNYbDNQMm1ldlRQOFA3WVlGSkl5ampFRWlGVnpNaVBBUlNiMWxoa2wydlh0ak5qbFRxRHhBaTFnNHdySHlVcnJXUnl2RV8yZ2x3TTVOTGo4anJMdkN3aW5OTy1keXJfZ01Fbw?oc=5",
+      "isoDate": "2025-08-28T18:53:09.000Z",
+      "source": "news.google.com",
+      "raw": "Modi still best suited to lead India: Mood of the Nation survey  MSN",
+      "summary": "Modi still best suited to lead India: Mood of the Nation survey MSN",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [],
@@ -619,10 +619,6 @@
       "url": "https://x.com/search?q=%23asia"
     },
     {
-      "label": "#brokers",
-      "url": "https://x.com/search?q=%23brokers"
-    },
-    {
       "label": "#construction",
       "url": "https://x.com/search?q=%23construction"
     },
@@ -631,24 +627,28 @@
       "url": "https://x.com/search?q=%23data"
     },
     {
-      "label": "#demand",
-      "url": "https://x.com/search?q=%23demand"
-    },
-    {
       "label": "#development",
       "url": "https://x.com/search?q=%23development"
     },
     {
-      "label": "#employers",
-      "url": "https://x.com/search?q=%23employers"
-    },
-    {
-      "label": "#expectations",
-      "url": "https://x.com/search?q=%23expectations"
-    },
-    {
       "label": "#flood",
       "url": "https://x.com/search?q=%23flood"
+    },
+    {
+      "label": "#goes",
+      "url": "https://x.com/search?q=%23goes"
+    },
+    {
+      "label": "#improve",
+      "url": "https://x.com/search?q=%23improve"
+    },
+    {
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
+    },
+    {
+      "label": "#labor",
+      "url": "https://x.com/search?q=%23labor"
     }
   ],
   "ticker": [
@@ -753,10 +753,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0JaeUNCeS0wNWhRd1IwUjdoSmRfR3pnRHMybVJpMmFIcEhJMTBBaEhfQkR3WmhEUktCQUd4bkNGZi1xYkZkVU81ajJZUHRYQjdJekZUX1Z5Z05YLW5mYkQ0Tlozdl9VN193djdrOVNaWVBZcHVsSTNOeDNObm9BUURwOWs3Zy1waG9KS2h3d3NzQ1liRXg4a1VuQWdHQk1hZjRBcGwySkJBdGE1dkk0TDNkLXQ1YmJvakpuN0YwSzRGLVJHcVV6U1B2czNINVA3Wm5ZU0k4ZFF4QzRrME9heXRIS3E?oc=5"
     },
     {
-      "text": "Employers demand risk leadership from brokers as expectations rise, survey shows - Insurance Business America",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUkycnllQTcyT1BwMEFnUE5hYlBfckt0SmVvOER3a3RoMTI4Z3JIejhBUVBhT2VFUkMySnZSUEE3bVdsN3k5RW5jVDRsWDV2WWQyem5GYkl2R1NOdXotYVBid3JIWHdncGhKYkM2S3o2YWFVd0ZrWTdlTEF3cENxcXEzX1BVOXVtMnJBeXZzSl9qcHgtd05sMEI3ZnljN1A1RTRBaVBxUklKMHU4b21UVHg4aHVMM2hZdTI2MWU5clVfSmZ0d3JEMFA1MFFvT0RK?oc=5"
-    },
-    {
       "text": "Tesla Stock Slips Another Day: New Survey Shows FSD Isn't Drawing In Buyers - MSN",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUl84OVhBSy1JaDVFb1FjSlBMNWR6Y0FFRkw2dUgwcE55RFFDLVkzckx0anlwdG56TlUzLURLWWlmWVVJTTBiNHAtRFZKREdRSzFTNjN2aXlCZ1ppWlU5WG5MMm5WNzhFNkU3YS1FZ19xMzdxaTFfcEVaUEJidGZoai1kc3RKUFRhT2NBeFpTMktvVWhablEzOHFvMGhnOFVzM0xVSWdGdTZaUGVPdkZGbGowYVpZNVFlTlFlVEJBNllDTjdhdHhQSE1BRUFzUWlPTFBKMUlRQi1NTmpSWXp0TmhqV0tlZm5XWkE?oc=5"
     },
@@ -771,6 +767,10 @@
     {
       "text": "Birmingham to conduct professional survey - Downtown Newsmagazine",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWk15SFJ6Ui1fMjhfejZHY3M0Qm43WGtUUXdCMlh4b2tyTWRDVDdiOUh0NElUay1CUTRhcC1Cb3FuS052V1BKaXdNX0hLZ0VIMUpKNHlpTFFLYk44bWlaaEhQWjJBVGxMTlZFaTNuMmpHcFZ4c1Z1ZWRqRk9GTXhfWUZhVVo1R2lfbjFLcDdBYzQzN1Y2?oc=5"
+    },
+    {
+      "text": "City to survey residents on developing an Urban Forest Plan - Long Beach Watchdog",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT0FFVHlTdVZZWnBsR05WZk9GdGNrX0VxNi1vY3liQy1uUWdaOVVlTFJjYWxIUkx6RTBEQVlEV1phT2d0QllBbDY5VEpIWkFzVE4xd29WVURtMTNMT01RZDYwYXk0MHR1MXk4MWJkajN6R2dxT1hPbjV5aGtkazhfSE1aYWl0OWhVNWgw?oc=5"
     }
   ]
 }
