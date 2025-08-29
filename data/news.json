@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-29T22:09:25.342Z",
+  "generated_at": "2025-08-29T22:14:04.766Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -39,6 +39,17 @@
       "source": "news.google.com",
       "raw": "Could Gen Alpha Save Movie Theaters? New Survey Shows Why ‘Minecraft’ and ‘KPop Demon Hunters’ Had Huge Success With Kids  IMDb",
       "summary": "Could Gen Alpha Save Movie Theaters? New Survey Shows Why ‘Minecraft’ and ‘KPop Demon Hunters’ Had Huge Success With Kids IMDb",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Survey expresses concern at harassment of women in city - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDdteUtFakJuMEhEWlBYVkhDbHVIRmNoT2JZbjFOZ2V0R21QSEdFU1BnYWFGNU5TNk1JUHhnanRKYTJteTJLeERLMTJsWEdKNFpTWGNxbUFLMzdfbXFoX3lOeC1ZUjZBU3VQdHRnLVItaTBPYzNFUjdWM0VRdlkyQ3FtUDFkdTZwVGVsUGFvSm8zSDJiYW1MeGg5QTd0R3cxLWQwZjBqcVZOLURHRV9vc1ZLc1R1UmFHcVdmOUhuUjFtVDJLdG5NZml3ZmdTVVHSAdQBQVVfeXFMT21pNy1kQjdRX3JRYnd5OGgxSC0wZUV2NE1JMTVvczVGREtTanBHWGN4RHhFcTktWENUb0ExSGxEdW9lbmlmSmVVN0xoYXEyQlVwSklfU3FYY1l4WWdPMXExZEdNVHJpV0V1b0tzTkJYbWduSDVqU3FfampsTm1XcmVSMS1TR3BQX3B2Zkpab2g2Skt1NWItZU1haHhoOXpuMXY2ajczcHZ4Q1Rjb09kZkh0a0tpWV96MlgyZVl2U3ROa0tyUjNfV0I2SUhUb25YOVFqVmw?oc=5",
+      "isoDate": "2025-08-29T18:42:00.000Z",
+      "source": "news.google.com",
+      "raw": "Survey expresses concern at harassment of women in city  The Times of India",
+      "summary": "Survey expresses concern at harassment of women in city The Times of India",
       "topics": [
         "(Other)"
       ]
@@ -96,6 +107,17 @@
       "summary": "Yogi Adityanath is India's most popular chief minister: MOTN survey - India Today India Today",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Number of mental health officers hits record high but staff shortages remain, finds survey - Community Care",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHUxLVdqbGVRaTR5NWhiWXZXR1NoVE82d0l6a0pPcUp5ejY3SGdIV0RuUGQ5YUxmRzdzb09aeHNOY0NWR2I5MVdlZXh6dWhvcDVyVV8wbVItSDhOUmFQVGp2YV9NRU1EY1NxaFV2LUR0d3RITEdxOUFpSEV0bVVHR1N4RF9sWDZ4Um5FZGNpbGh0eTR2b2hoSVBpVVQ2ckdSRjdpT19qa1pyM2F6V20yUHYzV1QzSHpseVdVZ2p5eldvZmdDQkJXTldxbl9RQQ?oc=5",
+      "isoDate": "2025-08-29T16:55:20.000Z",
+      "source": "news.google.com",
+      "raw": "Number of mental health officers hits record high but staff shortages remain, finds survey  Community Care",
+      "summary": "Number of mental health officers hits record high but staff shortages remain, finds survey Community Care",
+      "topics": [
+        "AI in MR"
       ]
     },
     {
@@ -538,28 +560,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Survey: Sanseito Upper House members all back defense buildup - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZWZsaEM4UHViVGw0Yk1LYUdzdlNJTXdWVmZLYVNKYnN1YXMwY3JRWnFMeTI0TG1tUGFuMVp6bUp0SkNiX214NVBCSlNhOTREdElaaENn?oc=5",
-      "isoDate": "2025-08-29T09:47:00.000Z",
-      "source": "news.google.com",
-      "raw": "Survey: Sanseito Upper House members all back defense buildup  朝日新聞",
-      "summary": "Survey: Sanseito Upper House members all back defense buildup 朝日新聞",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "I love the new Google Phone app, and a survey shows other Android users do too - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0d0MER5X05rUUNIRGhMOFl5NF9FTEVRa3Y3cTZKbVFKSFlTVl8tcUFZdW43djRhYl85dms2elVfdGE5Tk9LeFhHeTZ5YnJ1TUdOcUxSQTJvcVNTNzVUNmdIUDB3VHUwaXlQOFNSQVdRal9UYkdrbkdDb0tfSEp5OGR5dmlmZFNtam1MVUpTV1ZzVi12dmluSg?oc=5",
-      "isoDate": "2025-08-29T09:40:05.000Z",
-      "source": "news.google.com",
-      "raw": "I love the new Google Phone app, and a survey shows other Android users do too  Android Authority",
-      "summary": "I love the new Google Phone app, and a survey shows other Android users do too Android Authority",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -593,12 +593,12 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#back",
-      "url": "https://x.com/search?q=%23back"
-    },
-    {
       "label": "#india",
       "url": "https://x.com/search?q=%23india"
+    },
+    {
+      "label": "#back",
+      "url": "https://x.com/search?q=%23back"
     },
     {
       "label": "#customer",
@@ -623,10 +623,6 @@
     {
       "label": "#school",
       "url": "https://x.com/search?q=%23school"
-    },
-    {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
     },
     {
       "label": "#adityanath",
@@ -655,6 +651,10 @@
     {
       "label": "#expectations",
       "url": "https://x.com/search?q=%23expectations"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
     }
   ],
   "ticker": [
@@ -669,6 +669,10 @@
     {
       "text": "Could Gen Alpha Save Movie Theaters? New Survey Shows Why ‘Minecraft’ and ‘KPop Demon Hunters’ Had Huge Success With Kids - IMDb",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRQzUwOXgtbFNwRzhNaGRySlU4NVpRWjhKcVVvT3R5dXhqS2R3MDR1OHRULTFWMkUxcUx4OHVUUkVrSDBIb0xOYnNhb3dMbjZUcFVwYTljaU5DVGJkX1QxOE5qclR1eWs?oc=5"
+    },
+    {
+      "text": "Survey expresses concern at harassment of women in city - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDdteUtFakJuMEhEWlBYVkhDbHVIRmNoT2JZbjFOZ2V0R21QSEdFU1BnYWFGNU5TNk1JUHhnanRKYTJteTJLeERLMTJsWEdKNFpTWGNxbUFLMzdfbXFoX3lOeC1ZUjZBU3VQdHRnLVItaTBPYzNFUjdWM0VRdlkyQ3FtUDFkdTZwVGVsUGFvSm8zSDJiYW1MeGg5QTd0R3cxLWQwZjBqcVZOLURHRV9vc1ZLc1R1UmFHcVdmOUhuUjFtVDJLdG5NZml3ZmdTVVHSAdQBQVVfeXFMT21pNy1kQjdRX3JRYnd5OGgxSC0wZUV2NE1JMTVvczVGREtTanBHWGN4RHhFcTktWENUb0ExSGxEdW9lbmlmSmVVN0xoYXEyQlVwSklfU3FYY1l4WWdPMXExZEdNVHJpV0V1b0tzTkJYbWduSDVqU3FfampsTm1XcmVSMS1TR3BQX3B2Zkpab2g2Skt1NWItZU1haHhoOXpuMXY2ajczcHZ4Q1Rjb09kZkh0a0tpWV96MlgyZVl2U3ROa0tyUjNfV0I2SUhUb25YOVFqVmw?oc=5"
     },
     {
       "text": "Zoetis launches equine quality of life survey - Vet Times",
@@ -689,6 +693,10 @@
     {
       "text": "Yogi Adityanath is India's most popular chief minister: MOTN survey - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVGNuV1ZrR1JvMW5BLVpSV250UjRhM3IxZVYtN1d0Rkd5NklxRjZlcTNaU1JOc3FFaDd6aXlUbHVFa3dxSGh0MTZBV1d0Ym9HUkxUclNTbVVKMnh4Sk0xZjhNWHp0Z1M1dUhaRS04NG43VjQwaHJGYnhLVzhLVHVsODA0My1YWS1jM3N2Zy0yQkdpbkRUM1FBcF9HLUctaW9Od0VVRG4xdzlpYzltRkk2TG13R2ZRWENZSjdlcG5OYzlYZTVSY3FKZ1U5bHpWWnBpUkptZGRR0gHWAUFVX3lxTFBUY25XVmtHUm8xbkEtWlJXbnRSNGEzcjFlVi03V3RGR3k2SXFGNmVxM1pTUk5zcUVoN3ppeVRsdUVrd3FIaHQxNkFXV3Rib0dSTFRyU1NtVUoyeHhKTTFmOE1YenRnUzV1SFpFLTg0bjdWNDBockZieEtXOEtUdWw4MDQzLVhZLWMzc3ZnLTJCR2luRFQzUUFwX0ctRy1pb053RVVEbjF3OWljOW1GSTZMbXdHZlFYQ1lKN2Vwbk5jOVhlNVJjcUpnVTlselZacGlSSm1kZFE?oc=5"
+    },
+    {
+      "text": "Number of mental health officers hits record high but staff shortages remain, finds survey - Community Care",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHUxLVdqbGVRaTR5NWhiWXZXR1NoVE82d0l6a0pPcUp5ejY3SGdIV0RuUGQ5YUxmRzdzb09aeHNOY0NWR2I5MVdlZXh6dWhvcDVyVV8wbVItSDhOUmFQVGp2YV9NRU1EY1NxaFV2LUR0d3RITEdxOUFpSEV0bVVHR1N4RF9sWDZ4Um5FZGNpbGh0eTR2b2hoSVBpVVQ2ckdSRjdpT19qa1pyM2F6V20yUHYzV1QzSHpseVdVZ2p5eldvZmdDQkJXTldxbl9RQQ?oc=5"
     },
     {
       "text": "ECB Consumer Expectations Survey Results 30 August - Mirage News",
@@ -769,14 +777,6 @@
     {
       "text": "McCormick survey finds how consumers feel about pumpkin pie spice - Bake Magazine",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlZaUFpCcDBsVHZ5M1UyWnZMUXRUcDhMTVVhQTdfN3ZIRHVUSEx5SUJaSlZIUzRyOU12NzNJOUZ6ZURXRlZMblZuNWhyWmN3SWhpRklNYktHbnZkS3ZJa1pMUFlFV1ZTNFZ6SzV6b2xBWnc1WC1PZGNuVndnamQ5NVd0aTJSQ3hPOWNiWGxKUENFdlRqM012dzlBX3d5ZWw1Xzhvc1BiUQ?oc=5"
-    },
-    {
-      "text": "ChatGPT, AI tools gain traction as Google Search slips: Survey - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjJQRGJVQ3VmWU5XT0JxbmFZRU1VU2Q0c2Z4LWxwc2tBWV9UUm52Nzl5TVpwQUowQ2VrYTlkSnZqaVJwNGJ5Q1ZNZGp2MkR1NVA1Z0t5dS1kMGllWWU5REp0d3FzbDFaRGtRNThhZHh0MUtYZks2c1pDaGJnbHBkOTZqQW1GV3poTE1fRw?oc=5"
-    },
-    {
-      "text": "8x8 lines up for Southampton FC to boost customer experience - Computer Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWlRbkJzWGJ3aGhqVWwwRXZoek14T0hyb0dxNnVHZmFXQ19PTS14ekxjNEd6V3U2UFlzNlpRbUpOSlYzX0tUMU9RS3lOR0pZRHdEY1ZLZVFCX2NNUHlFSVNZV25YaFljM212MmtmazZzQ2hHMC1JRlFZR1VJczNTNEFFMVRka1B1Ym5iWHNPQU1vWGhzbWNDMVV5RlE4RVVkUEQtY2VYd1ZYdw?oc=5"
     }
   ]
 }
