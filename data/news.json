@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-29T03:28:37.344Z",
+  "generated_at": "2025-08-29T03:36:44.792Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "4 NE cities among 7 safest for women in India; Ranchi, Srinagar get lowest scores: NARI survey - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORTNrQThUUWNONDhjdDNfUF9MX2pocnB1Z1JrZE0zWXhkblFXeFdxcUFYUHBrNXQxeTl0RWF3R3RWanFBQ09lSnUweVdLSG1rN0JyZUNWVlYybjBfUkF0YlJXbTNiaDgwZThua2lLd2d6V3BDWXBZbVRSN19hUnl3SUk3Y3hBOHpxS0RVWkhnTkZaMGhCMDVpQWs1YWJPVGd5M3Y1b1I5cVZWd2RfOERsd2hQTEtFQTVMbGRqUm9scGY0aEp0U0YzRm1paE05bndUQTNaOEg0N050T19RTHJvM1o4VGI2TG1XZTFJb1BZaGXSAfYBQVVfeXFMUHNwWDRSVW5zUWVubnVHUFRRSTFLUGhaSERVS0h1M0g0cHZteHdOd3ozZnZaRzlnbENrd2p5XzZfdnY1NG9zekV0NzBRcXE5dHRXLTBWN3o2TTMyZkZTR0pWcmMwUDdFakZWLWk5RGRfZGNvZXhFNm9SaDY4RkQweEhXMk1SQXJoVldlb0N5NnFvcHlrOURjd0RjTTNEWGVqZzFUYUt6RVVTRC1NVmdlOFQ0MW1rOThubElJNmI5U1RXc01PaGQ3STNJWnE3MGtpMGRGYkwxeDZ4am15dmJNeUFNd3dtTWZSNW1PcnRZSjdIRFNvMkRR?oc=5",
+      "isoDate": "2025-08-29T03:14:00.000Z",
+      "source": "news.google.com",
+      "raw": "4 NE cities among 7 safest for women in India; Ranchi, Srinagar get lowest scores: NARI survey  The Times of India",
+      "summary": "4 NE cities among 7 safest for women in India; Ranchi, Srinagar get lowest scores: NARI survey The Times of India",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Gaurav Gogoi slams Himanta, cites Niti Aayog survey ranking Assam among bottom five - Telegraph India",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnNyaFpjdzdzbUpZRFo1SEE4YW1KSnRNTXMxOHoySG5OSksxcWkyVVh5VXYyZUFNU18zdXFJR25CN1pwV1djaktsOEhmNWR2N2ZyQmVhNllvN01aeERTaHhPcXVTV2laRlpsTVdhYW1kZEVkMkR6V2RETGJJckJ0T0QwQ0lQZllmOWpjTkpaNVgyNzRCQkRqbWRaZEpRQWFZb1JnaERMWjBCM2dON0I0MnZrM01oQ1FMR0R6MWhKbjRSYWoxWHpFNlFlXzZqMlBJMWlTQkRySXjSAd4BQVVfeXFMUElnMVdlWkJwLUdpMmROaVN1SEJMTFowX1VYbVRxdEJVY0NyNXlHOXRNeW9uNUIwLTU0ZmJYUDRTR1gzb1Y0b29XazFXb3VxaURlQV9rUloyWDk5U0pFX1g0SnBKV1F5VExTRkJQNzJva1VMMnk4b1d1R2Q0Q3V5a2NhUFhwRWc2Wl9VekNGQmFwamFzc3RjRHpNSDlkUWRLUlB6cldyZVR6eWIzUDZab0VubVJwZWQzRzBoRzhFSXFiTDV2cXMzT0FHWWJScm1IWks5VG5oelBqeWFFWHRR?oc=5",
@@ -554,17 +565,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Medicare Advantage plans frequently deny post-acute care for nursing homes, survey finds - Healthcare Dive",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjkwVDhNaVVfbXRlTXZSdU9JQTBCMFVDT1VZMmtNeGN1Q3ppTUQ4b19rYktkUVRDY2IyTV9WeTZ0cGVWcVNaZk9sSll6cUhXQ3RjTTRvUkZQaFhmdjc2S1k3M1AxUzdWNDRNcHJNWGhmUFdKVDZ1SnNnWEp2LVh0MW40WnVXblIwU3MyV0E3V0ItR2JTckxTcnZQLXFEVG5J?oc=5",
-      "isoDate": "2025-08-28T14:56:26.000Z",
-      "source": "news.google.com",
-      "raw": "Medicare Advantage plans frequently deny post-acute care for nursing homes, survey finds  Healthcare Dive",
-      "summary": "Medicare Advantage plans frequently deny post-acute care for nursing homes, survey finds Healthcare Dive",
-      "topics": [
-        "Healthcare"
-      ]
     }
   ],
   "funding_ma": [],
@@ -578,6 +578,10 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
+    },
+    {
       "label": "#motn",
       "url": "https://x.com/search?q=%23motn"
     },
@@ -588,10 +592,6 @@
     {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
-    },
-    {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
     },
     {
       "label": "#best",
@@ -651,6 +651,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "4 NE cities among 7 safest for women in India; Ranchi, Srinagar get lowest scores: NARI survey - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORTNrQThUUWNONDhjdDNfUF9MX2pocnB1Z1JrZE0zWXhkblFXeFdxcUFYUHBrNXQxeTl0RWF3R3RWanFBQ09lSnUweVdLSG1rN0JyZUNWVlYybjBfUkF0YlJXbTNiaDgwZThua2lLd2d6V3BDWXBZbVRSN19hUnl3SUk3Y3hBOHpxS0RVWkhnTkZaMGhCMDVpQWs1YWJPVGd5M3Y1b1I5cVZWd2RfOERsd2hQTEtFQTVMbGRqUm9scGY0aEp0U0YzRm1paE05bndUQTNaOEg0N050T19RTHJvM1o4VGI2TG1XZTFJb1BZaGXSAfYBQVVfeXFMUHNwWDRSVW5zUWVubnVHUFRRSTFLUGhaSERVS0h1M0g0cHZteHdOd3ozZnZaRzlnbENrd2p5XzZfdnY1NG9zekV0NzBRcXE5dHRXLTBWN3o2TTMyZkZTR0pWcmMwUDdFakZWLWk5RGRfZGNvZXhFNm9SaDY4RkQweEhXMk1SQXJoVldlb0N5NnFvcHlrOURjd0RjTTNEWGVqZzFUYUt6RVVTRC1NVmdlOFQ0MW1rOThubElJNmI5U1RXc01PaGQ3STNJWnE3MGtpMGRGYkwxeDZ4am15dmJNeUFNd3dtTWZSNW1PcnRZSjdIRFNvMkRR?oc=5"
+    },
     {
       "text": "Gaurav Gogoi slams Himanta, cites Niti Aayog survey ranking Assam among bottom five - Telegraph India",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnNyaFpjdzdzbUpZRFo1SEE4YW1KSnRNTXMxOHoySG5OSksxcWkyVVh5VXYyZUFNU18zdXFJR25CN1pwV1djaktsOEhmNWR2N2ZyQmVhNllvN01aeERTaHhPcXVTV2laRlpsTVdhYW1kZEVkMkR6V2RETGJJckJ0T0QwQ0lQZllmOWpjTkpaNVgyNzRCQkRqbWRaZEpRQWFZb1JnaERMWjBCM2dON0I0MnZrM01oQ1FMR0R6MWhKbjRSYWoxWHpFNlFlXzZqMlBJMWlTQkRySXjSAd4BQVVfeXFMUElnMVdlWkJwLUdpMmROaVN1SEJMTFowX1VYbVRxdEJVY0NyNXlHOXRNeW9uNUIwLTU0ZmJYUDRTR1gzb1Y0b29XazFXb3VxaURlQV9rUloyWDk5U0pFX1g0SnBKV1F5VExTRkJQNzJva1VMMnk4b1d1R2Q0Q3V5a2NhUFhwRWc2Wl9VekNGQmFwamFzc3RjRHpNSDlkUWRLUlB6cldyZVR6eWIzUDZab0VubVJwZWQzRzBoRzhFSXFiTDV2cXMzT0FHWWJScm1IWks5VG5oelBqeWFFWHRR?oc=5"
@@ -766,10 +770,6 @@
     {
       "text": "Canada’s annual job growth barely above zero in June, payroll survey shows - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1RjRm93dldWQm5sUmxybDdpNy00RVhoeGxKQ2pwRDJ2d2M0MGh4eFhlT0k3X0FKZjQ5Q1lOUE9hYlJXbmEzRldhSEw5SHNRQ25iand0NzhFMWlUQTRaQjRScE9tTVJxcGpNMDc0MmU1cXVZdGo2WGFKNEZQWXhCa1U3OE5ZMFJpMTJUazlPM3FUQVFtNDhENTBTTFFycWxzcGY4?oc=5"
-    },
-    {
-      "text": "The NEID Earth Twin Survey. IV. Confirming An 89 d, msini=10 M-earth Planet Orbiting A Nearby Sun-like Star - astrobiology.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV1pMUU5MdnlsMVU3ZEF0MHl2bDJ2bDNJNGtKcGVmNlpLdEhGVGFmTWw4emFuM3pGMDg5MzFFOXMwZzFmN0VKZWR0WWRWVU9HNzVQRVBmQTVOSE5WVW1jczFnN2dXR09QenI4SXlHc2VhN2ZheFJsT21HMnMwQ2VMdHV4WHlrMkp5amNPVWYzcUd6R19YUklFSTdxR3FVUjFtTUdkN3JZNkdXcW94MVlrSUpFNFk5YUYwRXQteXNMWU1rZlhlaXJxQnlCWG5OV0pVbGtxRTVSOFY?oc=5"
     }
   ]
 }
