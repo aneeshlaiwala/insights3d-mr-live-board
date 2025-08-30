@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-30T04:11:16.012Z",
+  "generated_at": "2025-08-30T04:17:06.172Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -239,6 +239,17 @@
       "source": "news.google.com",
       "raw": "Most support recall system, legislative oversight: survey  Taipei Times",
       "summary": "Most support recall system, legislative oversight: survey Taipei Times",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "Few Aussies use AI for mortgage research, survey finds - Mortgage Professional America",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGVkbjhXbmI3UmJZTi1vRkI1bklKUThpOVdiNUVlbTE3dHQyNF9HODQtLVcwbzhHQ1diQVlMWUQ5Wk9FN2VwVlpPZ1g4eGJZVVlNUkxESjN5TW5BVFp6Y2lNaEFMeXNGaXJLc00tUUo5NTExZThkLTl4MUNHNl9CbkZMVFlXMHdIbHY3R3RiZzMxLV9VS0R1MWxzVjU1a005dllPQ0IyeE81UnVKT2hqS2s4VVdLQQ?oc=5",
+      "isoDate": "2025-08-29T15:57:52.000Z",
+      "source": "news.google.com",
+      "raw": "Few Aussies use AI for mortgage research, survey finds  Mortgage Professional America",
+      "summary": "Few Aussies use AI for mortgage research, survey finds Mortgage Professional America",
       "topics": [
         "AI in MR"
       ]
@@ -541,17 +552,6 @@
       ]
     },
     {
-      "title": "Morgan Stanley intern survey: Here's what they're carrying, wearing, and working out with - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3NEM0VGRWpUQ2ZxOHVvZVJDQ3RRb3dTUWVvaEczUGRoVkRTMWhnRVJyRG5kSG5yNDlhclpUTzN2UkdoQnFtQTdEYldHbzI0d1cxT2Q2Z3VKbjJzTmFuZTFEZllkSEdSakxPRVpWMk55a2tEVHF6dVBDSVc1d2VFVGtPNWtOblZ5bF9MQXlQc3NPV3VmVDRjODh6bUNHVGRMSmc?oc=5",
-      "isoDate": "2025-08-29T09:57:00.000Z",
-      "source": "news.google.com",
-      "raw": "Morgan Stanley intern survey: Here's what they're carrying, wearing, and working out with  Business Insider",
-      "summary": "Morgan Stanley intern survey: Here's what they're carrying, wearing, and working out with Business Insider",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "I love the new Google Phone app, and a survey shows other Android users do too - Android Authority",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0d0MER5X05rUUNIRGhMOFl5NF9FTEVRa3Y3cTZKbVFKSFlTVl8tcUFZdW43djRhYl85dms2elVfdGE5Tk9LeFhHeTZ5YnJ1TUdOcUxSQTJvcVNTNzVUNmdIUDB3VHUwaXlQOFNSQVdRal9UYkdrbkdDb0tfSEp5OGR5dmlmZFNtam1MVUpTV1ZzVi12dmluSg?oc=5",
       "isoDate": "2025-08-29T09:17:42.000Z",
@@ -586,12 +586,16 @@
       "url": "https://x.com/search?q=%23most"
     },
     {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
+    },
+    {
       "label": "#customer",
       "url": "https://x.com/search?q=%23customer"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#back",
@@ -608,10 +612,6 @@
     {
       "label": "#experience",
       "url": "https://x.com/search?q=%23experience"
-    },
-    {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#laitumkhrah",
@@ -744,6 +744,10 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tOHNOMWIwNDBtY1FiUFpEc2FTYkxLV1g4QzNGX0JaelVRNWZkN0hvc3hzRnRkZUNQOWU3SlA3NldIQTBYajZHcDhXR1lUaU96SGFNUnJQNkpjTlFRaENnczlXOGU4SHhYMzF0RjBOMGdoc1dNNVdvdUdn?oc=5"
     },
     {
+      "text": "Few Aussies use AI for mortgage research, survey finds - Mortgage Professional America",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGVkbjhXbmI3UmJZTi1vRkI1bklKUThpOVdiNUVlbTE3dHQyNF9HODQtLVcwbzhHQ1diQVlMWUQ5Wk9FN2VwVlpPZ1g4eGJZVVlNUkxESjN5TW5BVFp6Y2lNaEFMeXNGaXJLc00tUUo5NTExZThkLTl4MUNHNl9CbkZMVFlXMHdIbHY3R3RiZzMxLV9VS0R1MWxzVjU1a005dllPQ0IyeE81UnVKT2hqS2s4VVdLQQ?oc=5"
+    },
+    {
       "text": "Americans More Worried About Rising Prices In New Survey - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTd0aENxeEJGUFpmeE9BdXQ4azJqWGlLNkNiTzg2cF9LeXBTZjRkOTYzVXc4alBEWnFiMGhiT0VxLUVQSjE2SjYxUEhfa1BXalJlMDV5X0xOQ1NONGFDLUdjYzhuOFZTdG9rdGdhYjhvTXFpbEw3QUtIam1GWlpWNmU4SF9pN243dURsZmYxUE9OZU5rUEUzR2JHYUY3eGc2Zi1XNHhZRkk0MFJjRWctbU1nQ3h1SEVV?oc=5"
     },
@@ -774,10 +778,6 @@
     {
       "text": "Food Insecurity Common Among Medical Students, Survey Shows - MedPage Today",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TeHdfYUNzc0JtcWFmYkFPTEJvU2tiRTZOWlBNUk83alFNQ212S2k1ZWpndjhMLWhqQVBOaGZzRElaY3F4eDR3SEpLVjZqWFptNFZaMjNMWHhuWEo2ak53aDRaSkt2dlNBVnFiSFdlVFZfOTVCSllCbjlERQ?oc=5"
-    },
-    {
-      "text": "Restaurant Survey: What's the best restaurant in Western New York? - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXdlbEZNX2NadTM4ZExuTVFuazl4NEtJaFJUNEZGU3pQekhhTGt2OV84VkcyRVA4VTF4eFVqcXZKNVp0RGt6b0dJeGtteHFSVXFKVE4wNC1vWWpnNWpYc25kYlhlb1VKX0xpNXdvbjI5QlBHSzFPTGdoa3RFTjJiYnNtbTBycnB3eGV2blUzT3pMNmdCT21uSTdXSUQ1Zlk?oc=5"
     }
   ]
 }
