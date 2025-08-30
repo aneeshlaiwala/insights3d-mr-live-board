@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-30T02:13:58.647Z",
+  "generated_at": "2025-08-30T02:53:12.881Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Conduct survey of street vendors in Laitumkhrah within 3 weeks: HC to SMB - Highland Post",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnFGMlpZbjN4OURZRVVYS3U5Snh0UUk4Q1d3dHN2V0lPRTdDLWhZTmlwaTJYcE5LaGdjOVlhYk1OeW8zRG00TDAxTUxiQmR5ZjluWXBmTjZpOG0wYTZiWnprLWN4RUdxcmRYRjFSdlFWR183MXNncHJROTJqenVyTnJZdFY2YW5FdWhMSkZ5TGRjWlhzT0k1Z25BaW8yWU0?oc=5",
+      "isoDate": "2025-08-30T02:40:29.000Z",
+      "source": "news.google.com",
+      "raw": "Conduct survey of street vendors in Laitumkhrah within 3 weeks: HC to SMB  Highland Post",
+      "summary": "Conduct survey of street vendors in Laitumkhrah within 3 weeks: HC to SMB Highland Post",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "Survey of Devadasis likely to begin next week - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkJ0YmNSVUMtMndXb3ZUZWFtRXdPYlJ0Q3c1UjhGZ3h3cGdKdktNS3c4WDdROC1WU2NqeGRZNmI2YlBxRHJUd3VnQXBnSWp4VlNRdzJzWUltMWh0RDBEREVMSWd4c1A3R3dabXVybV8wbVhsTzg4SWpsaGJsNkVSSV9tQnp3Y1cwSmNrdkxGZjVvaVM3bkRrb3pJWkRDaGM?oc=5",
@@ -219,17 +230,6 @@
       "summary": "Yes SIR, say 58% on Bihar voter roll revision: Mood of the Nation survey India Today",
       "topics": [
         "(Other)"
-      ]
-    },
-    {
-      "title": "Most support recall system, legislative oversight: survey - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tOHNOMWIwNDBtY1FiUFpEc2FTYkxLV1g4QzNGX0JaelVRNWZkN0hvc3hzRnRkZUNQOWU3SlA3NldIQTBYajZHcDhXR1lUaU96SGFNUnJQNkpjTlFRaENnczlXOGU4SHhYMzF0RjBOMGdoc1dNNVdvdUdn?oc=5",
-      "isoDate": "2025-08-29T16:00:00.000Z",
-      "source": "news.google.com",
-      "raw": "Most support recall system, legislative oversight: survey  Taipei Times",
-      "summary": "Most support recall system, legislative oversight: survey Taipei Times",
-      "topics": [
-        "AI in MR"
       ]
     },
     {
@@ -582,12 +582,12 @@
       "url": "https://x.com/search?q=%23survey"
     },
     {
-      "label": "#most",
-      "url": "https://x.com/search?q=%23most"
-    },
-    {
       "label": "#customer",
       "url": "https://x.com/search?q=%23customer"
+    },
+    {
+      "label": "#most",
+      "url": "https://x.com/search?q=%23most"
     },
     {
       "label": "#AI",
@@ -596,6 +596,10 @@
     {
       "label": "#back",
       "url": "https://x.com/search?q=%23back"
+    },
+    {
+      "label": "#conduct",
+      "url": "https://x.com/search?q=%23conduct"
     },
     {
       "label": "#education",
@@ -608,6 +612,10 @@
     {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
+    },
+    {
+      "label": "#laitumkhrah",
+      "url": "https://x.com/search?q=%23laitumkhrah"
     },
     {
       "label": "#mood",
@@ -646,19 +654,15 @@
       "url": "https://x.com/search?q=%23city"
     },
     {
-      "label": "#conduct",
-      "url": "https://x.com/search?q=%23conduct"
-    },
-    {
       "label": "#during",
       "url": "https://x.com/search?q=%23during"
-    },
-    {
-      "label": "#expectations",
-      "url": "https://x.com/search?q=%23expectations"
     }
   ],
   "ticker": [
+    {
+      "text": "Conduct survey of street vendors in Laitumkhrah within 3 weeks: HC to SMB - Highland Post",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnFGMlpZbjN4OURZRVVYS3U5Snh0UUk4Q1d3dHN2V0lPRTdDLWhZTmlwaTJYcE5LaGdjOVlhYk1OeW8zRG00TDAxTUxiQmR5ZjluWXBmTjZpOG0wYTZiWnprLWN4RUdxcmRYRjFSdlFWR183MXNncHJROTJqenVyTnJZdFY2YW5FdWhMSkZ5TGRjWlhzT0k1Z25BaW8yWU0?oc=5"
+    },
     {
       "text": "Survey of Devadasis likely to begin next week - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkJ0YmNSVUMtMndXb3ZUZWFtRXdPYlJ0Q3c1UjhGZ3h3cGdKdktNS3c4WDdROC1WU2NqeGRZNmI2YlBxRHJUd3VnQXBnSWp4VlNRdzJzWUltMWh0RDBEREVMSWd4c1A3R3dabXVybV8wbVhsTzg4SWpsaGJsNkVSSV9tQnp3Y1cwSmNrdkxGZjVvaVM3bkRrb3pJWkRDaGM?oc=5"
@@ -734,10 +738,6 @@
     {
       "text": "Yes SIR, say 58% on Bihar voter roll revision: Mood of the Nation survey - India Today",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNTJnMUQ0bl9JQ082SzFpOUdvRFljNU13WFEzNkEydWxJNnBSd3VBU2pNT1QtZ0NlYzU2NW1VQzhGQTh6eE9fd28xZG9NdlVPTFZpcm15QkNxdXRITlIyVjM5Tk9TTUZfTFVYTk5pazBDai1DdjBKUTFoaFdObk5GT2N3Ym9xb3c4d2J6LXRCWXl0X2pRbGRYV0dQVEFCcEwtWEpvOUlnTGczRWZyVTFJbFExVGZwaVFPRG1nck9pemZoT3NrVk1zS9IBzgFBVV95cUxOYmRLUkgzOTcwS2tOa2xBakktOEdGZHVrMDRfTEU5cFhBSWYtbmlaZEl2N3YtNWp4VkUzVzVaVnRRVWxaeHgzSU9ZX3I1bVFtRk5LYldzckZHYWFMcXZkXzJUSjNSNHBvR2JrODlHTl9nOTk4UnVlZk9aTnlRLVFhbVpCU1JsRmUwb1VFRTh3MkxRZ2RFZGptaG8tWEktU3NUWHFDdTUwMzRFMXZYbl9aQ19lYlptbUQ5V3I1NXRPazJGNWl6eHg3RU9TQXhhUQ?oc=5"
-    },
-    {
-      "text": "Most support recall system, legislative oversight: survey - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tOHNOMWIwNDBtY1FiUFpEc2FTYkxLV1g4QzNGX0JaelVRNWZkN0hvc3hzRnRkZUNQOWU3SlA3NldIQTBYajZHcDhXR1lUaU96SGFNUnJQNkpjTlFRaENnczlXOGU4SHhYMzF0RjBOMGdoc1dNNVdvdUdn?oc=5"
     },
     {
       "text": "Americans More Worried About Rising Prices In New Survey - Forbes",
