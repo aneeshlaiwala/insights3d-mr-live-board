@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-30T23:08:33.800Z",
+  "generated_at": "2025-08-30T23:13:16.413Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -72,6 +72,17 @@
       "source": "news.google.com",
       "raw": "Vanuatu iGaming Market Research Report  iGamingToday.com",
       "summary": "Vanuatu iGaming Market Research Report iGamingToday.com",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Doctors’ Insights on Delirium: A Nationwide Survey in Egypt - BIOENGINEER.ORG",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWdHSkpwT21jMXU2emcxbWI4MVVoZUJYWWlqTHJpeHBQUTY2T0dOM3Vlc2d1WG1ialFfZzc2RGN4Q1AxRUdha3plM2lOR1J4QU5pUzh0ZGF1d2lNR2phUS1ENmFLaG1KUUpoQ3BnT0hGNEpWTkpheFpPd0JMeDVEZTlBNmNvVGxONkE?oc=5",
+      "isoDate": "2025-08-30T17:58:19.000Z",
+      "source": "news.google.com",
+      "raw": "Doctors’ Insights on Delirium: A Nationwide Survey in Egypt  BIOENGINEER.ORG",
+      "summary": "Doctors’ Insights on Delirium: A Nationwide Survey in Egypt BIOENGINEER.ORG",
       "topics": [
         "(Other)"
       ]
@@ -549,17 +560,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Tesla FSD Is Deeply Unpopular, Survey Shows - CleanTechnica",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1huajNSWFg5RExOUm94OWhfNlZ3S2tXM1pmdDhVVmx6dkR2TG1iejJodGJ4THlNVGVJSE1iOC13aUNmRU5LejZuektJY3lZMDNWZGFBT0pKdlRNRkxpcW15V0Y5ODJfeDJTY3JuQ3g0dDZYVmR3N1JlUVdWM0lYQWVIVmxVQ1nSAYwBQVVfeXFMTjlzZlBkX1BWNmk3NVVYNnQ0SE42dHBqX2M5WDEzVlNYWW1pMkp4Wm9CSHJZOWdXVDBKR3JLQWJwRWNuZzNPcThfbTJQSkVybUthWWYtMWlTUG1BWkFGbjZGWTUwZDM1VXNEaFV6N1hFRlhIbGVDeERkeE5LN05yUVVXY0lpUVdRMHo2clA?oc=5",
-      "isoDate": "2025-08-28T16:09:59.000Z",
-      "source": "news.google.com",
-      "raw": "Tesla FSD Is Deeply Unpopular, Survey Shows  CleanTechnica",
-      "summary": "Tesla FSD Is Deeply Unpopular, Survey Shows CleanTechnica",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -641,8 +641,8 @@
       "url": "https://x.com/search?q=%23relief"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
+      "label": "#team",
+      "url": "https://x.com/search?q=%23team"
     }
   ],
   "ticker": [
@@ -669,6 +669,10 @@
     {
       "text": "Vanuatu iGaming Market Research Report - iGamingToday.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aTERhbE5uZlRkWTN4aWRJd0dpOVdRN2ZmcDEySUNLckFOY2ItNU4yRXR2bnFieTROeDF1b1Jfd2pYTkk3eU4xNkxGSmZOTW5jbTNBUVU5NFJacktLbXNYSG9PQk5XQVAyU3huVlQ5Q0FhYVJNZmxV?oc=5"
+    },
+    {
+      "text": "Doctors’ Insights on Delirium: A Nationwide Survey in Egypt - BIOENGINEER.ORG",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWdHSkpwT21jMXU2emcxbWI4MVVoZUJYWWlqTHJpeHBQUTY2T0dOM3Vlc2d1WG1ialFfZzc2RGN4Q1AxRUdha3plM2lOR1J4QU5pUzh0ZGF1d2lNR2phUS1ENmFLaG1KUUpoQ3BnT0hGNEpWTkpheFpPd0JMeDVEZTlBNmNvVGxONkE?oc=5"
     },
     {
       "text": "Focus Group Radio Look Back on Five Years of Bringing African Music to India - Rolling Stone India",
@@ -761,10 +765,6 @@
     {
       "text": "UP CM Yogi conducts aerial survey of Ghazipur floods, directs timely relief for affected families - The Statesman",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFhZUEcxWlhlaFBhXzlvUjdZVkVYclM2aDlwZ0JoV2VNZkVXeXdUTjhkX0JQckJtUlpCU1ZYam1TUjZ6eUpBanJGR19uQ3RtQ215cFpRMzNIaDgyeGtnUHhVaE5NR3ZnSXNvQzFEcnBiQ2htYWRfczRiT2UxbWxIX3pCc0MwU1k5TEIwQ1hsZTlSdHMtU1JHSWlWTHUyLWtoM1pqdjF5YzMwemlIMVdwUXgtZ0dYVk5CbkFWVi0tMVNTQWpwWlBTYU1ORnAyYTZXU0NoMGlvUHZwOU5YU2hUddIB5gFBVV95cUxQdlB0cEJ3YXhaa05XSFE4bDJFcl9XZDRJUk9IeXE3dW1ZZWZOSl9UNVVkblpHWXZCS1c2aFUtUFAxOEtqU2VQZGRmZE5QU1JleHA4aVFxT1ZkRlZIUXpLaG0xVGx0YjlZN3Q5SW5mVkg0RzVSUzIzY0xfWk9oalltbVhpeXRPeTI0WTEyYWpWNkY5dmNVRXlQWlRnWXN1MzRhVlVYSlV2SHJud25jUzJOaUVrcjVyb1Fha1U5ajFlMHRPamotMldoNkJaMDBnSmNwX21lbU9Pd3JyRXBPejJ4NWhQTVlGdw?oc=5"
-    },
-    {
-      "text": "Four in ten Delhi school students take private tuition, spend twice the national average: Survey - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYjNqUHQ1NkpOcTlaRy1VOTZaMk5SeVgtemxiWFlIcGJYLUt3QlBTcXpSTjRZUFFKQXNCUmxrbC1HTmlNd01HUGoyOUwxUUpBc3l1bVBnNWM0NEFqSk1zUFFOZUZ2STVab2NFS2N4V010eG41X2FMZUhza2FXQ29BamxfeEo1VjlEQ182OUlnWUdaSkcwSERkOFdxdW5XakpvUE9kT0VQeGdMaHlYVGVreHZadVphRWQ5N21UMmpLRE0xcTN4ZnRVWk1aM3c5YVk5WDA3dEdsZU1INHNDRm1tWG5Yb2RWMjRpVU1mdFZB0gH0AUFVX3lxTE51WjFRNE8tYk9McUw1UHZidncydXZibHprVi1iLXVVSWFkVVJsdk9Ic2tJMVZIMi1MM0QxSUhJWlVTNWNGUVJCOWVPUVZob2prX1FubWM4blpQYThfeC1taHEyOHlKWEJFTVp2dm1vc0t1Njk5RkVmNHozRWJ3a1kyRXg2REJEYk13cDRZLU9ITGVBSEphY2FzZUtId3dKTVBQMUVIdzZ1YjJja1lSR05EdkpmMnlRcEFvbjR0NmRiN2I5YVlLQ3NlZHFxSzZWQ1F5Zno3OXJiaDRZT2Q3clQ3TkVuVFU4Y0lHeGY1TmtMV1VsLXM?oc=5"
     }
   ]
 }
