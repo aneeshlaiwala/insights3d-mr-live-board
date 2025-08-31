@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-31T23:08:44.305Z",
+  "generated_at": "2025-08-31T23:13:22.281Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -171,6 +171,17 @@
       "source": "news.google.com",
       "raw": "Survey Finds That Self-Driving Is Actively Chasing Buyers Away From Tesla  Futurism",
       "summary": "Survey Finds That Self-Driving Is Actively Chasing Buyers Away From Tesla Futurism",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnYzUGRLTGVJY3N5eWxhZEhId2NtNFVFSG5weXRMa1I4bVlMTDVXckRHUGRmZjVlQW1zNG5US0dkbnJuYS1VSmtRUDJpS0RsdGRMZDloX3lYMVc2b1pVTjlLMWEycGFnN08zSmlKMDdULTRZVkRETlVrbG5BRWF4OGhfRUNKdklsV2YyNUhtX3VFd0N1Y0JfOUd1Zmg1SU9LTWN3c0d1amt6YnNRRXBrSGJldF9tNlY1Mmhhc1J4OTBFUk4zdE5vbF9hWHJmeTR1UXRTV3JZdjZtZw?oc=5",
+      "isoDate": "2025-08-31T11:36:42.000Z",
+      "source": "news.google.com",
+      "raw": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey  The Standard (HK)",
+      "summary": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey The Standard (HK)",
       "topics": [
         "(Other)"
       ]
@@ -371,17 +382,6 @@
       "summary": "Bullet train project in South India to connect these 4 cities; survey ordered The Indian Express",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "CBRE survey: APAC firms expand offices amid stricter RTO policies - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDR3TXI5U2tuQXB1VEVNSFBlTEs3czM3Mm1jb0xMNU5Kazd4eGRmOEw1dXhzOWI4OUlQMWUwMEFUM0NsREFYTVU2RzRZYXVVb2FDenZ5VjZiOGZmSVFaQ0RQZ3hmaDQ0ZXhqc1NQdHA2dVZBeC1sbS14Wl9zbEZldlF4Y0ZpQ3JGLUV6YjVHVWVBYXhJQ2JER3U3SEQxbjh0SDlDeGphRnV5T1VCVXBnQkxscVhRR00?oc=5",
-      "isoDate": "2025-08-30T12:35:22.000Z",
-      "source": "news.google.com",
-      "raw": "CBRE survey: APAC firms expand offices amid stricter RTO policies  Prop News Time",
-      "summary": "CBRE survey: APAC firms expand offices amid stricter RTO policies Prop News Time",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -592,8 +592,16 @@
       "url": "https://x.com/search?q=%23india"
     },
     {
+      "label": "#students",
+      "url": "https://x.com/search?q=%23students"
+    },
+    {
       "label": "#team",
       "url": "https://x.com/search?q=%23team"
+    },
+    {
+      "label": "#among",
+      "url": "https://x.com/search?q=%23among"
     },
     {
       "label": "#areas",
@@ -616,10 +624,6 @@
       "url": "https://x.com/search?q=%23over"
     },
     {
-      "label": "#students",
-      "url": "https://x.com/search?q=%23students"
-    },
-    {
       "label": "#support",
       "url": "https://x.com/search?q=%23support"
     },
@@ -638,10 +642,6 @@
     {
       "label": "#adityanath",
       "url": "https://x.com/search?q=%23adityanath"
-    },
-    {
-      "label": "#affected",
-      "url": "https://x.com/search?q=%23affected"
     }
   ],
   "ticker": [
@@ -706,6 +706,10 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NUEtsVVBmcVN6eG9fb2Q5YzZrcGlsa1ZDZlBNT3hJSnRxQWtsc3RsdGlkU0RoV1lobzdZOHdqXy12X0tKZU9WeUFmZmxjcU9VeDNVN2ZTZVdsQkxFemw2WHl2d2pNUVM2ZlBhaA?oc=5"
     },
     {
+      "text": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnYzUGRLTGVJY3N5eWxhZEhId2NtNFVFSG5weXRMa1I4bVlMTDVXckRHUGRmZjVlQW1zNG5US0dkbnJuYS1VSmtRUDJpS0RsdGRMZDloX3lYMVc2b1pVTjlLMWEycGFnN08zSmlKMDdULTRZVkRETlVrbG5BRWF4OGhfRUNKdklsV2YyNUhtX3VFd0N1Y0JfOUd1Zmg1SU9LTWN3c0d1amt6YnNRRXBrSGJldF9tNlY1Mmhhc1J4OTBFUk4zdE5vbF9hWHJmeTR1UXRTV3JZdjZtZw?oc=5"
+    },
+    {
       "text": "New McKinsey Survey Reveals What Investors Are Looking For Right Now - Inc.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlZHcklFTEdaNmRhd3dhXzl6bms3cjZ6aWZNRDdRWEFVaUV2ZXB2NU91RDFVd0lYdmZYR1gwMDd2QjJRWlppalh4VGhQMG5xNXlNUjFtLXQ5eXJ4TkFhRFVXMEV2aE5mcHVDRHFDbVh2aDRsdnE3RU5hRUF0Q0hLTmxLWm9BNl9HR0t2NF9HOFFjTURsQWQ4STAwU0NWSWJKUC1Va244ZW9vdzlmd0tr?oc=5"
     },
@@ -760,10 +764,6 @@
     {
       "text": "Panels set up to survey damage caused by torrential rains in migrant camps across Jammu - theweek.in",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZklqS2xMQlVJMHhCU3VyWWl6U2FoMzN3SmZSU3dUQ3FEWlBXenNaTDR0TTNqclVsUmhVdjdlQzItVTVBSGFKNkdpUXF5dmFzNmpkY0YzSFBQRzBjVkdLSUNoWHB3OEVjOUdlcEF5U0syaE5nZ1lEMTFad2RFd2lCT0tCYVh0ZWdDZi1mZFp3OEpJYmfSAZgBQVVfeXFMT1JDcDFaUFBzbXZNMktFSVBHbERraTU1czFqTlNjcV8xcHRfZEtxMjEtTGIwS2Z0RS1WeVY0Qmx0Nkwzai1mRlVDamRqU1ZaS1lyRTl5VHl5UDM1WUZqdFB6R1J4THVnaG1iRFgzTTdzczN2S2wzZF9FNUZ0eFZxT2pfVHdoeUc0ejh6SVEwSHNMVml6Y3hqWmc?oc=5"
-    },
-    {
-      "text": "Himachal CM conducts aerial survey of disaster-affected areas of Chamba and Kangra; directs officials to expedite relief and rescue ops - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRWVSMXNSZEZoZERxV0lnYnJLb1N1cS1sSlNGNXpzNEdNTlVpZ3UwTDZKX1FlWjdmWHB1NWRKNF9wb0xULTZkQ1Z6WWhjQUtPdmlfMnZzWkt5R1ByQkZSSzByNFVELUtYWmkyVXc2bVJZZy1WNi1GTXNZN0YzZHpsVmE3Y2phTEx2Ml9zTUtfaEhoNTdsT244aHphTUxXeXJ4aTNkM09mZDZBUFlMNmVfOGtyMGVJb0V3NkdFb3NzcWhPOEV1SXluMmRoTmd1RDhEQTlXcGhaT2RzVlU1MEQwUUVmNkx2c1BZU2ZqdklSVVJZRE9OT0luY3NaRURiRC1kUFlMQXAwSnNyQUdYa1hacVFMZXBHVUhGcHlkTi1jVUM?oc=5"
     }
   ]
 }
