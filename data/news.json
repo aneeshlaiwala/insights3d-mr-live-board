@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-31T03:03:37.331Z",
+  "generated_at": "2025-08-31T03:31:14.530Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -61,17 +61,6 @@
       "source": "news.google.com",
       "raw": "42pc higher edn students face discrimination on campus: survey  New Age BD",
       "summary": "42pc higher edn students face discrimination on campus: survey New Age BD",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Power And Water Supply Poor At Many Govt Schools: DoE’s Survey - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeVBsZUZuUkVqeW9RU3hpUWtEWEJaa1ZLTV8wdFNDNWltZkJYUV80VnJwNTFVMzhIMXdKTlRzQVZwRE5TUUFJWVRCYTQtWUFyNmFYcnYtNl9NbnJBRnZ2NE5RTkhFWURCbkl1UEJUcnRnSUgtVlNqYUtxZnlCeGVxcDUtQXhwVmp0LXZiSXZ4OHAxYWRQNFRvWnl5bWVKTXVxbWUxUFIzYVdJU1RwelZFVkVZeDRlREhabnUzUDJmdXhka3VvQUpaNXh2TzhUd9IB0wFBVV95cUxNSmhJTDBna1M2T3o0RzBDaEdJbGFnR0Z3VFZmOU9sVS1EYjhwWHhSQmgyR0R4Wk5kZGx6YzVjbVBwTTY3QzMyWGRrUHh0dFhTVG43bzZUbFdiQmpVelRWYm53c0Y2X3VadmU2WXg2cl84dml2OGlCTF9kOTVWY3Z3WWtwTEJuMGkxTDBhb2xhQjl5OEl1MUMzcTRKekl2SDFKUWp3YmRJZTlpQjdjdlM3dVJHdVJHSUhUU0tXQlh3blRTQ3I3ZWRwamN0em4xTzFjaEhr?oc=5",
-      "isoDate": "2025-08-30T19:01:00.000Z",
-      "source": "news.google.com",
-      "raw": "Power And Water Supply Poor At Many Govt Schools: DoE’s Survey  Times of India",
-      "summary": "Power And Water Supply Poor At Many Govt Schools: DoE’s Survey Times of India",
       "topics": [
         "(Other)"
       ]
@@ -419,6 +408,17 @@
       ]
     },
     {
+      "title": "Now, Laitumkhrah vendors’ survey on cards - The Shillong Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0RlSTV4bjFjaEN1aEpOOGdua2FnRTZ4VmJZUVVUbnlmcHNnQnFJY3huSDcwRF9uWTRfVmF3bF8wNFprZUtFdnVKUEVqMzlmOHZUb0RhdWdrU1Q4eHA0Tk1vNkthSzJnN0JmUThPSUtwSVM4TUZZMV9aSzVtelJzcC1yMkFrUms?oc=5",
+      "isoDate": "2025-08-29T21:11:56.000Z",
+      "source": "news.google.com",
+      "raw": "Now, Laitumkhrah vendors’ survey on cards  The Shillong Times",
+      "summary": "Now, Laitumkhrah vendors’ survey on cards The Shillong Times",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
       "title": "Yogi Adityanath retains top spot as most popular Chief Minister: MOTN survey - India Today",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2pDMl9RSWtPQ2E0QThCbmV5bXBzY2E1bEVxTi1pdUJyRVVZdjFHV2Z0cE91RlFqY3BlNlVock5PQnBELXVUNkVIenpRVG81RzA0TzBBWnNEWWoyT044dzVIY2ZMNGNNNWRELXVNTmxESjBmZ1NjWlFDRERTbnJQQlExQ3Qtd2JzVHpydEE3d3I1OU1NYnc1bFNfdEtLTU01NmdyLWNBVy1BckxQY0ZQMXdQMTJJUk9hSDJvX2NlVTktMTVzQWJpaEtHSE1EY1JkUkZKeEVR0gHbAUFVX3lxTE5ZMEU2NXM0X1V5VG43RENTRzhVNDl3SDNfaklpR3ZoX2dMV21RaWs5QkJKcTEtbWtpN0NuclJjbzYzSXp3aXctWS11a2RjSXpicTBlQU00SUFfMjJZMTNGel93TzBrVThZN29wREdUTVY3Q0FtOWs0MHhsejYwTG9TWk9YbHM2X09SVFk4RGo1bnJtc1NtTDdQZGZ1WUhXSUdKQnZKSUZfTGFfQVY0YnpsWm5iWHFMWTRPcWhhN2R4S1hvdUxOaDJfbDVjZlVuUnBnVjBUcFk4RHRCbw?oc=5",
       "isoDate": "2025-08-29T16:39:18.000Z",
@@ -625,6 +625,10 @@
       "url": "https://x.com/search?q=%23floods"
     },
     {
+      "label": "#laitumkhrah",
+      "url": "https://x.com/search?q=%23laitumkhrah"
+    },
+    {
       "label": "#maps",
       "url": "https://x.com/search?q=%23maps"
     },
@@ -639,10 +643,6 @@
     {
       "label": "#reveals",
       "url": "https://x.com/search?q=%23reveals"
-    },
-    {
-      "label": "#team",
-      "url": "https://x.com/search?q=%23team"
     }
   ],
   "ticker": [
@@ -665,10 +665,6 @@
     {
       "text": "42pc higher edn students face discrimination on campus: survey - New Age BD",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0VIYUZxa1YxU3ZDeFYxalRzRV9YbjU1TkpJVXlqUzdmMlVhWFEzSi11SkZFdDlBQmF6Uy1PSGR5NHlPV3hxbFB0c0RsUG9fNHk1b0RQY2dITE1qTVNYdG83RlFQZWozQVRJaEZHdFZJSElNeTZsRzJRbWRrYWFDdUpWdFhPTmcwQjh1M3ZrbF9zVVpDajFBSW1DYVFVOTVQS1Qwam1VSEF6UQ?oc=5"
-    },
-    {
-      "text": "Power And Water Supply Poor At Many Govt Schools: DoE’s Survey - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeVBsZUZuUkVqeW9RU3hpUWtEWEJaa1ZLTV8wdFNDNWltZkJYUV80VnJwNTFVMzhIMXdKTlRzQVZwRE5TUUFJWVRCYTQtWUFyNmFYcnYtNl9NbnJBRnZ2NE5RTkhFWURCbkl1UEJUcnRnSUgtVlNqYUtxZnlCeGVxcDUtQXhwVmp0LXZiSXZ4OHAxYWRQNFRvWnl5bWVKTXVxbWUxUFIzYVdJU1RwelZFVkVZeDRlREhabnUzUDJmdXhka3VvQUpaNXh2TzhUd9IB0wFBVV95cUxNSmhJTDBna1M2T3o0RzBDaEdJbGFnR0Z3VFZmOU9sVS1EYjhwWHhSQmgyR0R4Wk5kZGx6YzVjbVBwTTY3QzMyWGRrUHh0dFhTVG43bzZUbFdiQmpVelRWYm53c0Y2X3VadmU2WXg2cl84dml2OGlCTF9kOTVWY3Z3WWtwTEJuMGkxTDBhb2xhQjl5OEl1MUMzcTRKekl2SDFKUWp3YmRJZTlpQjdjdlM3dVJHdVJHSUhUU0tXQlh3blRTQ3I3ZWRwamN0em4xTzFjaEhr?oc=5"
     },
     {
       "text": "Vanuatu iGaming Market Research Report - iGamingToday.com",
@@ -765,6 +761,10 @@
     {
       "text": "NMC Launches Citizen Survey to Shape Nagpur’s Healthy Streets Policy - The Live Nagpur",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0hrbVpldUg3ZUhkSVczal81SWNVV2Fid2dFYzBGRVFxcjdBOUFVNDhxNDlkczZvSzduelVxNE81anNrcTZ1UUF2Q2JKcThkQTQwX2tESklvVXJGalY3emJZeERMdFZNbmJLbGI5YnZMWFE2dy1ja1VUZjZ3VERHQkRIWFNzSS1mRkFYQkduNTVlRlgxeHU3NGY1MnFFU003bmZnWC1NZGw?oc=5"
+    },
+    {
+      "text": "Correction: Ethics, orthodoxies and defensive practice: a cross-sectional survey of nurse’s decision-making surrounding CPR in deceased inpatients without Do Not Resuscitate orders - BMC Medical Ethics",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQVTMtbGpsT2FEYXgzRDgzeURQMUJkSDAzMGZRYmNPZzh4dEtHbkpZT0Q1MmtrUmhtTHBEblNKSUU4cnpSQWpIMjRFdnFobHBXd2pQM2dsTml2WkliZlhGNXRkUDhYM2hCRWs2bHpSanVnX0RrNTVURk9JNzBrMUE?oc=5"
     }
   ]
 }
