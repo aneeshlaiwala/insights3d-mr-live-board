@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T16:11:27.631Z",
+  "generated_at": "2025-09-01T16:17:52.280Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Primary Care Centre Launches Patient Feedback Survey - Gibraltar Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVm1zU0hHQUtINUNiV1BkVldxUWRzeG9oMEFmTkhrd29sMzhJV2xnd1JwSElxRGRhVEI5OXdYaGhuQUl0LXgyY0VGV1hTT2Z5RDNoRjZlaS1FRlYyTWIxc0NlaWZfNXViVzBkNmYyZGlBRS1Ud3I0RUs4cEdwakUybWVB?oc=5",
+      "isoDate": "2025-09-01T16:12:15.000Z",
+      "source": "news.google.com",
+      "raw": "Primary Care Centre Launches Patient Feedback Survey  Gibraltar Broadcasting Corporation",
+      "summary": "Primary Care Centre Launches Patient Feedback Survey Gibraltar Broadcasting Corporation",
+      "topics": [
+        "Healthcare"
+      ]
+    },
     {
       "title": "Survey: Nearly 70% of Users Plan to Upgrade to iPhone 17 - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjlYZ2tzYlFHWkVuSFVKTHNvSTBRVndpUjljUzBjdXlXVkE5MGtmTFB6OXYwbTdUZzcxUDI4enhDZHZYNjNwU1J2Q3h3STBLOGlkdVoxc0k3RGVxUkNraE1kbnJhSmtON3pPYnYtdlFFbG5DdTRpWVFMaUpuMHp2bWE0a2wxSlNSUzBSUFpB?oc=5",
@@ -512,17 +523,6 @@
       ]
     },
     {
-      "title": "60% of Gen Z in US support Hamas over Israel: Survey - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHBuazlaQWVtVWpNTGx2eU5XdTFva01ITU13SS1mYnpDR3R6QTlLNTVneGczUy1qSTFKc2kxeVE4cjVnWngzek1EZm0tTE9HZUp2ZUVrYmJsQ3dqdUsyUld2RkRQYVZERmVybEV6Nk90NjZIbWNBbWloeVAzOS1aa0FCM2t2N3ZlSXRYR0FhX1Z3N1RabVhEQVNkZw?oc=5",
-      "isoDate": "2025-08-31T13:10:34.000Z",
-      "source": "news.google.com",
-      "raw": "60% of Gen Z in US support Hamas over Israel: Survey  Anadolu Ajansı",
-      "summary": "60% of Gen Z in US support Hamas over Israel: Survey Anadolu Ajansı",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Bullet train project in South India to connect these 4 cities; survey ordered - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeEQwa3NrYTJ0c3dBUE1VT2t5S0xQSGhOR2ZQZEg2WU5SQklRRWp0Q1h3eUFmcE8tdEhLek53MmJrTFZzOEZNNWhETFM4NWpQRXhQZUJQU2RuZVl4d2NrcUVCTXQ4ZEZBWkVla256NDd6ZFFhdG41cm5XMU1taW1mcjNPOFNiVTRZY1QzVVpUeHNQb2Ixb2x1ZURLZndMT1M3T2l0SmQ3cllnX1FNU3lyZkpmeXhFVVRuampHZXhQQlhJREo00gHLAUFVX3lxTE9uaG0wcTBPQTJMN1pDQUpZQlc5N2cxc1AtUnZ4M0tfcUR0bEwxbU1lRXlMVGZlTlJOZUVkck5sYm12dU5uNm9raUh1UzIzcW5CMFpVMHhGSEppV1RjdUxoV01yNGJyLTZTNE5FNW5UMHFhTXFHX2VHcjZIbDJfeEx4TE9vaGNJSlJTWHVGZXNrQ2V6OGRUU3l2UXNIOThPeW9GTmJvTzhNQTRwSVZVdjBUYmpBM2RGM3JPZzIwWmw3bGJOUklTMXAwcEk0?oc=5",
       "isoDate": "2025-08-30T12:37:18.000Z",
@@ -659,11 +659,15 @@
       "url": "https://x.com/search?q=%23bullet"
     },
     {
-      "label": "#checks",
-      "url": "https://x.com/search?q=%23checks"
+      "label": "#centre",
+      "url": "https://x.com/search?q=%23centre"
     }
   ],
   "ticker": [
+    {
+      "text": "Primary Care Centre Launches Patient Feedback Survey - Gibraltar Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVm1zU0hHQUtINUNiV1BkVldxUWRzeG9oMEFmTkhrd29sMzhJV2xnd1JwSElxRGRhVEI5OXdYaGhuQUl0LXgyY0VGV1hTT2Z5RDNoRjZlaS1FRlYyTWIxc0NlaWZfNXViVzBkNmYyZGlBRS1Ud3I0RUs4cEdwakUybWVB?oc=5"
+    },
     {
       "text": "Survey: Nearly 70% of Users Plan to Upgrade to iPhone 17 - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjlYZ2tzYlFHWkVuSFVKTHNvSTBRVndpUjljUzBjdXlXVkE5MGtmTFB6OXYwbTdUZzcxUDI4enhDZHZYNjNwU1J2Q3h3STBLOGlkdVoxc0k3RGVxUkNraE1kbnJhSmtON3pPYnYtdlFFbG5DdTRpWVFMaUpuMHp2bWE0a2wxSlNSUzBSUFpB?oc=5"
@@ -779,10 +783,6 @@
     {
       "text": "Fund managers hold steady on risk despite slowing growth, says survey - Money Marketing",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3BJNzMzaWdiOWQwT2hHbXhxM0ZndF8tdmpIamJtU2hJZmlSOGhaZUJHNWxCRnZSLVR3dS1jbFBjV0RESHZkaXFhUnB3OEVjRXJsMGNqVnU2Y2tIOUN5U1NqU1lnN2l1b1JzT2dldXVraGRCRlZnekxZUUpFODZXQjVxOFdBTzc1dVM4MXZycXNzemt4aURKRDR6ci1jWkpPbF93NThidEhMZ2M?oc=5"
-    },
-    {
-      "text": "School Costs Leave Parents’ Pensions Short-Changed, New PensionBee Survey Finds - Financial IT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmkweHo1WkJPVk42OFh6N255ekFRTnBwaTU5TzdNU0lyZnA4bGJLVnM2MEJVVkZPdHUtekpaZExrbV9lOFBSSzhQNlBWa2lxdlROcVB0b0xxdWZzdWhVc3l5cUUtNVhTNnc2Ylhoa3NxQUwyRnAxR0xMUGJhMVd0bFVjOG9ERUFNelRxZFB3a1FwQmxqYi1US2NRbXNOMlhFNC1PVGVBQW5wS2xTR0NnM1pxVkFobjNsd0JmT193aEs?oc=5"
     }
   ]
 }
