@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-31T23:13:22.281Z",
+  "generated_at": "2025-09-01T00:56:29.797Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Most drivers want tougher rules on pavement parking – survey - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2JPOU53UUpMQXhqZEpjaGk5aTdJU1gxZG9TMGpfTEdmeGNTQ1dBQlliX1F2cDZkdzduZms3THJOdnVNREhLenZVcElkbTBLWTdzRmVIN1R3aEJmQ016ZXNMV3lrTkZnU25BYk9QUm8yYlhOTnRqZnphTWlyZ3EyeklwZ2ZnLTZfVTF6WVl5S09PY0F4QmZRMXVDdEhza3BQSmo5djFSbU9neFk?oc=5",
+      "isoDate": "2025-08-31T23:01:00.000Z",
+      "source": "news.google.com",
+      "raw": "Most drivers want tougher rules on pavement parking – survey  The Independent",
+      "summary": "Most drivers want tougher rules on pavement parking – survey The Independent",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Golden Deeps Initiates IP Survey at Graceland Prospect - TipRanks",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVdXbFNkMkpuSHdnYmxzREVZY0NEZ0Jid1BRVjhJcVkyZGRfQW10MEpIOEdFOHpvU2p0NThiZWQzZ2FJZUpIcmd5VmV2X1UyS3JjcF93WHBmQVYzSDhJQUw5MmFmQlI3d2l1ZmpZX2k1ZURZVEJ3Z0hGaU5VUGUwbDNsTmxHZndvZmo3T3NBaUZmLVJRZG01d2htejVNTHRpRGM2bFVKeUFwUQ?oc=5",
@@ -176,17 +187,6 @@
       ]
     },
     {
-      "title": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey - The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnYzUGRLTGVJY3N5eWxhZEhId2NtNFVFSG5weXRMa1I4bVlMTDVXckRHUGRmZjVlQW1zNG5US0dkbnJuYS1VSmtRUDJpS0RsdGRMZDloX3lYMVc2b1pVTjlLMWEycGFnN08zSmlKMDdULTRZVkRETlVrbG5BRWF4OGhfRUNKdklsV2YyNUhtX3VFd0N1Y0JfOUd1Zmg1SU9LTWN3c0d1amt6YnNRRXBrSGJldF9tNlY1Mmhhc1J4OTBFUk4zdE5vbF9hWHJmeTR1UXRTV3JZdjZtZw?oc=5",
-      "isoDate": "2025-08-31T11:36:42.000Z",
-      "source": "news.google.com",
-      "raw": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey  The Standard (HK)",
-      "summary": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey The Standard (HK)",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "New McKinsey Survey Reveals What Investors Are Looking For Right Now - Inc.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlZHcklFTEdaNmRhd3dhXzl6bms3cjZ6aWZNRDdRWEFVaUV2ZXB2NU91RDFVd0lYdmZYR1gwMDd2QjJRWlppalh4VGhQMG5xNXlNUjFtLXQ5eXJ4TkFhRFVXMEV2aE5mcHVDRHFDbVh2aDRsdnE3RU5hRUF0Q0hLTmxLWm9BNl9HR0t2NF9HOFFjTURsQWQ4STAwU0NWSWJKUC1Va244ZW9vdzlmd0tr?oc=5",
       "isoDate": "2025-08-31T11:06:32.000Z",
@@ -211,7 +211,7 @@
     {
       "title": "UN survey finds 92% of Afghans support girls’ right to education - Amu TV",
       "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBoVHFmWS1EeTBocVVHVXNCN2RhTjB5NlFfM0xTMEotQWFHLTU4bTRjaEI3eFh0cktFQkE?oc=5",
-      "isoDate": "2025-08-31T09:15:50.000Z",
+      "isoDate": "2025-08-31T09:09:06.000Z",
       "source": "news.google.com",
       "raw": "UN survey finds 92% of Afghans support girls’ right to education  Amu TV",
       "summary": "UN survey finds 92% of Afghans support girls’ right to education Amu TV",
@@ -592,16 +592,8 @@
       "url": "https://x.com/search?q=%23india"
     },
     {
-      "label": "#students",
-      "url": "https://x.com/search?q=%23students"
-    },
-    {
       "label": "#team",
       "url": "https://x.com/search?q=%23team"
-    },
-    {
-      "label": "#among",
-      "url": "https://x.com/search?q=%23among"
     },
     {
       "label": "#areas",
@@ -620,8 +612,16 @@
       "url": "https://x.com/search?q=%23maps"
     },
     {
+      "label": "#most",
+      "url": "https://x.com/search?q=%23most"
+    },
+    {
       "label": "#over",
       "url": "https://x.com/search?q=%23over"
+    },
+    {
+      "label": "#students",
+      "url": "https://x.com/search?q=%23students"
     },
     {
       "label": "#support",
@@ -645,6 +645,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Most drivers want tougher rules on pavement parking – survey - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2JPOU53UUpMQXhqZEpjaGk5aTdJU1gxZG9TMGpfTEdmeGNTQ1dBQlliX1F2cDZkdzduZms3THJOdnVNREhLenZVcElkbTBLWTdzRmVIN1R3aEJmQ016ZXNMV3lrTkZnU25BYk9QUm8yYlhOTnRqZnphTWlyZ3EyeklwZ2ZnLTZfVTF6WVl5S09PY0F4QmZRMXVDdEhza3BQSmo5djFSbU9neFk?oc=5"
+    },
     {
       "text": "Golden Deeps Initiates IP Survey at Graceland Prospect - TipRanks",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVdXbFNkMkpuSHdnYmxzREVZY0NEZ0Jid1BRVjhJcVkyZGRfQW10MEpIOEdFOHpvU2p0NThiZWQzZ2FJZUpIcmd5VmV2X1UyS3JjcF93WHBmQVYzSDhJQUw5MmFmQlI3d2l1ZmpZX2k1ZURZVEJ3Z0hGaU5VUGUwbDNsTmxHZndvZmo3T3NBaUZmLVJRZG01d2htejVNTHRpRGM2bFVKeUFwUQ?oc=5"
@@ -704,10 +708,6 @@
     {
       "text": "Survey Finds That Self-Driving Is Actively Chasing Buyers Away From Tesla - Futurism",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NUEtsVVBmcVN6eG9fb2Q5YzZrcGlsa1ZDZlBNT3hJSnRxQWtsc3RsdGlkU0RoV1lobzdZOHdqXy12X0tKZU9WeUFmZmxjcU9VeDNVN2ZTZVdsQkxFemw2WHl2d2pNUVM2ZlBhaA?oc=5"
-    },
-    {
-      "text": "Moderate happy levels among secondary students, 20pc struggling emotionally: survey - The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnYzUGRLTGVJY3N5eWxhZEhId2NtNFVFSG5weXRMa1I4bVlMTDVXckRHUGRmZjVlQW1zNG5US0dkbnJuYS1VSmtRUDJpS0RsdGRMZDloX3lYMVc2b1pVTjlLMWEycGFnN08zSmlKMDdULTRZVkRETlVrbG5BRWF4OGhfRUNKdklsV2YyNUhtX3VFd0N1Y0JfOUd1Zmg1SU9LTWN3c0d1amt6YnNRRXBrSGJldF9tNlY1Mmhhc1J4OTBFUk4zdE5vbF9hWHJmeTR1UXRTV3JZdjZtZw?oc=5"
     },
     {
       "text": "New McKinsey Survey Reveals What Investors Are Looking For Right Now - Inc.com",
