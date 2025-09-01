@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T13:21:57.094Z",
+  "generated_at": "2025-09-01T13:25:22.658Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -217,17 +217,6 @@
       "source": "news.google.com",
       "raw": "Fund managers hold steady on risk despite slowing growth, says survey  Money Marketing",
       "summary": "Fund managers hold steady on risk despite slowing growth, says survey Money Marketing",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Sanseito expanding collaboration with other parties in Japan local assemblies: survey - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLZ2ZpVEQydmFXM0oyNFdnblVQOFNkcEI1OVFEb3hCWWtOU1oxYkdWdUpKSkRGSnk3NmJaN2FhZTRGa2pSVVZhNkNna3lVTXpLQkxBRHFXbGl4VUkxNFdwXy1nWlJPOUJ0MGN6R1F0cUJxTlk?oc=5",
-      "isoDate": "2025-09-01T08:23:58.000Z",
-      "source": "news.google.com",
-      "raw": "Sanseito expanding collaboration with other parties in Japan local assemblies: survey  毎日新聞",
-      "summary": "Sanseito expanding collaboration with other parties in Japan local assemblies: survey 毎日新聞",
       "topics": [
         "(Other)"
       ]
@@ -565,6 +554,17 @@
       "topics": [
         "AI in MR"
       ]
+    },
+    {
+      "title": "Modi holds firm | India Today Mood of the Nation survey - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWW9ZRUdPRFQteFJPVlR5bEotZlpYME82UVlGM2Fwenh2ZGhlRm5XeGJYcXhJZ3pEbUc4NmtjSXV5NmNvT3pBVnZkdXU3WGhRTFlRamtHOXl3QnZJM21SRUVmRTJTMThtYmpxN254c05BbFJVbzhXMTBadXJ2OHFUQnhSVEstbGROOFdtR1VZSk5VbnpzbWdCSzkzcVZWdzgzTFhMeGZPdFVXVEZUcEZZcTBPc0hocXhDLURlRGw3YVZzckVhSEVGbHowUU5ocTdGekVxVVgxYm9EdFnSAeABQVVfeXFMT1huaURiOWtnR2FUdzRhWTRkUDl2Qjh5d2tPc2x0ZF9zc21fdk1IbHVMVFRFZVowZ2s0N2ZiRDBXU1ZqZXYwYXMyNGo4RlVfZUtTd3dMSS1ua0doam5neHQ2WFJ6b3h4bUtWNGNUTVk5bGFNaXYta0lOZERDdndQS1VTWmthZkFybnVSYS11NFVUZnAyUEVHNE5nLVdvbVpyTnZxWldVRk94Z2dtampNWFcybHd0X1FuREZXS040Uy1LakVrMDZEQkEyc1VRLUF2ejVJdVBLbi1jbkdJcHpFUUU?oc=5",
+      "isoDate": "2025-08-29T13:05:37.000Z",
+      "source": "news.google.com",
+      "raw": "Modi holds firm | India Today Mood of the Nation survey  India Today",
+      "summary": "Modi holds firm | India Today Mood of the Nation survey India Today",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -619,16 +619,16 @@
       "url": "https://x.com/search?q=%23august"
     },
     {
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
+    },
+    {
       "label": "#academy",
       "url": "https://x.com/search?q=%23academy"
     },
     {
       "label": "#airlines",
       "url": "https://x.com/search?q=%23airlines"
-    },
-    {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
     },
     {
       "label": "#manufacturing",
@@ -741,10 +741,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3BJNzMzaWdiOWQwT2hHbXhxM0ZndF8tdmpIamJtU2hJZmlSOGhaZUJHNWxCRnZSLVR3dS1jbFBjV0RESHZkaXFhUnB3OEVjRXJsMGNqVnU2Y2tIOUN5U1NqU1lnN2l1b1JzT2dldXVraGRCRlZnekxZUUpFODZXQjVxOFdBTzc1dVM4MXZycXNzemt4aURKRDR6ci1jWkpPbF93NThidEhMZ2M?oc=5"
     },
     {
-      "text": "Sanseito expanding collaboration with other parties in Japan local assemblies: survey - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLZ2ZpVEQydmFXM0oyNFdnblVQOFNkcEI1OVFEb3hCWWtOU1oxYkdWdUpKSkRGSnk3NmJaN2FhZTRGa2pSVVZhNkNna3lVTXpLQkxBRHFXbGl4VUkxNFdwXy1nWlJPOUJ0MGN6R1F0cUJxTlk?oc=5"
-    },
-    {
       "text": "School Costs Leave Parents’ Pensions Short-Changed, New PensionBee Survey Finds - Financial IT",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmkweHo1WkJPVk42OFh6N255ekFRTnBwaTU5TzdNU0lyZnA4bGJLVnM2MEJVVkZPdHUtekpaZExrbV9lOFBSSzhQNlBWa2lxdlROcVB0b0xxdWZzdWhVc3l5cUUtNVhTNnc2Ylhoa3NxQUwyRnAxR0xMUGJhMVd0bFVjOG9ERUFNelRxZFB3a1FwQmxqYi1US2NRbXNOMlhFNC1PVGVBQW5wS2xTR0NnM1pxVkFobjNsd0JmT193aEs?oc=5"
     },
@@ -783,6 +779,10 @@
     {
       "text": "World Bridge Team Championships – Feedback Survey - World Bridge Federation",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblhSRkItX2VUTEx6QkZ1U2VMaFpMczFBOUVKQVJpekNsTkxsSWYxc1d3djBGRHA0RGNmLVlXZ0NGSHFFUEpUWkg1MUN4SnA0Zm55VlJoQkNoMGhCWHBYaWxPeFpEY09aWUtXalBZNEtFMl8yXzRnNVpUTlNELXJEQjVPV29NZmdJSV9yMzFMdw?oc=5"
+    },
+    {
+      "text": "Union Minister Amit Shah to hold aerial survey of flood affected regions in Jammu - Rising Kashmir",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm96Q2szWEI5OEtFem1mZzBYODJubS0yZEFXR1F1SndSRFVYcWxsTHdTc1RRQWdXRkhabU9odXUzQjZEemNuZmJxZGtWdXJha3BkZzZmVTVFOWd5UG5SbzFhd1M2NjRURTVUalpieTBRTXJCRF9oakdBdVRWdUwzbnluVEZSemJsNF93TGpsQ3I1SGUwVWpSVjkxbVBzTEFyaXQyMlEtZHo5WTM5?oc=5"
     }
   ]
 }
