@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T18:13:02.817Z",
+  "generated_at": "2025-09-01T18:20:34.772Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -523,17 +523,6 @@
       ]
     },
     {
-      "title": "60% of Gen Z in US support Hamas over Israel: Survey - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHBuazlaQWVtVWpNTGx2eU5XdTFva01ITU13SS1mYnpDR3R6QTlLNTVneGczUy1qSTFKc2kxeVE4cjVnWngzek1EZm0tTE9HZUp2ZUVrYmJsQ3dqdUsyUld2RkRQYVZERmVybEV6Nk90NjZIbWNBbWloeVAzOS1aa0FCM2t2N3ZlSXRYR0FhX1Z3N1RabVhEQVNkZw?oc=5",
-      "isoDate": "2025-08-31T13:10:34.000Z",
-      "source": "news.google.com",
-      "raw": "60% of Gen Z in US support Hamas over Israel: Survey  Anadolu Ajansı",
-      "summary": "60% of Gen Z in US support Hamas over Israel: Survey Anadolu Ajansı",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Bullet train project in South India to connect these 4 cities; survey ordered - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeEQwa3NrYTJ0c3dBUE1VT2t5S0xQSGhOR2ZQZEg2WU5SQklRRWp0Q1h3eUFmcE8tdEhLek53MmJrTFZzOEZNNWhETFM4NWpQRXhQZUJQU2RuZVl4d2NrcUVCTXQ4ZEZBWkVla256NDd6ZFFhdG41cm5XMU1taW1mcjNPOFNiVTRZY1QzVVpUeHNQb2Ixb2x1ZURLZndMT1M3T2l0SmQ3cllnX1FNU3lyZkpmeXhFVVRuampHZXhQQlhJREo00gHLAUFVX3lxTE9uaG0wcTBPQTJMN1pDQUpZQlc5N2cxc1AtUnZ4M0tfcUR0bEwxbU1lRXlMVGZlTlJOZUVkck5sYm12dU5uNm9raUh1UzIzcW5CMFpVMHhGSEppV1RjdUxoV01yNGJyLTZTNE5FNW5UMHFhTXFHX2VHcjZIbDJfeEx4TE9vaGNJSlJTWHVGZXNrQ2V6OGRUU3l2UXNIOThPeW9GTmJvTzhNQTRwSVZVdjBUYmpBM2RGM3JPZzIwWmw3bGJOUklTMXAwcEk0?oc=5",
       "isoDate": "2025-08-30T12:37:18.000Z",
@@ -562,6 +551,17 @@
       "source": "news.google.com",
       "raw": "Yogi Adityanath retains top spot as most popular Chief Minister: MOTN survey  India Today",
       "summary": "Yogi Adityanath retains top spot as most popular Chief Minister: MOTN survey India Today",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "'AI shame' is running rampant in the corporate sector—and C-suite leaders are most worried about getting caught, survey says - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamx6SVNpdmZtNnRZeFNVcVk1M1VJUFNWTy1HS2FCbzB3cXhQUEYxNkZMQlhIMVEtZURoUi1Lc0p2Z0tGNDhjTTYxSzU2VmZ5TWZuVE5URmtZdXdPQlB1YVhCM1BqQldLSFVzRFpxREVMekZlZG51aUxhQk9SNVpXcDhOM0JNVTdmRlZhaTZLNXZHUmZkVl9SZUdvSQ?oc=5",
+      "isoDate": "2025-08-29T15:22:00.000Z",
+      "source": "news.google.com",
+      "raw": "'AI shame' is running rampant in the corporate sector—and C-suite leaders are most worried about getting caught, survey says  Fortune",
+      "summary": "'AI shame' is running rampant in the corporate sector—and C-suite leaders are most worried about getting caught, survey says Fortune",
       "topics": [
         "AI in MR"
       ]
@@ -607,6 +607,10 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
+    },
+    {
       "label": "#august",
       "url": "https://x.com/search?q=%23august"
     },
@@ -623,16 +627,16 @@
       "url": "https://x.com/search?q=%23women"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
-    },
-    {
       "label": "#iphone",
       "url": "https://x.com/search?q=%23iphone"
     },
     {
       "label": "#manufacturing",
       "url": "https://x.com/search?q=%23manufacturing"
+    },
+    {
+      "label": "#most",
+      "url": "https://x.com/search?q=%23most"
     },
     {
       "label": "#project",
@@ -657,10 +661,6 @@
     {
       "label": "#bullet",
       "url": "https://x.com/search?q=%23bullet"
-    },
-    {
-      "label": "#centre",
-      "url": "https://x.com/search?q=%23centre"
     }
   ],
   "ticker": [
