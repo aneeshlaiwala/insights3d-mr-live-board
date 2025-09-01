@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T17:08:10.187Z",
+  "generated_at": "2025-09-01T17:12:52.799Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -241,17 +241,6 @@
       "summary": "Andhra CM Naidu Confirms Survey For South India’s First Bullet Train Project Outlook India",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "New survey finds parents blame social media for rising back-to-school costs - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mVGU5bU1xTkZHdFBWaXd6NDRlOVQycEF6SmswcUdzWF9aZ2EyQm9Rcnc5MnlUeHVpejNIRFFPeUFHY3YtT3RnOXo0X0x5SnQyZThNdWVPcWFVRXk3TVhFdWRGSmR2a25ETUZydF92aHd6Y3Z1X3BEQUpMQQ?oc=5",
-      "isoDate": "2025-09-01T10:36:53.000Z",
-      "source": "news.google.com",
-      "raw": "New survey finds parents blame social media for rising back-to-school costs  AOL.com",
-      "summary": "New survey finds parents blame social media for rising back-to-school costs AOL.com",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -565,6 +554,17 @@
       "topics": [
         "AI in MR"
       ]
+    },
+    {
+      "title": "Modi holds firm | India Today Mood of the Nation survey - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWW9ZRUdPRFQteFJPVlR5bEotZlpYME82UVlGM2Fwenh2ZGhlRm5XeGJYcXhJZ3pEbUc4NmtjSXV5NmNvT3pBVnZkdXU3WGhRTFlRamtHOXl3QnZJM21SRUVmRTJTMThtYmpxN254c05BbFJVbzhXMTBadXJ2OHFUQnhSVEstbGROOFdtR1VZSk5VbnpzbWdCSzkzcVZWdzgzTFhMeGZPdFVXVEZUcEZZcTBPc0hocXhDLURlRGw3YVZzckVhSEVGbHowUU5ocTdGekVxVVgxYm9EdFnSAeABQVVfeXFMT1huaURiOWtnR2FUdzRhWTRkUDl2Qjh5d2tPc2x0ZF9zc21fdk1IbHVMVFRFZVowZ2s0N2ZiRDBXU1ZqZXYwYXMyNGo4RlVfZUtTd3dMSS1ua0doam5neHQ2WFJ6b3h4bUtWNGNUTVk5bGFNaXYta0lOZERDdndQS1VTWmthZkFybnVSYS11NFVUZnAyUEVHNE5nLVdvbVpyTnZxWldVRk94Z2dtampNWFcybHd0X1FuREZXS040Uy1LakVrMDZEQkEyc1VRLUF2ejVJdVBLbi1jbkdJcHpFUUU?oc=5",
+      "isoDate": "2025-08-29T13:05:37.000Z",
+      "source": "news.google.com",
+      "raw": "Modi holds firm | India Today Mood of the Nation survey  India Today",
+      "summary": "Modi holds firm | India Today Mood of the Nation survey India Today",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -607,6 +607,10 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
+      "label": "#august",
+      "url": "https://x.com/search?q=%23august"
+    },
+    {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
     },
@@ -615,20 +619,12 @@
       "url": "https://x.com/search?q=%23school"
     },
     {
-      "label": "#august",
-      "url": "https://x.com/search?q=%23august"
-    },
-    {
-      "label": "#rising",
-      "url": "https://x.com/search?q=%23rising"
-    },
-    {
       "label": "#singapore",
       "url": "https://x.com/search?q=%23singapore"
     },
     {
-      "label": "#costs",
-      "url": "https://x.com/search?q=%23costs"
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
     },
     {
       "label": "#manufacturing",
@@ -639,12 +635,12 @@
       "url": "https://x.com/search?q=%23most"
     },
     {
-      "label": "#parents",
-      "url": "https://x.com/search?q=%23parents"
-    },
-    {
       "label": "#project",
       "url": "https://x.com/search?q=%23project"
+    },
+    {
+      "label": "#rising",
+      "url": "https://x.com/search?q=%23rising"
     },
     {
       "label": "#women",
@@ -659,8 +655,12 @@
       "url": "https://x.com/search?q=%23airlines"
     },
     {
-      "label": "#back",
-      "url": "https://x.com/search?q=%23back"
+      "label": "#bullet",
+      "url": "https://x.com/search?q=%23bullet"
+    },
+    {
+      "label": "#centre",
+      "url": "https://x.com/search?q=%23centre"
     }
   ],
   "ticker": [
@@ -749,10 +749,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlp4SlZpdWJPNmVpRWUxRlNoQVR1U3UxMmFWazEyVkxicDhwLVlxeWJrLXVqY0FCSldySldBeVV2Qk9WUFYtZzd2MkNwbmx3M1Z0RmZaZUF2cllzYXRNZ2JIN3UxaHlCTUhncWJIVDZ3TGFoNlVTQWcyUXpoeGsxeGpVaVFTVlQ3OW1jeUdRcURfenlJQXE4OVNYY3BHT1M5Y1VCcElCSU1lR3h5RVpsUl82dw?oc=5"
     },
     {
-      "text": "New survey finds parents blame social media for rising back-to-school costs - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mVGU5bU1xTkZHdFBWaXd6NDRlOVQycEF6SmswcUdzWF9aZ2EyQm9Rcnc5MnlUeHVpejNIRFFPeUFHY3YtT3RnOXo0X0x5SnQyZThNdWVPcWFVRXk3TVhFdWRGSmR2a25ETUZydF92aHd6Y3Z1X3BEQUpMQQ?oc=5"
-    },
-    {
       "text": "LG Uplus ranked top in Digital Customer Experience Index again - Telecompaper",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmg4eUhoNmR3aFRjc1paV3NYRGd2YVdqaHBFR0hncTZHLWQ2cy1aTk9CLWVfeHRjZDItYnE4VDNsODZ5clpoWWJMMDNleTZDdXQ1Qk9FLXhJeFFHS21NbGFpN3QzREVOSEUzWklOWjduX2Fsd2JDRXJYQWhtVWxRZnhwMzc1SW5ickI4TU81bmNSR2l0YXlXWGI0M0prR3lRZm1wYzBXb2o?oc=5"
     },
@@ -783,6 +779,10 @@
     {
       "text": "School Costs Leave Parents’ Pensions Short-Changed, New PensionBee Survey Finds - Financial IT",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmkweHo1WkJPVk42OFh6N255ekFRTnBwaTU5TzdNU0lyZnA4bGJLVnM2MEJVVkZPdHUtekpaZExrbV9lOFBSSzhQNlBWa2lxdlROcVB0b0xxdWZzdWhVc3l5cUUtNVhTNnc2Ylhoa3NxQUwyRnAxR0xMUGJhMVd0bFVjOG9ERUFNelRxZFB3a1FwQmxqYi1US2NRbXNOMlhFNC1PVGVBQW5wS2xTR0NnM1pxVkFobjNsd0JmT193aEs?oc=5"
+    },
+    {
+      "text": "China's factory activity rebounds in private survey while official data stays weak - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSmY1RkNmTVhfUU13SEotek9NVklzUVBFNU9sVkdnYi1na3BfNUZ6b2s4YjFtYTFfY1NxMk8tRzhTbDdkRlQtckUzbkYxOV9lejcwUXNfMWFreHBabnNMVlVlNzVVSE5ySDhTTGRYbEFQYkMzREp2SG10NjRhXzQ5Slk2LXpzQm5Ua1A5R3ZSTjZJOTNHUFZzVi1iRlpWVlBvTEI4Z2RKSDlPcW9CYXBSNlVPTEVIbUwyTkxaaUtzamt3a3dUT2RmazBCLS0wTHgwR1pXMjZhZ0VGZVphYnc5MVl4RnZud0VGNUlwX0pUZGxfdw?oc=5"
     }
   ]
 }
