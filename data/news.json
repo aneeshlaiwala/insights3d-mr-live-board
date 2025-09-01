@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T06:17:02.550Z",
+  "generated_at": "2025-09-01T06:25:18.765Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -50,6 +50,17 @@
       "source": "news.google.com",
       "raw": "World Bridge Team Championships – Feedback Survey  World Bridge Federation",
       "summary": "World Bridge Team Championships – Feedback Survey World Bridge Federation",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Survey Looks To Future Of Aquatic Center - Webster-Kirkwood Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWE5JaWRqZUViT0dVSjJZNGlhX2xhbFpISlRPeERCVmh5QkVkaWxEZTAzZlVVTXpMNHFlc1BTRE1nUi0xcjNVR2hDSXRicFNIYVlRQUJDeW5KQXpfMDIyVFQzOVdtbS0tcTFGQVJHRWNFZ2RQWlNwZGxBblp1UlVsb0dYVGc0WThmbnBxSnhaV0JyVEJUd3pHVmVrOFY5UjZYRUR5NmNpZjJ1cVhYVXotRkxnUS1zNjdUVS1LV2UzUkRhQzdQTG1oTFBndjUyNXBNNlA1Uy0xMkFnMmpL?oc=5",
+      "isoDate": "2025-09-01T05:00:00.000Z",
+      "source": "news.google.com",
+      "raw": "Survey Looks To Future Of Aquatic Center  Webster-Kirkwood Times",
+      "summary": "Survey Looks To Future Of Aquatic Center Webster-Kirkwood Times",
       "topics": [
         "(Other)"
       ]
@@ -552,17 +563,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Google Maps Team Goes To Survey UP Village, Gets Thrashed Over Theft Suspicion - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFQxWHZ5MzJVOEhwYUNVN1VhMUpVaWVGUlJrN1plZW15ZzJTMXZtdEFQY3pPNWJGN3A0TzNsMGZLSXZXTVo3cFQyYWk2YXhTMVZ5RWtSc2E3ZFBnOTFocHpFemRCWGVHdmh2UzFHcEtBaTJLN2JxdlczTk1FbWpqYVFjcnc4UW4tN0VQTU5tQ3poOGJjV2JPeE1Fd1JvTmJnaC1oNHVHUXdjVU9aOE1EX0hlV1Zua0lK0gHAAUFVX3lxTE1KaV8yNWprY3o3dUE1STA0WEROWkNKMVF4cDNPYlI1SzJoNFBpaHBGdzc4TjA1NGlaRnM4c295NTNCMlhmNGxXcVFhcnlqX2duUzVXNy1ub0lSWDB4bUkxOVR6aFZJbjJicENxWDNKT3E3bUxlZW0tUmtaRGg4ektCSUo2NGtDNnVMTV9vVW12OEoyZmVVZHV0dm9xV1lTQTBibVdHUy1iSEdUSGpFenJWZWl3YUVMVmxyMm1ORXJvNw?oc=5",
-      "isoDate": "2025-08-29T08:05:22.000Z",
-      "source": "news.google.com",
-      "raw": "Google Maps Team Goes To Survey UP Village, Gets Thrashed Over Theft Suspicion  NDTV",
-      "summary": "Google Maps Team Goes To Survey UP Village, Gets Thrashed Over Theft Suspicion NDTV",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -592,10 +592,6 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#team",
-      "url": "https://x.com/search?q=%23team"
-    },
-    {
       "label": "#academy",
       "url": "https://x.com/search?q=%23academy"
     },
@@ -612,10 +608,6 @@
       "url": "https://x.com/search?q=%23conducts"
     },
     {
-      "label": "#gets",
-      "url": "https://x.com/search?q=%23gets"
-    },
-    {
       "label": "#india",
       "url": "https://x.com/search?q=%23india"
     },
@@ -624,8 +616,8 @@
       "url": "https://x.com/search?q=%23minister"
     },
     {
-      "label": "#over",
-      "url": "https://x.com/search?q=%23over"
+      "label": "#team",
+      "url": "https://x.com/search?q=%23team"
     },
     {
       "label": "#activity",
@@ -646,6 +638,14 @@
     {
       "label": "#central",
       "url": "https://x.com/search?q=%23central"
+    },
+    {
+      "label": "#flood",
+      "url": "https://x.com/search?q=%23flood"
+    },
+    {
+      "label": "#future",
+      "url": "https://x.com/search?q=%23future"
     }
   ],
   "ticker": [
@@ -664,6 +664,10 @@
     {
       "text": "World Bridge Team Championships – Feedback Survey - World Bridge Federation",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblhSRkItX2VUTEx6QkZ1U2VMaFpMczFBOUVKQVJpekNsTkxsSWYxc1d3djBGRHA0RGNmLVlXZ0NGSHFFUEpUWkg1MUN4SnA0Zm55VlJoQkNoMGhCWHBYaWxPeFpEY09aWUtXalBZNEtFMl8yXzRnNVpUTlNELXJEQjVPV29NZmdJSV9yMzFMdw?oc=5"
+    },
+    {
+      "text": "Survey Looks To Future Of Aquatic Center - Webster-Kirkwood Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWE5JaWRqZUViT0dVSjJZNGlhX2xhbFpISlRPeERCVmh5QkVkaWxEZTAzZlVVTXpMNHFlc1BTRE1nUi0xcjNVR2hDSXRicFNIYVlRQUJDeW5KQXpfMDIyVFQzOVdtbS0tcTFGQVJHRWNFZ2RQWlNwZGxBblp1UlVsb0dYVGc0WThmbnBxSnhaV0JyVEJUd3pHVmVrOFY5UjZYRUR5NmNpZjJ1cVhYVXotRkxnUS1zNjdUVS1LV2UzUkRhQzdQTG1oTFBndjUyNXBNNlA1Uy0xMkFnMmpL?oc=5"
     },
     {
       "text": "Union Minister Amit Shah to hold aerial survey of flood affected regions in Jammu - Rising Kashmir",
@@ -764,10 +768,6 @@
     {
       "text": "A Global Survey on General Surgery Resident Involvement in Metabolic and Bariatric Surgery - Cureus",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWo3YmhydVNnMUhMS2VkUFBXY1QyUVczNU5NUFJadkhqWkhCaGloWXNmSklVazRMbXRsMExKZHBKd2F0VDBMTWsxTEx6MUVXcE93Q0M3OEFzZFNHT1hKUmx2OTRXanl6NU5YVWNjRVNGNzVmU2VNaEtpSHdYODRpVGY3THBaek00TmJWblNWQ04yNG9pc2pxQmRMcnY2djNwbWt6a1RHTjV1QWsxSDBlY2tkUnZ6cTE5SVo2R0VxLXNrSm9oRVluag?oc=5"
-    },
-    {
-      "text": "Ayiravallipara mining in Kottarakkara: Team led by RDO conducts inspection and survey - Onmanorama",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDdOZE14SU9hOWl0MVhkb3ZuT1E0bUJOd2dRSDJrRWt2QjZWNGZDYWVoeVQxWVlXQ0V6dzk2TjNxdTRzVy05VFFUb181UWt4U294cElEbkM0M2FYeG9BTWtpQWJURng2dEpYLWRORFZEWVpLUkE1ZjJXX1k4V0NLWjh2cklxVmU0Q2w5ZFFiSE0zOENzU1U4ZENOellCLTR2aXJB?oc=5"
     }
   ]
 }
