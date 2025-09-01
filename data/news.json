@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T09:12:46.679Z",
+  "generated_at": "2025-09-01T09:18:31.018Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Students See AI as Helpful but Fear It Weakens Thinking Skills, Survey Shows - Republic World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEEtcU55WFlEaWxieUtuSVJVZzJxWHNSTTdxaWphVndROUkwU1A0SjFZWlNnWFNpNUFObnNfV0tpMlJaWDdSTC14U2RHVGUtUTZwOGpVSllYWS1ndU1TcXNXRTJTSHlleDNpQ0p4bFo3U3k3c1R2eW9ocFNuQ2Z1QXlNakEyTGk3RWIzNEZGaVJoRkd6V1JSeHQ4cjMwdC1tZTRpZTRDaVN6LWt4cks4?oc=5",
+      "isoDate": "2025-09-01T09:15:39.000Z",
+      "source": "news.google.com",
+      "raw": "Students See AI as Helpful but Fear It Weakens Thinking Skills, Survey Shows  Republic World",
+      "summary": "Students See AI as Helpful but Fear It Weakens Thinking Skills, Survey Shows Republic World",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "Fund managers hold steady on risk despite slowing growth, says survey - Money Marketing",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3BJNzMzaWdiOWQwT2hHbXhxM0ZndF8tdmpIamJtU2hJZmlSOGhaZUJHNWxCRnZSLVR3dS1jbFBjV0RESHZkaXFhUnB3OEVjRXJsMGNqVnU2Y2tIOUN5U1NqU1lnN2l1b1JzT2dldXVraGRCRlZnekxZUUpFODZXQjVxOFdBTzc1dVM4MXZycXNzemt4aURKRDR6ci1jWkpPbF93NThidEhMZ2M?oc=5",
@@ -552,17 +563,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Factors associated with self-reported diagnosis of depression in Kenya: insights from 2022 Demographic and Health Survey - BMC Public Health",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekUwdFRLZjhFTllRVVoyUG1mYnpzSjZ2OHhDbG9Ob3YxejlZdTRpQXJWcGpsTF85Q1BISHBHSUVZVXpTTU80Z1dCXzlEWGlvd1hjQlNXaFVSSVpRMnRDTmFxeHktaWlKNkwtcWo1UGsyZWlxNGp0MFBvOU5OUEowUjMydw?oc=5",
-      "isoDate": "2025-08-29T08:49:41.000Z",
-      "source": "news.google.com",
-      "raw": "Factors associated with self-reported diagnosis of depression in Kenya: insights from 2022 Demographic and Health Survey  BMC Public Health",
-      "summary": "Factors associated with self-reported diagnosis of depression in Kenya: insights from 2022 Demographic and Health Survey BMC Public Health",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -592,16 +592,16 @@
       "url": "https://x.com/search?q=%23private"
     },
     {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
+    },
+    {
       "label": "#singapore",
       "url": "https://x.com/search?q=%23singapore"
     },
     {
       "label": "#activity",
       "url": "https://x.com/search?q=%23activity"
-    },
-    {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
     },
     {
       "label": "#academy",
@@ -640,15 +640,19 @@
       "url": "https://x.com/search?q=%23reveals"
     },
     {
-      "label": "#support",
-      "url": "https://x.com/search?q=%23support"
+      "label": "#students",
+      "url": "https://x.com/search?q=%23students"
     },
     {
-      "label": "#team",
-      "url": "https://x.com/search?q=%23team"
+      "label": "#support",
+      "url": "https://x.com/search?q=%23support"
     }
   ],
   "ticker": [
+    {
+      "text": "Students See AI as Helpful but Fear It Weakens Thinking Skills, Survey Shows - Republic World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEEtcU55WFlEaWxieUtuSVJVZzJxWHNSTTdxaWphVndROUkwU1A0SjFZWlNnWFNpNUFObnNfV0tpMlJaWDdSTC14U2RHVGUtUTZwOGpVSllYWS1ndU1TcXNXRTJTSHlleDNpQ0p4bFo3U3k3c1R2eW9ocFNuQ2Z1QXlNakEyTGk3RWIzNEZGaVJoRkd6V1JSeHQ4cjMwdC1tZTRpZTRDaVN6LWt4cks4?oc=5"
+    },
     {
       "text": "Fund managers hold steady on risk despite slowing growth, says survey - Money Marketing",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3BJNzMzaWdiOWQwT2hHbXhxM0ZndF8tdmpIamJtU2hJZmlSOGhaZUJHNWxCRnZSLVR3dS1jbFBjV0RESHZkaXFhUnB3OEVjRXJsMGNqVnU2Y2tIOUN5U1NqU1lnN2l1b1JzT2dldXVraGRCRlZnekxZUUpFODZXQjVxOFdBTzc1dVM4MXZycXNzemt4aURKRDR6ci1jWkpPbF93NThidEhMZ2M?oc=5"
@@ -764,10 +768,6 @@
     {
       "text": "Six in 10 parents in debt just to support their kids, survey finds - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnducjZDQ2hhXzVsVjhMeUFiVF9MWGVZZlMyNFNVVWNIemVpQTRHTWF1VFRpMWtzQUo0enROUGlMWm14U2V4RldyYmI2c1BSdUx5YjByTGVvNnVSeENYNjNCWDFHQlRRYnJsM1FUQnVXZzZYYUtnRk5TX3JLSGE2ekFXWFY1VlBwb2ItZzlGRldwUkFFcDFNR1kwQ29DdGQ4aWl3b3hTWQ?oc=5"
-    },
-    {
-      "text": "Delhi students’ reliance on private coaching exceeds national average: survey - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWNwQ0U1eFJkR1pHcXNPMDJvWEpUM1BQZDBlUlAxa1llN1ZjOHVuUWpCSVBBQmtMTm93b2w5b0NyZTRQYzBvaWc0Uk9OU1BtemFqYUZEV3ZyRTlwWml2dVpSZ2UwaWpRcGtsdkpwS2diMUFNWnppVFA3U2FIakdjV2VNaGZlNFR1dldLaTY2d1ZRM0R0YW5BMXlYWE5XTE9XcVFUWlRYOE56eVFsUElnRzVkQmdMY29qRTBsdVp1b0xTbU9fZm4weGRDemRYSUhpZjRHMtIB2wFBVV95cUxQUTB1a1VVV2NWYmNPWG5RRzYwYWRyaS1fNUZXMEJqZDVuejR4TGxCQWthdEFmV0hPVHVjenVlS0FUWFVfY2JuRVJZb1NvTEk3UlYtWFJkRWdrNVFxeW1NUTJaOGRLQ1U3R0NSOEtaN1kwYmJiX0FPRnptMnpiZm9KektmWVZmTkJxQUNLUmlaQ1dxRjJEVzl6VWxfMVZGLWRLWFpVbHpaTWUxOFQ3bUFMNnY5dXFuRmp3YW94QUJxMkRBbHI2Tk9zbVZsc3liV1hKWmc3TUJkUHk3NjQ?oc=5"
     }
   ]
 }
