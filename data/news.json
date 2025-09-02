@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-02T22:08:01.316Z",
+  "generated_at": "2025-09-02T22:13:19.985Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -13,7 +13,7 @@
     {
       "title": "1 in 4 encountered false rumors during disasters: Japan Red Cross survey - 毎日新聞",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uV01oZm9iTWhNMk1SUmZIMWVhS3hfbThrZ0pYajQtUGs3aFFwVEJ3X2kwMXpxSmlRWUNGSHo1aVA5a24yQnF3NDlOY2dpS2RURnMya1NSVjJiZlFDcVVnZnZqLVZocnZUZmZ0TTVBX1hCdUk?oc=5",
-      "isoDate": "2025-09-02T22:02:18.000Z",
+      "isoDate": "2025-09-02T22:02:55.000Z",
       "source": "news.google.com",
       "raw": "1 in 4 encountered false rumors during disasters: Japan Red Cross survey  毎日新聞",
       "summary": "1 in 4 encountered false rumors during disasters: Japan Red Cross survey 毎日新聞",
@@ -264,17 +264,6 @@
       ]
     },
     {
-      "title": "CTERA survey shows most firms bounce back from ransomware - Blocks and Files",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EVHJwZFBjcDFLZ1ZYZEtnclBCVDlyX29uUEtRQXo5d01DYmhIQTd5OU8xTlFrOFgyQVUxQzVabDlYZ2xidlFsamhwWlNPcW83dWdNZWhzdmcxYUt6T1dDV0NSWVFFbmlIV1hmbTZsZw?oc=5",
-      "isoDate": "2025-09-02T16:10:00.000Z",
-      "source": "news.google.com",
-      "raw": "CTERA survey shows most firms bounce back from ransomware  Blocks and Files",
-      "summary": "CTERA survey shows most firms bounce back from ransomware Blocks and Files",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Noida Authority holds meet on stray dogs—RWAs to notify about unsterilised dogs with photos, survey soon - ThePrint",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk44ekFQYlduYTVHQTlNVldJNlNwcU1laS1WOXhNLXI5TEl6NTY0WDliTThGVnJLdVR1MkpyYzQ4aGswb2JPekhnODRlVDFxTUxxX0dOX3pvaUhiQS1lWG9QSFhrLWRxWHY0TjRrNm13NmQzOV9BNWxtNVZ2OG9rNjdJRU5PVGFSQnlMTDc3MmlYTzczSWRQaEFOYVhndWh6dHRMeGNaRzV2XzRHRVBXSWFTWXNSaEVhM3lTRVp6TVJ3cjJwZmRKWFczUW5FblZGRkI5VTFZN2hTSnpKVll4QWFMZ9IB6AFBVV95cUxONkpLY0gzT2xRajQ3OHFFeE9RMThKU1kyTWpZTmlBS2N6ZF9YNU1uVG5tSEpiLVRpYWRFc1NSbXotcGhPYldhTWZGVkhscHAybGxIWEFsWjBCdERwcnNmbE94QVVSNE9TUTZKajdTZ2JDeFhCcVdtemk1LU9pRmNLSkY4SW16WVNWb2o2WnR5NW9GQXl1aHVIMm9ESmo1TVpnRzRyOS1iNHZmeUt1RWhqdGVEVjZUSjRyeDh5ajcxQU9zb2hBTVRUXzMtdUlJWnJneHdHUmM4dGFzcEZRaEZ1R1BJWUxiYjds?oc=5",
       "isoDate": "2025-09-02T16:07:55.000Z",
@@ -294,6 +283,17 @@
       "summary": "The Leadership Skills Gap Hindering Customer Experience Efforts Forbes",
       "topics": [
         "CX"
+      ]
+    },
+    {
+      "title": "Nearly 3 in 4 Americans have a financial regret: Survey - Gulf Today",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUVXZWlJUzBzYUc4UDRWMVBVempKb0dmUVg1eW9xa296aDlnclFpclU4dXdERmlUR2swRGFiNE9QZHNycWdnZHJwMEVPTnRidkV2Y3AwbHUza3cxdTN1S3NWYjRfdzdpWU83ajJQdGM4QzdfbUVFMkk2U0k5NnJxcG9taTQ2dWR4bFNzUFBBS0ZlZy1Ed2J2VDJiVHFUaWs?oc=5",
+      "isoDate": "2025-09-02T15:58:39.000Z",
+      "source": "news.google.com",
+      "raw": "Nearly 3 in 4 Americans have a financial regret: Survey  Gulf Today",
+      "summary": "Nearly 3 in 4 Americans have a financial regret: Survey Gulf Today",
+      "topics": [
+        "(Other)"
       ]
     },
     {
@@ -529,6 +529,17 @@
       ]
     },
     {
+      "title": "Majority of EU citizens support further EU enlargement, new Eurobarometer survey shows, while perception surveys in candidate countries point to overall support for EU accession - EEAS",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNanBnOEhKeFE2aXJkQzJHbmVmd2JTb2s3b1BrWmtnYTJfWUp6ZmdXem5oMUJlUGpudURwZmRWbHBzallROHQwMFhSR09sc2FSbnloQzNZczFrTjhQdDNwb3ZfbC1MYTBCNHdaQXJmNlY0dHNmbm41M1BUVFVtcTE3X2Fham9ONVlqQmszRjF0Y2dtS1pWZmJBRkppdURPOFNQMHRKTkxFRWgwS1BHbGhWN3FVeHlLQzU1YTRNRUdQengtVllxbHZ2Y3dwb0VKLXpEQmViVmc0UDlPMjhTd2F0YXpLUQ?oc=5",
+      "isoDate": "2025-09-02T13:22:05.000Z",
+      "source": "news.google.com",
+      "raw": "Majority of EU citizens support further EU enlargement, new Eurobarometer survey shows, while perception surveys in candidate countries point to overall support for EU accession  EEAS",
+      "summary": "Majority of EU citizens support further EU enlargement, new Eurobarometer survey shows, while perception surveys in candidate countries point to overall support for EU accession EEAS",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Pessimism about economy at record highs in new survey - The Hill",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuT3JnRVpTLVhEUEpsdTlqaGZGUHNUejNlZ3B3aF96OXg2VF9KSmNxbGhIaUdKbi1fVW5qM01BT1lSWm02RE5qcmpXVXQzTUhPWEZSZ0tZTmRNaldlRy1aZDJITFR2Y1dKVlVmWnowMkZVZFFpVXZkT3J1SjBHTjjSAYQBQVVfeXFMT2tIdjRzUVpuVlVZdUZrTHBBcE5UWVYtaEZITUt0TDhxVjF4VXhDM1QyUFJkMDR0RE1RS29qNjNJaWFjTlBoVVBKU1pLQ1RQSDJfRmR2SXlFMnpqTHZfM0Fnd19mYTJCTG92cWlpazR4Yl9oTjJhRWJRY1FMQmozVFdEaGlU?oc=5",
       "isoDate": "2025-09-02T13:07:00.000Z",
@@ -548,17 +559,6 @@
       "summary": "A sweeping survey of the Global South finds scientists are the most credible voices on climate Anthropocene Magazine",
       "topics": [
         "(Other)"
-      ]
-    },
-    {
-      "title": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100 - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdGZSZ29PYW13LTFBaHdmbUF6TUdFV3lydDdnR3p3b1VhdWdhNmtNOXVlRHVuODVtYUtWbS1Qdm1RWWp0dVgyNXNDdzNmVTZ3RWRULTBpZXRqZFc4d0VGM3I5cDRGV3hDcnQzc1lNaTNnOEVqU2ZQb1ZkQ1A3OGEyUmNITVR0MkN6Y0haa3JsaXpQT3RERmgzOXRiNU1BcFBIVkdUQjlGMDgxY0Vzb1FyN2FhNGVtdXFwYTRmZ29Ib3FBRXVOWXpWNGJqRkZoSVVQR3ZObTVjQUhBNW80REZsZ0M4VG5RNzYtY29acE9PVUhrVkg5Z1JIMkU5aWJOeGY5VWlRRHNCWHQyOTBmMG5NWnQ3ZWw?oc=5",
-      "isoDate": "2025-09-02T11:52:38.000Z",
-      "source": "news.google.com",
-      "raw": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100  PC Gamer",
-      "summary": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100 PC Gamer",
-      "topics": [
-        "Qualitative Research"
       ]
     }
   ],
@@ -605,16 +605,12 @@
       "url": "https://x.com/search?q=%23more"
     },
     {
-      "label": "#most",
-      "url": "https://x.com/search?q=%23most"
-    },
-    {
-      "label": "#steam",
-      "url": "https://x.com/search?q=%23steam"
-    },
-    {
       "label": "#dogs",
       "url": "https://x.com/search?q=%23dogs"
+    },
+    {
+      "label": "#have",
+      "url": "https://x.com/search?q=%23have"
     },
     {
       "label": "#health",
@@ -633,8 +629,16 @@
       "url": "https://x.com/search?q=%23school"
     },
     {
+      "label": "#steam",
+      "url": "https://x.com/search?q=%23steam"
+    },
+    {
       "label": "#stray",
       "url": "https://x.com/search?q=%23stray"
+    },
+    {
+      "label": "#support",
+      "url": "https://x.com/search?q=%23support"
     },
     {
       "label": "#water",
@@ -643,10 +647,6 @@
     {
       "label": "#authority",
       "url": "https://x.com/search?q=%23authority"
-    },
-    {
-      "label": "#back",
-      "url": "https://x.com/search?q=%23back"
     },
     {
       "label": "#become",
@@ -751,16 +751,16 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzRUUTl1RDEwUFZ3TkFzdUpJYjR3S2FwNHhiMXRHWGtZUEZzSWF0ZFBKRTktOGpqbW5aTk5pMDVpaVAwMkJiU1dSbzdyS0VONVlPaVJqakMweEx5T1dDcWMtYWpEMDJQcXZiLTI3N2FsYUpqcUcyd3J4Y2Fhc3RUMnl3bmpYSmJIMmlJT05Ea0J4NldqS040LWFsMXYyYjlNYWRHUmNxdWlxYWN0OWhjd1hXLXHSAboBQVVfeXFMTVJESlFheHFwYWw3Z21aX0hHejJtWVlrVGFJVE9SU1R3V3dQLWxOZXF5dnJ5cEwtUzBueTljWjJGVnNMOXJBbUhSVzc5UUZLem5aeGw4alBTdDVZcTdIZ0k0TjNEZHV3ZHVOSWNyVDhoUDJHb25lUHMzZHJFTUtYel9PQmxTRlpEb25pVDRZRUEtYy00eGVtWXRpejlqN3FmVnFUN3VYUF95WUpuLV8tSVJ6LXkxaUcwSEhR?oc=5"
     },
     {
-      "text": "CTERA survey shows most firms bounce back from ransomware - Blocks and Files",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EVHJwZFBjcDFLZ1ZYZEtnclBCVDlyX29uUEtRQXo5d01DYmhIQTd5OU8xTlFrOFgyQVUxQzVabDlYZ2xidlFsamhwWlNPcW83dWdNZWhzdmcxYUt6T1dDV0NSWVFFbmlIV1hmbTZsZw?oc=5"
-    },
-    {
       "text": "Noida Authority holds meet on stray dogs—RWAs to notify about unsterilised dogs with photos, survey soon - ThePrint",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk44ekFQYlduYTVHQTlNVldJNlNwcU1laS1WOXhNLXI5TEl6NTY0WDliTThGVnJLdVR1MkpyYzQ4aGswb2JPekhnODRlVDFxTUxxX0dOX3pvaUhiQS1lWG9QSFhrLWRxWHY0TjRrNm13NmQzOV9BNWxtNVZ2OG9rNjdJRU5PVGFSQnlMTDc3MmlYTzczSWRQaEFOYVhndWh6dHRMeGNaRzV2XzRHRVBXSWFTWXNSaEVhM3lTRVp6TVJ3cjJwZmRKWFczUW5FblZGRkI5VTFZN2hTSnpKVll4QWFMZ9IB6AFBVV95cUxONkpLY0gzT2xRajQ3OHFFeE9RMThKU1kyTWpZTmlBS2N6ZF9YNU1uVG5tSEpiLVRpYWRFc1NSbXotcGhPYldhTWZGVkhscHAybGxIWEFsWjBCdERwcnNmbE94QVVSNE9TUTZKajdTZ2JDeFhCcVdtemk1LU9pRmNLSkY4SW16WVNWb2o2WnR5NW9GQXl1aHVIMm9ESmo1TVpnRzRyOS1iNHZmeUt1RWhqdGVEVjZUSjRyeDh5ajcxQU9zb2hBTVRUXzMtdUlJWnJneHdHUmM4dGFzcEZRaEZ1R1BJWUxiYjds?oc=5"
     },
     {
       "text": "The Leadership Skills Gap Hindering Customer Experience Efforts - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGRiVUNFTEx6dktXNUY5MW8xOVRBM3RnQXVxX2twc2xZVkt4X3BOWVBub0JOS3BBbWxUOWZXT0VaT2g5TDQwVm05bHJKbDBDN3NWcGt6eWtUdHkxRXgweFVpN0JfN0pLNVZPR190Tmd5c2kxSjU1ZW1XLUowRmg2NUFUMHp0VVg5WC0tTmlwd21kOTZmQURMZnRxcVNCSUhDT1E5N1FQdFRhcklHaDJVU0M1U0hRMmZFdElV?oc=5"
+    },
+    {
+      "text": "Nearly 3 in 4 Americans have a financial regret: Survey - Gulf Today",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUVXZWlJUzBzYUc4UDRWMVBVempKb0dmUVg1eW9xa296aDlnclFpclU4dXdERmlUR2swRGFiNE9QZHNycWdnZHJwMEVPTnRidkV2Y3AwbHUza3cxdTN1S3NWYjRfdzdpWU83ajJQdGM4QzdfbUVFMkk2U0k5NnJxcG9taTQ2dWR4bFNzUFBBS0ZlZy1Ed2J2VDJiVHFUaWs?oc=5"
     },
     {
       "text": "What Does Worldpay Survey Say About UK SMEs' Attitude to AI? - Business Chief",
