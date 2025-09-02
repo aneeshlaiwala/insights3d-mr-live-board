@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-02T20:10:16.455Z",
+  "generated_at": "2025-09-02T20:15:52.294Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -11,9 +11,20 @@
   ],
   "top_news": [
     {
+      "title": "Noida: Survey to track sterilisation, behaviour & health of stray dogs - MillenniumPost",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2xhR0Vnelp1SVZWaFlLc2hDYnlNSDBsd0hMWklrYmRBV05YLVF2STNGWE51WVFERzZTZThHV0MtdzN1Qm85ZE0zdENTU2E5RWZJZEFnSU5INzBXSU8tRC11bGN0bGlTNFAxWGF6cWJWZG9pWVZLQkdRR0VqTzNNTS1MRUZvQnZGaUNvRHV0WnZLbEMzNEIxY2haSDhjNnNpenlhbEpHb3l6dHZyTmfSAbMBQVVfeXFMUHlmbU9Ka2hROFd0dm5fUWcxUzBlQ1RZd1NWRng3Sjh0YlFTZXFGYmxheW5hOXVmM0luS3h4ektlUkpXaTY2a1U5SmZVd3FRQlFHTkxrNDFSSXFiNWFLY2FtRDBMZ3RjOGJhZzNkTXZkZEJ1YTZiNzRtMTNzbG12aFpoMGFkMFdoNFJPd1h6bGNMby1RMWZQakF6QVg2a29UZlotdlo2R2ZRY0dNaHpmZk9meUU?oc=5",
+      "isoDate": "2025-09-02T20:12:44.000Z",
+      "source": "news.google.com",
+      "raw": "Noida: Survey to track sterilisation, behaviour & health of stray dogs  MillenniumPost",
+      "summary": "Noida: Survey to track sterilisation, behaviour & health of stray dogs MillenniumPost",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "The voice of the peloton: TCA has released its annual rider survey - Escape Collective",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY05OOGZQVGpNZkVlU0d5Y0dNcEE5WGZTYjNwM1I1NmFyaWlEX0RoaVoyMzNTZDNMdUxEWHRhcTFKdGNMS3Nscm5odldvMTZBMk9qLXZUal9FSlNVc2VuRVRIVjV6TDNoUzVJbmlyRW5LMkJuTE5SQXUwelBLendjNWVBcGVyOHFBbmFXQkVDYV9aenRCT1UzY1ZQZw?oc=5",
-      "isoDate": "2025-09-02T19:27:21.000Z",
+      "isoDate": "2025-09-02T19:42:40.000Z",
       "source": "news.google.com",
       "raw": "The voice of the peloton: TCA has released its annual rider survey  Escape Collective",
       "summary": "The voice of the peloton: TCA has released its annual rider survey Escape Collective",
@@ -430,17 +441,6 @@
       ]
     },
     {
-      "title": "Send your name to Antarctica - British Antarctic Survey",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBscFgxMC1hVC00bC1kRldEbkUtMzRjRDAxdDQ5T0NnWEFtMGkySmFhMHVBMElPRlJ1aHBZZVZUUDhGc2pLSnI0dEZVZTRWTGRsOUZ4UEdGMGVvRkNodnBNWDZray1ralV6MVBRMGt3UQ?oc=5",
-      "isoDate": "2025-09-02T13:41:15.000Z",
-      "source": "news.google.com",
-      "raw": "Send your name to Antarctica  British Antarctic Survey",
-      "summary": "Send your name to Antarctica British Antarctic Survey",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "BJP urges Backward Classes Commission not to conduct caste survey 'hastily' - theweek.in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFZfZW1qSEtIMEZJOUZuRVBUNkhtUGpCZ1NtOUNjbEk1OUZqUTNXV1VzcGpIbTljclpyd1J4cUVCRlNYWXd2V2JHUFhua0kwR3NtTnpza1RPVExranltRFIzOXFLckVKXzJ4ekNjZVZfejRIeGRpWnlrcWtveVlZXzlOUGVReTllUlQ1RmkyY9IBlAFBVV95cUxOb3ZxQ2NIRW5ScEdYd0NRa2FQYzEtdXY1U3ZnTDNEWEY4N19VcVYyMDVDc0NzTTdIdVRYYkFuX2hoYXUxcEJWZ21QRHk3eGFVdm1icnBNUHVNN3M2aUZXZ2lYZ1RadWJvWlVFaFNQR0ZET0U2MWtlb1l2bWN2UXdvRnFrcnVWb2RiTHpVM1g4b1RQYjhu?oc=5",
       "isoDate": "2025-09-02T13:35:14.000Z",
@@ -613,6 +613,10 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
+      "label": "#dogs",
+      "url": "https://x.com/search?q=%23dogs"
+    },
+    {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
     },
@@ -625,8 +629,16 @@
       "url": "https://x.com/search?q=%23most"
     },
     {
+      "label": "#noida",
+      "url": "https://x.com/search?q=%23noida"
+    },
+    {
       "label": "#reveals",
       "url": "https://x.com/search?q=%23reveals"
+    },
+    {
+      "label": "#stray",
+      "url": "https://x.com/search?q=%23stray"
     },
     {
       "label": "#through",
@@ -639,10 +651,6 @@
     {
       "label": "#water",
       "url": "https://x.com/search?q=%23water"
-    },
-    {
-      "label": "#your",
-      "url": "https://x.com/search?q=%23your"
     },
     {
       "label": "#authority",
@@ -659,17 +667,13 @@
     {
       "label": "#become",
       "url": "https://x.com/search?q=%23become"
-    },
-    {
-      "label": "#canadian",
-      "url": "https://x.com/search?q=%23canadian"
-    },
-    {
-      "label": "#checks",
-      "url": "https://x.com/search?q=%23checks"
     }
   ],
   "ticker": [
+    {
+      "text": "Noida: Survey to track sterilisation, behaviour & health of stray dogs - MillenniumPost",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2xhR0Vnelp1SVZWaFlLc2hDYnlNSDBsd0hMWklrYmRBV05YLVF2STNGWE51WVFERzZTZThHV0MtdzN1Qm85ZE0zdENTU2E5RWZJZEFnSU5INzBXSU8tRC11bGN0bGlTNFAxWGF6cWJWZG9pWVZLQkdRR0VqTzNNTS1MRUZvQnZGaUNvRHV0WnZLbEMzNEIxY2haSDhjNnNpenlhbEpHb3l6dHZyTmfSAbMBQVVfeXFMUHlmbU9Ka2hROFd0dm5fUWcxUzBlQ1RZd1NWRng3Sjh0YlFTZXFGYmxheW5hOXVmM0luS3h4ektlUkpXaTY2a1U5SmZVd3FRQlFHTkxrNDFSSXFiNWFLY2FtRDBMZ3RjOGJhZzNkTXZkZEJ1YTZiNzRtMTNzbG12aFpoMGFkMFdoNFJPd1h6bGNMby1RMWZQakF6QVg2a29UZlotdlo2R2ZRY0dNaHpmZk9meUU?oc=5"
+    },
     {
       "text": "The voice of the peloton: TCA has released its annual rider survey - Escape Collective",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY05OOGZQVGpNZkVlU0d5Y0dNcEE5WGZTYjNwM1I1NmFyaWlEX0RoaVoyMzNTZDNMdUxEWHRhcTFKdGNMS3Nscm5odldvMTZBMk9qLXZUal9FSlNVc2VuRVRIVjV6TDNoUzVJbmlyRW5LMkJuTE5SQXUwelBLendjNWVBcGVyOHFBbmFXQkVDYV9aenRCT1UzY1ZQZw?oc=5"
@@ -785,10 +789,6 @@
     {
       "text": "Armenia up, Georgia down in latest US survey of global rights practices - Eurasianet",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGJoNzVFZXRaX29jcXdrcW8zZFJTUldjSUpseXF0LVFtdGQ5cjZNSDRXR2Y3b1RlOW1UakM3aHN1VFA4UGM5NTdWcmJ5ZWEwQzd6bGtmdXZmUnhvVkdQTF9Wd2l3UklocEwtSktfWFk2a2kwN3gyd2RseGJTa2U5RWNWN1FzWWFBRTh5UG9lZS13MUhLUW1qeQ?oc=5"
-    },
-    {
-      "text": "AI in the UAE: Cisco reveals 10 trends transforming customer experience - Arabian Business",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0NJblh6N1pleU0wUy1QakFwNFR4ZlNvSFctT09ldFBieWJGbEFTVTF3UTgwaENNbkd0TnlTcm9SS1pDU090MmVjekVtbGl4bzlDeEtJMkNWejZBR1AweFVkTVAzbXZZTHcwOXBfZ2VRU1JCc25CZ0tTSTJkc1Uyd0FZLWNiNzZJNzVqblNSRFVNME5ybHUwUklYTjdaS0VPQ3Vsc193aW95dWNRY2lBTTlxVDhFRmxfZldRRjJody0wUQ?oc=5"
     }
   ]
 }
