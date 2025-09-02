@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-02T23:08:07.451Z",
+  "generated_at": "2025-09-02T23:12:51.190Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -210,6 +210,17 @@
       ]
     },
     {
+      "title": "Citi Securities survey finds custodians are central to TradFi tokenization - ledgerinsights.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1BlVHpzZm9IMDZTelYyNFJQcTFZUDN3ZzAxODlidDI4UWFiMlV1VnNPenJnUDB5NlNvdW05bEtESV9CR1RBQmdsXzZRd2RMU29LMUxNWUwtdXlxUzcxaXVSN3ljMGlXUVFYUGV1dW14TUVCOF9qN1RLcGRvUzVXcnlkRTA4UGF0b3hyZlBlTjlkeHdoaVVNTFVaY2V0MmVtV2hJYzYyUTZ3Zw?oc=5",
+      "isoDate": "2025-09-02T17:50:41.000Z",
+      "source": "news.google.com",
+      "raw": "Citi Securities survey finds custodians are central to TradFi tokenization  ledgerinsights.com",
+      "summary": "Citi Securities survey finds custodians are central to TradFi tokenization ledgerinsights.com",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Survey: City wants feedback on quality of life, tax-paying services - Port City Daily",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2c2RTRicGZzY2VmQmFWLUVtU1RYYmtUR0pRM3prTnVKVWFYaElVQWhYTmNmTjRKXzRELWlxRjBFNDZTcTUxT2JXWkFrY2xLSkYtbmNmVFJtMUs1eW9wd0tsOVNDMTBUbjNNRnY2aGI2czZjV0s2QV9LZm1pTExCOWg4UHR3RTM4R0dja3drbEFWeW1rcWg2cFNsNGdZTXVvWF9sRnVzR2FWajZ6bXExRTRDZWI?oc=5",
       "isoDate": "2025-09-02T17:45:16.000Z",
@@ -306,17 +317,6 @@
       "summary": "The Leadership Skills Gap Hindering Customer Experience Efforts Forbes",
       "topics": [
         "CX"
-      ]
-    },
-    {
-      "title": "What Does Worldpay Survey Say About UK SMEs' Attitude to AI? - Business Chief",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEx4SHpOMFB6S3R1alg4di02bE9SSnRXRE1FcldfLTBlejNYS3RFeEk5ajlFd2h0MEF1T1doSUlNNXlPTndxQWpCUWF5eGxYWmxDTTNWSnJLR25VSFdRdjM3d1FSLXBIM2dKX2JwenVERGlMbTdhNkRPOFhEbFJJdkNSX3FwX2hBQ21aODZEdw?oc=5",
-      "isoDate": "2025-09-02T15:17:01.000Z",
-      "source": "news.google.com",
-      "raw": "What Does Worldpay Survey Say About UK SMEs' Attitude to AI?  Business Chief",
-      "summary": "What Does Worldpay Survey Say About UK SMEs' Attitude to AI? Business Chief",
-      "topics": [
-        "AI in MR"
       ]
     },
     {
@@ -598,12 +598,12 @@
       "url": "https://x.com/search?q=%23experience"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
-    },
-    {
       "label": "#more",
       "url": "https://x.com/search?q=%23more"
+    },
+    {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#concerns",
@@ -732,6 +732,10 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDA0QzZhbDN0SE1lRHNKUHN1VXBjbGdldUgza3E2djdtZ2NpYTE2R3R4dFRkZ1hNcHlyOUpyV3FLbm9FanBucVFvbjI1dFhMSk1ZZlJDV2R4VWl5Nm1YSEs3ZUxjWllaZXk1NVNWMU1RMzJNM3F4dnlZOTd4bW8ydW1RejdFazBqbEhhQk9ielRiOHVpQVA1LWtieDNDZnZQTVN6U2JEb3Npb3RvYVlpNUJIVQ?oc=5"
     },
     {
+      "text": "Citi Securities survey finds custodians are central to TradFi tokenization - ledgerinsights.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1BlVHpzZm9IMDZTelYyNFJQcTFZUDN3ZzAxODlidDI4UWFiMlV1VnNPenJnUDB5NlNvdW05bEtESV9CR1RBQmdsXzZRd2RMU29LMUxNWUwtdXlxUzcxaXVSN3ljMGlXUVFYUGV1dW14TUVCOF9qN1RLcGRvUzVXcnlkRTA4UGF0b3hyZlBlTjlkeHdoaVVNTFVaY2V0MmVtV2hJYzYyUTZ3Zw?oc=5"
+    },
+    {
       "text": "Survey: City wants feedback on quality of life, tax-paying services - Port City Daily",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2c2RTRicGZzY2VmQmFWLUVtU1RYYmtUR0pRM3prTnVKVWFYaElVQWhYTmNmTjRKXzRELWlxRjBFNDZTcTUxT2JXWkFrY2xLSkYtbmNmVFJtMUs1eW9wd0tsOVNDMTBUbjNNRnY2aGI2czZjV0s2QV9LZm1pTExCOWg4UHR3RTM4R0dja3drbEFWeW1rcWg2cFNsNGdZTXVvWF9sRnVzR2FWajZ6bXExRTRDZWI?oc=5"
     },
@@ -766,10 +770,6 @@
     {
       "text": "The Leadership Skills Gap Hindering Customer Experience Efforts - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGRiVUNFTEx6dktXNUY5MW8xOVRBM3RnQXVxX2twc2xZVkt4X3BOWVBub0JOS3BBbWxUOWZXT0VaT2g5TDQwVm05bHJKbDBDN3NWcGt6eWtUdHkxRXgweFVpN0JfN0pLNVZPR190Tmd5c2kxSjU1ZW1XLUowRmg2NUFUMHp0VVg5WC0tTmlwd21kOTZmQURMZnRxcVNCSUhDT1E5N1FQdFRhcklHaDJVU0M1U0hRMmZFdElV?oc=5"
-    },
-    {
-      "text": "What Does Worldpay Survey Say About UK SMEs' Attitude to AI? - Business Chief",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEx4SHpOMFB6S3R1alg4di02bE9SSnRXRE1FcldfLTBlejNYS3RFeEk5ajlFd2h0MEF1T1doSUlNNXlPTndxQWpCUWF5eGxYWmxDTTNWSnJLR25VSFdRdjM3d1FSLXBIM2dKX2JwenVERGlMbTdhNkRPOFhEbFJJdkNSX3FwX2hBQ21aODZEdw?oc=5"
     },
     {
       "text": "Have your say: Survey of top industry issues now open through Oct. 10 - Truckers News",
