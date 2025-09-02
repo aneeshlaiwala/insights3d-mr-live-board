@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-02T07:10:12.453Z",
+  "generated_at": "2025-09-02T07:15:10.215Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -399,17 +399,6 @@
       ]
     },
     {
-      "title": "Survey says - mininggazette.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzUEVzRWlWanZVM2tSdWdWYzEzUVUweUtCMEVydTFkaUtKZnRQR0NlaE82QjJrYjNlbGJQTlNLY3FSd0dWR01jMnBKclRVRDdKbEloVjBxWVJJSUM5aW05enhRelFYOEMzcXhGcllMVy1taW1scTdZ?oc=5",
-      "isoDate": "2025-09-01T17:07:37.000Z",
-      "source": "news.google.com",
-      "raw": "Survey says  mininggazette.com",
-      "summary": "Survey says mininggazette.com",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Survey: Nearly 70% of Users Plan to Upgrade to iPhone 17 - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjlYZ2tzYlFHWkVuSFVKTHNvSTBRVndpUjljUzBjdXlXVkE5MGtmTFB6OXYwbTdUZzcxUDI4enhDZHZYNjNwU1J2Q3h3STBLOGlkdVoxc0k3RGVxUkNraE1kbnJhSmtON3pPYnYtdlFFbG5DdTRpWVFMaUpuMHp2bWE0a2wxSlNSUzBSUFpB?oc=5",
       "isoDate": "2025-09-01T15:24:53.000Z",
@@ -561,6 +550,17 @@
       "summary": "Google Maps Team Goes To Survey UP Village, Gets Thrashed Over Theft Suspicion NDTV",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Survey: College Students’ Views on AI - Inside Higher Ed",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzhZbHB4bTVENWRyeHh1bjN4TktLeUEtenNpSzhZTDB5WGtfMDZ0aGNLY2o2dlMxTEtuQ2g4LUdVUk1jNzN1Vm1PMmVOeGxqMnYwanBHOHZRMjdTOWhfLXZ4YWlsdGVqRDN5S3JxN2ZqT0J2ZHVIcVN2cVpOTDlfX2RsLV82Tk9RMG0yaVhFM3RCQ0RLX2twVFNkdnpISHM?oc=5",
+      "isoDate": "2025-08-29T07:02:17.000Z",
+      "source": "news.google.com",
+      "raw": "Survey: College Students’ Views on AI  Inside Higher Ed",
+      "summary": "Survey: College Students’ Views on AI Inside Higher Ed",
+      "topics": [
+        "AI in MR"
       ]
     }
   ],
