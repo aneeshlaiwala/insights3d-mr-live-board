@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-02T17:08:21.588Z",
+  "generated_at": "2025-09-02T17:12:41.286Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -544,17 +544,6 @@
       ]
     },
     {
-      "title": "Residents prefer smaller, more responsive councils, survey finds - Oxford City Council",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0FCV3M0OTg4ampMYjRxXzVoVS16M21oQ1Y3YVVtbDJGMk9qcUlzVTFpbUFDeTBxRWgxYmQ0WWNhb1VselpNMjZuTWtOUWV1QlNhS1A5alhxWXdtY1B3M3dEV1VxZE55NVlKYjZEYmpVbXRmUUtrLTJZdjU5enpqdXp0T3ZuNUhta2dJclU5ZjdwaktENWRsUkRPM3JrbEV4OXduLXFYMmNLdw?oc=5",
-      "isoDate": "2025-09-02T09:23:57.000Z",
-      "source": "news.google.com",
-      "raw": "Residents prefer smaller, more responsive councils, survey finds  Oxford City Council",
-      "summary": "Residents prefer smaller, more responsive councils, survey finds Oxford City Council",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Noida Authority launches stray dogs survey plans new shelters sterilisation drive - theweek.in",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUtIUkdYeVpNVG1vM0VFSmdPQjhSNVJVTV9QRjg4azlsQlUtXzNtRl92OGxQcnlmVGVMQVdLTEwwSDZqWXplNXVpUjdWNlJVMFBjUW4xMG43aTl3Y1R1c2laYWp6VGhRbnBwTktBdGYzMWZaYW1Rb0NqaUVXWkJoNWhadGpUV05FVUFLdVhkSlZFd9IBlwFBVV95cUxNQVpCN1lOS1RTWmVsV0luR19KWWt4THVUN0swS2Q4Vld6RjJGZUgzaHhZNWZIY2RrWThBZTdaZjhHbEpNQ3lvSE9BOHo2aWQ1eDBLRFU0QUx3MlEyNURhVVhhLTh1UXRnbWxHNE5SU24teFpINGtGM1kyWEwtdXBNMXNib3hUcGF2YmNDc3VYR0dvNTZZQnAw?oc=5",
       "isoDate": "2025-09-02T09:20:08.000Z",
@@ -563,6 +552,17 @@
       "summary": "Noida Authority launches stray dogs survey plans new shelters sterilisation drive theweek.in",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Customer experience pilot concludes - USPS",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9URUxla1RjRmJfQnhsaC1KcnZFT1pCRkRBOVpraXRwU2xMVDZjUXlLd081UGIydEVJYWQ4SVVSSm9oYTJYNkZlaHJrR0JIY3owY1JDZGUzRERzcXRTZlZORlZFdEh1RmdzRG1yNE5RbWpaUjhGaFU0ZA?oc=5",
+      "isoDate": "2025-09-02T09:08:00.000Z",
+      "source": "news.google.com",
+      "raw": "Customer experience pilot concludes  USPS",
+      "summary": "Customer experience pilot concludes USPS",
+      "topics": [
+        "CX"
       ]
     }
   ],
@@ -600,16 +600,24 @@
       "url": "https://x.com/search?q=%23iphone"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
     },
     {
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
+    },
+    {
       "label": "#dogs",
       "url": "https://x.com/search?q=%23dogs"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#have",
@@ -626,18 +634,6 @@
     {
       "label": "#authority",
       "url": "https://x.com/search?q=%23authority"
-    },
-    {
-      "label": "#customer",
-      "url": "https://x.com/search?q=%23customer"
-    },
-    {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
-    },
-    {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#nearly",
@@ -670,6 +666,10 @@
     {
       "label": "#become",
       "url": "https://x.com/search?q=%23become"
+    },
+    {
+      "label": "#between",
+      "url": "https://x.com/search?q=%23between"
     }
   ],
   "ticker": [
