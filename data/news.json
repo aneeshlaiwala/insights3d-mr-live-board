@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-03T10:09:36.199Z",
+  "generated_at": "2025-09-03T10:15:03.551Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -128,6 +128,17 @@
       "source": "news.google.com",
       "raw": "Great British Inshore Fishermen’s Survey Uncovers Widespread Frustration  The Fishing Daily",
       "summary": "Great British Inshore Fishermen’s Survey Uncovers Widespread Frustration The Fishing Daily",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "Questcorp Mining Receives Permit Exemption for IP Survey at North Island Copper - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN3RabkNISHR0SHc5dEJKbWc2WVhkY3N3WkFWa0IyZ081bnJMZ1U1NHMtTlJEUnJrNVptNGp2QWE3b2g2ZXQzeG1Db1dqeFRxb09kT08zeXU2M2c1TWZmSTZFYUxDeXgxcHI5SGdTUjVBMG9SN2thb3NOWnlkNVpJcW84UHRWMURzdXJSZXBjOWt1dE1tamk0SFhjZkhpY2tjSGhhVzJ5NVZsR0k2RHFWc2VkX2poU1hmOFlHcjNYZERyaG9QUmNWZEsxMENnVTFYZDZ4ZHRwT3VGVWNuU20xY0pPbkFlUDM1WlJ3TVNCQm5hd0U?oc=5",
+      "isoDate": "2025-09-03T08:29:39.000Z",
+      "source": "news.google.com",
+      "raw": "Questcorp Mining Receives Permit Exemption for IP Survey at North Island Copper  The Globe and Mail",
+      "summary": "Questcorp Mining Receives Permit Exemption for IP Survey at North Island Copper The Globe and Mail",
       "topics": [
         "AI in MR"
       ]
@@ -324,8 +335,8 @@
     },
     {
       "title": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack - Security Today",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVBsZ0VlZE0tWkQ4NTVOeEF3MElmUVRNQ1RuLVd3d3hSUi1wUm1POVZVVWZGQnJ6Q1VnV3UxT3JHV3NYYk1OSG5CSGRkUTFpdHhnRG96RXY0cHVLUVZMZW1hR09reE5pdVNnVFh6Z3hzb2NhMkh2OEkteUIwMVBSTXBvUkJaN0ptRldlTUIyT29kbkJJUFNLQ0ZLLUxNNHhYaXBoYzJONFA3SU4zUnF1UEVSOWs4a05Gc29EQXdPSDRtWjBBaXB2VA?oc=5",
-      "isoDate": "2025-09-03T05:54:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc2pFQ3hQZXV1QW1DdjRXbDhJU1pTMFZ6c1UtUUcyRWJRM1MwanNCdUJHeVktNVhxU2tleURsc3VZenlhZkQzcTNZQUZJVy1OZmJIcHFaQmtWTW1lU2FHUTJsY25Ta2VOSUdSaFV5YmtqWkxiZ3oyTFhUT29lWG5GTXljcGxEamRERnlIQzBoUVBrcEFTVmlTanp2Y0JHaENJQ0N2RkM0dVA4T1ZSa3hpQ3hnR3Y3b2x3RlZ0b0hyZ0lWOUlvUm1SZQ?oc=5",
+      "isoDate": "2025-09-03T05:55:08.000Z",
       "source": "news.google.com",
       "raw": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack  Security Today",
       "summary": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack Security Today",
@@ -552,17 +563,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Parents fear for their children's safety at school, Gallup survey shows - WGME",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmpxQ2tRUjhRQ1RpckxPdERBZTM1M2ZodG1lZF90dDV3SmJhNVdweHFCVzZoXzRrdmwySkRRMllFdzduUVhWaXZpSnVFVjU4YXdaMWtQVUxZMC1xdVNFbGhWMDFzajZ2Vmd5SEc3aTFOaTZydlU0SUlZd1EyYWhqa0lPclFLZFI1M2pmNzNCRmZyc2ROcVpOSWxQSmdoVF8yejc2UzllZw?oc=5",
-      "isoDate": "2025-09-02T21:37:20.000Z",
-      "source": "news.google.com",
-      "raw": "Parents fear for their children's safety at school, Gallup survey shows  WGME",
-      "summary": "Parents fear for their children's safety at school, Gallup survey shows WGME",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -694,6 +694,10 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmpwOVNLb3k2UkZ3bmYzUllPQnZzUWcxZ3NDMkJwU2M1LURONFk2OXBSUWlWOW5uU005Uk0tQkpQUzRwcG44cGxDN0tKcmJfR3lhajZMTzVrOTFYaWJSNGhXR1VTZkVkWVB4MHJldHo2NTdEd21XSEdYWHc2NUk1dDhjZjJSUGlaN1lPM1NWelZ3LTRfTlpYUzlRZFBxUFIxZ09FalRUSGZ3anRpZDI2enJQejFjTUdTZFVFeTdWT1hXWDJHOTgzNHln?oc=5"
     },
     {
+      "text": "Questcorp Mining Receives Permit Exemption for IP Survey at North Island Copper - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN3RabkNISHR0SHc5dEJKbWc2WVhkY3N3WkFWa0IyZ081bnJMZ1U1NHMtTlJEUnJrNVptNGp2QWE3b2g2ZXQzeG1Db1dqeFRxb09kT08zeXU2M2c1TWZmSTZFYUxDeXgxcHI5SGdTUjVBMG9SN2thb3NOWnlkNVpJcW84UHRWMURzdXJSZXBjOWt1dE1tamk0SFhjZkhpY2tjSGhhVzJ5NVZsR0k2RHFWc2VkX2poU1hmOFlHcjNYZERyaG9QUmNWZEsxMENnVTFYZDZ4ZHRwT3VGVWNuU20xY0pPbkFlUDM1WlJ3TVNCQm5hd0U?oc=5"
+    },
+    {
       "text": "Survey: Almost Half of UK Parents Support Increasing Plant-Based Food in Schools - vegconomist",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNiem5yNmVJNEJXTHVQczhGaFlNZGpQS2FPR0N5WUJBVDNyZnRQVzlLUmxkMkU2S2N2VERDRjM2LVhkcllIRTFhQlRJZHZONDJidHphTjczMC1BdU91dE1tREp3RExIZldEa2JqZWZWSG1YV3BrYXZ5T1ZhaEhNQTIyYm9EVlJZUmN1d19lVHhyTUV6TFpyWW1acF9hVzlwU3JTcDNZcDl2UTg?oc=5"
     },
@@ -763,11 +767,7 @@
     },
     {
       "text": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack - Security Today",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVBsZ0VlZE0tWkQ4NTVOeEF3MElmUVRNQ1RuLVd3d3hSUi1wUm1POVZVVWZGQnJ6Q1VnV3UxT3JHV3NYYk1OSG5CSGRkUTFpdHhnRG96RXY0cHVLUVZMZW1hR09reE5pdVNnVFh6Z3hzb2NhMkh2OEkteUIwMVBSTXBvUkJaN0ptRldlTUIyT29kbkJJUFNLQ0ZLLUxNNHhYaXBoYzJONFA3SU4zUnF1UEVSOWs4a05Gc29EQXdPSDRtWjBBaXB2VA?oc=5"
-    },
-    {
-      "text": "When is monthly electricity Survey? Minister Sivasankar responds - newstodaynet.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVE2eG5sM182YzdHb0s2Y3ZibkRPVXNxWHljU191YkpkMExrRmhzczhGTy10dW1BbTBTdUFILVdXeDI1X0szU1FUazZ5U2ctZTFwQ0NBcWJaNzJJSTZXMUJTMjNJb1hLRWo5RnFxTDctVzZnWnBjUG9PUjFfQjVGUGwyRUtGRDNyQnBHc3RSZ2VBdTJ3Tnk4NEtuZ2p3eUREOUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc2pFQ3hQZXV1QW1DdjRXbDhJU1pTMFZ6c1UtUUcyRWJRM1MwanNCdUJHeVktNVhxU2tleURsc3VZenlhZkQzcTNZQUZJVy1OZmJIcHFaQmtWTW1lU2FHUTJsY25Ta2VOSUdSaFV5YmtqWkxiZ3oyTFhUT29lWG5GTXljcGxEamRERnlIQzBoUVBrcEFTVmlTanp2Y0JHaENJQ0N2RkM0dVA4T1ZSa3hpQ3hnR3Y3b2x3RlZ0b0hyZ0lWOUlvUm1SZQ?oc=5"
     }
   ]
 }
