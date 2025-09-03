@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-03T05:09:26.722Z",
+  "generated_at": "2025-09-03T05:14:07.022Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -17,6 +17,17 @@
       "source": "news.google.com",
       "raw": "Vietnam's Manufacturing Sector Expands Softly in August, S&P Survey Shows  MarketScreener",
       "summary": "Vietnam's Manufacturing Sector Expands Softly in August, S&P Survey Shows MarketScreener",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Defence and security seen as top priorities for strengthening EU’s global role, survey finds - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON21vQjh5cG9BZEdmb2lrcVE5akxzZVhtME1MdHhxZ1lGWWRyYzRLUldKVTZmZm1UMTZPZl9pNmEyTzFRWG4xRy1lTHY1Tk5FS3RYX0YtZl81U3ctaGJzcUEzbXpOYXVzSHVqMzM4MnUxSER4OGhMUkNpX0Vrc2xTVE8zVGpLZkJGaXVmUDVQRGNUY09xVE13MkRkbU9jTTVlZTdhbE5rU1p3UlByR2lYdkhOWVdFRUY4X3VLbFJpMWdydkJwU3Bfa2lfRnNkZVhoa0E?oc=5",
+      "isoDate": "2025-09-03T05:00:57.000Z",
+      "source": "news.google.com",
+      "raw": "Defence and security seen as top priorities for strengthening EU’s global role, survey finds  Euronews.com",
+      "summary": "Defence and security seen as top priorities for strengthening EU’s global role, survey finds Euronews.com",
       "topics": [
         "(Other)"
       ]
@@ -50,17 +61,6 @@
       "source": "news.google.com",
       "raw": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows  Reuters",
       "summary": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows Reuters",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows - ca.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1BvM3JyNURleVN2dXY0a2dVMzJ1TUtOZmtsNDZGTkIwdktyYWNWMHdvOFY2Ukdxb19mYUlRaHU1bVBzVTBNSUoxd1dYMFdld2RUUVh6dEN4eFB6Ty1UMFQyaXFsVS1ZYUZ5Zzd0eV8tWWlNQXFzT3RPOFo0NFg1c1FLSXRsYmM?oc=5",
-      "isoDate": "2025-09-03T04:12:00.000Z",
-      "source": "news.google.com",
-      "raw": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows  ca.finance.yahoo.com",
-      "summary": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows ca.finance.yahoo.com",
       "topics": [
         "(Other)"
       ]
@@ -495,17 +495,6 @@
       ]
     },
     {
-      "title": "German Bank Sparkasse Simplifies Customer Experience Through PAYBACK Partnership - Little Black Book | LBBOnline",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVpfOTFYTDMzc0JzTktKV2pCMXpqa091bTJ3Uk1qWFg5T3d0LUhoWk5tQjh6emZNX1dGbTE2dF9BQ0lscEh4cWR1R2daejB0RFQ4ZzJ3b0N0SkNWSmR1X0JOT1oyMGV5RjZsVWZSbnNkYWpNejVLMzJPXzhIWndjZmt5V2dVUUxaTXhOeDBzUHFRLVdsTWUwdE8wZDgyTTk0c1A0cmkxSUF0eG8?oc=5",
-      "isoDate": "2025-09-02T14:52:03.000Z",
-      "source": "news.google.com",
-      "raw": "German Bank Sparkasse Simplifies Customer Experience Through PAYBACK Partnership  Little Black Book | LBBOnline",
-      "summary": "German Bank Sparkasse Simplifies Customer Experience Through PAYBACK Partnership Little Black Book | LBBOnline",
-      "topics": [
-        "CX"
-      ]
-    },
-    {
       "title": "Armenia up, Georgia down in latest US survey of global rights practices - Eurasianet",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGJoNzVFZXRaX29jcXdrcW8zZFJTUldjSUpseXF0LVFtdGQ5cjZNSDRXR2Y3b1RlOW1UakM3aHN1VFA4UGM5NTdWcmJ5ZWEwQzd6bGtmdXZmUnhvVkdQTF9Wd2l3UklocEwtSktfWFk2a2kwN3gyd2RseGJTa2U5RWNWN1FzWWFBRTh5UG9lZS13MUhLUW1qeQ?oc=5",
       "isoDate": "2025-09-02T14:51:56.000Z",
@@ -551,14 +540,25 @@
       ]
     },
     {
-      "title": "Gen Z women want routine fertility checks, survey reveals - Odisha TV",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGF4cnFvd1o5emxidHUtZEo1eGNRN25fNG5oS3dpVVRTOGxlTlVnZXFKR1doTklJQXJpY3lpY1p6cmJ3bVZHMFR4QzRuOHBNMWVDamtoSGdlMzRzRktNWmM0bER4d1dwTXRXTTBsNW5KQ2daUmZrb3RMWWo3SlhPN2xtMVJfZHIxdkFlS3BWYUR1cUxOTjduUFN6bzZaWUXSAaQBQVVfeXFMTVpEVWNXS2gyT3lGRE4zamxfSGVzUXFoMDZ4UUNIV25TejVYYVhtbHVPQ0FRbkpvZm1fY0hHTVJ1V2MzRHhRWG1aU1ZsUktaa2owOW1XT2lINnZrMDR2aU13Rmx5N0ZPckt4SVlyejZSWFBrbW83NWRZUGRwbjEweUNhM3ZPRGFGNVBYWVpURE9seGsyZGVha1NlTXR2WmV5dTg0YWM?oc=5",
-      "isoDate": "2025-09-02T13:54:00.000Z",
+      "title": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100 - PC Gamer",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdGZSZ29PYW13LTFBaHdmbUF6TUdFV3lydDdnR3p3b1VhdWdhNmtNOXVlRHVuODVtYUtWbS1Qdm1RWWp0dVgyNXNDdzNmVTZ3RWRULTBpZXRqZFc4d0VGM3I5cDRGV3hDcnQzc1lNaTNnOEVqU2ZQb1ZkQ1A3OGEyUmNITVR0MkN6Y0haa3JsaXpQT3RERmgzOXRiNU1BcFBIVkdUQjlGMDgxY0Vzb1FyN2FhNGVtdXFwYTRmZ29Ib3FBRXVOWXpWNGJqRkZoSVVQR3ZObTVjQUhBNW80REZsZ0M4VG5RNzYtY29acE9PVUhrVkg5Z1JIMkU5aWJOeGY5VWlRRHNCWHQyOTBmMG5NWnQ3ZWw?oc=5",
+      "isoDate": "2025-09-02T11:52:38.000Z",
       "source": "news.google.com",
-      "raw": "Gen Z women want routine fertility checks, survey reveals  Odisha TV",
-      "summary": "Gen Z women want routine fertility checks, survey reveals Odisha TV",
+      "raw": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100  PC Gamer",
+      "summary": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100 PC Gamer",
       "topics": [
-        "(Other)"
+        "Qualitative Research"
+      ]
+    },
+    {
+      "title": "Survey claims many iPhone owners will switch to Android for a foldable this year - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczlTWFgyNUFXdkYtSUlxdXhGMjJ1ckVZMW4tcXpVNXV1ckJhTlVUTXFRV3NJNGpyOW5hYnVFVUVXd2ZCb0xuQkpXR0lhcEFoQjd4SFplVWVQeG92eVdJc3plX1hzN2F5c0pfazBFMm1jVW9MMFlZdkNnQTVzR0tDbU9MdkF5TERpOXVzcHlyQWRIUTF2MHN1NW1ZbmJwWVh6UVFtTHYyY0ZiWTR6MnVUMDFn?oc=5",
+      "isoDate": "2025-09-02T11:36:00.000Z",
+      "source": "news.google.com",
+      "raw": "Survey claims many iPhone owners will switch to Android for a foldable this year  9to5Mac",
+      "summary": "Survey claims many iPhone owners will switch to Android for a foldable this year 9to5Mac",
+      "topics": [
+        "AI in MR"
       ]
     }
   ],
@@ -589,20 +589,8 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#customer",
-      "url": "https://x.com/search?q=%23customer"
-    },
-    {
       "label": "#dogs",
       "url": "https://x.com/search?q=%23dogs"
-    },
-    {
-      "label": "#drop",
-      "url": "https://x.com/search?q=%23drop"
-    },
-    {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#more",
@@ -613,10 +601,6 @@
       "url": "https://x.com/search?q=%23noida"
     },
     {
-      "label": "#reveals",
-      "url": "https://x.com/search?q=%23reveals"
-    },
-    {
       "label": "#stray",
       "url": "https://x.com/search?q=%23stray"
     },
@@ -625,24 +609,36 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#health",
-      "url": "https://x.com/search?q=%23health"
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
     },
     {
-      "label": "#holiday",
-      "url": "https://x.com/search?q=%23holiday"
+      "label": "#drop",
+      "url": "https://x.com/search?q=%23drop"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
+    },
+    {
+      "label": "#health",
+      "url": "https://x.com/search?q=%23health"
     },
     {
       "label": "#manufacturing",
       "url": "https://x.com/search?q=%23manufacturing"
     },
     {
-      "label": "#school",
-      "url": "https://x.com/search?q=%23school"
+      "label": "#most",
+      "url": "https://x.com/search?q=%23most"
     },
     {
-      "label": "#spending",
-      "url": "https://x.com/search?q=%23spending"
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
+    },
+    {
+      "label": "#school",
+      "url": "https://x.com/search?q=%23school"
     },
     {
       "label": "#water",
@@ -655,12 +651,20 @@
     {
       "label": "#august",
       "url": "https://x.com/search?q=%23august"
+    },
+    {
+      "label": "#average",
+      "url": "https://x.com/search?q=%23average"
     }
   ],
   "ticker": [
     {
       "text": "Vietnam's Manufacturing Sector Expands Softly in August, S&P Survey Shows - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3NFejVkNEpSb0Y0Y0FhWks3dkl0S195UHJUTDdKV01taXBKbVN6dWpYaFJQckJRWk16bnVyV180cHA5SVJvSmVFTGVCNDVvVWthTkxwelB5MjRGT1lxVnBpSDlOci1mTl9CbVBQckI5NWlwcks1TFhxaFhKRU5HajN3M2pFSGwtOFliSFVTMC1qM282UGRrTkR1UjBmOTg3d3pBOEF3Z1AwTmJvbVpTN1J2aXZ5ZDRoeWpaV19VdXY4VWs?oc=5"
+    },
+    {
+      "text": "Defence and security seen as top priorities for strengthening EU’s global role, survey finds - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON21vQjh5cG9BZEdmb2lrcVE5akxzZVhtME1MdHhxZ1lGWWRyYzRLUldKVTZmZm1UMTZPZl9pNmEyTzFRWG4xRy1lTHY1Tk5FS3RYX0YtZl81U3ctaGJzcUEzbXpOYXVzSHVqMzM4MnUxSER4OGhMUkNpX0Vrc2xTVE8zVGpLZkJGaXVmUDVQRGNUY09xVE13MkRkbU9jTTVlZTdhbE5rU1p3UlByR2lYdkhOWVdFRUY4X3VLbFJpMWdydkJwU3Bfa2lfRnNkZVhoa0E?oc=5"
     },
     {
       "text": "NFU survey reveals ageing UK poultry housing - poultrynews.co.uk",
@@ -673,10 +677,6 @@
     {
       "text": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORDJJLTdrNGNNZndhaHk2dFNINWpET0d6Y3lJNXZLc1laeWJhdTktb2hHb2EwQ3Z2WHFtVW1GQmRaZVVPTFlwNUZhSHJwbnN6YWxrVjREQTN6NUVtblBWUnhiOTRYR0VYcGVLM3JnVndmekUya0t0MGZzbHFfNndSQU8zYWY0X1hiWHFnZGF6OXpyNXNJYUZVeFJidFpwV01sQzdXZUtsYko1YzlhVTFDM09nOWdWY3F2Znp5enV3NEUwVFZ2MXI0V2V3?oc=5"
-    },
-    {
-      "text": "U.S. holiday spending set for steepest drop since pandemic, PwC survey shows - ca.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1BvM3JyNURleVN2dXY0a2dVMzJ1TUtOZmtsNDZGTkIwdktyYWNWMHdvOFY2Ukdxb19mYUlRaHU1bVBzVTBNSUoxd1dYMFdld2RUUVh6dEN4eFB6Ty1UMFQyaXFsVS1ZYUZ5Zzd0eV8tWWlNQXFzT3RPOFo0NFg1c1FLSXRsYmM?oc=5"
     },
     {
       "text": "Holiday spending, especially by Gen Z, is expected to drop this year, survey says - CNBC",
