@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-03T14:10:17.726Z",
+  "generated_at": "2025-09-03T14:15:05.104Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Are We Ready for the Real-time Demands of AI? Survey Says No - RTInsights",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUtFb2xNNmw3TElQdm03bVRpVW5MWXRFZk9kVHJ2UWJlQkhBVVo0UXFJVDNDNlFyTVlpclgzMG56U3ZIZVg5RExzRUs3UXJ6TDd3VUZ4Q3dmRGYxYW03V3gxVi14OTkxR29ZLUZjNmFkVjdIS2FOYUhMRUhwX2YzTkh3aVFKZXV4aGRCWUtFcDQ?oc=5",
+      "isoDate": "2025-09-03T14:08:16.000Z",
+      "source": "news.google.com",
+      "raw": "Are We Ready for the Real-time Demands of AI? Survey Says No  RTInsights",
+      "summary": "Are We Ready for the Real-time Demands of AI? Survey Says No RTInsights",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "The key to AI-powered customer experience? Integration, trust, and the human edge, reveals new MIT Technology Review Insights report - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSDBsUEM1Slp2N0wyWjdpbDA5NEFNRVpzaDl3OGFTeVhPa29ubXFoamd6eG5vR3ZqM2pfeFM2WmpyMldEdS1GTFNaM1dyZmhZbHBVSF83NUFNOEYzaWJRWTJ3bzF1dnNSVVItQTFwSVV6eDBhUm8tOWlTVTdTRkE4SjEtTktGNFd2bkhSaW52SllNRlhBSldSeDNkcXdzd0dDb1lFOFFqZjdnekU4dlh0VmVMM1psTHBhUlQzek9HbUFraWpoLU1mUHdOQVhEWmN4dGhTVE1HS3YyUWh4WTRDdnF6ZUhkb3BQRkZHc04yNzVCLWdFSGxlT1dRVUhidFNNalU4MFBJWUlhU2JONFA4Sm9GaWtDdw?oc=5",
@@ -552,17 +563,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "Noida Authority launches stray dogs survey; plans new shelters - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczN4eEtidnVzdG1UZ08wQl84UUpDUG51Q05IdWY2dXpIcExDOUVERjlzWlBnM3dnNnp3ZTZaaGpqSDlaV3FxUy1VbGhtdTJIUE1NelZuVXV4TmNKSjBxWGhybkpMdjdTeGNCbmlMa010TTloVURtVGJzbEo5S2ZBdGh1RDVJZ2otaUVMM2lMdnNnS0tfdHpUM1NKVGFQYi1wUU1XbWVQTGJBV1M2cmhoTEhB0gG3AUFVX3lxTE1nMlA1SmQ1dWZDU19xU1NvNk1wbWZNS2otNFgtclNib2V4UXk4OE9BU3c5UWdzUV9HanBhbWFkZG1YYWw2ZjBxMGhwRGN6RmlwVzJ0cy1xUmtaZnlvN2VJTVh4SzI2ZUZjU3dMZm9yRkpHaktyRHA4WnZKdTdoNmZ1UUdYV2RtY0RBOGdSNFlDRGptazFzRkVrTkIwWk0xS1VKVXFDUDJDeUtzSUZyVXJFVDVkQTdLQQ?oc=5",
-      "isoDate": "2025-09-03T06:42:21.000Z",
-      "source": "news.google.com",
-      "raw": "Noida Authority launches stray dogs survey; plans new shelters  The Hans India",
-      "summary": "Noida Authority launches stray dogs survey; plans new shelters The Hans India",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -594,6 +594,10 @@
     {
       "label": "#experience",
       "url": "https://x.com/search?q=%23experience"
+    },
+    {
+      "label": "#real",
+      "url": "https://x.com/search?q=%23real"
     },
     {
       "label": "#women",
@@ -642,13 +646,13 @@
     {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
-    },
-    {
-      "label": "#health",
-      "url": "https://x.com/search?q=%23health"
     }
   ],
   "ticker": [
+    {
+      "text": "Are We Ready for the Real-time Demands of AI? Survey Says No - RTInsights",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUtFb2xNNmw3TElQdm03bVRpVW5MWXRFZk9kVHJ2UWJlQkhBVVo0UXFJVDNDNlFyTVlpclgzMG56U3ZIZVg5RExzRUs3UXJ6TDd3VUZ4Q3dmRGYxYW03V3gxVi14OTkxR29ZLUZjNmFkVjdIS2FOYUhMRUhwX2YzTkh3aVFKZXV4aGRCWUtFcDQ?oc=5"
+    },
     {
       "text": "The key to AI-powered customer experience? Integration, trust, and the human edge, reveals new MIT Technology Review Insights report - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSDBsUEM1Slp2N0wyWjdpbDA5NEFNRVpzaDl3OGFTeVhPa29ubXFoamd6eG5vR3ZqM2pfeFM2WmpyMldEdS1GTFNaM1dyZmhZbHBVSF83NUFNOEYzaWJRWTJ3bzF1dnNSVVItQTFwSVV6eDBhUm8tOWlTVTdTRkE4SjEtTktGNFd2bkhSaW52SllNRlhBSldSeDNkcXdzd0dDb1lFOFFqZjdnekU4dlh0VmVMM1psTHBhUlQzek9HbUFraWpoLU1mUHdOQVhEWmN4dGhTVE1HS3YyUWh4WTRDdnF6ZUhkb3BQRkZHc04yNzVCLWdFSGxlT1dRVUhidFNNalU4MFBJWUlhU2JONFA4Sm9GaWtDdw?oc=5"
@@ -764,10 +768,6 @@
     {
       "text": "Questcorp Mining Receives Permit Exemption for IP Survey at North Island Copper - Investing News Network",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZERhcnlsX3BRMHlLOTIwc0dRZGhoeFZXTFJDX2FoLW9sekpFTF9FN3NIY1c1ZW9xcFBpeTdFU0ZhM21uX3pzVmk4cWc0Wkl6REdpa19lYk00Qmo5aEFLWHVwQkdSUU5IS2l6SU05Q1pQal8xLXJBc2NoUTU4bXhYVUpMd3drNWhMa3hCQnkxM0NJTjJxMlJnZndBd1Uzc1dVZnE0TkVRR2ZBQQ?oc=5"
-    },
-    {
-      "text": "DataM Intelligence 4 Market Research LLP Japan United States of America United Kingdom - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRkVyVEUyUUVMUWozTnhpajMxUlF5QVBlcGRpNFc4MDJKSnp5ZHhTQUdza3lCYkQ2T2VDYUhDNk5QYURKcGJiUUd6MzhFdmhSWUtwSU9fRUtSdWRkRVVPWUJDQUdfSE5HZWZvWnNReHJMZzhqQkppMGRzM28zTkVFQk5YU0JwbWhxTlpaWkQ5RkZ1V2ZhaHlFRTM0V3N6ZHctNHdvWHBYU2IxcV9MdW4tNFAtMDcycW1WTjZSbUVJUlJrRDNYV3pxeDJlVzFRR1hVSWo4bmZ0NGVOam8?oc=5"
     }
   ]
 }
