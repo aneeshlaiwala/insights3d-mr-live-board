@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-03T06:14:17.040Z",
+  "generated_at": "2025-09-03T06:21:29.522Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -34,7 +34,7 @@
     },
     {
       "title": "District Increases Land Position at the Sågtjärn Property after Successful UAV Survey in Sweden - Newsfile",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbWE3aVZrdDZKR2JSSnVhaU1TM180MnlaZTQxMXZRTTBNVXlHTWFySVVBZE9lS3A1cFl5bmpHTFplSWVJaHJReGt2aDRYZElIYVVHTWZSMTNBLXA0N0VPcDJOOUJFa3V2THN0QUJ3NFV3T2E3dXU5R3BUam1Bdkx1WDFPLWU5RWhkU1NObm1JVG1MNDZLUFdUcW1aZ1NCUEN0SEdHMllmWDNGeWg4d3NvY0RnN0k2UXRFZVl5WjJnd3RtQ3lmSXEtOTk1MmwtNlRjSVI1QXlkVlpWZHpxOVdv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGdwN3hZOHVoYmNLSWZzZ21ZeG5hT1RzR3NOM3ZvT0N1ZDdCS2p5ZUM5cTN1aGpBMkI1YXRxV2lrS0dxeE9UcUJMQXY2a013TkRYVzFvNEFYWWZ4UXJNMV9kU1BWa0NLa0xHMVBScW11d3BDbjFYY3lmeWJpcDZFRjlVUXBiczZTYzVxeGFLVmRXNE5ZQ2dJWkJFUnRMOGIxTkF3YlJxdUZiLTBadW5HazdtSjUwZmhPR3BoTWduNEgzWk1SQk9uY3lsNU1PNEllVXZr?oc=5",
       "isoDate": "2025-09-03T06:00:00.000Z",
       "source": "news.google.com",
       "raw": "District Increases Land Position at the Sågtjärn Property after Successful UAV Survey in Sweden  Newsfile",
@@ -50,6 +50,17 @@
       "source": "news.google.com",
       "raw": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack  Security Today",
       "summary": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack Security Today",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Business outlook hit by geopolitical tensions, inflation, and tariffs, says global survey of chambers - cbn.com.cy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkt6UkFQVWlrMk13WUZKRlUzSmpId0d3WW1Vek04MHN2R2RHWWFxSmtqNFd5U2g5X0RmbkpIN3ItOExVMEFFSXhqTGJXdGFsVF9fSVYtXy00am5rUUcxSjZZNFdUZjFHMTFPUEVYcFUxTWU2dm1IbU5BT2RrTUxrQW9Yc3pQOE1MaUVETjBrWVpSQ1V6bC1HRG5wYkk3RWJhU2tJQVJHMDJ0Y0F0OFNEd0w1a05fT0xtOUFYc3o2Tk1WUlVUdU05c0Fsa25KYXVCeXc?oc=5",
+      "isoDate": "2025-09-03T05:48:25.000Z",
+      "source": "news.google.com",
+      "raw": "Business outlook hit by geopolitical tensions, inflation, and tariffs, says global survey of chambers  cbn.com.cy",
+      "summary": "Business outlook hit by geopolitical tensions, inflation, and tariffs, says global survey of chambers cbn.com.cy",
       "topics": [
         "(Other)"
       ]
@@ -193,6 +204,17 @@
       "source": "news.google.com",
       "raw": "Holiday spending, especially by Gen Z, is expected to drop this year, survey says  CNBC",
       "summary": "Holiday spending, especially by Gen Z, is expected to drop this year, survey says CNBC",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "On Survey, More Than 60 Percent of Harvard FAS Faculty Identify as Liberal - The Harvard Crimson",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04MGZhVU15QUFGeDRlRDZpeWRQR0RYV1VXYVZ4SHBQa3NNV1B1WThIc1Rvc0JFWWhsVE9NaUFrOGMxSTdrVTQyeEtzVWNnUnB2Mm0zSEMzVFhmSVRJaVNKdHlNV2NFTjVTQkdXQW9QUVBFUm1YTUNfUw?oc=5",
+      "isoDate": "2025-09-03T03:57:44.000Z",
+      "source": "news.google.com",
+      "raw": "On Survey, More Than 60 Percent of Harvard FAS Faculty Identify as Liberal  The Harvard Crimson",
+      "summary": "On Survey, More Than 60 Percent of Harvard FAS Faculty Identify as Liberal The Harvard Crimson",
       "topics": [
         "(Other)"
       ]
@@ -537,28 +559,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "State govt begins fresh survey for inclusion of Nashik, Nagpur in second phase of DMIC project - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaUhLMndieEQzUjZTRWVGbHlkNzFFcEEtZUk5bkxDN3BsazNwc0Y1bEM5VnNlUzZYdktzWjhLbGZYWkpIdGNmVl9zRklkMzVxS2NzVV9nUHZpd1FnZTk5dmUzZ0x0bkwzQ1VpaXZQc0RZb0MxRVZsMDlzTDB3ekF6SWtuQVMwYW0zUGxFbE5NWTNRbXE0amdMekh2WUh6QVk0SFhfQkhwN3BzRWZ3SzI1QzFORkRmczZEX3B4NThHcVo2MEhCOUlwM3YwNWFXMzNuU1RRTklMNDMzWGR5RVFMdGpFbVdBS01ZdzRIam1XWGVIWElZV3FKX1c2a9IBgAJBVV95cUxOcnlQODNPZTlzME1jdGNEanF3US1TcUpUekIxZnRVTGc5MVJJdjJSLXBiWDBmTXo1MF9ZUndBZnF0OWNWWGVmdHRpT3dWLWt0UEJPMW9pWWprTHhmMzc2MzdjbEpxR2RrMHdrZURSbGlQcWlCclRwenMzdElYSXlDRC1rejlrY2M1OFFLWVVMM3hnUENQN3J5UkpxcGI5cjVqU3R2RWtxa3FKMEhIVGV1QlBtRDJOaUJaLVFScGdYV3dySTBvY3RCZTNmblVNbU9VU19HOWszWmZ0RkNIdlRnd1Fkc3AxN2NQellSaG1FYkUtNWljbTB2azJydW1kQUp2?oc=5",
-      "isoDate": "2025-08-31T22:31:00.000Z",
-      "source": "news.google.com",
-      "raw": "State govt begins fresh survey for inclusion of Nashik, Nagpur in second phase of DMIC project  The Times of India",
-      "summary": "State govt begins fresh survey for inclusion of Nashik, Nagpur in second phase of DMIC project The Times of India",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "60% of Gen Z in US support Hamas over Israel: Survey - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHBuazlaQWVtVWpNTGx2eU5XdTFva01ITU13SS1mYnpDR3R6QTlLNTVneGczUy1qSTFKc2kxeVE4cjVnWngzek1EZm0tTE9HZUp2ZUVrYmJsQ3dqdUsyUld2RkRQYVZERmVybEV6Nk90NjZIbWNBbWloeVAzOS1aa0FCM2t2N3ZlSXRYR0FhX1Z3N1RabVhEQVNkZw?oc=5",
-      "isoDate": "2025-08-31T13:10:34.000Z",
-      "source": "news.google.com",
-      "raw": "60% of Gen Z in US support Hamas over Israel: Survey  Anadolu Ajansı",
-      "summary": "60% of Gen Z in US support Hamas over Israel: Survey Anadolu Ajansı",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -584,8 +584,8 @@
       "url": "https://x.com/search?q=%23health"
     },
     {
-      "label": "#begins",
-      "url": "https://x.com/search?q=%23begins"
+      "label": "#more",
+      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#concerns",
@@ -594,10 +594,6 @@
     {
       "label": "#holiday",
       "url": "https://x.com/search?q=%23holiday"
-    },
-    {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#noida",
@@ -636,6 +632,10 @@
       "url": "https://x.com/search?q=%23average"
     },
     {
+      "label": "#begins",
+      "url": "https://x.com/search?q=%23begins"
+    },
+    {
       "label": "#care",
       "url": "https://x.com/search?q=%23care"
     },
@@ -655,11 +655,15 @@
     },
     {
       "text": "District Increases Land Position at the Sågtjärn Property after Successful UAV Survey in Sweden - Newsfile",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbWE3aVZrdDZKR2JSSnVhaU1TM180MnlaZTQxMXZRTTBNVXlHTWFySVVBZE9lS3A1cFl5bmpHTFplSWVJaHJReGt2aDRYZElIYVVHTWZSMTNBLXA0N0VPcDJOOUJFa3V2THN0QUJ3NFV3T2E3dXU5R3BUam1Bdkx1WDFPLWU5RWhkU1NObm1JVG1MNDZLUFdUcW1aZ1NCUEN0SEdHMllmWDNGeWg4d3NvY0RnN0k2UXRFZVl5WjJnd3RtQ3lmSXEtOTk1MmwtNlRjSVI1QXlkVlpWZHpxOVdv?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGdwN3hZOHVoYmNLSWZzZ21ZeG5hT1RzR3NOM3ZvT0N1ZDdCS2p5ZUM5cTN1aGpBMkI1YXRxV2lrS0dxeE9UcUJMQXY2a013TkRYVzFvNEFYWWZ4UXJNMV9kU1BWa0NLa0xHMVBScW11d3BDbjFYY3lmeWJpcDZFRjlVUXBiczZTYzVxeGFLVmRXNE5ZQ2dJWkJFUnRMOGIxTkF3YlJxdUZiLTBadW5HazdtSjUwZmhPR3BoTWduNEgzWk1SQk9uY3lsNU1PNEllVXZr?oc=5"
     },
     {
       "text": "Survey: 58 Percent of Organizations are Unprepared for Cyberattack - Security Today",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVBsZ0VlZE0tWkQ4NTVOeEF3MElmUVRNQ1RuLVd3d3hSUi1wUm1POVZVVWZGQnJ6Q1VnV3UxT3JHV3NYYk1OSG5CSGRkUTFpdHhnRG96RXY0cHVLUVZMZW1hR09reE5pdVNnVFh6Z3hzb2NhMkh2OEkteUIwMVBSTXBvUkJaN0ptRldlTUIyT29kbkJJUFNLQ0ZLLUxNNHhYaXBoYzJONFA3SU4zUnF1UEVSOWs4a05Gc29EQXdPSDRtWjBBaXB2VA?oc=5"
+    },
+    {
+      "text": "Business outlook hit by geopolitical tensions, inflation, and tariffs, says global survey of chambers - cbn.com.cy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkt6UkFQVWlrMk13WUZKRlUzSmpId0d3WW1Vek04MHN2R2RHWWFxSmtqNFd5U2g5X0RmbkpIN3ItOExVMEFFSXhqTGJXdGFsVF9fSVYtXy00am5rUUcxSjZZNFdUZjFHMTFPUEVYcFUxTWU2dm1IbU5BT2RrTUxrQW9Yc3pQOE1MaUVETjBrWVpSQ1V6bC1HRG5wYkk3RWJhU2tJQVJHMDJ0Y0F0OFNEd0w1a05fT0xtOUFYc3o2Tk1WUlVUdU05c0Fsa25KYXVCeXc?oc=5"
     },
     {
       "text": "When is monthly electricity Survey? Minister Sivasankar responds - newstodaynet.com",
@@ -714,6 +718,10 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YaU1oclVlWEE1VEl4Q0FhX2RaN09wMHhUVG5EVnI0andSWS1lLTdlYU1JSWY2dDNlcmxrT3NHNHVOM2tCZTZ6YkpDWXB1RDFTNnJWNEFVdWhoc0p5dFpseUEtdGE3TXFpaWF0X0l0eWhQVzFabUlQRdIBfkFVX3lxTE1iRUpWTTRubkk0SjF6aWhEVFZJTVdEUmNYcHFOOXdBd2FBVGFmVW1RclB2T2lvN0FyQkQ5QWlHODRHNWhOWkZBakRtYXNhUnh1aHEweFpkdHdaNnN4QTJISV9NdmNySUcyOHdvZlp1ZFRJakk0dHN2eGxrTU9VZw?oc=5"
     },
     {
+      "text": "On Survey, More Than 60 Percent of Harvard FAS Faculty Identify as Liberal - The Harvard Crimson",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04MGZhVU15QUFGeDRlRDZpeWRQR0RYV1VXYVZ4SHBQa3NNV1B1WThIc1Rvc0JFWWhsVE9NaUFrOGMxSTdrVTQyeEtzVWNnUnB2Mm0zSEMzVFhmSVRJaVNKdHlNV2NFTjVTQkdXQW9QUVBFUm1YTUNfUw?oc=5"
+    },
+    {
       "text": "ASEAN Manufacturing Activity Further Improves in August, S&P Survey Shows - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEczOUtJZzF1MEdtVWtsN1hTTC1ZeUxXQklKTVVBVC1uTmJVa1JWTmw0bzI2RkJlVHY5RGllM3JaREZab0gyal9EUVd3Z0JXTW83ajN5TFNqdzcydTJ0eTFjVUtBVmpnY2Jta3pQX0FzdlZLRjhMck00N3dCbUt6MHVEZ0ZRTmh0ZzlZSXktTXplUjVUdUlGQWZxSFl2aHZ2bVNzeklOWXVKcXFfd2RtWXhFWjdiaXZlVDY0bHppRTYtOFE?oc=5"
     },
@@ -756,14 +764,6 @@
     {
       "text": "Cost Pressures Persist Despite Cooling Inflation, Survey Finds - Digital Information World",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWFSVVRrSlRrSEllSGtpc2dldTVJaWthdjJsdzJfb0pHZjctUHpXNkkyem1lYlVRRThGaDcxWEFieHFFOFlURVA0cHVpMU55dHhURl9oeXFhYmhXOXgzRmZoRkJRSXoydTJHOWhBOURyOWFldXZqcGFLWkMwWC1tVWRuaEhBWjBTdjBIU0RxckxKbnpqUHc?oc=5"
-    },
-    {
-      "text": "Senior developers let AI do more of the coding — survey - InfoWorld",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb25FVUpjUnlFOE9NdVdLQjZrbks4SXlhWnJkYlZYWVZHZkdFelhoaTdMN0dTeVdNSVUtSUZPN1Axb2d2QTd2UkhnR3VJUjV2dnRCbmV5THk5ai0wcDRRY21IOERnWkJ2T2xRdGt1RWFUbkUxSnN6S2t5LXd6enNjQ1RWemRBU3AySUpZYmhhd0R5WkFXTlJwWm9xN1JvMHpvdFE?oc=5"
-    },
-    {
-      "text": "Only 10% of job seekers believe recruiters see most applications, survey finds - CFO Dive",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0FMaWVQS1ZBVlRLTWVXdEs1MkFJMU1NdGNqWVlRQ05HV3l1VWhtWXVHY2R4dGxMc3JiV0RCR0h2LTJVZ1pjYU4xVFJYOUhjTldzcHRuZnlEZ3NPMU1RMmt0b0xSbmVOQnVvVkkzOTZzbjhPLW5Ua3dWTm1RRzM1aTFMdHRQTGttVmRsRGFIMWdReTluYUhQUE5IOXhUc3Q2bGRJVzZZR3I?oc=5"
     }
   ]
 }
