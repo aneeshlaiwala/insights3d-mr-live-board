@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-03T04:11:45.186Z",
+  "generated_at": "2025-09-03T04:17:51.122Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -116,6 +116,17 @@
       "source": "news.google.com",
       "raw": "Minister Lad directs officials to conduct joint survey of crop damage by wild animals  The Times of India",
       "summary": "Minister Lad directs officials to conduct joint survey of crop damage by wild animals The Times of India",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Cashless society concerns as survey suggests 48% of people carry physical wallet - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVRFblVEdWtoN3N0VmRzbDN6Nm0tWlBtSTVLb09aemgwS1hadDE0cy1BeGk2S19TUGl4anhvX1dBN2tRcGZTOWRROElCU1JRLTI2SDBONnQ5VHFkTDRiZGxOYi1lamlfRElXY3pUUHRLTWxUSVJDdTFfUHlKdS1LVndxaXlXTFRHaEpJ?oc=5",
+      "isoDate": "2025-09-02T23:01:00.000Z",
+      "source": "news.google.com",
+      "raw": "Cashless society concerns as survey suggests 48% of people carry physical wallet  The Independent",
+      "summary": "Cashless society concerns as survey suggests 48% of people carry physical wallet The Independent",
       "topics": [
         "(Other)"
       ]
@@ -519,17 +530,6 @@
       ]
     },
     {
-      "title": "GeForce RTX 5070 Tops Modern GPUs In Steam Survey While RDNA 4 Is Still MIA - HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTNZU09sMnExdC14bVM5bWw0bkRjUUIwTTh3eFV4cTBYdWFGaG93aWxTenJVMDBxYTdZN2lTTzR3dXJtV2VQVnVkX0R1WktmMTV1OEtEbXNqcll3Z0c0akpqWXR6elJHVkdfRENHZXIzMHh4U1dFTm54M1RsSElyUEpqbHRCUk1waV9fTXAtRQ?oc=5",
-      "isoDate": "2025-09-02T13:45:00.000Z",
-      "source": "news.google.com",
-      "raw": "GeForce RTX 5070 Tops Modern GPUs In Steam Survey While RDNA 4 Is Still MIA  HotHardware",
-      "summary": "GeForce RTX 5070 Tops Modern GPUs In Steam Survey While RDNA 4 Is Still MIA HotHardware",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Nvidia's RTX 5070 is the most popular current-gen GPU in the latest Steam hardware survey but AMD's RDNA 4 cards don't even make the top 100 - PC Gamer",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdGZSZ29PYW13LTFBaHdmbUF6TUdFV3lydDdnR3p3b1VhdWdhNmtNOXVlRHVuODVtYUtWbS1Qdm1RWWp0dVgyNXNDdzNmVTZ3RWRULTBpZXRqZFc4d0VGM3I5cDRGV3hDcnQzc1lNaTNnOEVqU2ZQb1ZkQ1A3OGEyUmNITVR0MkN6Y0haa3JsaXpQT3RERmgzOXRiNU1BcFBIVkdUQjlGMDgxY0Vzb1FyN2FhNGVtdXFwYTRmZ29Ib3FBRXVOWXpWNGJqRkZoSVVQR3ZObTVjQUhBNW80REZsZ0M4VG5RNzYtY29acE9PVUhrVkg5Z1JIMkU5aWJOeGY5VWlRRHNCWHQyOTBmMG5NWnQ3ZWw?oc=5",
       "isoDate": "2025-09-02T11:52:38.000Z",
@@ -614,6 +614,10 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
+      "label": "#concerns",
+      "url": "https://x.com/search?q=%23concerns"
+    },
+    {
       "label": "#drop",
       "url": "https://x.com/search?q=%23drop"
     },
@@ -632,10 +636,6 @@
     {
       "label": "#school",
       "url": "https://x.com/search?q=%23school"
-    },
-    {
-      "label": "#steam",
-      "url": "https://x.com/search?q=%23steam"
     },
     {
       "label": "#amid",
@@ -698,6 +698,10 @@
     {
       "text": "Minister Lad directs officials to conduct joint survey of crop damage by wild animals - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbWczQXRoblZpVVRMc25Ud2FNYVNRWkZiYWd6TnUtWmVLbmVxV3FncndLNVFNc0ZKZy1nMm1sTGpBYmdPVXlQUndPLXFORnhCck41V2VabTAwT3dBZ3d0NzdXUHJQLWdUcmsyVVAxUGM5S0xSRzJDR1FLeU4xVmxmdDdaQy1KSHF5czdwdUxpUUxOczdTS3A2dVdLNV95Vl9RS3ZJSzFrd05zX1Q2WlZ3bGVhMXV3cWV3NkNzNXpfS3dhYjRLUFByaUwzdWZoQ0t6T3d6Q2dPWHhrM04yelhjLTRHa2stNUE4UnNQbUFmV2FRSVXSAfgBQVVfeXFMTkQ5ZjJpdUNQRkQzWHRfR1FKU3ZfOG4xNnQzVUQ1akdwRnFkZTkza2h0enpkMi16VnlLWVFqemhqMjRtN3pBT21ReTJ1Q0lBYlBGVWdvYl96ZnRKc2IzUmppdHJGWGNEc3JfY0JJVzNoX24zUFZMNlB3NXN2eE5adzhIQWNFMkJtX1hSdnZTTzJEbnZnQ2xTaEZfRkQwbEI4MzEwb2NxbXlUcDlmalFQemNTVGctUTAxWHRaQW1sekJtQVVaZDk0U2pqQ2wxLWh1eHE2TmlLa1J0OHRoeFZMX0todzZUZWd4MGpxOTJvR0MzTE5ET284dkQ?oc=5"
+    },
+    {
+      "text": "Cashless society concerns as survey suggests 48% of people carry physical wallet - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVRFblVEdWtoN3N0VmRzbDN6Nm0tWlBtSTVLb09aemgwS1hadDE0cy1BeGk2S19TUGl4anhvX1dBN2tRcGZTOWRROElCU1JRLTI2SDBONnQ5VHFkTDRiZGxOYi1lamlfRElXY3pUUHRLTWxUSVJDdTFfUHlKdS1LVndxaXlXTFRHaEpJ?oc=5"
     },
     {
       "text": "1 in 4 encountered false rumors during disasters: Japan Red Cross survey - 毎日新聞",
@@ -774,10 +778,6 @@
     {
       "text": "Statewide survey: Average Michigan public school educator paying $2,400 more annually for health care - Michigan Education Association",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sTkFyaVhkaHgtMV9qc29lMTJpTklkdzcwNXh0M0dHN2h1bFd0OGxpU0NkQ0lURzZOQzlLeklDeHVaSjRnSGVjWlp1YzN0ZTVraWRRTUl4QQ?oc=5"
-    },
-    {
-      "text": "Collector D.K. Balaji Says Swamitva Survey Will Establish Clear Property Boundaries - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSXhPMHlaVU1ESjQtcVBnQVVJbmxyZ1JaRXk4a1VqcmVEZTVVQ2ozc1h0NE5SLUxBakRlTVNLUDIwMXlnbHhEVkVMUjlUX3IxbW5iM1dzSkIwbW9RdFBFdEJhZ1RyZk5LcV9iTHFST25XRDFVYVBVZUc4SXBpU1NIbFc5QlJpYjcwYUVpbnlPSWFPWWU5aGpXd0g5eGs4SHgxMTg0RGR6Yld5MGRSbS1VUjlyR0c0QWtqVEVNeXR2dExSOTBHVXU2alZaX1ZsR0NYME0xemFhdHlpYk5HYlBiMS1rMWliSjTSAewBQVVfeXFMTmwxWDR4MXFaZlpaX1NSV1hxRWVNbGRETldMUDJpSElGcHMtZHIwNDY4akJsNl92dUhuTkc3dlVUWFBMVHlXZFNtalp3NWJXTlA2TjlwMWFDaVdUR3FZbEFPMWtVdThIX0tsckhzM3A4R2x5b05nU2hpeTV5c3JBVmVvTGg0SHV4bGNmY2dFV2VTNzBvRDI2UGtmNFVhb21UelRFS01PZG1SNHZmOC1fbHJyRGlqdEtzTWtFaFZvQXdHb2l2OVFxUjJmTHZaT2p5ZmpRN3dHTUtUTVFEUnBXNy0zZndwRXNtLWVyczc?oc=5"
     }
   ]
 }
