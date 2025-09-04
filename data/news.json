@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-04T03:20:52.298Z",
+  "generated_at": "2025-09-04T03:24:53.584Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -433,17 +433,6 @@
       ]
     },
     {
-      "title": "Survey Highlights How Men Feel about Body Image and Mental Health - Mega Doctor News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWRYekN4NGVFVVdlYWllZUJaX1lYYzIyVWRWdm1DT1N2V2x2ZXo2NGlPLW90LXp6cVNpdDJSRW9lY2tBbzlMNVJia0FYRlQ2VVVpSkpiNWZLcDVrM3phNllYX01VSEFrallCQjlMSno1Q3JfWGhKeUd1TkotbVR0cE5DRktsTHJmVThMNzFQUFljX1NNSnAwQg?oc=5",
-      "isoDate": "2025-09-03T15:50:05.000Z",
-      "source": "news.google.com",
-      "raw": "Survey Highlights How Men Feel about Body Image and Mental Health  Mega Doctor News",
-      "summary": "Survey Highlights How Men Feel about Body Image and Mental Health Mega Doctor News",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Truth, lies and data – How market research can mislead – Comment - Global Drinks Intel",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNellpUWpaeTZEM1c1SEI5RXB0SUhvWTRUR1JsaHNiVFVTckR1cEJGUXJnZVEyY1dtRVlOT3VWaHJXMktveTljOEozZHFtczc3dnJJRWdWQ0xhNWowV1Z6NEZlVkZ0THowY3Jxc1VpQVM3YUtqQUdubVVrWnhzNWgyUTFnYzNtRUgwb1JmZ28zYm5TVE1EV2dBbE5wRFFPOHRoUFE?oc=5",
       "isoDate": "2025-09-03T15:43:34.000Z",
@@ -494,6 +483,17 @@
       "source": "news.google.com",
       "raw": "Executives increasingly responsible for corporate sustainability, survey finds  edie.net",
       "summary": "Executives increasingly responsible for corporate sustainability, survey finds edie.net",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "BIGD’s Pulse Survey Was About Voicing Citizens’ Hopes and Concerns, Not Predicting the Election Outcome - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDFFLUNQR1p2akN4M3JxZGZUNXMteVRoSjdyUFVwdWpTa0dNQUtnS0lfNDFuQWQ0NHhYbnRZU0t4TkZtTlU0dGZNT01xSnAtOGVKeEk1NXdLMzh1a2lPWktVcEdHLVRfX1cwWk1kU2RELTNrSFlXQXVEank2dW5KMTAwLU9Vb0FFWGxuaGIwQTRKN1BmR1JKOXZfdkU2QXBLOTFUUU12NGp5aVNXLWZwLXY5aE5wQllLVExILXcyTTlQN3FZZ3JRaWZ4QXAzZw?oc=5",
+      "isoDate": "2025-09-03T14:57:52.000Z",
+      "source": "news.google.com",
+      "raw": "BIGD’s Pulse Survey Was About Voicing Citizens’ Hopes and Concerns, Not Predicting the Election Outcome  The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "BIGD’s Pulse Survey Was About Voicing Citizens’ Hopes and Concerns, Not Predicting the Election Outcome The Diplomat – Asia-Pacific Current Affairs Magazine",
       "topics": [
         "AI in MR"
       ]
@@ -661,6 +661,10 @@
       "url": "https://x.com/search?q=%23concentrix"
     },
     {
+      "label": "#concerns",
+      "url": "https://x.com/search?q=%23concerns"
+    },
+    {
       "label": "#cybersecurity",
       "url": "https://x.com/search?q=%23cybersecurity"
     },
@@ -679,10 +683,6 @@
     {
       "label": "#tech",
       "url": "https://x.com/search?q=%23tech"
-    },
-    {
-      "label": "#adapting",
-      "url": "https://x.com/search?q=%23adapting"
     }
   ],
   "ticker": [
