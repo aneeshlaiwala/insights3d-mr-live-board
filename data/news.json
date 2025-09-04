@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-04T13:24:09.710Z",
+  "generated_at": "2025-09-04T14:09:46.701Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,28 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Dealer confidence holds steady in Q3 despite rising costs — survey - Car Dealership Guy News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS096WUxUZG1ydHpGSVQ4NHF3ZENhQ0gtWDQxNFVKYUlScFg2NUl6NjJlcWxId2hrWmI1V3ZlQlRyblo0cm9xR3R1NmMzSnFJcU9BNE1nR2l4SFNHT2NPWFgydUtEMHh2d2MyWGVFUjRRS3gxTjNha0g2a0dtbVVaM1dqa2wwTzc3ZTJvS3hlTXJGNVlmamhscWlabEFsRUFoLVlKY1pJT01ybUhk?oc=5",
+      "isoDate": "2025-09-04T13:50:03.000Z",
+      "source": "news.google.com",
+      "raw": "Dealer confidence holds steady in Q3 despite rising costs — survey  Car Dealership Guy News",
+      "summary": "Dealer confidence holds steady in Q3 despite rising costs — survey Car Dealership Guy News",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "SGX Q3 Sentiment Survey Reveals Investors Turn Defensive Amid Global Headwinds - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmxlS3o2YTEwdzBDRy0wdGNCakozYW1qQU55UkMzSElNem5rLW5wTXpTVERaaTZYREd4ZjZ6bmhfN1RZTGNwdjhxcUR4SmpxelZjblBJQ1N4YWdMRTNkQXFrYkU4d2F3N2dXdFoxbnBlMFR6a3ZtcDEzeEpxNVNVM2tMbWkzSmdJc1JmMjRGbV92eWhidnRud0NFcDBpR0VIN0tRcDBoUQ?oc=5",
+      "isoDate": "2025-09-04T13:43:53.000Z",
+      "source": "news.google.com",
+      "raw": "SGX Q3 Sentiment Survey Reveals Investors Turn Defensive Amid Global Headwinds  FinanceFeeds",
+      "summary": "SGX Q3 Sentiment Survey Reveals Investors Turn Defensive Amid Global Headwinds FinanceFeeds",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Suriname iGaming Market Research Report - iGamingToday.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nd0hPeFRXRXlWNE91d1NNbkVpbURjeVc5bm5vUmwwS0lBT2MzdnU5OUUzc0EtMXZTQVBud3NOMzl2dnBPWFByMnJJLVJlUEJLcVBuUUI1SmkwMC1DaVY5V19YaXU5OTlhZk8yS1d1NGJMbXVqN0hydQ?oc=5",
@@ -28,6 +50,17 @@
       "source": "news.google.com",
       "raw": "Himanta directs satellite survey of uncovered drains in Guwahati after 4-year-old boy dies  theweek.in",
       "summary": "Himanta directs satellite survey of uncovered drains in Guwahati after 4-year-old boy dies theweek.in",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "Assam CM Orders Satellite Survey After Tragic Death - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDRVMXN6bnhwMjJLcFdVSXpkYndwR1dVSWQ1QzhBQlFPYi13NzBZQ1hhVGJOeUotUzZIWUdXSUpoZFJMemF3UFZKRHRlMXNOd19aSkdsM2J3TllPLTJsY05lQ2xOS2pobk05ZzVVSk1CakZVaG5FTFZhSTMtWVBkOEMxT0lMaEozd3ZsbkRXd1gzUWJseFMxVkJqbW5PSnlKTnU5MHA1clAyQdIBrwFBVV95cUxQMGxQZnBEWE4tY2F1amQxekFGMy1NYWJDc0dFdElYNE5zSEtvUDNTV3ZidGZZa1oyLU1rbDRfTVdVTXhlckRWYkhfMmFHYUJtYldBamd2WE9OWlRJTFFmbHBkMTlhbTJtNXVVQ0dISzFNVmlpSXZaOEN0RmJaUWIwc1BQUnBRSE5CY2MxQlJJNlNyV0xMVHFKRGQ3NmV6MXlVNnA5b1d2dzJRNDNWNTRr?oc=5",
+      "isoDate": "2025-09-04T12:50:40.000Z",
+      "source": "news.google.com",
+      "raw": "Assam CM Orders Satellite Survey After Tragic Death  Devdiscourse",
+      "summary": "Assam CM Orders Satellite Survey After Tragic Death Devdiscourse",
       "topics": [
         "AI in MR"
       ]
@@ -367,28 +400,6 @@
       ]
     },
     {
-      "title": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLW5uVGJvNlA4UWFUbml0RFRPYk9TLWQ0SWtQZUFGZ2hPa3p4emE3U1dLdmlYS09aU0szMURjY3lZNUV4TEdjUGR4c2l5bkFveldmeDdFYjdrZkdBekdvX0ZyNk9TbGV5TDlXZ18zdkJ5MU9VRHBmNmRsUHBOR1NWdnRjS0ozYlRwb285b0JoQjN0dUZNbW0wRlo5M1pDTkU5NEFMWUdpRUJjRVZsRWFOc2gyMWdCM3pBeWhQdjRvUVRiejRHa2szcVZhOXczdGFlOHlLOEFqZGhsT2NRWXV0dm5GRWhKUVJTTm1Ydm51SXFPNzA?oc=5",
-      "isoDate": "2025-09-04T08:51:08.000Z",
-      "source": "news.google.com",
-      "raw": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows  Reuters",
-      "summary": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows Reuters",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "British Firms Report Slight Rise in UK Year-Ahead Inflation Expectations, BoE Survey Shows - US News Money",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdHU3NHZCVE05R25nUHpraTFRd213bXpLMWZZSW5MSG5peHlhakhHMkV2V3QzWm9jWkVtOVUwSWxIc0RJM1pRZDNWNG95Z1h1dVotMmdFVHdyYTRibnktMDIwY3dGdlRMbHV5YUE5YnNneGw5cHFCaEJ6RjhiNzJTbXpKT3VpRWxrQlZ3cFVVZmRYemFTRVc3eDNiNUpCMkdVbUtHTkZJOWxGYW5ob1pUa1R0TDM4LWpCRXpHSm8yWEswOXprd1hwSkQ4empBOGltVy0zSFZGN3J4Ui15bVVpdzgtNA?oc=5",
-      "isoDate": "2025-09-04T08:51:00.000Z",
-      "source": "news.google.com",
-      "raw": "British Firms Report Slight Rise in UK Year-Ahead Inflation Expectations, BoE Survey Shows  US News Money",
-      "summary": "British Firms Report Slight Rise in UK Year-Ahead Inflation Expectations, BoE Survey Shows US News Money",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector - Times of India",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanZfYUVxWGRyWHJZdDRNMUJDalN6YW01ZHQ4M3ZqZ09OcmJXWEh6ajNuODRmY1hPdDFuMDRaV2dtdWRjajF4X0RJNkhYbDhlcDZUTGJSbjFrTEhSWFU2aF9QYzZfc0JLbW9mcjFpeGNXQ2pVNXU4VHpHS0l5clhOYjY5blNYMkJ2QTUzVi15NG85a3B4VTUxblNqd3UtSGp6QUtIMHJfTFU4anVLejE3dklPdF9lRWo5WnJiVldlQUt4RXR5b0RBbzRfSzk5QjgtLWllcGtCaTlTWTRrZHcydW82UE5uT0ZyMnJ2T1pMb09SdGNCTkhyREN30gH_AUFVX3lxTFBTU0ljM0Z2NXZ2ZU5naEVRbzNnRkNJU3VrV0F1UlJlajRoYVdtbWRKV2FvdkxnM0c1aEVMMmhHNzBFLUF5ZjZzVWMyS2JMb0VWVWRaU1ozNFk4eGplTVNfMWJYQ1hmVEdfaExpbkNlem1YbkNMMUc2S0tFNkhVUnMyOGZrR2ZVcS1LWGhteVRza2pabk1CWmdweUt5Q0FLSy1PWHI2a1RGMDBlMnRXR2VpZXpRWVdNaVp2SWs5SFQzbzJjZGFReGFoVnF0WThDUkJYYy02VEFzZGZ5bTlFNFBZV2ZNbHlReGlOcVdzYS1ZcngyRkc5YkpaU3piX0Y2QQ?oc=5",
       "isoDate": "2025-09-04T08:16:00.000Z",
@@ -477,17 +488,6 @@
       ]
     },
     {
-      "title": "TGS and Viridien Launch Megabar Extension Survey in Brazil’s Barreirinhas Basin - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWhnMVEtUDVscXpycVQ5RGhOLXpWcTU2SERtNkJmRmFUaXZVOTkxOUZTa1RKc1ZZZklqRTRaRVNJYkd1ckl2NDVjQ1IzMjliM1Y4Z2lTTG5oMmtMS1dmSWVRZjZMa25DLXByV0FlaElpLWpyVlZ5Z1dGSEREQkJVWWdxTXZhNFFidGlKZWk0RC00dEpDQmhEd2V5Tklsdm15ZVB6MDhYZVNTU3hpZ3Q4TFFBMVlfbW5RUWlQcy1pSnlVYWZVclNNWTd3?oc=5",
-      "isoDate": "2025-09-04T06:05:29.000Z",
-      "source": "news.google.com",
-      "raw": "TGS and Viridien Launch Megabar Extension Survey in Brazil’s Barreirinhas Basin  TipRanks",
-      "summary": "TGS and Viridien Launch Megabar Extension Survey in Brazil’s Barreirinhas Basin TipRanks",
-      "topics": [
-        "Qualitative Research"
-      ]
-    },
-    {
       "title": "Latest Eurobarometer survey shows that young Europeans are among the strongest supporters of EU enlargement - EU Reporter",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVlFudjZwT2hpejlZVVk0dHdJSEhCN0h4ZFcwNjR2czZzV0FEQUJLZWJuRVFkTDNKdlNGWG1BczVXMTQyaThrNGhVZko3cHVHa0x5NXFsYnAzbHBTQ3VRRjNVSDdCdHR3QTBiYUgxa2E2NGFqU3hRSDZMcWF5S1BGOUc2WUpMZnRrNlktbDBXNXAwOFlJU3pPc01PVl9ZWVBNTzBaYlk0ejhMUW90b3RiU25WNlMwb2ExNENnRm5NMkNZaVVjNUxtdF91UkFFZHBCV0p2akpuS29HS2M1MTNNTUUyeWIxT0lGUlNJbXJR?oc=5",
       "isoDate": "2025-09-04T06:02:04.000Z",
@@ -554,15 +554,14 @@
       ]
     },
     {
-      "title": "Information Complexity Blocks AI Rollout: Survey - IDM Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIZXZBS2s3QzF4RG92RktCWTZCZUVFc09WSFpYczF4bE9HXzNOSkdwYTh0VHdGVURueUJOT1pDOXB5RHViWDZPZk5RbndhVkxaamFlWllieUFGS0hvZkw3MEtMSXJIRkNQZ294ZWhUOWU0Yko1OGlBOTlGX09vb3hYMTg0N3FBbVE?oc=5",
-      "isoDate": "2025-09-04T03:52:58.000Z",
+      "title": "Some Patients May Prioritize Reduced Toxicity Over Longer PFS, Survey Suggests - Hematology Advisor",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHFwYWh4U215WG1GSFBBdGZNMnJYR1dCWjhOcUVLVFlib3EzXzV6MjhfTjRsdWF3cG5vMlRBUzdPZW55c3NNVG9jNjZlRE9kOWtReGtoSGdfUjNPLXRKalMwWjZhVllWaVNKcFdzVXJyMk5iWkdHVm9LOGJGUG82MDBtaG5ldXQ3TFNERzN5dlIzMk5TdWF2RWtnN1g?oc=5",
+      "isoDate": "2025-09-04T04:00:00.000Z",
       "source": "news.google.com",
-      "raw": "Information Complexity Blocks AI Rollout: Survey  IDM Magazine",
-      "summary": "Information Complexity Blocks AI Rollout: Survey IDM Magazine",
+      "raw": "Some Patients May Prioritize Reduced Toxicity Over Longer PFS, Survey Suggests  Hematology Advisor",
+      "summary": "Some Patients May Prioritize Reduced Toxicity Over Longer PFS, Survey Suggests Hematology Advisor",
       "topics": [
-        "AI in MR",
-        "B2B"
+        "Healthcare"
       ]
     }
   ],
@@ -624,16 +623,12 @@
       "url": "https://x.com/search?q=%23shows"
     },
     {
-      "label": "#firms",
-      "url": "https://x.com/search?q=%23firms"
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
-    },
-    {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#customer",
@@ -648,6 +643,10 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
+      "label": "#firms",
+      "url": "https://x.com/search?q=%23firms"
+    },
+    {
       "label": "#jobs",
       "url": "https://x.com/search?q=%23jobs"
     },
@@ -656,20 +655,16 @@
       "url": "https://x.com/search?q=%23pace"
     },
     {
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
+    },
+    {
       "label": "#33rd",
       "url": "https://x.com/search?q=%2333rd"
     },
     {
-      "label": "#ahead",
-      "url": "https://x.com/search?q=%23ahead"
-    },
-    {
       "label": "#annual",
       "url": "https://x.com/search?q=%23annual"
-    },
-    {
-      "label": "#brazil",
-      "url": "https://x.com/search?q=%23brazil"
     },
     {
       "label": "#mrsi",
@@ -684,19 +679,31 @@
       "url": "https://x.com/search?q=%23power"
     },
     {
-      "label": "#reveals",
-      "url": "https://x.com/search?q=%23reveals"
-    },
-    {
       "label": "#seminar",
       "url": "https://x.com/search?q=%23seminar"
     },
     {
       "label": "#since",
       "url": "https://x.com/search?q=%23since"
+    },
+    {
+      "label": "#after",
+      "url": "https://x.com/search?q=%23after"
+    },
+    {
+      "label": "#almost",
+      "url": "https://x.com/search?q=%23almost"
     }
   ],
   "ticker": [
+    {
+      "text": "Dealer confidence holds steady in Q3 despite rising costs — survey - Car Dealership Guy News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS096WUxUZG1ydHpGSVQ4NHF3ZENhQ0gtWDQxNFVKYUlScFg2NUl6NjJlcWxId2hrWmI1V3ZlQlRyblo0cm9xR3R1NmMzSnFJcU9BNE1nR2l4SFNHT2NPWFgydUtEMHh2d2MyWGVFUjRRS3gxTjNha0g2a0dtbVVaM1dqa2wwTzc3ZTJvS3hlTXJGNVlmamhscWlabEFsRUFoLVlKY1pJT01ybUhk?oc=5"
+    },
+    {
+      "text": "SGX Q3 Sentiment Survey Reveals Investors Turn Defensive Amid Global Headwinds - FinanceFeeds",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmxlS3o2YTEwdzBDRy0wdGNCakozYW1qQU55UkMzSElNem5rLW5wTXpTVERaaTZYREd4ZjZ6bmhfN1RZTGNwdjhxcUR4SmpxelZjblBJQ1N4YWdMRTNkQXFrYkU4d2F3N2dXdFoxbnBlMFR6a3ZtcDEzeEpxNVNVM2tMbWkzSmdJc1JmMjRGbV92eWhidnRud0NFcDBpR0VIN0tRcDBoUQ?oc=5"
+    },
     {
       "text": "Suriname iGaming Market Research Report - iGamingToday.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nd0hPeFRXRXlWNE91d1NNbkVpbURjeVc5bm5vUmwwS0lBT2MzdnU5OUUzc0EtMXZTQVBud3NOMzl2dnBPWFByMnJJLVJlUEJLcVBuUUI1SmkwMC1DaVY5V19YaXU5OTlhZk8yS1d1NGJMbXVqN0hydQ?oc=5"
@@ -704,6 +711,10 @@
     {
       "text": "Himanta directs satellite survey of uncovered drains in Guwahati after 4-year-old boy dies - theweek.in",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmtQWEFsWlIwd3dhVU9FQmtoQzFhLXg3eTFzb1o1N29BbnZITWhqMGI3MmxyUl9BaXJ5ZE82R3c1am9yU2dBd1pPR1gxMmZvWUhBQjd3YXdlZ3VtNVIwRzd2dDhQRUdRQ1Z1bTJsMkNPVWlSQjYwX1ZISW9Yd0FPTVBnVTRtbElZeFh5YdIBkgFBVV95cUxOZGlCdTFndVFJNmRTYWhnNlVielhSaldXRXJGamxmYVZSYjBFUHZIb1Y1OE9qVWpIUjdmNDFzMG1xRTdaWjVWRU45Yl9hczN6OE8zdEYzTWNkR2dSZkI0TEVnNjJHTlJpLTllb2ZzYVNPQlZaRXJkZk40M2M1c0t6OEx0NFpVYzNlZlR2RzE1Y056Zw?oc=5"
+    },
+    {
+      "text": "Assam CM Orders Satellite Survey After Tragic Death - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDRVMXN6bnhwMjJLcFdVSXpkYndwR1dVSWQ1QzhBQlFPYi13NzBZQ1hhVGJOeUotUzZIWUdXSUpoZFJMemF3UFZKRHRlMXNOd19aSkdsM2J3TllPLTJsY05lQ2xOS2pobk05ZzVVSk1CakZVaG5FTFZhSTMtWVBkOEMxT0lMaEozd3ZsbkRXd1gzUWJseFMxVkJqbW5PSnlKTnU5MHA1clAyQdIBrwFBVV95cUxQMGxQZnBEWE4tY2F1amQxekFGMy1NYWJDc0dFdElYNE5zSEtvUDNTV3ZidGZZa1oyLU1rbDRfTVdVTXhlckRWYkhfMmFHYUJtYldBamd2WE9OWlRJTFFmbHBkMTlhbTJtNXVVQ0dISzFNVmlpSXZaOEN0RmJaUWIwc1BQUnBRSE5CY2MxQlJJNlNyV0xMVHFKRGQ3NmV6MXlVNnA5b1d2dzJRNDNWNTRr?oc=5"
     },
     {
       "text": "Connecting businesses for growth: Focus Group at Your Business Expo - Business MK",
@@ -804,18 +815,6 @@
     {
       "text": "Deadline extended for Latin Lawyer’s Diversity & Inclusion survey! - Latin Lawyer",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzZ1dVY0dkZxcFVna0IxbGR2N0Zkbm1xd1JIUTNqbTVoVFFYTUdHcWpiVjVLMDRyVjhDTmtXSjVhd2N1VFJvYTRXRFFrN2paVFo3X3A0OEcwdTBzYTJDcGNkdWZmRW9qNlotVVMzcVY4dGxmeUZYTFlodUdiNFRzWWNPaHhWSm1XNE1HdW5Dbi04bDlG?oc=5"
-    },
-    {
-      "text": "Vaping age verification is too easy to bypass, survey suggests - Healthcare Leader",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc01lMGZSaDRnTWd2UmtzRUZhUjdyYlNHNzljR0Y1RXpodHZoSUJrd2w4MGNOR1VhWFY5SC1XWURBTmRYZW54ajExVTEzem1yOFQwczdhRWRuNkt3NmpJRld0cHl2VmIxa0hiTUgzZ0htU0JLdnRhUXA2WGdMZHlYWXlXWUdiZGFLYjFCSnFjaTdBV3IzSGZWTUVGSEVIVHp2c0E?oc=5"
-    },
-    {
-      "text": "Cox Automotive’s Mark Vickery on how AI is personalizing the customer experience - CBT News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjNVVm05UUhqTEJGVzlyN09DUEZFTzhnZUllZnlScThtRGJqb1BvcGNyWDViOFpDY2xzUzhlNm1kMnVGR2dIZUEtLTlONDB4TDdKMHpzaWJORFRBQzgzNWI4cm9GVFRCSExMcXRlbnY1R204Y1Q0a3BLVnBpaHBGaURpRkdtMlVxX3VBV3NKOVpVeU9yOEZ2TWN1YVRnQkFXN3V1eFJJUQ?oc=5"
-    },
-    {
-      "text": "AI Surpasses Human Trust in C-Suite Decision Making: Survey - AInvest",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV0ZwWjhWdHkxeFc3RUEwRjNGcHBQSXBrWTBxVXRUR0N5VW9fZDRDMEowUTcxcnVRYk5iSVJqSGptU2tvellvRWZDNTZRUmluTmptZW0zLVZGVDNPSTMtNk9KYmNGcTlvT2ZNeWVoTzVsZ3Y2anNLaW91a0hacXBrWWRoWXJ1bE1KN2Vqa3lZZV9sZw?oc=5"
     }
   ]
 }
