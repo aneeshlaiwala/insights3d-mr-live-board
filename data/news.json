@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-04T10:10:04.647Z",
+  "generated_at": "2025-09-04T10:15:30.470Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "AI-assisted coding gains momentum, but human oversight remains essential, reveals Canva survey - MediaBrief",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nNmk3TllXckpkQkpLQTRndXN4Y2x3MHR6Ykg5SUNTeHhsVjZVS1lwdWUxR0tnVnRNMjIyeEJNa2l5aFBhZmlrUGZONlZQZ2ZwbnNJb3VZZ01vb1kxZ05GVHpyNDJNaGk4M3c?oc=5",
+      "isoDate": "2025-09-04T10:08:16.000Z",
+      "source": "news.google.com",
+      "raw": "AI-assisted coding gains momentum, but human oversight remains essential, reveals Canva survey  MediaBrief",
+      "summary": "AI-assisted coding gains momentum, but human oversight remains essential, reveals Canva survey MediaBrief",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "UK Firms Cut Jobs at Fastest Pace Since 2021, BOE Survey Shows - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREJlSmRzaGQySlp2MVRia2h2d1hmc1l3OFRhbnA4aGFWbmQ1bGFkVVp3UHJKUXBWWXI5VHBZY3pyY3o1QkFkT2N0X2h4bEttWmVUVVhnTDJxTjFXdXNHU21vcGZMZlRTaUFsR3pnNTE0eUV1SVoxV3lUZHRPLTRyLWJBLXJITTRGMXBvaE5IaldPTkdxR3RIbXM0bVpUT2hpS1BFMUNvSnZzUGQ5eGZXZDBn?oc=5",
@@ -553,17 +564,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "US holiday spending set for steepest drop since pandemic, PwC survey shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORDJJLTdrNGNNZndhaHk2dFNINWpET0d6Y3lJNXZLc1laeWJhdTktb2hHb2EwQ3Z2WHFtVW1GQmRaZVVPTFlwNUZhSHJwbnN6YWxrVjREQTN6NUVtblBWUnhiOTRYR0VYcGVLM3JnVndmekUya0t0MGZzbHFfNndSQU8zYWY0X1hiWHFnZGF6OXpyNXNJYUZVeFJidFpwV01sQzdXZUtsYko1YzlhVTFDM09nOWdWY3F2Znp5enV3NEUwVFZ2MXI0V2V3?oc=5",
-      "isoDate": "2025-09-03T08:59:19.000Z",
-      "source": "news.google.com",
-      "raw": "US holiday spending set for steepest drop since pandemic, PwC survey shows  Reuters",
-      "summary": "US holiday spending set for steepest drop since pandemic, PwC survey shows Reuters",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -621,12 +621,12 @@
       "url": "https://x.com/search?q=%23customer"
     },
     {
-      "label": "#ahead",
-      "url": "https://x.com/search?q=%23ahead"
-    },
-    {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
+    },
+    {
+      "label": "#ahead",
+      "url": "https://x.com/search?q=%23ahead"
     },
     {
       "label": "#digital",
@@ -669,8 +669,8 @@
       "url": "https://x.com/search?q=%23most"
     },
     {
-      "label": "#since",
-      "url": "https://x.com/search?q=%23since"
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
     },
     {
       "label": "#slight",
@@ -686,6 +686,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "AI-assisted coding gains momentum, but human oversight remains essential, reveals Canva survey - MediaBrief",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nNmk3TllXckpkQkpLQTRndXN4Y2x3MHR6Ykg5SUNTeHhsVjZVS1lwdWUxR0tnVnRNMjIyeEJNa2l5aFBhZmlrUGZONlZQZ2ZwbnNJb3VZZ01vb1kxZ05GVHpyNDJNaGk4M3c?oc=5"
+    },
     {
       "text": "UK Firms Cut Jobs at Fastest Pace Since 2021, BOE Survey Shows - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREJlSmRzaGQySlp2MVRia2h2d1hmc1l3OFRhbnA4aGFWbmQ1bGFkVVp3UHJKUXBWWXI5VHBZY3pyY3o1QkFkT2N0X2h4bEttWmVUVVhnTDJxTjFXdXNHU21vcGZMZlRTaUFsR3pnNTE0eUV1SVoxV3lUZHRPLTRyLWJBLXJITTRGMXBvaE5IaldPTkdxR3RIbXM0bVpUT2hpS1BFMUNvSnZzUGQ5eGZXZDBn?oc=5"
@@ -801,10 +805,6 @@
     {
       "text": "Services sector activity at 15-year high: Survey - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbEVHTEhuWWFhQ3pzb3ZscEsyWTE0dGRIMlF4dFQ0Q1VmdDJUdG9oX25WRzgyUHRWc0RESk5ZNGpENU5wZlgwYmFYMHNVRERudmlhYzRSV3FnWFIzT05fUzRvQzVHVGlINTd0Wk9TaTBBRUdWcmY5bl9yUW9lYkx3OUhyT1BmNlRaT2owSGctVTNrY1EzTXp0SW5XMGcwZzVFeW1kaUkybW5EdG15WVhaQXhRMEo1TkdWZFVRdXF6Tk9CSnZnSzNKQWJRNEViQdIB0wFBVV95cUxQU1ZJQ1hnTWtMZk5uR256c2xndWI2THFDNnYwQmNDNjVCTHZ2b2xZOXdaWElaTXRmRGZPNDdhYkVuUmpXQjdJX1g4QkFhY3pjSWRORUFrdVN5T0gzcHlPMlVUYWFKNEZMRUF4Qm9CVV9HZmNkU3RCZGxydUh0T2NfV2hyNHRnYjdMbEJ1NW16bXBMd3hLSE83Y0xfaTNNYnBQeEFLenFORkxmOWlSSEJPdHNwSTNBU3FtT2xZdndwLTg3b0EzNndCVnRsVnR1aFVCbGlz?oc=5"
-    },
-    {
-      "text": "Howden survey finds most multinationals hit by a political risk loss since 2020 - Global Reinsurance",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd2lfUWJBN0Exa2FicmVCNFZ0NGR6aFhMcHZKT0xkRXZqT2g4R3F0d2lCTFZ3ellWUXZOYjQ3RjV2QU95cHNNWFRIZnJwb3l6YTlRQzkxNWN3TTZpcmV2VWhnZVpCT19BUmdQVUQ2SkpMeDR4X1k0TUNybUY2cjV1RVpPTnRoWVpoNE1CNXN6Nk81enpGOFVyd0RjNEdscU91UUIzcmk5WXhLWFJtVFhWZzc0LTB0TDdOTm5zY3BENEVtb21XaTc0cEFLQ1A3SDQ?oc=5"
     }
   ]
 }
