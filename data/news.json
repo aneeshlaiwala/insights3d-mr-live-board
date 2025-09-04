@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-04T08:19:30.238Z",
+  "generated_at": "2025-09-04T09:10:29.227Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,73 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Cox Automotive’s Mark Vickery on how AI is personalizing the customer experience - CBT News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjNVVm05UUhqTEJGVzlyN09DUEZFTzhnZUllZnlScThtRGJqb1BvcGNyWDViOFpDY2xzUzhlNm1kMnVGR2dIZUEtLTlONDB4TDdKMHpzaWJORFRBQzgzNWI4cm9GVFRCSExMcXRlbnY1R204Y1Q0a3BLVnBpaHBGaURpRkdtMlVxX3VBV3NKOVpVeU9yOEZ2TWN1YVRnQkFXN3V1eFJJUQ?oc=5",
+      "isoDate": "2025-09-04T09:03:45.000Z",
+      "source": "news.google.com",
+      "raw": "Cox Automotive’s Mark Vickery on how AI is personalizing the customer experience  CBT News",
+      "summary": "Cox Automotive’s Mark Vickery on how AI is personalizing the customer experience CBT News",
+      "topics": [
+        "AI in MR",
+        "CX"
+      ]
+    },
+    {
+      "title": "MRSI’s 33rd annual market research seminar to spotlight ‘The Power of And’ with Dr. Saurabh Garg as keynote speaker - Adgully.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOE5ySEJGUklfMDE4aFZ4OF9adHZaekZYbHBPQWowRE16RThjR0dWd0VrWHRfWURaUy05OXFaYk45a3ZQTXJqWU9GSVN2WEFhWWRUb1V3eXp4YzRzUG9uRTNpM1pvcXpMRFFhdXJZWU9ETWZyOXlfLTJJMDNMOG4wRFJBVWk2NENDZGx5QWtOMmVUaVlYNEdha0ZGLUdPMGVtN29lTHg4STBYaTdMc2FXUWdudVVoV2tIN3QxRlAta0t6RHB3Z185UWhyZ04wWXRWbFlMU2RXVENxQ3hwMFE?oc=5",
+      "isoDate": "2025-09-04T09:01:00.000Z",
+      "source": "news.google.com",
+      "raw": "MRSI’s 33rd annual market research seminar to spotlight ‘The Power of And’ with Dr. Saurabh Garg as keynote speaker  Adgully.com",
+      "summary": "MRSI’s 33rd annual market research seminar to spotlight ‘The Power of And’ with Dr. Saurabh Garg as keynote speaker Adgully.com",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "SMPTE opens first public CPA Study Group survey - TVBEurope",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdW9Ja0lndXNhYTYyRmhtdmFKRkxGaU5YOWRsQmFmVGpxQXE0d0txdzJPR0lGSW1KWVdLcGs1NTFYME5sU0M2cGVfY3NKaEZQTklmbGhxZUhYYS02NzdDSHdYRjRvRTkwczdSRFJab3dDUUk5TlR3aVF0azFCVGsxMW1TTWtWS0dzcUcyc1ZhTFUtUQ?oc=5",
+      "isoDate": "2025-09-04T08:55:17.000Z",
+      "source": "news.google.com",
+      "raw": "SMPTE opens first public CPA Study Group survey  TVBEurope",
+      "summary": "SMPTE opens first public CPA Study Group survey TVBEurope",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLW5uVGJvNlA4UWFUbml0RFRPYk9TLWQ0SWtQZUFGZ2hPa3p4emE3U1dLdmlYS09aU0szMURjY3lZNUV4TEdjUGR4c2l5bkFveldmeDdFYjdrZkdBekdvX0ZyNk9TbGV5TDlXZ18zdkJ5MU9VRHBmNmRsUHBOR1NWdnRjS0ozYlRwb285b0JoQjN0dUZNbW0wRlo5M1pDTkU5NEFMWUdpRUJjRVZsRWFOc2gyMWdCM3pBeWhQdjRvUVRiejRHa2szcVZhOXczdGFlOHlLOEFqZGhsT2NRWXV0dm5GRWhKUVJTTm1Ydm51SXFPNzA?oc=5",
+      "isoDate": "2025-09-04T08:51:08.000Z",
+      "source": "news.google.com",
+      "raw": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows  Reuters",
+      "summary": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows Reuters",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanZfYUVxWGRyWHJZdDRNMUJDalN6YW01ZHQ4M3ZqZ09OcmJXWEh6ajNuODRmY1hPdDFuMDRaV2dtdWRjajF4X0RJNkhYbDhlcDZUTGJSbjFrTEhSWFU2aF9QYzZfc0JLbW9mcjFpeGNXQ2pVNXU4VHpHS0l5clhOYjY5blNYMkJ2QTUzVi15NG85a3B4VTUxblNqd3UtSGp6QUtIMHJfTFU4anVLejE3dklPdF9lRWo5WnJiVldlQUt4RXR5b0RBbzRfSzk5QjgtLWllcGtCaTlTWTRrZHcydW82UE5uT0ZyMnJ2T1pMb09SdGNCTkhyREN30gH_AUFVX3lxTFBTU0ljM0Z2NXZ2ZU5naEVRbzNnRkNJU3VrV0F1UlJlajRoYVdtbWRKV2FvdkxnM0c1aEVMMmhHNzBFLUF5ZjZzVWMyS2JMb0VWVWRaU1ozNFk4eGplTVNfMWJYQ1hmVEdfaExpbkNlem1YbkNMMUc2S0tFNkhVUnMyOGZrR2ZVcS1LWGhteVRza2pabk1CWmdweUt5Q0FLSy1PWHI2a1RGMDBlMnRXR2VpZXpRWVdNaVp2SWs5SFQzbzJjZGFReGFoVnF0WThDUkJYYy02VEFzZGZ5bTlFNFBZV2ZNbHlReGlOcVdzYS1ZcngyRkc5YkpaU3piX0Y2QQ?oc=5",
+      "isoDate": "2025-09-04T08:16:00.000Z",
+      "source": "news.google.com",
+      "raw": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector  Times of India",
+      "summary": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector Times of India",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Viridien, TGS Start 3D Seismic Survey Offshore Northern Brazil - Offshore Engineer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzlka2hOazYweWRXWENCVmxKbDEzZWNVejRpSTR0Q3pyNjdsd0xRSmYxQlppNDhyQXVZQUI3Z3hIT0txQWZoVGh3QUNXSUttdHlYU2hOM0U0elA4dlU3UWZSQXBDUTZaMDZhWVFaYklpOWcxaXBnQWJFNTJxb1FRTThXVWNnZGxsbnN5S3pZeVdkN3VzY1oyeEtHb0s1OHU2?oc=5",
+      "isoDate": "2025-09-04T08:12:29.000Z",
+      "source": "news.google.com",
+      "raw": "Viridien, TGS Start 3D Seismic Survey Offshore Northern Brazil  Offshore Engineer Magazine",
+      "summary": "Viridien, TGS Start 3D Seismic Survey Offshore Northern Brazil Offshore Engineer Magazine",
+      "topics": [
+        "Qualitative Research"
+      ]
+    },
     {
       "title": "How many Devadasi women are still in Karnataka and when was the last survey done? Know here - India TV News",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPblZMZnVXQjVxQlBCblVsU0VORWhya1NKOTdvdkh5ZGEwNk1xMkl6WGM1TnB5TlhCZ3JqU0V5ZXRncDAxeE9TaUxzYldxOFM5eXB2Tjl5SE5KWTlsQjk0X2tOd3phY01NWVlXQzJGYjl5ZGRDdFdGNEpjb19ZSzR2TE5MVWt2Qy1FdXJoOFAxQWlaVGhJeV84cHp2TWZnSnExUEVsZXlHanlqMHVTUTJGdEZBVkNCUFo0OEhRN1RIUktDWXRYcnc4V3lra2VmblM2MmMzNTc5cU1FdU45ZHd1SjJyZzRpZUFPd1pnQU1qM29odVEyQ1Vz0gH8AUFVX3lxTE5DZnpvTVNqekRIVWVEU3pxeVVWcVhDTHJfUlVvYUJTcmVzX2pTU1IxWGFLNkFUaC1iZGpiYThqdGpBNGpabWc2LU91SldjRWx0MEtibWFKSmlJMkJXLXdhVzVnZk9pS083NHJTNUVfMDkxd2RDLWpHbFVJNHdTU2tPVzZmUEFIeTVsaXZUb3Vqd29sdDQzS1hWSng2eEtxcjF2cEhHY0N0a0xzQU1fV0E1Y3p0VlROSDI5cFd5Q3ZVX3R1c2FXTVFleTJ0NDlRMXlrN0FFamNCcHRzMWtsRl96QjlzbTJHNTVTT3Z0c0pnRzRQSU15Mmw3RDYyZQ?oc=5",
@@ -44,12 +111,12 @@
       ]
     },
     {
-      "title": "Ministry of Health survey: Leumit leads in appointment avai - The Jerusalem Post",
+      "title": "Ministry of Health survey: Leumit leads in appointment availability - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hUzh5Zk5KS2hKdzZVTUwycW13V3NQcG1FeGRzV2haemhDdVEwUVIzX3lxcExpc0JwWk5kcjQxRjlrWXRsam5oUU5Xc1NUZkJaaDF6WUVucHpJMGtWelMwd09SZ3dSZU0?oc=5",
       "isoDate": "2025-09-04T07:14:25.000Z",
       "source": "news.google.com",
-      "raw": "Ministry of Health survey: Leumit leads in appointment avai  The Jerusalem Post",
-      "summary": "Ministry of Health survey: Leumit leads in appointment avai The Jerusalem Post",
+      "raw": "Ministry of Health survey: Leumit leads in appointment availability  The Jerusalem Post",
+      "summary": "Ministry of Health survey: Leumit leads in appointment availability The Jerusalem Post",
       "topics": [
         "AI in MR"
       ]
@@ -110,6 +177,17 @@
       ]
     },
     {
+      "title": "New buses launched to improve customer experience - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObThVaU1LNXRNZ0ZUTEZtU19CMGhkRlVaNy14bEhJN1BNcTZvbDFyN3ZlOVVaZXNTRkV5SkhHaTJ4WlRpcGxiSW51eTdPd1RUN2UySFU0UHRQbkR3QnpBclRvV1h1V3dFbll3RkFhRnBic3R4am5PNGpSTmNWMTFKNVN3OA?oc=5",
+      "isoDate": "2025-09-04T06:02:19.000Z",
+      "source": "news.google.com",
+      "raw": "New buses launched to improve customer experience  AOL.com",
+      "summary": "New buses launched to improve customer experience AOL.com",
+      "topics": [
+        "CX"
+      ]
+    },
+    {
       "title": "Latest Eurobarometer survey shows that young Europeans are among the strongest supporters of EU enlargement - EU Reporter",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVlFudjZwT2hpejlZVVk0dHdJSEhCN0h4ZFcwNjR2czZzV0FEQUJLZWJuRVFkTDNKdlNGWG1BczVXMTQyaThrNGhVZko3cHVHa0x5NXFsYnAzbHBTQ3VRRjNVSDdCdHR3QTBiYUgxa2E2NGFqU3hRSDZMcWF5S1BGOUc2WUpMZnRrNlktbDBXNXAwOFlJU3pPc01PVl9ZWVBNTzBaYlk0ejhMUW90b3RiU25WNlMwb2ExNENnRm5NMkNZaVVjNUxtdF91UkFFZHBCV0p2akpuS29HS2M1MTNNTUUyeWIxT0lGUlNJbXJR?oc=5",
       "isoDate": "2025-09-04T06:02:04.000Z",
@@ -118,6 +196,18 @@
       "summary": "Latest Eurobarometer survey shows that young Europeans are among the strongest supporters of EU enlargement EU Reporter",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Beyond the Transaction: Why exceptional customer experience demands an exceptional network - Retail Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXU1ajQ5Xzh0SGc0NndYdHdlcFlES2lsMW9SOHZ5dDRSWTlpclZsdVhqYmZGR053eUpnWlNlMWt0OE9qUWkxLVo3cTBFcXJTU3RIVS1LYkppR0NXM1luZ2RfTnNNWnFSMmh0WkUyNW5IZ3Y3aUFBdWtodllKZ096UzRObEx4NDZNYi1yX3VDTHdESjg?oc=5",
+      "isoDate": "2025-09-04T06:00:24.000Z",
+      "source": "news.google.com",
+      "raw": "Beyond the Transaction: Why exceptional customer experience demands an exceptional network  Retail Gazette",
+      "summary": "Beyond the Transaction: Why exceptional customer experience demands an exceptional network Retail Gazette",
+      "topics": [
+        "AI in MR",
+        "CX"
       ]
     },
     {
@@ -188,12 +278,12 @@
       ]
     },
     {
-      "title": "Services sector activity at 15-year high: Survey - The Times of India",
+      "title": "Services sector activity at 15-year high: Survey - Times of India",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbEVHTEhuWWFhQ3pzb3ZscEsyWTE0dGRIMlF4dFQ0Q1VmdDJUdG9oX25WRzgyUHRWc0RESk5ZNGpENU5wZlgwYmFYMHNVRERudmlhYzRSV3FnWFIzT05fUzRvQzVHVGlINTd0Wk9TaTBBRUdWcmY5bl9yUW9lYkx3OUhyT1BmNlRaT2owSGctVTNrY1EzTXp0SW5XMGcwZzVFeW1kaUkybW5EdG15WVhaQXhRMEo1TkdWZFVRdXF6Tk9CSnZnSzNKQWJRNEViQdIB0wFBVV95cUxQU1ZJQ1hnTWtMZk5uR256c2xndWI2THFDNnYwQmNDNjVCTHZ2b2xZOXdaWElaTXRmRGZPNDdhYkVuUmpXQjdJX1g4QkFhY3pjSWRORUFrdVN5T0gzcHlPMlVUYWFKNEZMRUF4Qm9CVV9HZmNkU3RCZGxydUh0T2NfV2hyNHRnYjdMbEJ1NW16bXBMd3hLSE83Y0xfaTNNYnBQeEFLenFORkxmOWlSSEJPdHNwSTNBU3FtT2xZdndwLTg3b0EzNndCVnRsVnR1aFVCbGlz?oc=5",
       "isoDate": "2025-09-04T01:47:00.000Z",
       "source": "news.google.com",
-      "raw": "Services sector activity at 15-year high: Survey  The Times of India",
-      "summary": "Services sector activity at 15-year high: Survey The Times of India",
+      "raw": "Services sector activity at 15-year high: Survey  Times of India",
+      "summary": "Services sector activity at 15-year high: Survey Times of India",
       "topics": [
         "(Other)"
       ]
@@ -231,28 +321,6 @@
       "topics": [
         "AI in MR",
         "CX"
-      ]
-    },
-    {
-      "title": "A new survey reveals stress and burnout are growing among Australian cybersecurity workers because of AI - Startup Daily",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVU12OTR4YVd0NkcxU3pWeVB3b21qWU12UGJVa0k5QnpzOHZtNXBQOHM2SVBnbTBkMjNLOG9oX2Q5ZlFlVEtIc0R1NGVSckxJcWJxeU0tc0UtR25uM2F5UXBYQ0paWmFJN1hFZ0RhazEyVG9UZzVRM3hFZWk5Ui1wWmRfQkZaSVNGYW9VbDhIbVZlOFMtbkkteXJzNEFoYVhFWE8tV1lDZkI0Tm8xUDJJOHZ2Q05EOUZTT2RJcFQyQmZqdlE1dC1oQV9Mb3lFS3R5c2dta0ZBU0NDRnJzU1ZRS1ZuWWg0UW14dTFr?oc=5",
-      "isoDate": "2025-09-04T00:26:14.000Z",
-      "source": "news.google.com",
-      "raw": "A new survey reveals stress and burnout are growing among Australian cybersecurity workers because of AI  Startup Daily",
-      "summary": "A new survey reveals stress and burnout are growing among Australian cybersecurity workers because of AI Startup Daily",
-      "topics": [
-        "AI in MR"
-      ]
-    },
-    {
-      "title": "Future Leaders launches survey to help new lawyers - qlsproctor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenBWVUstM2dwMEVDb1RBV1RDc2U2Y3RpcWVPLWQ2b0E1eHFGN0xxQnZiRzFCT0Z3ZWRXQ0VUaHpjakl4QzdDb0VqSkdaTFhYeUo3T1dDLW1xZnF0dC1SSTR2cnNBSkRIU0xrVFVhMGFMaEwtUkwtV1BMOXRNbDBrVWY5NDFCcDREbnJrQkZFYllEVFk?oc=5",
-      "isoDate": "2025-09-04T00:24:51.000Z",
-      "source": "news.google.com",
-      "raw": "Future Leaders launches survey to help new lawyers  qlsproctor.com.au",
-      "summary": "Future Leaders launches survey to help new lawyers qlsproctor.com.au",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -399,17 +467,6 @@
       ]
     },
     {
-      "title": "City of Prosser creates public survey to connect with community - KNDU.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMU9GSjVfQ1B1YmVLY1ZJNzJJS0JIdHgyTFg2SkxUTXVJYS1BajlaM1gyVmd6RkpmUDJUelJmam5yZURWcWlqcG90RDB1MGhYX09GVXRUYmM5ZlN4SkFtWk5ZMEZNaWVpR3owd1ZXV3pieXpwQXFsLVI5MTRqX3ZmZkpVWVFFeDk2alpKQjFHT0pLb0RBczk0XzBKYzQ5ekdzN0FKMlQ5eUV3UVlWc2Fta3NBZXhLWWJIRm9CQ3NaVTlVN19nRTFsUFQ0TGNnVHVtdV9VOG1lS29IdjVwT09B?oc=5",
-      "isoDate": "2025-09-03T19:05:34.000Z",
-      "source": "news.google.com",
-      "raw": "City of Prosser creates public survey to connect with community  KNDU.com",
-      "summary": "City of Prosser creates public survey to connect with community KNDU.com",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Survey Surfaces Raft of WordPress Cybersecurity Concerns - Security Boulevard",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2pwa3VOa3JFTzhvZ1JBQ0pFVnBubWM3bkFfNWx3MnFveFhQMlg4aGVzTWo4SzRvd2h6eEllSWIyUWc4blgwa2R0aThrUGYteGNvMVJOYXRPSDFKMFFJU2g4ZGcxaDFsOWhhVnNpYnN1TXRWMmNHaURUekVvRGprRGtaaW8tSmdsQ1NxWm1kN01MdVhEY1lrWHBNNA?oc=5",
       "isoDate": "2025-09-03T18:11:34.000Z",
@@ -421,57 +478,12 @@
       ]
     },
     {
-      "title": "Telecom Security Visionaries and Key Customers Join Netcracker to Discuss Cybersecurity and the Evolution of AI and Customer Experience at TM Forum Innovate Americas - Silicon Canals",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNM0FsUDBfTG1jNld3cXB3ajh1REZlZElZUDYxLWZVejVidkdQR01McGE0dy1yOU9fWVRGT1NvUktKSHc3M2lQWlBIWGYzTVRRY0EwYTJnV2g1TEI4eDVWaHpaRnF3cUF1aFR3NVNxMk1xcGlkOXNELUZCeHVXb2FRSlRHb2c4Qy11eDlVZXZNMjItLTRUaDFPbS1Da2oxWGNiZkJtYm1OS2pTOU9kamI0d0Z3T3NjM2oyTnhTOTd3VUF1ek1GSS1Jdm9KSXAwbnRFS2FPNG40SkdaRnhZUFpPUXdDYVduZ1dLUnlOdFRveVJmUUxLTFdkV2dNNTdtblJDTUJRdWFFSkl6T2hXbk9KMnYyRjREOEZDRWxUXw?oc=5",
-      "isoDate": "2025-09-03T18:03:09.000Z",
-      "source": "news.google.com",
-      "raw": "Telecom Security Visionaries and Key Customers Join Netcracker to Discuss Cybersecurity and the Evolution of AI and Customer Experience at TM Forum Innovate Americas  Silicon Canals",
-      "summary": "Telecom Security Visionaries and Key Customers Join Netcracker to Discuss Cybersecurity and the Evolution of AI and Customer Experience at TM Forum Innovate Americas Silicon Canals",
-      "topics": [
-        "AI in MR",
-        "CX"
-      ]
-    },
-    {
       "title": "APD To Conduct Field Survey to Gauge Crop Losses in J&K - Kashmir Observer",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjJlOVYwUW9VQkpGMEZZWGhISlU2dW5OMEJZdUdvQ3pmcUEwd3E4UWRCcnRkbG9oWFNGMjBXQ1p2WC1CTmc4cjdMZWdFSkkzbElTTFJLdzM0OGZTc19rOW5sNjY0amhfOXBJVHFkb2lKMzM4bEtRbjFqSlpVak5pbmhWVkdPSHBHNF8wQU5RTjhJU1RLSWhEQlln?oc=5",
       "isoDate": "2025-09-03T17:52:00.000Z",
       "source": "news.google.com",
       "raw": "APD To Conduct Field Survey to Gauge Crop Losses in J&K  Kashmir Observer",
       "summary": "APD To Conduct Field Survey to Gauge Crop Losses in J&K Kashmir Observer",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "VIDEO: PWC’s Holiday Shopping Survey Backs Our Consumer Plays - TheStreet Pro",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEFCd1NoNE1HT015OS13N2k3U2RtcmJzRThVbXZhWnFudDN0VngtUTlWZnBFT0JRZnFJSV92UjZnQzc4MkhDOE1DMHM0QlYtYXRORm5zZ0xHYlZHS2Q2M1FTWXhDMGdqUFhMTVBBa3FVX0xIb0NaVjJjOS1LM1psckd0aEpBQXVKUGtWQ2dBTDNkTldiaHVPRmtMdw?oc=5",
-      "isoDate": "2025-09-03T17:43:53.000Z",
-      "source": "news.google.com",
-      "raw": "VIDEO: PWC’s Holiday Shopping Survey Backs Our Consumer Plays  TheStreet Pro",
-      "summary": "VIDEO: PWC’s Holiday Shopping Survey Backs Our Consumer Plays TheStreet Pro",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Survey: American dog owners would skip own meals to feed pets - PetfoodIndustry",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSU00d190REFWal9hMGtqTjVKZFNYRWgyYTVHZW1YYzZ6UmMxR19fdm1fb2dWV3F2SkF1TFpmdElGdUo1UmMwRmQtU2Rva0M2TkxJcmFONkIwNzMzVEpGSFAwaktYSm9sVUJHNm81ZVF6UXJ1bW5JZ3dubjAzSk1Vc3V4NWxmWnU2ek01djd1cVRXUU93eW1IWU95UWkza1l0bi1sY3ZlbUxEanptbEJpZFhQeTF4cWxqZktsYkk3UHhmVG1JVGQwMkg2N3hLS0g1Ym9uN29zLVRMbWVaVnJKYWN3?oc=5",
-      "isoDate": "2025-09-03T17:26:34.000Z",
-      "source": "news.google.com",
-      "raw": "Survey: American dog owners would skip own meals to feed pets  PetfoodIndustry",
-      "summary": "Survey: American dog owners would skip own meals to feed pets PetfoodIndustry",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "ICI-NORC Survey: Investors Want Electronic Delivery of Disclosures - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnNzTFh6c0VJdWdXRS1TNUYtMUx6V1h3TDVFSGpmUWNyY29pRGNJWDltcms0ZFJRWUptUHJjcE5uZXlTOWJkeFNOaWFHbDI1VnktMXFYZTl4eVhqS0Rldk5naldGbEE5UHZlYXhRZHUtRnNKVVdQTkRkRV9yVjBWeFY4RDFfdEtOd2VaZjF2WE0wcG9YbTJySlAxRW91TGxTQ3lYaG9rdXR5OEUzNVRmMWhEeE5weTZ1b3UtUHVR?oc=5",
-      "isoDate": "2025-09-03T15:39:00.000Z",
-      "source": "news.google.com",
-      "raw": "ICI-NORC Survey: Investors Want Electronic Delivery of Disclosures  PR Newswire",
-      "summary": "ICI-NORC Survey: Investors Want Electronic Delivery of Disclosures PR Newswire",
       "topics": [
         "(Other)"
       ]
@@ -521,17 +533,6 @@
       ]
     },
     {
-      "title": "97% of Uzbeks Express Pride in Independence, Survey Finds - The Times Of Central Asia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYURCZWFZM19yZ3FGTklHWVd1cHFvdlVvTFJROWZucFNqV3hfa0MxYVY3b2VRbEVGNEFrM0ZOckZremF6MmFVMEczMFpNZ2lhbTRpb3kzMHNtSTNnSk9yMmhtekUwcFczTjB3NFRRZUlvblB1TjBwODJ0YnZuZE8xRFdR?oc=5",
-      "isoDate": "2025-09-03T12:18:36.000Z",
-      "source": "news.google.com",
-      "raw": "97% of Uzbeks Express Pride in Independence, Survey Finds  The Times Of Central Asia",
-      "summary": "97% of Uzbeks Express Pride in Independence, Survey Finds The Times Of Central Asia",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Smartphone Buyers Care Even Less About AI Than They Did Last Year, CNET Survey Finds - CNET",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUtfeWJFUHBTOC05bnl6LXVrUXFKM2c4TFVXM0pnNDFFeXQ2MUptalhKVEt4cmlSNWxwN055SjN6WlR0SHhMb1FZbTQxdS1XeHYzRWJDaDkyaTc2NjZiN1R0Yi1oQWtORDBNMkRDRll4X1pORjFxZVk4VVVpbzR4Ui1iOENqRFdZeVZ2SFpQTXpNTm8wRkdmaEhXQkZVcGgwYTZKWEdzZXJLbElHbWN5SFJxbktJNE9o?oc=5",
       "isoDate": "2025-09-03T12:00:00.000Z",
@@ -566,6 +567,17 @@
     }
   ],
   "funding_ma": [
+    {
+      "title": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanZfYUVxWGRyWHJZdDRNMUJDalN6YW01ZHQ4M3ZqZ09OcmJXWEh6ajNuODRmY1hPdDFuMDRaV2dtdWRjajF4X0RJNkhYbDhlcDZUTGJSbjFrTEhSWFU2aF9QYzZfc0JLbW9mcjFpeGNXQ2pVNXU4VHpHS0l5clhOYjY5blNYMkJ2QTUzVi15NG85a3B4VTUxblNqd3UtSGp6QUtIMHJfTFU4anVLejE3dklPdF9lRWo5WnJiVldlQUt4RXR5b0RBbzRfSzk5QjgtLWllcGtCaTlTWTRrZHcydW82UE5uT0ZyMnJ2T1pMb09SdGNCTkhyREN30gH_AUFVX3lxTFBTU0ljM0Z2NXZ2ZU5naEVRbzNnRkNJU3VrV0F1UlJlajRoYVdtbWRKV2FvdkxnM0c1aEVMMmhHNzBFLUF5ZjZzVWMyS2JMb0VWVWRaU1ozNFk4eGplTVNfMWJYQ1hmVEdfaExpbkNlem1YbkNMMUc2S0tFNkhVUnMyOGZrR2ZVcS1LWGhteVRza2pabk1CWmdweUt5Q0FLSy1PWHI2a1RGMDBlMnRXR2VpZXpRWVdNaVp2SWs5SFQzbzJjZGFReGFoVnF0WThDUkJYYy02VEFzZGZ5bTlFNFBZV2ZNbHlReGlOcVdzYS1ZcngyRkc5YkpaU3piX0Y2QQ?oc=5",
+      "isoDate": "2025-09-04T08:16:00.000Z",
+      "source": "news.google.com",
+      "raw": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector  Times of India",
+      "summary": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector Times of India",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Concentrix acquires Sai Digital to supercharge its digital commerce and customer experience tech solutions - MarketScreener",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNenJfem95NW1vc0xrVXVuUEtXSm9lcU9SQksxQ2RHRmdKRWpjUThrdmxfSi1zbzdlbUdlb1ozekRhUnNSeFYtcERKcjZUclBVUlJ2NVNKNnVzMGVWNkRCNGdsazlJMU1ybUNpLXpwbkJmNEI4WGk4NWZqOEllMGVVRVhGOXNFZHRaOG9SQWdWTHhkV0hxcV9aU0FTMDNLYW9JNXFubmh1OHN5R25tMmdMV1J3U2xXbUR5VnpLZ1laM3lfLTZPWmVQSDVuWGMzU0M1Qm5kVTZPVS1TVWR4OWpzdFRfUkY2V1NT?oc=5",
@@ -617,28 +629,12 @@
       "url": "https://x.com/search?q=%23digital"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
-      "label": "#reveals",
-      "url": "https://x.com/search?q=%23reveals"
-    },
-    {
       "label": "#americans",
       "url": "https://x.com/search?q=%23americans"
     },
     {
-      "label": "#among",
-      "url": "https://x.com/search?q=%23among"
-    },
-    {
-      "label": "#cybersecurity",
-      "url": "https://x.com/search?q=%23cybersecurity"
-    },
-    {
-      "label": "#holiday",
-      "url": "https://x.com/search?q=%23holiday"
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#more",
@@ -649,12 +645,20 @@
       "url": "https://x.com/search?q=%23most"
     },
     {
-      "label": "#workers",
-      "url": "https://x.com/search?q=%23workers"
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
     },
     {
       "label": "#acquires",
       "url": "https://x.com/search?q=%23acquires"
+    },
+    {
+      "label": "#ahead",
+      "url": "https://x.com/search?q=%23ahead"
+    },
+    {
+      "label": "#among",
+      "url": "https://x.com/search?q=%23among"
     },
     {
       "label": "#appointment",
@@ -671,9 +675,41 @@
     {
       "label": "#bofa",
       "url": "https://x.com/search?q=%23bofa"
+    },
+    {
+      "label": "#brazil",
+      "url": "https://x.com/search?q=%23brazil"
+    },
+    {
+      "label": "#buses",
+      "url": "https://x.com/search?q=%23buses"
     }
   ],
   "ticker": [
+    {
+      "text": "Cox Automotive’s Mark Vickery on how AI is personalizing the customer experience - CBT News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjNVVm05UUhqTEJGVzlyN09DUEZFTzhnZUllZnlScThtRGJqb1BvcGNyWDViOFpDY2xzUzhlNm1kMnVGR2dIZUEtLTlONDB4TDdKMHpzaWJORFRBQzgzNWI4cm9GVFRCSExMcXRlbnY1R204Y1Q0a3BLVnBpaHBGaURpRkdtMlVxX3VBV3NKOVpVeU9yOEZ2TWN1YVRnQkFXN3V1eFJJUQ?oc=5"
+    },
+    {
+      "text": "MRSI’s 33rd annual market research seminar to spotlight ‘The Power of And’ with Dr. Saurabh Garg as keynote speaker - Adgully.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOE5ySEJGUklfMDE4aFZ4OF9adHZaekZYbHBPQWowRE16RThjR0dWd0VrWHRfWURaUy05OXFaYk45a3ZQTXJqWU9GSVN2WEFhWWRUb1V3eXp4YzRzUG9uRTNpM1pvcXpMRFFhdXJZWU9ETWZyOXlfLTJJMDNMOG4wRFJBVWk2NENDZGx5QWtOMmVUaVlYNEdha0ZGLUdPMGVtN29lTHg4STBYaTdMc2FXUWdudVVoV2tIN3QxRlAta0t6RHB3Z185UWhyZ04wWXRWbFlMU2RXVENxQ3hwMFE?oc=5"
+    },
+    {
+      "text": "SMPTE opens first public CPA Study Group survey - TVBEurope",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdW9Ja0lndXNhYTYyRmhtdmFKRkxGaU5YOWRsQmFmVGpxQXE0d0txdzJPR0lGSW1KWVdLcGs1NTFYME5sU0M2cGVfY3NKaEZQTklmbGhxZUhYYS02NzdDSHdYRjRvRTkwczdSRFJab3dDUUk5TlR3aVF0azFCVGsxMW1TTWtWS0dzcUcyc1ZhTFUtUQ?oc=5"
+    },
+    {
+      "text": "British firms report slight rise in UK year-ahead inflation expectations, BoE survey shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLW5uVGJvNlA4UWFUbml0RFRPYk9TLWQ0SWtQZUFGZ2hPa3p4emE3U1dLdmlYS09aU0szMURjY3lZNUV4TEdjUGR4c2l5bkFveldmeDdFYjdrZkdBekdvX0ZyNk9TbGV5TDlXZ18zdkJ5MU9VRHBmNmRsUHBOR1NWdnRjS0ozYlRwb285b0JoQjN0dUZNbW0wRlo5M1pDTkU5NEFMWUdpRUJjRVZsRWFOc2gyMWdCM3pBeWhQdjRvUVRiejRHa2szcVZhOXczdGFlOHlLOEFqZGhsT2NRWXV0dm5GRWhKUVJTTm1Ydm51SXFPNzA?oc=5"
+    },
+    {
+      "text": "TDK Ventures and Kae Capital survey shows rising optimism in India’s Deeptech sector - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanZfYUVxWGRyWHJZdDRNMUJDalN6YW01ZHQ4M3ZqZ09OcmJXWEh6ajNuODRmY1hPdDFuMDRaV2dtdWRjajF4X0RJNkhYbDhlcDZUTGJSbjFrTEhSWFU2aF9QYzZfc0JLbW9mcjFpeGNXQ2pVNXU4VHpHS0l5clhOYjY5blNYMkJ2QTUzVi15NG85a3B4VTUxblNqd3UtSGp6QUtIMHJfTFU4anVLejE3dklPdF9lRWo5WnJiVldlQUt4RXR5b0RBbzRfSzk5QjgtLWllcGtCaTlTWTRrZHcydW82UE5uT0ZyMnJ2T1pMb09SdGNCTkhyREN30gH_AUFVX3lxTFBTU0ljM0Z2NXZ2ZU5naEVRbzNnRkNJU3VrV0F1UlJlajRoYVdtbWRKV2FvdkxnM0c1aEVMMmhHNzBFLUF5ZjZzVWMyS2JMb0VWVWRaU1ozNFk4eGplTVNfMWJYQ1hmVEdfaExpbkNlem1YbkNMMUc2S0tFNkhVUnMyOGZrR2ZVcS1LWGhteVRza2pabk1CWmdweUt5Q0FLSy1PWHI2a1RGMDBlMnRXR2VpZXpRWVdNaVp2SWs5SFQzbzJjZGFReGFoVnF0WThDUkJYYy02VEFzZGZ5bTlFNFBZV2ZNbHlReGlOcVdzYS1ZcngyRkc5YkpaU3piX0Y2QQ?oc=5"
+    },
+    {
+      "text": "Viridien, TGS Start 3D Seismic Survey Offshore Northern Brazil - Offshore Engineer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzlka2hOazYweWRXWENCVmxKbDEzZWNVejRpSTR0Q3pyNjdsd0xRSmYxQlppNDhyQXVZQUI3Z3hIT0txQWZoVGh3QUNXSUttdHlYU2hOM0U0elA4dlU3UWZSQXBDUTZaMDZhWVFaYklpOWcxaXBnQWJFNTJxb1FRTThXVWNnZGxsbnN5S3pZeVdkN3VzY1oyeEtHb0s1OHU2?oc=5"
+    },
     {
       "text": "How many Devadasi women are still in Karnataka and when was the last survey done? Know here - India TV News",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPblZMZnVXQjVxQlBCblVsU0VORWhya1NKOTdvdkh5ZGEwNk1xMkl6WGM1TnB5TlhCZ3JqU0V5ZXRncDAxeE9TaUxzYldxOFM5eXB2Tjl5SE5KWTlsQjk0X2tOd3phY01NWVlXQzJGYjl5ZGRDdFdGNEpjb19ZSzR2TE5MVWt2Qy1FdXJoOFAxQWlaVGhJeV84cHp2TWZnSnExUEVsZXlHanlqMHVTUTJGdEZBVkNCUFo0OEhRN1RIUktDWXRYcnc4V3lra2VmblM2MmMzNTc5cU1FdU45ZHd1SjJyZzRpZUFPd1pnQU1qM29odVEyQ1Vz0gH8AUFVX3lxTE5DZnpvTVNqekRIVWVEU3pxeVVWcVhDTHJfUlVvYUJTcmVzX2pTU1IxWGFLNkFUaC1iZGpiYThqdGpBNGpabWc2LU91SldjRWx0MEtibWFKSmlJMkJXLXdhVzVnZk9pS083NHJTNUVfMDkxd2RDLWpHbFVJNHdTU2tPVzZmUEFIeTVsaXZUb3Vqd29sdDQzS1hWSng2eEtxcjF2cEhHY0N0a0xzQU1fV0E1Y3p0VlROSDI5cFd5Q3ZVX3R1c2FXTVFleTJ0NDlRMXlrN0FFamNCcHRzMWtsRl96QjlzbTJHNTVTT3Z0c0pnRzRQSU15Mmw3RDYyZQ?oc=5"
@@ -687,7 +723,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnpheGQ4RXdlREl5VTZya1FRMlhJazZTaDUxdzBVZGw0VFpQSDZwYWQxVmtWcUNxUDhPSG5wRTNxdi05SzJzNEpwWVkzR2tQOG9vRDRJWjJFNWo0SUxfRGk4aTQ3endHNHdyY2RNRDJJYklyUk1MRDhBT2o5cG5DUXFQOE4?oc=5"
     },
     {
-      "text": "Ministry of Health survey: Leumit leads in appointment avai - The Jerusalem Post",
+      "text": "Ministry of Health survey: Leumit leads in appointment availability - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hUzh5Zk5KS2hKdzZVTUwycW13V3NQcG1FeGRzV2haemhDdVEwUVIzX3lxcExpc0JwWk5kcjQxRjlrWXRsam5oUU5Xc1NUZkJaaDF6WUVucHpJMGtWelMwd09SZ3dSZU0?oc=5"
     },
     {
@@ -711,8 +747,16 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWhnMVEtUDVscXpycVQ5RGhOLXpWcTU2SERtNkJmRmFUaXZVOTkxOUZTa1RKc1ZZZklqRTRaRVNJYkd1ckl2NDVjQ1IzMjliM1Y4Z2lTTG5oMmtMS1dmSWVRZjZMa25DLXByV0FlaElpLWpyVlZ5Z1dGSEREQkJVWWdxTXZhNFFidGlKZWk0RC00dEpDQmhEd2V5Tklsdm15ZVB6MDhYZVNTU3hpZ3Q4TFFBMVlfbW5RUWlQcy1pSnlVYWZVclNNWTd3?oc=5"
     },
     {
+      "text": "New buses launched to improve customer experience - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObThVaU1LNXRNZ0ZUTEZtU19CMGhkRlVaNy14bEhJN1BNcTZvbDFyN3ZlOVVaZXNTRkV5SkhHaTJ4WlRpcGxiSW51eTdPd1RUN2UySFU0UHRQbkR3QnpBclRvV1h1V3dFbll3RkFhRnBic3R4am5PNGpSTmNWMTFKNVN3OA?oc=5"
+    },
+    {
       "text": "Latest Eurobarometer survey shows that young Europeans are among the strongest supporters of EU enlargement - EU Reporter",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVlFudjZwT2hpejlZVVk0dHdJSEhCN0h4ZFcwNjR2czZzV0FEQUJLZWJuRVFkTDNKdlNGWG1BczVXMTQyaThrNGhVZko3cHVHa0x5NXFsYnAzbHBTQ3VRRjNVSDdCdHR3QTBiYUgxa2E2NGFqU3hRSDZMcWF5S1BGOUc2WUpMZnRrNlktbDBXNXAwOFlJU3pPc01PVl9ZWVBNTzBaYlk0ejhMUW90b3RiU25WNlMwb2ExNENnRm5NMkNZaVVjNUxtdF91UkFFZHBCV0p2akpuS29HS2M1MTNNTUUyeWIxT0lGUlNJbXJR?oc=5"
+    },
+    {
+      "text": "Beyond the Transaction: Why exceptional customer experience demands an exceptional network - Retail Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXU1ajQ5Xzh0SGc0NndYdHdlcFlES2lsMW9SOHZ5dDRSWTlpclZsdVhqYmZGR053eUpnWlNlMWt0OE9qUWkxLVo3cTBFcXJTU3RIVS1LYkppR0NXM1luZ2RfTnNNWnFSMmh0WkUyNW5IZ3Y3aUFBdWtodllKZ096UzRObEx4NDZNYi1yX3VDTHdESjg?oc=5"
     },
     {
       "text": "New Thames Valley buses launched to improve customer experience - BBC",
@@ -739,7 +783,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGwyNmFmWkRJT3EweTNfbXhmV1cyUXFDM01rdUdsRXV6cnVVSFFZZUtJWUpKeHM5RS1EQTBwdzR2cFE4VXp2U2VUaURWS3lMck91YmlsQkhyQlJ1RVhId3o3cno3WGxNalFmQkZBVE1zVUtUdzhsSngweWVGQnRkZVl2SnVmOGVTcklOaVFSNmtCNFRncGpkVVFocVUyNTk5cFlqOW1SaU1WbmZUVGdCZUFZSEZhR2Q2aC0xU1gxWEhRamRzZ1dJWjlPUE4?oc=5"
     },
     {
-      "text": "Services sector activity at 15-year high: Survey - The Times of India",
+      "text": "Services sector activity at 15-year high: Survey - Times of India",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbEVHTEhuWWFhQ3pzb3ZscEsyWTE0dGRIMlF4dFQ0Q1VmdDJUdG9oX25WRzgyUHRWc0RESk5ZNGpENU5wZlgwYmFYMHNVRERudmlhYzRSV3FnWFIzT05fUzRvQzVHVGlINTd0Wk9TaTBBRUdWcmY5bl9yUW9lYkx3OUhyT1BmNlRaT2owSGctVTNrY1EzTXp0SW5XMGcwZzVFeW1kaUkybW5EdG15WVhaQXhRMEo1TkdWZFVRdXF6Tk9CSnZnSzNKQWJRNEViQdIB0wFBVV95cUxQU1ZJQ1hnTWtMZk5uR256c2xndWI2THFDNnYwQmNDNjVCTHZ2b2xZOXdaWElaTXRmRGZPNDdhYkVuUmpXQjdJX1g4QkFhY3pjSWRORUFrdVN5T0gzcHlPMlVUYWFKNEZMRUF4Qm9CVV9HZmNkU3RCZGxydUh0T2NfV2hyNHRnYjdMbEJ1NW16bXBMd3hLSE83Y0xfaTNNYnBQeEFLenFORkxmOWlSSEJPdHNwSTNBU3FtT2xZdndwLTg3b0EzNndCVnRsVnR1aFVCbGlz?oc=5"
     },
     {
@@ -755,44 +799,12 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQajJHcHpCbHNmdmxHWlVwbWwtaTVTN3FJWERGd0Zwa3hKNnhWSEM0UUZrU3ZuYzVFNUhqNzJlUEl0WU9yT184QVBmZFN2MmF4cXdwWk1za0MwVmtKZ3lFQ0N6cjd1WkxXZnFsVU9tRjlUNnAxbDBfcXp4VHZjd2ZEUmxKNXp3TVM5b3UtREotalNoRDZ1OWh6T1NPNGp4TmNDMW5mOTF0d1FPVlJXLUVzRzJPbDRvU05WZi1WTlFkQXlDXzhXWWIzV2lzTXkxbTdDbjdyNzBKNHd5d1E2UUJ0SXlDUE5SNWlD?oc=5"
     },
     {
-      "text": "A new survey reveals stress and burnout are growing among Australian cybersecurity workers because of AI - Startup Daily",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVU12OTR4YVd0NkcxU3pWeVB3b21qWU12UGJVa0k5QnpzOHZtNXBQOHM2SVBnbTBkMjNLOG9oX2Q5ZlFlVEtIc0R1NGVSckxJcWJxeU0tc0UtR25uM2F5UXBYQ0paWmFJN1hFZ0RhazEyVG9UZzVRM3hFZWk5Ui1wWmRfQkZaSVNGYW9VbDhIbVZlOFMtbkkteXJzNEFoYVhFWE8tV1lDZkI0Tm8xUDJJOHZ2Q05EOUZTT2RJcFQyQmZqdlE1dC1oQV9Mb3lFS3R5c2dta0ZBU0NDRnJzU1ZRS1ZuWWg0UW14dTFr?oc=5"
-    },
-    {
-      "text": "Future Leaders launches survey to help new lawyers - qlsproctor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenBWVUstM2dwMEVDb1RBV1RDc2U2Y3RpcWVPLWQ2b0E1eHFGN0xxQnZiRzFCT0Z3ZWRXQ0VUaHpjakl4QzdDb0VqSkdaTFhYeUo3T1dDLW1xZnF0dC1SSTR2cnNBSkRIU0xrVFVhMGFMaEwtUkwtV1BMOXRNbDBrVWY5NDFCcDREbnJrQkZFYllEVFk?oc=5"
-    },
-    {
       "text": "Bitcoin averages 4.67/10 trust score across 25 countries in Cornell survey - CryptoSlate",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXVZUjI4cGxNQnlHR1ZGVlA4SVdrRlhTdFhNOTMyeEE5azVTUE1JR014RDVqaGtnX2NzbW1OR19EQTFFcXBOX1JwcC1sS0cyRU1vUWVGd2RnV25OeU5JbGhIemQtUGx2cWhrU2Q0RExJbVlKdWlXRWR1RmxCUUJ2dTdjbUttM0xndFRmTDZldWZrQTd4ejRqU1BFNm5yUDFy?oc=5"
     },
     {
       "text": "Fewer than half of Irish companies automatically back up data, survey shows - The Irish Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZXZodzU4UFJhRzkzU0szVXJRb2p1bl9ZWnNrSFhSZVNJQzVjSTVZdElfOVFEbXllTXN2cUtzMmNpUWFIMlRIdzFtZS1ieUd1YUU3NUtQT1FJdG5PMkdtNGo2LUlnNEJjOWNvRHYtNFphTXBzelRnazNLM3pVYnRaTVVYMUNlakJBZWtuY2VyTXlaYkNJbVRyUUQ5X2xpeEZ3NVRTNnJGU1Vtc3AyZm1wbVRaT1dFeDlqMXQwaEFlNA?oc=5"
-    },
-    {
-      "text": "Saco officials survey public on transportation improvements - WPFO",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1VWWHZzb09XTEY5b0tUQkduRkpLUDBiclpsQXhNMkYzQU1hQ3NuRml5YXlTeDhkZlFJeF9vMjFXTVdNUlRWOHlLQ0hDQnRFVEtEMWN0a0lzdVRiMmIyRWF3RnN3b2Y5WUJZQW1taDV3eVhlU0lTVURQNHdjRzFuWUZ1MGdncEQ5LTVGYlVjZjVVM2tpZkNuM29WWHpuN2M4WG51WFNkOVg3WFpJZ01ldXJweEtrNTlZUzJsN0JVQ2tkbUJINGMtR2RfYXBtSlVEZjFPdDNLRWFIdjRWc0E?oc=5"
-    },
-    {
-      "text": "US firms ‘hesitant’ to hire in uncertain economy: Fed survey - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjNfMTFnSEFHVzdkRzl6bFpLMXgyNUFzaGlwb0s1Qnd4WUdDWXVnVDBEVEN5eXJlSl9qLTdyNWtHbWVSdld0MEUwTXg2WHUtUWFPbnJ4VGdsNDlTaTA5SHJfb1FxMGlwejBpZ25Ldm1NM25rQ3I0UVlKT2YzUHJNY25NNmtCM3hmVUdodW01NXlxM3lMSEthXzV30gGfAUFVX3lxTE9pV1pkV0pUSl9jZmVBOXR6c21DYUo4YWY4RHpxSVhZZkFzdUE3T0dFaWNQODNKdDA2RHNCeXktUGp4VUluSkdsZzhkLUNMQXFrX1pEZW4wN043R1dpcl9FajhoQUdqMmhqYkNfSHJzLS1GWHQ4Vm9hd2dFOGhJME5EOV9GNjBYbVI4NHE4Q2xfSGUwQ0NOY2RpZ19BNEJ3cw?oc=5"
-    },
-    {
-      "text": "Survey work begins on I-49 route between Fort Smith metro and Y City - Talk Business & Politics",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVGaENkUzFYcnFzNlZ4dXpkQXpHcWlWT05LaXliR255OUIzUTRqbV81bGF2ZmZhbEY1bVU0am5aWGp2RVpQTXJGRnhaNjY3b3N2NXRVajZMTHVBSmpYSjYxVGM0dkVRWnZRTTZ6OE1YYlp4OUVjSEJxc2pkbFcxNnZua3ZJVFR2OFR3R0lyUXNVNlktdnhZTjNyRldmY1oxVGhpRQ?oc=5"
-    },
-    {
-      "text": "U.S. workers are becoming more stressed about finances, BofA survey shows - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Q3hGSlZNak5VZnZaOU1ZaG1tSkJWeGNZbnBOVU5yU1Vtc3JMcmpDbURRUmpBTldaOFlHclJ4U0RXUWFKZF9ablM0UWtFeGhpQlVOTnNNTGdKdk11YnZBcA?oc=5"
-    },
-    {
-      "text": "Macy's focus on fresh product lines and improved customer experience begins to show results - The Journal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ0hnQUpyZ2k3RWlGZnU4X3RMVGNKbm9hVEplRWQySFpIUl9hdlZCd1JhVlpPTVFSWlpiLVVfY3NjZVdiX3R4c1NrUmx6emdnYk9VV0l2MUJIYS1iNTNBazBIdFUzb3NwUDcySGh2Y3pzSUI4MlN6ZWxoZ2pwVDBQOFZMQWNFMk5Wai1Hd2hJZjBfcGpPMXc0MGlxcHY3Z3hZYUwxWnQ0cWFoUHR1cjZIbmx0NWlNQkhpZGZfTjlZLTJkekpsVnF1RFBScGxwUHpPLUZsTHhfOXQ3dzVjSzhPZUlnajlBbzU5ZVZYM3NZNE1aTHA3cGNmSDJVdU5HcXRYaEUxZnBjb2VDeF9OUUFRWA?oc=5"
-    },
-    {
-      "text": "How do policy shifts affect CT businesses? Survey offers answers - CT Mirror",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBci00WjJZYjY0ams5cFV4MHY0VVU1MlIzLWF5ZWo2OTIydTVCZ0dqQWQ5TkFua05sdVZiSkNIV1RyYmRTa2JidHZZTnZjN0NraC1JUHQ0RXF4RXlIbE42NXk4WjNHV2ZoUXhha3hSaUYtUQ?oc=5"
     }
   ]
 }
