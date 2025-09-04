@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-04T23:09:05.410Z",
+  "generated_at": "2025-09-04T23:13:25.484Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -138,6 +138,17 @@
       "source": "news.google.com",
       "raw": "TDK Ventures and Kae Capital Unveil Landmark Survey on India’s Deeptech Future: Founders Optimistic Despite Persistent Challenges  The Financial World",
       "summary": "TDK Ventures and Kae Capital Unveil Landmark Survey on India’s Deeptech Future: Founders Optimistic Despite Persistent Challenges The Financial World",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Complete Emporia Gazette survey to enter to win a $50 gift card - Emporia Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXJWQjBqQ09HUVM3LVEtZHJFeEdGSFNMa2QxWGpuWEg4dWFpai05ZTRsN2s4Wk9tUE03LTU0djBzVGExbE9TT3dNaXl3azJlVW1NWkdVdVhxTW1QNWxFbWhIdVZHRGRSbkFJUThPZUFuOENXOFViTTFINTNOMzByRDJpSVEtc1F2aVJRLUlB?oc=5",
+      "isoDate": "2025-09-04T19:39:00.000Z",
+      "source": "news.google.com",
+      "raw": "Complete Emporia Gazette survey to enter to win a $50 gift card  Emporia Gazette",
+      "summary": "Complete Emporia Gazette survey to enter to win a $50 gift card Emporia Gazette",
       "topics": [
         "(Other)"
       ]
@@ -549,17 +560,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Betterment Advisor Solutions Survey Finds Modern Advisors Balancing AI Risks with Tech Transformation & Business Growth - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMzFJblZCcGtyVWxpVnlGRnU4dk40VGczZ0MycVZueWJBV0Q4X2MtSEtjaGVrSFBBakhfM2xkd2dkWjZfMHVNek1QcnFGYlBPZzkxaGFib2JWZ0lIZXVFY29jRDVjMEdFQVNMbHZNcF9rdnFTUlJpLU1DT2F5VGNUTWFtTVRXU1pGdENsMFBTRkxlSjFscGVWVXVuOW9CZDZiX1hzcTQxNHc5amZHUTk1cUJUUzBkQk9DaGhIclJIR21QVVl1Q2dEb2RtZFpaaFNfek45OXYyeGtxQV9nVUJzZ2w5MDVja2xGY2R6dURhaUc4ejZ2R3pySEdwOWRCaDQ1QW1iWg?oc=5",
-      "isoDate": "2025-09-04T13:00:00.000Z",
-      "source": "news.google.com",
-      "raw": "Betterment Advisor Solutions Survey Finds Modern Advisors Balancing AI Risks with Tech Transformation & Business Growth  PR Newswire",
-      "summary": "Betterment Advisor Solutions Survey Finds Modern Advisors Balancing AI Risks with Tech Transformation & Business Growth PR Newswire",
-      "topics": [
-        "AI in MR"
-      ]
     }
   ],
   "funding_ma": [
@@ -607,10 +607,6 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
-    },
-    {
       "label": "#experience",
       "url": "https://x.com/search?q=%23experience"
     },
@@ -621,6 +617,10 @@
     {
       "label": "#minorities",
       "url": "https://x.com/search?q=%23minorities"
+    },
+    {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#august",
@@ -729,6 +729,10 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQUtxU0hYZDZLWmJsbGc5ejlPZjJzYzFEellxcjBxTjJodDBxLWNicGxSMmxjcjJUVDJOek0tU0k5WDdDbEJNbWlsQzRoQmJPMHpGSDVvblRJd1FuekNZRHpfcWliMFJSdlEtTWRyYzcxNERBS1E4WnNiY1dyblNYdzVHMDVmbjVkYy0zTUJ0alM4b1hGVHRzcXU1OWhlQUFHc3JmaEJjN3NWbklPTkg1YUljdFlrMmg0cWx2d1RnRTNPYkpSR0ZqNDJQZW1ramo0aklkdFhYUU5UaGtMaDJTM1kwQl93eEwxYWE5U2pDRWxGb2tr?oc=5"
     },
     {
+      "text": "Complete Emporia Gazette survey to enter to win a $50 gift card - Emporia Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXJWQjBqQ09HUVM3LVEtZHJFeEdGSFNMa2QxWGpuWEg4dWFpai05ZTRsN2s4Wk9tUE03LTU0djBzVGExbE9TT3dNaXl3azJlVW1NWkdVdVhxTW1QNWxFbWhIdVZHRGRSbkFJUThPZUFuOENXOFViTTFINTNOMzByRDJpSVEtc1F2aVJRLUlB?oc=5"
+    },
+    {
       "text": "Why Is AI Now Critical for Call Center Customer Experience? - CustomerThink",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGozWUc3aGowOHVYR05fMXhJUkFmeGZIMm5OS2hwNVpHa3JjM0xGc2NzRXBqOXFLMHFQV2JtRmpPdGpSYmk1V3dYd3k4bVEwdGJLRW9MWWhfWlg4QmRoOTdaSlBuampCb1VCRDNIbXNycERPWmRmc0tZNVhHTndDbXRRMEhEMUV6NFJ5YlFB?oc=5"
     },
@@ -795,10 +799,6 @@
     {
       "text": "UK Firms Shed Jobs At Fastest Rate In Nearly Four Years, Survey Shows - Minutehack",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcU10MTBYMDUwck9wTXc1RE5uOVhZclhWUG1RblF4TXo0RThpQ3pnd2t0c2M0TC03WGZielhDUU03S2YwRGpBVllUMEswNjdNZzlwazJjZEJoclgzUnF1UVQtSDhPbFJpVkVPUm5SeEJUV0xGT0lRYmRfSHYxblFyNGpNTl9hLWJqYUVWRXRNSlFEVklaWmY2NEZEcW0?oc=5"
-    },
-    {
-      "text": "AAR Rules Property Survey & Tax Assessment Services Not Covered as Municipal Functions Under Article 243W Twelfth Schedule [Read Order] - Taxscan",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1BIN1Rhc28wYUZrcWRmRDltWk1MenR6UVNEb2VRQUZzQ29hYUcwbXd3Uy1GXzl0cnkxNHFURHFlR1FVUU5vczhJOTFrcFJMYl8zdU94aU1JeWppSkM4Slp2aTYtWVh1eUlvODlNUjZDY1RoZmV0VE5ndElqLUhzc0lfRS14d0hXclFLZzV5bnAzVWlfU0VUQWd6eXRDVzJwaXBqakVwS0dBQTZxc3kzQkZoS3RaRGdncHpkTUpvVkQwZ3gwbUlfZW5DZUhpb2Q2Mk41VVJXY01nVWd1S2xsQjBiUVJYaTFIampobm9RN3BjQQ?oc=5"
     }
   ]
 }
