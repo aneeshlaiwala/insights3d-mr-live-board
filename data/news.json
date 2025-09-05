@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-05T20:10:00.294Z",
+  "generated_at": "2025-09-05T20:15:56.543Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -342,17 +342,6 @@
       ]
     },
     {
-      "title": "Survey finds Germans can't put their phones down - even on the loo - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUptYlF6U2lIdUk3eWs0ZU1xNmd4RXVPakQzcG9ENGdvaEI5djlzeDRydFRTSE5icVQxTDF4cGc5VlhVYk9GaE1Hd3hpOHZRbUtfU3AycjZyUjk3UWNEYmY0Mlp1TlBLTDdRRTJzMnQ4a0xZLU51UXlfRXNONFcxZFdtSlFKRU0?oc=5",
-      "isoDate": "2025-09-05T11:44:23.000Z",
-      "source": "news.google.com",
-      "raw": "Survey finds Germans can't put their phones down - even on the loo  yahoo.com",
-      "summary": "Survey finds Germans can't put their phones down - even on the loo yahoo.com",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5",
       "isoDate": "2025-09-05T11:44:03.000Z",
@@ -561,6 +550,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "EASA survey reveals cautious optimism over aviation AI ethics - Digital Watch Observatory",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUlFSjJnTXJBSjlZR1k3MUM5Z1pSb3V2Y3BRbW1Ec1pGaTdvdHp1QWtrRDFfLXFSN0JidHJ0ZlNCWnBTSi1aWG9QSkQyaklXenZXbFpRaUhLZV9mYWFXX2xqRDdHTll4c0M2djJWWXFLVlA5dGo1WVhTQmYwQnhOWURTcFpZR0JNSnhWWDNRd2c?oc=5",
+      "isoDate": "2025-09-05T09:05:26.000Z",
+      "source": "news.google.com",
+      "raw": "EASA survey reveals cautious optimism over aviation AI ethics  Digital Watch Observatory",
+      "summary": "EASA survey reveals cautious optimism over aviation AI ethics Digital Watch Observatory",
+      "topics": [
+        "AI in MR"
+      ]
     }
   ],
   "funding_ma": [
@@ -596,6 +596,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "NCR completes survey for new rail bridge; land acquisition set to begin - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUWgwRFBNcHgyd3N2eDduU2FtaFZwdFZvN1pQWllnSjZOVWhxd1FfaUVMWkRsajFvQ3h1b2dwNDNmQ2NpdzR3SzZqbjN2cFBoMnh3SkIwd01QREpxdUlrek1mcWNkbkJyLTNXRmRfRFJ1SlpxUkZsUVpOWU9jWFRTV2Y1dW1WblNUZmZaYWs5VXpIT3M2UVM4UHhXRUtBRmpmVFFvTEx6TVdiU2hvRFZFelZleVZZcWd2cjhNMURzTEpZVFFMT0R6UXlUWU1vdVg4bFBMSnc3empXVE5vOF9GUtIB5gFBVV95cUxOTGdVSWpYOUMxR183Rm93aXNxXzd5UGFMSkNrMFFTb05hRXR6b3R3ejVYTU1iZzlXQk9MQVctbFdnOFRmWVZ0cnZKYzNoZHFBSTlFcFJsb0s0T0JlRWswU1RIQndwRjNQS3pRRFdRd3hEYTZvX3dJZzZMaVJaeFRuWVFpYWczMml1ZkZaT0tLSHJsSTdDZnlEUzc0UHMtNHVBZnp5YzNfWjhla3NNQXRvSUxBNkF1dWFKQ3BLWlJVSXdSNmx4TFMyaE5RWGRSd0V1ZzRJaWF1bFBMNGFTdXowc0NaZUgzZw?oc=5",
+      "isoDate": "2025-09-04T21:03:00.000Z",
+      "source": "news.google.com",
+      "raw": "NCR completes survey for new rail bridge; land acquisition set to begin  The Times of India",
+      "summary": "NCR completes survey for new rail bridge; land acquisition set to begin The Times of India",
+      "topics": [
+        "AI in MR"
+      ]
     }
   ],
   "hashtags": [
@@ -608,16 +619,16 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#driven",
       "url": "https://x.com/search?q=%23driven"
     },
     {
       "label": "#economic",
       "url": "https://x.com/search?q=%23economic"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#district",
@@ -628,12 +639,20 @@
       "url": "https://x.com/search?q=%23more"
     },
     {
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
+    },
+    {
       "label": "#among",
       "url": "https://x.com/search?q=%23among"
     },
     {
       "label": "#areas",
       "url": "https://x.com/search?q=%23areas"
+    },
+    {
+      "label": "#aviation",
+      "url": "https://x.com/search?q=%23aviation"
     },
     {
       "label": "#bidar",
@@ -660,24 +679,16 @@
       "url": "https://x.com/search?q=%23customer"
     },
     {
+      "label": "#easa",
+      "url": "https://x.com/search?q=%23easa"
+    },
+    {
       "label": "#educational",
       "url": "https://x.com/search?q=%23educational"
     },
     {
       "label": "#experience",
       "url": "https://x.com/search?q=%23experience"
-    },
-    {
-      "label": "#first",
-      "url": "https://x.com/search?q=%23first"
-    },
-    {
-      "label": "#flood",
-      "url": "https://x.com/search?q=%23flood"
-    },
-    {
-      "label": "#following",
-      "url": "https://x.com/search?q=%23following"
     }
   ],
   "ticker": [
