@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-05T14:09:24.749Z",
+  "generated_at": "2025-09-05T14:13:57.965Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "All India Kisan Sabha to hold demonstration in Kalaburagi demanding survey of crop loss due to rain - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0VyUjF6SzlaRnZzN1A4aFctelh5dkVmeldoVnJLZUptQW42QmJwcXBvLUQ2bkc0cDJ2RHpkcnF4b1NEczAzdU56V3NyLXlHZjZ2d013XzBhLTNodi1kWG9BZmR3U1NfSHZIV1d4THNKNW8tS3hMZUhGUmtoWEw2TENKRURMdzNsWGpjVjczbHdGNlQwTk10RThlbjRYSVZWRlJ6dGhrUmhKRU1KWGJxb3dEaWJoSGp0WDhtc01VV25tNi1RSVJfT2wwTXJSby1YcG9HUDBzUFA3M2xLWVo3ZzdMamJnem5qcDlEbzIyWmU0VTcyRlVQaVdFSznSAYMCQVVfeXFMTTM2c2ZHenoxbDZNOWZHTDZPTkM4Uy1EUmZNR1BwNGRwc3RORVpiOGVJUm0xNXozZlZQa2hHWUhHTlI1c3JxZlVKd3hXeHRCMXY4Si1WTkNwUVRKQVliSE1DQzZna1pTRlFnRzJqNmx0M0I1Nllicm50ZHFmN1lWQ1hnaXh3SnlRWHFaaFcwZnhUTnBqd3dGdUJLWkZQTDRzdkEzd0pWeEZ2cm51bWdiVFI0Y2pENnVLSnNFRVpxV1JQM3dRQ2U5SVVsWGZJNGlpV29lVHpxaDgzSlNvTXB4N2h2VWlWczZWaW9VU0dfQlpIV1VkNGl3UC1xS0N4LV9ZdWdhUQ?oc=5",
+      "isoDate": "2025-09-05T14:05:00.000Z",
+      "source": "news.google.com",
+      "raw": "All India Kisan Sabha to hold demonstration in Kalaburagi demanding survey of crop loss due to rain  The Hindu",
+      "summary": "All India Kisan Sabha to hold demonstration in Kalaburagi demanding survey of crop loss due to rain The Hindu",
+      "topics": [
+        "AI in MR"
+      ]
+    },
     {
       "title": "Historic resources survey begins in Old Town Bluffton - Bluffton Today",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUdicmtPR1phcXpwbUVsMHFUZUt1UkxmT2E2a2pMT3k4blZrTFRxdUpSQXhlb1dJX3hySDA5ejBJM3YzV0VhQk9xaTlBSDFBM2pYRURYQ2FJdHgzVElmeWZvRTQ1MnRJaUp5X0toZnZyd3RhLVppSWhFMmlhbUVfRndKV1VFWlQ2RUxpWTE3OVR4dUc1Z3BOWU9NLThhb2ZrMjJRWHVhNXRIMGoyYmM3LW5zdXg2YUZ4ZHJaTURSTVFteFhpaHlSTXltNXQ?oc=5",
@@ -548,17 +559,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "UK Firms Cut Jobs at Fastest Pace Since 2021, BOE Survey Shows - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREJlSmRzaGQySlp2MVRia2h2d1hmc1l3OFRhbnA4aGFWbmQ1bGFkVVp3UHJKUXBWWXI5VHBZY3pyY3o1QkFkT2N0X2h4bEttWmVUVVhnTDJxTjFXdXNHU21vcGZMZlRTaUFsR3pnNTE0eUV1SVoxV3lUZHRPLTRyLWJBLXJITTRGMXBvaE5IaldPTkdxR3RIbXM0bVpUT2hpS1BFMUNvSnZzUGQ5eGZXZDBn?oc=5",
-      "isoDate": "2025-09-04T09:21:47.000Z",
-      "source": "news.google.com",
-      "raw": "UK Firms Cut Jobs at Fastest Pace Since 2021, BOE Survey Shows  Bloomberg.com",
-      "summary": "UK Firms Cut Jobs at Fastest Pace Since 2021, BOE Survey Shows Bloomberg.com",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -626,6 +626,10 @@
       "url": "https://x.com/search?q=%23gold"
     },
     {
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
+    },
+    {
       "label": "#aviation",
       "url": "https://x.com/search?q=%23aviation"
     },
@@ -658,10 +662,6 @@
       "url": "https://x.com/search?q=%23economic"
     },
     {
-      "label": "#firms",
-      "url": "https://x.com/search?q=%23firms"
-    },
-    {
       "label": "#first",
       "url": "https://x.com/search?q=%23first"
     },
@@ -674,11 +674,15 @@
       "url": "https://x.com/search?q=%23germans"
     },
     {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
+      "label": "#indian",
+      "url": "https://x.com/search?q=%23indian"
     }
   ],
   "ticker": [
+    {
+      "text": "All India Kisan Sabha to hold demonstration in Kalaburagi demanding survey of crop loss due to rain - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0VyUjF6SzlaRnZzN1A4aFctelh5dkVmeldoVnJLZUptQW42QmJwcXBvLUQ2bkc0cDJ2RHpkcnF4b1NEczAzdU56V3NyLXlHZjZ2d013XzBhLTNodi1kWG9BZmR3U1NfSHZIV1d4THNKNW8tS3hMZUhGUmtoWEw2TENKRURMdzNsWGpjVjczbHdGNlQwTk10RThlbjRYSVZWRlJ6dGhrUmhKRU1KWGJxb3dEaWJoSGp0WDhtc01VV25tNi1RSVJfT2wwTXJSby1YcG9HUDBzUFA3M2xLWVo3ZzdMamJnem5qcDlEbzIyWmU0VTcyRlVQaVdFSznSAYMCQVVfeXFMTTM2c2ZHenoxbDZNOWZHTDZPTkM4Uy1EUmZNR1BwNGRwc3RORVpiOGVJUm0xNXozZlZQa2hHWUhHTlI1c3JxZlVKd3hXeHRCMXY4Si1WTkNwUVRKQVliSE1DQzZna1pTRlFnRzJqNmx0M0I1Nllicm50ZHFmN1lWQ1hnaXh3SnlRWHFaaFcwZnhUTnBqd3dGdUJLWkZQTDRzdkEzd0pWeEZ2cm51bWdiVFI0Y2pENnVLSnNFRVpxV1JQM3dRQ2U5SVVsWGZJNGlpV29lVHpxaDgzSlNvTXB4N2h2VWlWczZWaW9VU0dfQlpIV1VkNGl3UC1xS0N4LV9ZdWdhUQ?oc=5"
+    },
     {
       "text": "Historic resources survey begins in Old Town Bluffton - Bluffton Today",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUdicmtPR1phcXpwbUVsMHFUZUt1UkxmT2E2a2pMT3k4blZrTFRxdUpSQXhlb1dJX3hySDA5ejBJM3YzV0VhQk9xaTlBSDFBM2pYRURYQ2FJdHgzVElmeWZvRTQ1MnRJaUp5X0toZnZyd3RhLVppSWhFMmlhbUVfRndKV1VFWlQ2RUxpWTE3OVR4dUc1Z3BOWU9NLThhb2ZrMjJRWHVhNXRIMGoyYmM3LW5zdXg2YUZ4ZHJaTURSTVFteFhpaHlSTXltNXQ?oc=5"
@@ -794,10 +798,6 @@
     {
       "text": "‘We’re terrified’: University faculty in the South describe culture of fear on campus in new survey - Louisiana Illuminator",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TWZqUDNGN1JzZVRFa1NJYVJmcWFIQlo5cWlTZWlzUFZPNFZNZEVaN3FKeUxvUkpnOXBiekdQclZsZlNoM05CSU00UGhxR0R6VW11c3dYWnp5LTZUZk1tc19OUXZFUm40eEVLeXlB?oc=5"
-    },
-    {
-      "text": "Abuse rises from Punjab to UP cities: Survey shows Kanpur tops followed by Varanasi as abusive words becomi... - Bhaskar English",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTUcydUhkaXBjMVlwaXM1TXV5NjFDZVlkM1hxa1MwS3VKOW1CM3dtYzIydk9YNnZuWEQyUUdSZEVmSGRkR1lWQ0ZWcmNMb0J1bWNwa1ZyWnl0dG4zY3d1a093LTFLc29vY3hQR2lLaWY3d3l1YlZNTUJERzl1dHBKWjBreDdsX0daa2Jjb2k0NklPNmRfSkZYQjZnRlNoaU9yREEySlBzcnE3S25vSXJZWjh4dnAyMVA0OWlRYkd5UjJUUW8yWTBKd3JrRXJEUk1MN1pyN0pNOGw5aDNSNGR5TEMySEN1SDZIRloyMlRzeWhHSzNNemZocjZqckx0LS1BZUNha0RkdTRZX2hhUHcwamVMbWXSAZoCQVVfeXFMUEM4N1ZNTUw4SEl4aERLQ1RhdEh5Z2FES2FxVVJPN1JjSURLRFVGdVROd2FPNzVZWWJIMDJmU2ViakhRTTZnRDFSdUVLUERiMlRCejBpc3c0ZTZPVFVSZjZOczNfQzdGMDhENXQ4dnBvOUlScWhxYnNRTGRHQ2htekl1enRROTBKWnFYbmQ4U0pXbnFldGxzU3JfMFA3Q3hOZWtFQ1lpRWk0NXFtTXV3RmZ0QzhNZUNjME4zTTA4MkR2cjZVLTBUOUpTMVFydmdtdGg4ZnZsS0hERlp4RGg1UE1pTDNCRlRXLWtnaVktWDJYVHF4UEIwM09xRVJ1aWtFZi1HclBDR1ZlaXowejBvQkJUeHRwU1VaMjRn?oc=5"
     }
   ]
 }
