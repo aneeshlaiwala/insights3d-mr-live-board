@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-05T04:11:48.568Z",
+  "generated_at": "2025-09-05T04:17:41.103Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -441,17 +441,6 @@
       ]
     },
     {
-      "title": "OPEC oil output rises by 360,000 bpd in August, survey finds - MarketScreener",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2VuNXBfMkNmRlNoYUhkMTVCamdUalB6OWpkQW9Gcks4NlAtOTBHZnpLdWdsYlJYbkZsVmw1eDZsTWNjX281ODY0cDNGTVZSajlsaGdxSlNVVGxYMVJkS2RpSkN2eGVOd0hoRGhxUTRSaklYcU9ONVVNbWZrSzAyekMwd3MxVmQxcW8zQ3pfV2dnb2l2Wm9Vc3FYamk4RVZnQXNkN0pkSVJZWWk5R2h2eF9R?oc=5",
-      "isoDate": "2025-09-04T16:08:43.000Z",
-      "source": "news.google.com",
-      "raw": "OPEC oil output rises by 360,000 bpd in August, survey finds  MarketScreener",
-      "summary": "OPEC oil output rises by 360,000 bpd in August, survey finds MarketScreener",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Most Workers Say AI Managers Would Be Better in Key Ways: Survey - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNGNOVGdpWHhZN1hCeGNuTncyRUF3Mno2NGNTRjRVUHZGaXk3TWNRWlZnN3ZDTFJBMG52MS1tRkFHSFZmY0NxRElwSEV1M2NfQTdvOHhvdE1Rajc5YkFjVFA5RTU4WXpJVVZpWXdMOG8wcnVIUHVYRTZSQ2M0YU9OanRqdw?oc=5",
       "isoDate": "2025-09-04T16:01:20.000Z",
@@ -560,6 +549,17 @@
       "topics": [
         "(Other)"
       ]
+    },
+    {
+      "title": "Survey shows educators feeling pinch from rising health care cost and legislative delays - Michigan Education Association",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUVBcndvWmVXeWRQSTZKN2Vxc1dTWV9yV1VvYkVEQnhXSjc3U3FMZ05YVWpXTGRxOFc4Umxnb3Q1cjloVVQxZ3VfU3o4UUpFSmV5NFJvMXRZdFFGUEU0V2JEbk01RUt3NlQwTmcyaWV5MDgwWTBlSl9ST3Y5Q0I2dWVfbDJMak5nNFJiaG0zTDVHTDBURElhUjVaT21SUjk3MG1NOEpCQ04?oc=5",
+      "isoDate": "2025-09-04T14:57:27.000Z",
+      "source": "news.google.com",
+      "raw": "Survey shows educators feeling pinch from rising health care cost and legislative delays  Michigan Education Association",
+      "summary": "Survey shows educators feeling pinch from rising health care cost and legislative delays Michigan Education Association",
+      "topics": [
+        "(Other)"
+      ]
     }
   ],
   "funding_ma": [
@@ -607,6 +607,10 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
+    },
+    {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
     },
@@ -615,20 +619,12 @@
       "url": "https://x.com/search?q=%23experience"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
-    },
-    {
       "label": "#karnataka",
       "url": "https://x.com/search?q=%23karnataka"
     },
     {
       "label": "#minorities",
       "url": "https://x.com/search?q=%23minorities"
-    },
-    {
-      "label": "#august",
-      "url": "https://x.com/search?q=%23august"
     },
     {
       "label": "#customer",
@@ -643,20 +639,8 @@
       "url": "https://x.com/search?q=%23gender"
     },
     {
-      "label": "#opec",
-      "url": "https://x.com/search?q=%23opec"
-    },
-    {
-      "label": "#output",
-      "url": "https://x.com/search?q=%23output"
-    },
-    {
       "label": "#pressure",
       "url": "https://x.com/search?q=%23pressure"
-    },
-    {
-      "label": "#rises",
-      "url": "https://x.com/search?q=%23rises"
     },
     {
       "label": "#work",
@@ -667,6 +651,10 @@
       "url": "https://x.com/search?q=%23assessment"
     },
     {
+      "label": "#august",
+      "url": "https://x.com/search?q=%23august"
+    },
+    {
       "label": "#blood",
       "url": "https://x.com/search?q=%23blood"
     },
@@ -675,8 +663,20 @@
       "url": "https://x.com/search?q=%23business"
     },
     {
+      "label": "#care",
+      "url": "https://x.com/search?q=%23care"
+    },
+    {
       "label": "#challenges",
       "url": "https://x.com/search?q=%23challenges"
+    },
+    {
+      "label": "#consumers",
+      "url": "https://x.com/search?q=%23consumers"
+    },
+    {
+      "label": "#costs",
+      "url": "https://x.com/search?q=%23costs"
     }
   ],
   "ticker": [
