@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-05T17:12:49.814Z",
+  "generated_at": "2025-09-05T18:13:16.569Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -11,12 +11,89 @@
   ],
   "top_news": [
     {
-      "title": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey - The Wire India",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbldJZF9GWm5nWlktamd0VkdvOHRIRGlQXzNRNXhueXBFWVhpSU56NW9ReklXTEZibXMyYldYbkdoUjhUQkg0U1M0c0g5U0dueElpV1J4cWNZRVJTV0JIWEtMczNYUVR5amU3alBmYmkzbms4RlRSci1CUDdqLUN3eENFQXpmdEVCaTFEUU9hTW9QWGh3aFRGU3owVzNTclhqaDdxYmxxZlpHN3By0gGyAUFVX3lxTE9Jdmc4aG1OOUVfTFhfalp0ZGdJTzRXbXF6UnNGQkdGSHQxMU8tN01SMnZod0JnanFqOXU5al9OQVJYZU9WOVpUaFhwbVJKeFJVM1pHbFE5TktWakNmUGc1dHZGZ3lPNUMxSkIxS3RHZzU2VzlFZ2FIQjFadC1QZnotTXFVcXBlTWdndWotWVBUX3FSYVNwVmd1TGozUVpiMzdUTHNLT09MTHI1dE9BUnQ0QXc?oc=5",
-      "isoDate": "2025-09-05T16:10:39.000Z",
+      "title": "Starfish early indicators progress survey open from Sept. 8-17 - Penn State University",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkYxakFxUzlwZGI0ZFRyUGE3SjNHbkNaOEQ2OWsyOWg5cTN2QWVDZTJsczhUWl95VHNON1B5WWlSVXVuRkpnVzhSaXFzY3lvQ0hjbmRJTVdER29Va2JSWWxVbnp1OEZKamlMamhUVXJHTHlDZTJSR052Q0UxX0pZb3k5ZHdzNTZzRE53MExYLVN0ZXg5dmdjUWs0MzBUYmNzM1FTZFE2M3M?oc=5",
+      "isoDate": "2025-09-05T18:05:13.000Z",
       "source": "news.google.com",
-      "raw": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey  The Wire India",
-      "summary": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey The Wire India",
+      "raw": "Starfish early indicators progress survey open from Sept. 8-17  Penn State University",
+      "summary": "Starfish early indicators progress survey open from Sept. 8-17 Penn State University",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Caste census: Panel preps up with 60 questions to be posed to 7 crore people - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSFlqbHdZb3hNVjJTU1FpdjFfUUFCeGVCZkdnQi1ZRWtpUk9zNndSMm14WmtsYWgzYVVobHhEblNyMzVJcGR4YlZ6U3p3S3BkNlNDODNpLUkySGc0U0RNdlNjakFmelczYzJINGZPWHNwcUZGdmJWWW5OMXNFdlZ2V000NHEtZkhtYWVkZjFtbEF2WWJnT2RxR3hQSFVFWDBCZzRydF91djRmWlBTaEhfSGNxaXNvZ2dqYU1pY0MyYU9JZGZfZlR5UDdLMVc1LVprM2pRUEFTZTNTYXdj0gHjAUFVX3lxTE9OVmFmRTRqT2lwTEg4UVlaa1pCZlRCVGIxZzBuOTFOeG5SX05ZVGU4Z3czUTlXeDFaN0ZwR3ZJMnYtbzBuNTlnbDJXeVVwSmRNTGE4UW03ZTlMaUFWZU5GdEE1RzlkdjZhSjQ2UklnRjMzeTlndnNabVBqaDR2dWdWc0thcDlhZzFzRDE0YUtsUXhLQXhyZzdrbDNsZGZCbEhEVjREbHNVcTV1Q3BWaWp3ZHkzVlc0aXViVDR5YVdOQ01jMUxzLUZfUlVZWkp1SWtXTnZlT2Y1Q0dJalRQRzZ4bVBZ?oc=5",
+      "isoDate": "2025-09-05T18:03:00.000Z",
+      "source": "news.google.com",
+      "raw": "Caste census: Panel preps up with 60 questions to be posed to 7 crore people  The Hindu",
+      "summary": "Caste census: Panel preps up with 60 questions to be posed to 7 crore people The Hindu",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Udupi gears up for social & economic survey - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0J6b2hTVGlRNXVDQzRaRTRxQUc4NEx5T1FhRkwzZHVuN2VNTHVFXzVaaU1teTVSSWhVUTJ0ZE5HUGE4TGM4V1lVVHIzMlJSOU5xcXI4U2M1Z3lFYjEyUXpyYWRjM2pFc1JMZzJzOW9sc25OQ2tpMWZzNkJ0NVVLQk5MRFZXeDdBZTZZR0xybnU2Y3JwbDRaaHN1dHBNbmJuX25FYXZvbVJnbTBoWUZ6SmJpV1BnVXhzYVHSAb8BQVVfeXFMT2U1UGlYWUF4MkNBNGhFNXhKdlFOR3Y0S3BUeFNFNDhuT052cjRVdTdUd2JJckotTmFUYncxeWtZbC12aTZYZnhqbHMybXB3UWtBWEx1TmQybUJ6SDlsa3djc3lQUExNMzkxb3Y3OF92YVpCdDdiNjgwMjQ2Q2p3M2xlRXBXbFNjM0wzT0lZbmVTb09ZcHNnU1hBYU1VVEluMGppQXYwdW91bnhta2thU2ZHMTZac1I4Z05VYi1mUFU?oc=5",
+      "isoDate": "2025-09-05T17:50:00.000Z",
+      "source": "news.google.com",
+      "raw": "Udupi gears up for social & economic survey  The Times of India",
+      "summary": "Udupi gears up for social & economic survey The Times of India",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Survey: Bellevue, Other Eastside Cities Rank Among Towns Most Frugal with Cars - 425magazine.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLUFLdExIMFRoQ2VqYV9EZnZNdHdvTm5hdkZiWm1JMVFkUlNpRHR3Y28zX0pIUTZHWmFCeVh1Vkd5SnU1UjhpNnI5LVdtQmtLLU45b0RQZUJVYS1CejR5bFhhNXYwMTEwRW1HM2xTNlkwenRhc0dHWXRrUVlNbHBkN2JVYlZNSjJFeFl6NmxDMkwtMHJ1c1hac2VKS0c1dlpfSWJyczB0dHB3elZaLUJRV1hvYnY3dDV1V2NXemN3TDU5VjA3THptSVhWSDRBcU80Wmt5X3V3NkplQ3pHNUY3MmF3?oc=5",
+      "isoDate": "2025-09-05T17:42:00.000Z",
+      "source": "news.google.com",
+      "raw": "Survey: Bellevue, Other Eastside Cities Rank Among Towns Most Frugal with Cars  425magazine.com",
+      "summary": "Survey: Bellevue, Other Eastside Cities Rank Among Towns Most Frugal with Cars 425magazine.com",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Bidar to conduct district-wide socio-educational and economic survey from September 22 - Vartha Bharati",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1Uyc2MzaHBuRTRxdEgxM290UzdsQW1mQWJhZVRxV2d6LWc5cGxOTmg5R29ZRTFTb1F4ejRoSW9PV1hScmU4ZnpfZFVPcmFQTnU5ZXJVWjlBWjQwdnRlbHN1a05zcC1wb3VlVkh0QjczTkZzVEt4aWlHaEZuUG54dFNfcGVMeFR5LThLVWVnR1pra2dJaVBYOW1ka1d0WUpVaFNKZVBvRkU4SjU5bXp4WWFGcU1sLWM5Rmc0VkZuOXRES05HSHdLSg?oc=5",
+      "isoDate": "2025-09-05T17:39:00.000Z",
+      "source": "news.google.com",
+      "raw": "Bidar to conduct district-wide socio-educational and economic survey from September 22  Vartha Bharati",
+      "summary": "Bidar to conduct district-wide socio-educational and economic survey from September 22 Vartha Bharati",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Manual Quoting, Sales Processes Costing Revenue, Survey Finds - AdvancedManufacturing.org",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMkRwbllPZlpwSk94eWZ1MXJ2N2UtSXhGdWRhMnJNTEJybEUxZXptejJoYXVwclNqVkh6UDhKajB5N1Q4OE5lcG9iNDZmMFVPS19vZFNwclF6Unp0TkJYbVFWLTZ0eFZnVzNGWHFWdzdhaGY5QkMxcEcxUXZOUlhXbjZKb3VSMHF6aGdyM1Fuc0dMUkZrM0ZHdjVZOWVfdzZwZXNueXduRWtzZHQ5dTdoNTFtVmxqSEpTOWZhbXNDaWtqOVVJbFN3SmFYcGlpVVRvYl82ZDVvRnptYUdSaE8xemkzY1QtR2VQa2s5Vnh2QzRWMDVRTHVnUVFmY3NGbGFQWmc?oc=5",
+      "isoDate": "2025-09-05T17:33:00.000Z",
+      "source": "news.google.com",
+      "raw": "Manual Quoting, Sales Processes Costing Revenue, Survey Finds  AdvancedManufacturing.org",
+      "summary": "Manual Quoting, Sales Processes Costing Revenue, Survey Finds AdvancedManufacturing.org",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "We Want to Hear from You: Take Our Survey - Village Preservation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXhJYzQxV0dPNmJ3dHltcWNhSWRGZTA2dnk1M2NtUmNYN2tESEhEREF3cERGN2k1ZmFUcWZSZkF3TXZGMGtHb1BuR09UVk5NQzc0ajNtZEZlNmg0TnVVcXYxcXFmbFA3Vk1UWnVoZFR6WjBiS1BySE9nc0xUbktJSm92TGZSUE01UWw4TUR1Z0hWZTZ4Y0NWWQ?oc=5",
+      "isoDate": "2025-09-05T17:13:05.000Z",
+      "source": "news.google.com",
+      "raw": "We Want to Hear from You: Take Our Survey  Village Preservation",
+      "summary": "We Want to Hear from You: Take Our Survey Village Preservation",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Punjab launches province-wide satellite survey of flood damage ahead of compensation - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSzdfYUZUd0Y3aUNxdGRGUmhFUEs5QWR1a2xRaXJQUGIxWFVoTC1aYzV6OHpON3RKRngxV29KQXFMSzNuS095MXUyTHQwdXhpRk93aWU2ZkNVdw?oc=5",
+      "isoDate": "2025-09-05T16:43:58.000Z",
+      "source": "news.google.com",
+      "raw": "Punjab launches province-wide satellite survey of flood damage ahead of compensation  Arab News",
+      "summary": "Punjab launches province-wide satellite survey of flood damage ahead of compensation Arab News",
       "topics": [
         "(Other)"
       ]
@@ -28,6 +105,17 @@
       "source": "news.google.com",
       "raw": "Diger villagers protest road survey, demand cabinet-approved alignment of ADRHARDP project  Syllad",
       "summary": "Diger villagers protest road survey, demand cabinet-approved alignment of ADRHARDP project Syllad",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey - The Wire India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbldJZF9GWm5nWlktamd0VkdvOHRIRGlQXzNRNXhueXBFWVhpSU56NW9ReklXTEZibXMyYldYbkdoUjhUQkg0U1M0c0g5U0dueElpV1J4cWNZRVJTV0JIWEtMczNYUVR5amU3alBmYmkzbms4RlRSci1CUDdqLUN3eENFQXpmdEVCaTFEUU9hTW9QWGh3aFRGU3owVzNTclhqaDdxYmxxZlpHN3By0gGyAUFVX3lxTE9Jdmc4aG1OOUVfTFhfalp0ZGdJTzRXbXF6UnNGQkdGSHQxMU8tN01SMnZod0JnanFqOXU5al9OQVJYZU9WOVpUaFhwbVJKeFJVM1pHbFE5TktWakNmUGc1dHZGZ3lPNUMxSkIxS3RHZzU2VzlFZ2FIQjFadC1QZnotTXFVcXBlTWdndWotWVBUX3FSYVNwVmd1TGozUVpiMzdUTHNLT09MTHI1dE9BUnQ0QXc?oc=5",
+      "isoDate": "2025-09-05T16:06:37.000Z",
+      "source": "news.google.com",
+      "raw": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey  The Wire India",
+      "summary": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey The Wire India",
       "topics": [
         "(Other)"
       ]
@@ -121,17 +209,6 @@
       ]
     },
     {
-      "title": "Survey finds ‘digital addiction’ soaring among Baby Boomers - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmY1cElteTRDRXR3WDVxRXpoTHdDR2R1YS1QaVNfWjdyLTNscTlEZmd6NkNDY2xmU0FnVGdrOU1EZEw3VGZDLXE0anBuQWVlV1RFNzJqajR2MFgtTXBtbHpoQTJBWXNxRENtcjlXVGItcGVpVmVZZTJLZXRfN21vRXZ2SXNWaTTSAYwBQVVfeXFMUDVnaEJyQ3llajJUWURURjM2dW9fckduXzBJREdkU3pCLU5XYjdLcmcwbmRQbWVBU1hBNG9RRHg0RTNDY0VxU05tTDdHNUtRVVBtOFVpRDBxdHFNSENOMmRfMDBjVzdFVy1rSENveWhTeU5nS1JndXcyTzZWd0JtRWFJN2p5YlJzTGliamY?oc=5",
-      "isoDate": "2025-09-05T14:00:00.000Z",
-      "source": "news.google.com",
-      "raw": "Survey finds ‘digital addiction’ soaring among Baby Boomers  KTLA",
-      "summary": "Survey finds ‘digital addiction’ soaring among Baby Boomers KTLA",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Chance sighting during tiger survey leads to first-of-their-kind photos in India of the smooth-coated otter - Phys.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WQ0l5NFhtSDh6amhJWGtaNUhFeDRYZ0JTVkMzaXBVS2d1X2drdjdONWlJVWtacXI4Vm1qa1lDUTJxSTJpU0w2dllzclUzdlA1Zy1FNVBFMUdBSm9YaDVFeWdVOGkyQnkxTVFpRnZPYzZwc0x6bEcw?oc=5",
       "isoDate": "2025-09-05T13:56:45.000Z",
@@ -187,6 +264,17 @@
       ]
     },
     {
+      "title": "Last chance for pharmacy owners to inform CPCF negotiations via survey - thepharmacist.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzYwLWxtTUxmdUFlX1hqQ3NrVHV2eFVCcGVGLUtmSGJGNWZlNVRaYWcyS0JLczY2YUQ1VXg4QnhfRDB3eHhZbEN4UUljOTBCRTA5S0k0djFrREdHYTN2bjU1TmtoOGJVeWxrRG8tMDdxTGt4bGxqNEVEaG44SjZycjRQQmhqYTQ1RGkwV1AwTzh4U1BsWVZZSUxlU1Zqa3NvWl9fSmp1dWQxMXBaQTJxd0tKMA?oc=5",
+      "isoDate": "2025-09-05T12:33:45.000Z",
+      "source": "news.google.com",
+      "raw": "Last chance for pharmacy owners to inform CPCF negotiations via survey  thepharmacist.co.uk",
+      "summary": "Last chance for pharmacy owners to inform CPCF negotiations via survey thepharmacist.co.uk",
+      "topics": [
+        "Healthcare"
+      ]
+    },
+    {
       "title": "IXOPAY Strengthens Customer Experience Leadership with Appointment of Angie Okelberry and Benjamin Canova - FF News | Fintech Finance",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1ZkQlh6SzlxNkhBVndVR1p4ckpUM1ZEUDZWS293UC1NZGxfN3hrbVRTR2UxYTMxS2xhVWFHdW9ueG5ERmlTQW15UEVGOXZNNlZnOVBfR1NnNzM0MlRYUnBURFhoRFFlcmFLZkphUGI0QmxldnJFVlNCXzByMy1kcm9MX1R4a09qUHJkNmFaNGFxU2V5NW5KelJXbEJwYzJOa2daYXhhbnhQaVl3SDJNNVJuMmkwZkZWQU13REkwZ0QzZWVmUUdTOTNuVTJDYk8zcDZXc3B0cWpsU04w?oc=5",
       "isoDate": "2025-09-05T12:22:03.000Z",
@@ -198,14 +286,25 @@
       ]
     },
     {
-      "title": "Last chance for pharmacy owners to inform CPCF negotiations via survey - thepharmacist.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzYwLWxtTUxmdUFlX1hqQ3NrVHV2eFVCcGVGLUtmSGJGNWZlNVRaYWcyS0JLczY2YUQ1VXg4QnhfRDB3eHhZbEN4UUljOTBCRTA5S0k0djFrREdHYTN2bjU1TmtoOGJVeWxrRG8tMDdxTGt4bGxqNEVEaG44SjZycjRQQmhqYTQ1RGkwV1AwTzh4U1BsWVZZSUxlU1Zqa3NvWl9fSmp1dWQxMXBaQTJxd0tKMA?oc=5",
-      "isoDate": "2025-09-05T12:12:38.000Z",
+      "title": "Complete the Quarterly Economic Indicator Survey - Renfrewshire Chamber of Commerce",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXYycnNqbURkRnRwZ001Y0RZYWZ4dXZzLVVGN2s4dHZNd2ROTW1na1VIQkFNYVFjQThfbEd5a2hidUVSVGpWTG4tUWtvRjgwUW9LTHlaSVpEemxBMXBUaE0tcEoxdUR6czNkSVc1U0VuZmE1RF8tREJZRGh5UTJQOUtDV0ZtRmNIYzZGNEZ3?oc=5",
+      "isoDate": "2025-09-05T12:11:03.000Z",
       "source": "news.google.com",
-      "raw": "Last chance for pharmacy owners to inform CPCF negotiations via survey  thepharmacist.co.uk",
-      "summary": "Last chance for pharmacy owners to inform CPCF negotiations via survey thepharmacist.co.uk",
+      "raw": "Complete the Quarterly Economic Indicator Survey  Renfrewshire Chamber of Commerce",
+      "summary": "Complete the Quarterly Economic Indicator Survey Renfrewshire Chamber of Commerce",
       "topics": [
-        "Healthcare"
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5",
+      "isoDate": "2025-09-05T12:05:57.000Z",
+      "source": "news.google.com",
+      "raw": "Survey reveals a close battle for best Pixel 10 Pro alternative  Android Authority",
+      "summary": "Survey reveals a close battle for best Pixel 10 Pro alternative Android Authority",
+      "topics": [
+        "(Other)"
       ]
     },
     {
@@ -215,28 +314,6 @@
       "source": "news.google.com",
       "raw": "Survey shows top employers target Exeter graduates  University of Exeter",
       "summary": "Survey shows top employers target Exeter graduates University of Exeter",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Complete the Quarterly Economic Indicator Survey - Renfrewshire Chamber of Commerce",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXYycnNqbURkRnRwZ001Y0RZYWZ4dXZzLVVGN2s4dHZNd2ROTW1na1VIQkFNYVFjQThfbEd5a2hidUVSVGpWTG4tUWtvRjgwUW9LTHlaSVpEemxBMXBUaE0tcEoxdUR6czNkSVc1U0VuZmE1RF8tREJZRGh5UTJQOUtDV0ZtRmNIYzZGNEZ3?oc=5",
-      "isoDate": "2025-09-05T12:00:55.000Z",
-      "source": "news.google.com",
-      "raw": "Complete the Quarterly Economic Indicator Survey  Renfrewshire Chamber of Commerce",
-      "summary": "Complete the Quarterly Economic Indicator Survey Renfrewshire Chamber of Commerce",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "64% of People Still Don't Want a Foldable Smartphone, CNET Survey Finds - CNET",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFh2Zmk0enE1WEFGdzN4TVFYWGVQWHZRNHNjald6QXk3dHRYLV8zMnFJc1BxYXI3Y1VFODlsSmZabm12M0RaMkQzb1UwS0doSzhGZEhXN3E0cWlUVjRqbmtTM2J4N0s4ZzFZS013Y3BkYXo5WF94WGxwbkdYRXNkRU1rZ2ltbTZFbXhHak5FN1BsX0lFQlRhVVVWQUM5QmJpc1dYWg?oc=5",
-      "isoDate": "2025-09-05T12:00:00.000Z",
-      "source": "news.google.com",
-      "raw": "64% of People Still Don't Want a Foldable Smartphone, CNET Survey Finds  CNET",
-      "summary": "64% of People Still Don't Want a Foldable Smartphone, CNET Survey Finds CNET",
       "topics": [
         "(Other)"
       ]
@@ -275,17 +352,6 @@
       ]
     },
     {
-      "title": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5",
-      "isoDate": "2025-09-05T11:43:10.000Z",
-      "source": "news.google.com",
-      "raw": "Survey reveals a close battle for best Pixel 10 Pro alternative  Android Authority",
-      "summary": "Survey reveals a close battle for best Pixel 10 Pro alternative Android Authority",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Indian CFOs Harness AI, Sustainable Finance and Capital Optimisation to Accelerate Growth: DBS Global Survey - The Wire India",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXzk1VmdQNkZMaDczeFFjcmd0dXo2Z0RSSU1WSDRVMGd1VHYwekZPaTRPSUp4WDY5UF9CYmRXa0hkZjRsTTQ2dndqSWZtUDFkVWhldEdBUkVncWRYd2M4U0VvNDU2ejBrMy0zTXpNOWprLVN4cGpCbzNQUkFKcUcwOUtSWTRSNkt1QjBia21acUpkX1pGd0ZOMjdaNTFmdGF2Si1CYUpRdVJYZzc0c1VZdEhmSHZSbU9VbFhHLVZ3bmVSS1h4OGNUT1VHMTFrNUpTc21nckN3YllIbC00dGfSAeMBQVVfeXFMTjdyYTJmYnRDb3c3Z2hac2ppbTdrSmx4ZmZRYkk4QTA5MWZQN1Jpdk9MbnN0QzFqZHVBRVVmUGltS2Y1TFBvWk1wczF0MklwZll1Y2w2aEhyV1YtOTBGWTlNMGYyRDRsRnRhYXVrOXlkUTBucGt6b2hVRkJMelR2ZHlBdDFmaDRyTG1seHJuV3hPNXBocU4ybHdiX250VjhiWlJsVzdhZDhoVmlfdDlIUWpnUjlxYmtCT1VRS0YxS2hSc01WOUVpVU5EXy1pRjV6RDJYd0hUZTY4VXFianAzM0VPOUE?oc=5",
       "isoDate": "2025-09-05T11:42:09.000Z",
@@ -316,17 +382,6 @@
       "summary": "AI-Driven Consumer Insights: How NIQ’s GfKnewron® Consumer Platform Is Revolutionizing Retail and Brand Strategy AInvest",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "#### Hettich Relaunches its Hyderabad Experience Centre for An Immersive Customer Experience - Pressnote.in",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OTUtuTUtvWDNLVG5fX2tYX2w0bXN6bEN6bnRMeUhVanZDREdNTEtqVWpPSVhvdVNoTHRpTEdHS0tpSG5zVmlvYUtrbGx0UG9OLS05dWdPZFRlejg0Zjl1TGVGQQ?oc=5",
-      "isoDate": "2025-09-05T11:08:21.000Z",
-      "source": "news.google.com",
-      "raw": "#### Hettich Relaunches its Hyderabad Experience Centre for An Immersive Customer Experience  Pressnote.in",
-      "summary": "#### Hettich Relaunches its Hyderabad Experience Centre for An Immersive Customer Experience Pressnote.in",
-      "topics": [
-        "CX"
       ]
     },
     {
@@ -485,12 +540,12 @@
       ]
     },
     {
-      "title": "Deadline pushed back for WRAP’s Simpler Recycling survey - letsrecycle.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOEhsaDdpVGVXazE5LTBucmNHSGlBa1FlU3NTVW9wS0MwU3YxWVlnOW9RbzlzMTZUa0ZLclQ2SU1Va0Y1UjMxSGxwSkNlZjd2V29BSjQ2cVBXYjQ5UURIVGI2UXJvZVFVMDIwdlBQbEt5OUxDWUYwSUh1bHhjOTUxM2U4dEY4QWNmaUhyYkdVWXU1cjg?oc=5",
-      "isoDate": "2025-09-05T09:09:15.000Z",
+      "title": "BEACON Releases Latest Eastern Shore Business Sentiment Survey Results - Salisbury University",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXphX3FOY1dzQ3d4YmRHek9icUxhQTY4V1FHMExMNDhZcVpOTE9GWkpDal9VR1dZV3liR3RZQXJCZlNUWHBtZEI0Z3NmZXRvUUVIN0xLcXV4TVN6M2JjZHBUbEg3NkxrUkRRcmpUWlZmaVNqVjlhaENBMFl4OHZsU05zYnJ6OTJsOXhaT0ZlSFUzZ2RDY0VNcmptVjNmLUFlLVlfb2hXaDh2UDFjVVNDc3NCMFR0clE3c0E?oc=5",
+      "isoDate": "2025-09-05T09:13:42.000Z",
       "source": "news.google.com",
-      "raw": "Deadline pushed back for WRAP’s Simpler Recycling survey  letsrecycle.com",
-      "summary": "Deadline pushed back for WRAP’s Simpler Recycling survey letsrecycle.com",
+      "raw": "BEACON Releases Latest Eastern Shore Business Sentiment Survey Results  Salisbury University",
+      "summary": "BEACON Releases Latest Eastern Shore Business Sentiment Survey Results Salisbury University",
       "topics": [
         "(Other)"
       ]
@@ -504,61 +559,6 @@
       "summary": "EASA survey reveals cautious optimism over aviation AI ethics Digital Watch Observatory",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Survey finds that efficiency measures compromise safety - Safety4Sea",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYnVTMW9HS3BFcEk0WXBZNDBPbk5oN2hCTmQ4c2tiUHNjZ3Qyc1hhNTRwWEtxVGRxajVJdW1ob2pSSWxMRHlQYkRFUnpNeGZlUFd6UlU1Q056aEZ1Sl9ob0YyMjA0SGJWVjg4d0wzTURGc0JmRHlSckJoaVJKR2NnY3BwWks3QQ?oc=5",
-      "isoDate": "2025-09-05T09:03:36.000Z",
-      "source": "news.google.com",
-      "raw": "Survey finds that efficiency measures compromise safety  Safety4Sea",
-      "summary": "Survey finds that efficiency measures compromise safety Safety4Sea",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "AI Use in Project Management Nearly Doubles in Just Two Years, APM Survey Finds - Silicon Canals",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVNrbDRMZUNaT29CSGI2OTJCTGFQOTREMzAxNU5Ia3MzcUJQNWx6cms0WHFwSmF3bU5JR3pKRHVHaHpLM3RlYTZINE5QTUFVanFNQ2M1UzZQTG5XUFlqMkFEWE5XVlB2N21Mb1lpRU13U3BESDlQTTBWVzIwOUI1RmdBajJJdnRMWE0yMmNCSzhXUG1YQ0lRMk5rd1ZpcFN4bEJhQ2xCZDk?oc=5",
-      "isoDate": "2025-09-05T09:03:06.000Z",
-      "source": "news.google.com",
-      "raw": "AI Use in Project Management Nearly Doubles in Just Two Years, APM Survey Finds  Silicon Canals",
-      "summary": "AI Use in Project Management Nearly Doubles in Just Two Years, APM Survey Finds Silicon Canals",
-      "topics": [
-        "AI in MR"
-      ]
-    },
-    {
-      "title": "Teachers paying more out-of-pocket healthcare costs, union survey finds - Michigan Public",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjhWWHVUbnZkX0k4QXZZRkVuc3U3VGo3NUw5bzlPcF9Sd1Y4R2s2YUkwMFFvbXdCZ29GZDdzNEZ3bUxnemhsc1ItTnRkb0FTcHJZbFRGVXBRRGRiZ3E5bElwQ3lNakk5RzRBR0x0QXpZWUZfZXE2a0dxWGFuQVJzdkVTNHNHM2FaZEk0bFQ5T2E1WUc1Y2F0TmVxenhVZTdtb3hIQ1Bod3Q2QzdXZlduN0tHR0E3cmh4RVNIQTN0OA?oc=5",
-      "isoDate": "2025-09-05T09:00:00.000Z",
-      "source": "news.google.com",
-      "raw": "Teachers paying more out-of-pocket healthcare costs, union survey finds  Michigan Public",
-      "summary": "Teachers paying more out-of-pocket healthcare costs, union survey finds Michigan Public",
-      "topics": [
-        "Healthcare"
-      ]
-    },
-    {
-      "title": "Majority of Germans support higher taxes for the wealthy, survey finds - The Local Germany",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2Nxa2M0Z0dLbHNQbDR6aUdHOV8zS3BGQ0pROWZ5MUQ2RTJray1VNU1KTHRKQ3FoeU55RjkxUXFtd0h2OGt0UHkwQ09pYnJxV01RSzRWR1kxZ1FrOU5ybkFEdlU1T1h2MHBhaHh1aE1TSEthTnZyNU55X0ludWJkZ1BBSnBjRmdYZEVGYTJPSXJNTTM5U2ppOU1wcUdwX0tDaGZYYQ?oc=5",
-      "isoDate": "2025-09-05T08:46:43.000Z",
-      "source": "news.google.com",
-      "raw": "Majority of Germans support higher taxes for the wealthy, survey finds  The Local Germany",
-      "summary": "Majority of Germans support higher taxes for the wealthy, survey finds The Local Germany",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "TGS and Viridien begin seismic survey in ‘strategic area of underexplored’ Brazilian basin - Offshore Energy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeURjOFdoOV9Ob0ZJT2l4MVh6SGdEVFlHd3B2VmxCSFlZbDViazhzd0U4MkFfWDlyelNCYWpuUFJ3TVYwc29qaTFxZExHUFZuV2xRUDFudWY1NElsU3lyVmpjTzRMcWUxbmtKckVUME91M3ZvU0xidmVFTUVreXJSZUVKcmx1TVBSbzhqWUhQQUh3N1laMEhYcGoyTkkxNkU2NW9vSWFXWGhhR2NNSEctWGE3eHRIa2x4LWJLLWd3?oc=5",
-      "isoDate": "2025-09-05T08:41:55.000Z",
-      "source": "news.google.com",
-      "raw": "TGS and Viridien begin seismic survey in ‘strategic area of underexplored’ Brazilian basin  Offshore Energy",
-      "summary": "TGS and Viridien begin seismic survey in ‘strategic area of underexplored’ Brazilian basin Offshore Energy",
-      "topics": [
-        "Qualitative Research"
       ]
     }
   ],
@@ -603,36 +603,40 @@
       "url": "https://x.com/search?q=%23survey"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
+      "label": "#economic",
+      "url": "https://x.com/search?q=%23economic"
     },
     {
       "label": "#among",
       "url": "https://x.com/search?q=%23among"
     },
     {
-      "label": "#customer",
-      "url": "https://x.com/search?q=%23customer"
+      "label": "#district",
+      "url": "https://x.com/search?q=%23district"
     },
     {
       "label": "#driven",
       "url": "https://x.com/search?q=%23driven"
     },
     {
+      "label": "#flood",
+      "url": "https://x.com/search?q=%23flood"
+    },
+    {
       "label": "#indian",
       "url": "https://x.com/search?q=%23indian"
+    },
+    {
+      "label": "#more",
+      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#accelerate",
@@ -645,6 +649,14 @@
     {
       "label": "#aviation",
       "url": "https://x.com/search?q=%23aviation"
+    },
+    {
+      "label": "#bidar",
+      "url": "https://x.com/search?q=%23bidar"
+    },
+    {
+      "label": "#business",
+      "url": "https://x.com/search?q=%23business"
     },
     {
       "label": "#capital",
@@ -663,30 +675,50 @@
       "url": "https://x.com/search?q=%23chance"
     },
     {
-      "label": "#district",
-      "url": "https://x.com/search?q=%23district"
-    },
-    {
-      "label": "#easa",
-      "url": "https://x.com/search?q=%23easa"
-    },
-    {
-      "label": "#economic",
-      "url": "https://x.com/search?q=%23economic"
-    },
-    {
-      "label": "#finance",
-      "url": "https://x.com/search?q=%23finance"
+      "label": "#cities",
+      "url": "https://x.com/search?q=%23cities"
     }
   ],
   "ticker": [
     {
-      "text": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey - The Wire India",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbldJZF9GWm5nWlktamd0VkdvOHRIRGlQXzNRNXhueXBFWVhpSU56NW9ReklXTEZibXMyYldYbkdoUjhUQkg0U1M0c0g5U0dueElpV1J4cWNZRVJTV0JIWEtMczNYUVR5amU3alBmYmkzbms4RlRSci1CUDdqLUN3eENFQXpmdEVCaTFEUU9hTW9QWGh3aFRGU3owVzNTclhqaDdxYmxxZlpHN3By0gGyAUFVX3lxTE9Jdmc4aG1OOUVfTFhfalp0ZGdJTzRXbXF6UnNGQkdGSHQxMU8tN01SMnZod0JnanFqOXU5al9OQVJYZU9WOVpUaFhwbVJKeFJVM1pHbFE5TktWakNmUGc1dHZGZ3lPNUMxSkIxS3RHZzU2VzlFZ2FIQjFadC1QZnotTXFVcXBlTWdndWotWVBUX3FSYVNwVmd1TGozUVpiMzdUTHNLT09MTHI1dE9BUnQ0QXc?oc=5"
+      "text": "Starfish early indicators progress survey open from Sept. 8-17 - Penn State University",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkYxakFxUzlwZGI0ZFRyUGE3SjNHbkNaOEQ2OWsyOWg5cTN2QWVDZTJsczhUWl95VHNON1B5WWlSVXVuRkpnVzhSaXFzY3lvQ0hjbmRJTVdER29Va2JSWWxVbnp1OEZKamlMamhUVXJHTHlDZTJSR052Q0UxX0pZb3k5ZHdzNTZzRE53MExYLVN0ZXg5dmdjUWs0MzBUYmNzM1FTZFE2M3M?oc=5"
+    },
+    {
+      "text": "Caste census: Panel preps up with 60 questions to be posed to 7 crore people - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSFlqbHdZb3hNVjJTU1FpdjFfUUFCeGVCZkdnQi1ZRWtpUk9zNndSMm14WmtsYWgzYVVobHhEblNyMzVJcGR4YlZ6U3p3S3BkNlNDODNpLUkySGc0U0RNdlNjakFmelczYzJINGZPWHNwcUZGdmJWWW5OMXNFdlZ2V000NHEtZkhtYWVkZjFtbEF2WWJnT2RxR3hQSFVFWDBCZzRydF91djRmWlBTaEhfSGNxaXNvZ2dqYU1pY0MyYU9JZGZfZlR5UDdLMVc1LVprM2pRUEFTZTNTYXdj0gHjAUFVX3lxTE9OVmFmRTRqT2lwTEg4UVlaa1pCZlRCVGIxZzBuOTFOeG5SX05ZVGU4Z3czUTlXeDFaN0ZwR3ZJMnYtbzBuNTlnbDJXeVVwSmRNTGE4UW03ZTlMaUFWZU5GdEE1RzlkdjZhSjQ2UklnRjMzeTlndnNabVBqaDR2dWdWc0thcDlhZzFzRDE0YUtsUXhLQXhyZzdrbDNsZGZCbEhEVjREbHNVcTV1Q3BWaWp3ZHkzVlc0aXViVDR5YVdOQ01jMUxzLUZfUlVZWkp1SWtXTnZlT2Y1Q0dJalRQRzZ4bVBZ?oc=5"
+    },
+    {
+      "text": "Udupi gears up for social & economic survey - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0J6b2hTVGlRNXVDQzRaRTRxQUc4NEx5T1FhRkwzZHVuN2VNTHVFXzVaaU1teTVSSWhVUTJ0ZE5HUGE4TGM4V1lVVHIzMlJSOU5xcXI4U2M1Z3lFYjEyUXpyYWRjM2pFc1JMZzJzOW9sc25OQ2tpMWZzNkJ0NVVLQk5MRFZXeDdBZTZZR0xybnU2Y3JwbDRaaHN1dHBNbmJuX25FYXZvbVJnbTBoWUZ6SmJpV1BnVXhzYVHSAb8BQVVfeXFMT2U1UGlYWUF4MkNBNGhFNXhKdlFOR3Y0S3BUeFNFNDhuT052cjRVdTdUd2JJckotTmFUYncxeWtZbC12aTZYZnhqbHMybXB3UWtBWEx1TmQybUJ6SDlsa3djc3lQUExNMzkxb3Y3OF92YVpCdDdiNjgwMjQ2Q2p3M2xlRXBXbFNjM0wzT0lZbmVTb09ZcHNnU1hBYU1VVEluMGppQXYwdW91bnhta2thU2ZHMTZac1I4Z05VYi1mUFU?oc=5"
+    },
+    {
+      "text": "Survey: Bellevue, Other Eastside Cities Rank Among Towns Most Frugal with Cars - 425magazine.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLUFLdExIMFRoQ2VqYV9EZnZNdHdvTm5hdkZiWm1JMVFkUlNpRHR3Y28zX0pIUTZHWmFCeVh1Vkd5SnU1UjhpNnI5LVdtQmtLLU45b0RQZUJVYS1CejR5bFhhNXYwMTEwRW1HM2xTNlkwenRhc0dHWXRrUVlNbHBkN2JVYlZNSjJFeFl6NmxDMkwtMHJ1c1hac2VKS0c1dlpfSWJyczB0dHB3elZaLUJRV1hvYnY3dDV1V2NXemN3TDU5VjA3THptSVhWSDRBcU80Wmt5X3V3NkplQ3pHNUY3MmF3?oc=5"
+    },
+    {
+      "text": "Bidar to conduct district-wide socio-educational and economic survey from September 22 - Vartha Bharati",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1Uyc2MzaHBuRTRxdEgxM290UzdsQW1mQWJhZVRxV2d6LWc5cGxOTmg5R29ZRTFTb1F4ejRoSW9PV1hScmU4ZnpfZFVPcmFQTnU5ZXJVWjlBWjQwdnRlbHN1a05zcC1wb3VlVkh0QjczTkZzVEt4aWlHaEZuUG54dFNfcGVMeFR5LThLVWVnR1pra2dJaVBYOW1ka1d0WUpVaFNKZVBvRkU4SjU5bXp4WWFGcU1sLWM5Rmc0VkZuOXRES05HSHdLSg?oc=5"
+    },
+    {
+      "text": "Manual Quoting, Sales Processes Costing Revenue, Survey Finds - AdvancedManufacturing.org",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMkRwbllPZlpwSk94eWZ1MXJ2N2UtSXhGdWRhMnJNTEJybEUxZXptejJoYXVwclNqVkh6UDhKajB5N1Q4OE5lcG9iNDZmMFVPS19vZFNwclF6Unp0TkJYbVFWLTZ0eFZnVzNGWHFWdzdhaGY5QkMxcEcxUXZOUlhXbjZKb3VSMHF6aGdyM1Fuc0dMUkZrM0ZHdjVZOWVfdzZwZXNueXduRWtzZHQ5dTdoNTFtVmxqSEpTOWZhbXNDaWtqOVVJbFN3SmFYcGlpVVRvYl82ZDVvRnptYUdSaE8xemkzY1QtR2VQa2s5Vnh2QzRWMDVRTHVnUVFmY3NGbGFQWmc?oc=5"
+    },
+    {
+      "text": "We Want to Hear from You: Take Our Survey - Village Preservation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMXhJYzQxV0dPNmJ3dHltcWNhSWRGZTA2dnk1M2NtUmNYN2tESEhEREF3cERGN2k1ZmFUcWZSZkF3TXZGMGtHb1BuR09UVk5NQzc0ajNtZEZlNmg0TnVVcXYxcXFmbFA3Vk1UWnVoZFR6WjBiS1BySE9nc0xUbktJSm92TGZSUE01UWw4TUR1Z0hWZTZ4Y0NWWQ?oc=5"
+    },
+    {
+      "text": "Punjab launches province-wide satellite survey of flood damage ahead of compensation - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSzdfYUZUd0Y3aUNxdGRGUmhFUEs5QWR1a2xRaXJQUGIxWFVoTC1aYzV6OHpON3RKRngxV29KQXFMSzNuS095MXUyTHQwdXhpRk93aWU2ZkNVdw?oc=5"
     },
     {
       "text": "Diger villagers protest road survey, demand cabinet-approved alignment of ADRHARDP project - Syllad",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU1vWjVYbktVaTVnUVEzTHVTWjhFeEdlcFktR1E5T0VUYXJjX3JVdk45R1dNN3h3U0wwenE4VFlNQUY0NnJUd2NkSGRhMTdMbm9zTGQtZUhDYmo2bnZtelVFaU4zdWhPTUFiTVo1SFZqUVBKb3dJVW1MVGR3SS1vMDBZd2wtRmxCN1BWQ1RoQnRiQ1k4TWgzMDI4Zzh4b3RvZ1hwMVVkVldIMDA0M0Z3RDM4SQ?oc=5"
+    },
+    {
+      "text": "More Than Half of Women in Kolkata Feel Public Toilets are Unsafe: Survey - The Wire India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbldJZF9GWm5nWlktamd0VkdvOHRIRGlQXzNRNXhueXBFWVhpSU56NW9ReklXTEZibXMyYldYbkdoUjhUQkg0U1M0c0g5U0dueElpV1J4cWNZRVJTV0JIWEtMczNYUVR5amU3alBmYmkzbms4RlRSci1CUDdqLUN3eENFQXpmdEVCaTFEUU9hTW9QWGh3aFRGU3owVzNTclhqaDdxYmxxZlpHN3By0gGyAUFVX3lxTE9Jdmc4aG1OOUVfTFhfalp0ZGdJTzRXbXF6UnNGQkdGSHQxMU8tN01SMnZod0JnanFqOXU5al9OQVJYZU9WOVpUaFhwbVJKeFJVM1pHbFE5TktWakNmUGc1dHZGZ3lPNUMxSkIxS3RHZzU2VzlFZ2FIQjFadC1QZnotTXFVcXBlTWdndWotWVBUX3FSYVNwVmd1TGozUVpiMzdUTHNLT09MTHI1dE9BUnQ0QXc?oc=5"
     },
     {
       "text": "The Information Survey: More Than Half of Respondents Take a GLP-1 - The Information",
@@ -721,10 +753,6 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0VyUjF6SzlaRnZzN1A4aFctelh5dkVmeldoVnJLZUptQW42QmJwcXBvLUQ2bkc0cDJ2RHpkcnF4b1NEczAzdU56V3NyLXlHZjZ2d013XzBhLTNodi1kWG9BZmR3U1NfSHZIV1d4THNKNW8tS3hMZUhGUmtoWEw2TENKRURMdzNsWGpjVjczbHdGNlQwTk10RThlbjRYSVZWRlJ6dGhrUmhKRU1KWGJxb3dEaWJoSGp0WDhtc01VV25tNi1RSVJfT2wwTXJSby1YcG9HUDBzUFA3M2xLWVo3ZzdMamJnem5qcDlEbzIyWmU0VTcyRlVQaVdFSznSAYMCQVVfeXFMTTM2c2ZHenoxbDZNOWZHTDZPTkM4Uy1EUmZNR1BwNGRwc3RORVpiOGVJUm0xNXozZlZQa2hHWUhHTlI1c3JxZlVKd3hXeHRCMXY4Si1WTkNwUVRKQVliSE1DQzZna1pTRlFnRzJqNmx0M0I1Nllicm50ZHFmN1lWQ1hnaXh3SnlRWHFaaFcwZnhUTnBqd3dGdUJLWkZQTDRzdkEzd0pWeEZ2cm51bWdiVFI0Y2pENnVLSnNFRVpxV1JQM3dRQ2U5SVVsWGZJNGlpV29lVHpxaDgzSlNvTXB4N2h2VWlWczZWaW9VU0dfQlpIV1VkNGl3UC1xS0N4LV9ZdWdhUQ?oc=5"
     },
     {
-      "text": "Survey finds ‘digital addiction’ soaring among Baby Boomers - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmY1cElteTRDRXR3WDVxRXpoTHdDR2R1YS1QaVNfWjdyLTNscTlEZmd6NkNDY2xmU0FnVGdrOU1EZEw3VGZDLXE0anBuQWVlV1RFNzJqajR2MFgtTXBtbHpoQTJBWXNxRENtcjlXVGItcGVpVmVZZTJLZXRfN21vRXZ2SXNWaTTSAYwBQVVfeXFMUDVnaEJyQ3llajJUWURURjM2dW9fckduXzBJREdkU3pCLU5XYjdLcmcwbmRQbWVBU1hBNG9RRHg0RTNDY0VxU05tTDdHNUtRVVBtOFVpRDBxdHFNSENOMmRfMDBjVzdFVy1rSENveWhTeU5nS1JndXcyTzZWd0JtRWFJN2p5YlJzTGliamY?oc=5"
-    },
-    {
       "text": "Chance sighting during tiger survey leads to first-of-their-kind photos in India of the smooth-coated otter - Phys.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WQ0l5NFhtSDh6amhJWGtaNUhFeDRYZ0JTVkMzaXBVS2d1X2drdjdONWlJVWtacXI4Vm1qa1lDUTJxSTJpU0w2dllzclUzdlA1Zy1FNVBFMUdBSm9YaDVFeWdVOGkyQnkxTVFpRnZPYzZwc0x6bEcw?oc=5"
     },
@@ -745,24 +773,24 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGRIWk1pX1FPVUZ2NkhTVUhhVUwycnhEYUdheEM4TGFMT1kzNGxDaVpFa29BWXZxb1RkalVKTFYzbHdxWEI0ZU82UEJDZ1gyQzVaOW1ZeU1RTm1SUVR4ZlZUbGVrU084SjBTRmVudkwwMGp3Rm5ZNXZhVGZ5RU1NbVZ6VkFuelRUUHdEWmtrd0ZjdXA1bTNIdEszZmU4ZThybGc?oc=5"
     },
     {
-      "text": "IXOPAY Strengthens Customer Experience Leadership with Appointment of Angie Okelberry and Benjamin Canova - FF News | Fintech Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1ZkQlh6SzlxNkhBVndVR1p4ckpUM1ZEUDZWS293UC1NZGxfN3hrbVRTR2UxYTMxS2xhVWFHdW9ueG5ERmlTQW15UEVGOXZNNlZnOVBfR1NnNzM0MlRYUnBURFhoRFFlcmFLZkphUGI0QmxldnJFVlNCXzByMy1kcm9MX1R4a09qUHJkNmFaNGFxU2V5NW5KelJXbEJwYzJOa2daYXhhbnhQaVl3SDJNNVJuMmkwZkZWQU13REkwZ0QzZWVmUUdTOTNuVTJDYk8zcDZXc3B0cWpsU04w?oc=5"
-    },
-    {
       "text": "Last chance for pharmacy owners to inform CPCF negotiations via survey - thepharmacist.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzYwLWxtTUxmdUFlX1hqQ3NrVHV2eFVCcGVGLUtmSGJGNWZlNVRaYWcyS0JLczY2YUQ1VXg4QnhfRDB3eHhZbEN4UUljOTBCRTA5S0k0djFrREdHYTN2bjU1TmtoOGJVeWxrRG8tMDdxTGt4bGxqNEVEaG44SjZycjRQQmhqYTQ1RGkwV1AwTzh4U1BsWVZZSUxlU1Zqa3NvWl9fSmp1dWQxMXBaQTJxd0tKMA?oc=5"
     },
     {
-      "text": "Survey shows top employers target Exeter graduates - University of Exeter",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkhvTk1hWFNDN1VHd1h6S2Vob1BfVlBsejhHamhiVFR2bVZhcjFtakxaUW1ma3hUeEhJWmlsMTI2ODYzSGswODBZV29FUVNpUDNNWVFXVzM5U0xTQkdsQ3RSeEdCaHZMcFAwcjYzNXlYT1V4bWswN2hNZXI5TVhfZFU3RjhOcmpNZmN0UHhTYXcwdw?oc=5"
+      "text": "IXOPAY Strengthens Customer Experience Leadership with Appointment of Angie Okelberry and Benjamin Canova - FF News | Fintech Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1ZkQlh6SzlxNkhBVndVR1p4ckpUM1ZEUDZWS293UC1NZGxfN3hrbVRTR2UxYTMxS2xhVWFHdW9ueG5ERmlTQW15UEVGOXZNNlZnOVBfR1NnNzM0MlRYUnBURFhoRFFlcmFLZkphUGI0QmxldnJFVlNCXzByMy1kcm9MX1R4a09qUHJkNmFaNGFxU2V5NW5KelJXbEJwYzJOa2daYXhhbnhQaVl3SDJNNVJuMmkwZkZWQU13REkwZ0QzZWVmUUdTOTNuVTJDYk8zcDZXc3B0cWpsU04w?oc=5"
     },
     {
       "text": "Complete the Quarterly Economic Indicator Survey - Renfrewshire Chamber of Commerce",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXYycnNqbURkRnRwZ001Y0RZYWZ4dXZzLVVGN2s4dHZNd2ROTW1na1VIQkFNYVFjQThfbEd5a2hidUVSVGpWTG4tUWtvRjgwUW9LTHlaSVpEemxBMXBUaE0tcEoxdUR6czNkSVc1U0VuZmE1RF8tREJZRGh5UTJQOUtDV0ZtRmNIYzZGNEZ3?oc=5"
     },
     {
-      "text": "64% of People Still Don't Want a Foldable Smartphone, CNET Survey Finds - CNET",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFh2Zmk0enE1WEFGdzN4TVFYWGVQWHZRNHNjald6QXk3dHRYLV8zMnFJc1BxYXI3Y1VFODlsSmZabm12M0RaMkQzb1UwS0doSzhGZEhXN3E0cWlUVjRqbmtTM2J4N0s4ZzFZS013Y3BkYXo5WF94WGxwbkdYRXNkRU1rZ2ltbTZFbXhHak5FN1BsX0lFQlRhVVVWQUM5QmJpc1dYWg?oc=5"
+      "text": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5"
+    },
+    {
+      "text": "Survey shows top employers target Exeter graduates - University of Exeter",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkhvTk1hWFNDN1VHd1h6S2Vob1BfVlBsejhHamhiVFR2bVZhcjFtakxaUW1ma3hUeEhJWmlsMTI2ODYzSGswODBZV29FUVNpUDNNWVFXVzM5U0xTQkdsQ3RSeEdCaHZMcFAwcjYzNXlYT1V4bWswN2hNZXI5TVhfZFU3RjhOcmpNZmN0UHhTYXcwdw?oc=5"
     },
     {
       "text": "Gen Z fans eager for live experience, says survey - IQ Magazine",
@@ -771,34 +799,6 @@
     {
       "text": "Survey finds Germans can't put their phones down - even on the loo - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUptYlF6U2lIdUk3eWs0ZU1xNmd4RXVPakQzcG9ENGdvaEI5djlzeDRydFRTSE5icVQxTDF4cGc5VlhVYk9GaE1Hd3hpOHZRbUtfU3AycjZyUjk3UWNEYmY0Mlp1TlBLTDdRRTJzMnQ4a0xZLU51UXlfRXNONFcxZFdtSlFKRU0?oc=5"
-    },
-    {
-      "text": "Indian CFOs Harness AI, Sustainable Finance and Capital Optimisation to Accelerate Growth: DBS Global Survey - Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2hyYnlSLTFkVmdjWHV1MkpMUFlDaDEzSGRnU19OdnhHaUpyQmpKZW9hQThxb1pwQjM2QkxLNjhSS3dvcXlUR3JGVjkzVl83RGpkdlI5ZEZhemIxNTVUaG1MY0V2NlpqZjNPdTZKd19nLVV4bC1YWlJOYUlYYVV3b2FZZ0hCNnVXVHBpNTc0SXlNR1MxTGVHWWtIWGdhcDBtazFWZzNXZktfd3p1RXZaWFJUV1FwSGhtaS1zS0Zfc0JpRm9YZHlsSkQxSktfcUFPazRxaVEyVUwwVkxGRTl5R28wVnhyLWlWenRkN1ZCbmhVbGdH?oc=5"
-    },
-    {
-      "text": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5"
-    },
-    {
-      "text": "Indian CFOs Harness AI, Sustainable Finance and Capital Optimisation to Accelerate Growth: DBS Global Survey - The Wire India",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXzk1VmdQNkZMaDczeFFjcmd0dXo2Z0RSSU1WSDRVMGd1VHYwekZPaTRPSUp4WDY5UF9CYmRXa0hkZjRsTTQ2dndqSWZtUDFkVWhldEdBUkVncWRYd2M4U0VvNDU2ejBrMy0zTXpNOWprLVN4cGpCbzNQUkFKcUcwOUtSWTRSNkt1QjBia21acUpkX1pGd0ZOMjdaNTFmdGF2Si1CYUpRdVJYZzc0c1VZdEhmSHZSbU9VbFhHLVZ3bmVSS1h4OGNUT1VHMTFrNUpTc21nckN3YllIbC00dGfSAeMBQVVfeXFMTjdyYTJmYnRDb3c3Z2hac2ppbTdrSmx4ZmZRYkk4QTA5MWZQN1Jpdk9MbnN0QzFqZHVBRVVmUGltS2Y1TFBvWk1wczF0MklwZll1Y2w2aEhyV1YtOTBGWTlNMGYyRDRsRnRhYXVrOXlkUTBucGt6b2hVRkJMelR2ZHlBdDFmaDRyTG1seHJuV3hPNXBocU4ybHdiX250VjhiWlJsVzdhZDhoVmlfdDlIUWpnUjlxYmtCT1VRS0YxS2hSc01WOUVpVU5EXy1pRjV6RDJYd0hUZTY4VXFianAzM0VPOUE?oc=5"
-    },
-    {
-      "text": "AICPA and CIMA US Economic Outlook Survey - theaccountant-online.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOW5xTk1WUW9odjVKYzBfbWl6VDBRSlBISFJaZmg0YWtqSGhnbFEzVFBzVlNENHV0eDd4Q2NONGRNWHY5NkFWd2tKem5BNUpCVGMybmh4dDg5dS1mVlRwRUhRUEw2WklkNE9BbXQzZUxJSWF3d3pOam5vbUJEcGhqWjlXQQ?oc=5"
-    },
-    {
-      "text": "AI-Driven Consumer Insights: How NIQ’s GfKnewron® Consumer Platform Is Revolutionizing Retail and Brand Strategy - AInvest",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaERpdW0wbUxPN0pCd1BES0JZQW9WdEhUVXM5YTRVQ2xCQ09RbHh3aWJKRDZYdk1JTEU3TlhUNjd5QUpjZmhXZW5TR1ROTUZ2OHQwY0lDZVZ1WTRNWXNTNmFiTzdwVE9sMlQxS05zZG9MaTVUQjl2TjhYeDFyeDZySTNzS1M3eExLRWpMSldWb2JQa0ZtQWtObWhhbmlRc0gwN3h1SEt0ckZNYTh6R0xhYjBya3NSbmhFUHhUTzNKU1NnVGY2NTNGQUlOVTA?oc=5"
-    },
-    {
-      "text": "#### Hettich Relaunches its Hyderabad Experience Centre for An Immersive Customer Experience - Pressnote.in",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OTUtuTUtvWDNLVG5fX2tYX2w0bXN6bEN6bnRMeUhVanZDREdNTEtqVWpPSVhvdVNoTHRpTEdHS0tpSG5zVmlvYUtrbGx0UG9OLS05dWdPZFRlejg0Zjl1TGVGQQ?oc=5"
-    },
-    {
-      "text": "The Rise of Data-Driven Consumer Insights in Central Europe: Why Stagwell and Żabka’s In-Pulse Joint Venture Is a Strategic Buy for Investors - AInvest",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVFMYVM5YW5XRy1KZDZERFBkWS16ak9uNW9mN0VySWNyMHM2OEZVUHVTcmZFcGZHNENKM1BaRHR5TC1QUWpqazFPMTRDN01FNXc2SklhdFphbE5IQ2o5WmZOcGRZZ1ZDR0l6a0NmZjlSS0xRNmU0OHJpcDlrWk43YXdQVFdZdDJFREp1TzBFU0dWVjBEVERjQ1dWNXZfMHF2RHFCNjRLNVFfNnRzYXFyNmZCcFFYX1FDX0xJSHlMZ2w3LWNQU2xRMHpybVRUVE9lZFpsR29HU0pCQQ?oc=5"
     }
   ]
 }
