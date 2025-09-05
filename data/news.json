@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-05T16:11:24.033Z",
+  "generated_at": "2025-09-05T16:18:23.395Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -17,6 +17,17 @@
       "source": "news.google.com",
       "raw": "Diger villagers protest road survey, demand cabinet-approved alignment of ADRHARDP project  Syllad",
       "summary": "Diger villagers protest road survey, demand cabinet-approved alignment of ADRHARDP project Syllad",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "The Information Survey: More Than Half of Respondents Take a GLP-1 - The Information",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVEzaW5rNENjWkE5Z2VNVHZ0NVI1ZkpiYXFfZEpIdmJUQjhGRG15SEkwbE9lVVFHam01N3FWcUJQbFFDOGx3dG5pQVlBV3AtOEVnQ04yRVNSLWYyTmJuVkpXRVlUeWVNdTU3cUw3WWZEdk1UcnIzQUI1dUpPMHFSb1lQV2E2TGtGV2hwcUQzQQ?oc=5",
+      "isoDate": "2025-09-05T16:01:00.000Z",
+      "source": "news.google.com",
+      "raw": "The Information Survey: More Than Half of Respondents Take a GLP-1  The Information",
+      "summary": "The Information Survey: More Than Half of Respondents Take a GLP-1 The Information",
       "topics": [
         "(Other)"
       ]
@@ -409,7 +420,7 @@
     {
       "title": "Graduate Union at UConn sends bargaining survey to members - dailycampus.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWxTS0Ezd04zX1plRDFsVld5cGs3ajlXTmhERXJmTUt3cFloRzlYV0gyMERWVjNjRGUzcU84bnRFMVo2LTVZRUVLZkNCMWlEVHBZU1NyRmM4OXRNbTVVSFdsT2RHcmRrajNMZFZqUml3alV4ZmM1RVdpSVFUcW9ZUFY1N1RzUU91M1VLTkNXTmpCMG0yUEdWT0FB?oc=5",
-      "isoDate": "2025-09-05T10:11:55.000Z",
+      "isoDate": "2025-09-05T10:12:15.000Z",
       "source": "news.google.com",
       "raw": "Graduate Union at UConn sends bargaining survey to members  dailycampus.com",
       "summary": "Graduate Union at UConn sends bargaining survey to members dailycampus.com",
@@ -548,17 +559,6 @@
       "topics": [
         "Qualitative Research"
       ]
-    },
-    {
-      "title": "Legal action sought against private survey company - Garhwal Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfcnhuazIxaFFpUklvS2lZWkQtN2JxUWJGMEpOT3RLMXlvb014M1RtZU8tcGk5ZDZ5WUFvcWVITnZqVzFwYlZYVmFKbkRDd3V6aEVLUnFrS1E2ZVJMamxLOWp6YW51a3Fpa1dOOXpTWVFuYlRJMDVmS0ZPTHpaVmc?oc=5",
-      "isoDate": "2025-09-05T08:30:08.000Z",
-      "source": "news.google.com",
-      "raw": "Legal action sought against private survey company  Garhwal Post",
-      "summary": "Legal action sought against private survey company Garhwal Post",
-      "topics": [
-        "AI in MR"
-      ]
     }
   ],
   "funding_ma": [
@@ -611,6 +611,10 @@
       "url": "https://x.com/search?q=%23experience"
     },
     {
+      "label": "#more",
+      "url": "https://x.com/search?q=%23more"
+    },
+    {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
     },
@@ -661,16 +665,16 @@
     {
       "label": "#germans",
       "url": "https://x.com/search?q=%23germans"
-    },
-    {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
     }
   ],
   "ticker": [
     {
       "text": "Diger villagers protest road survey, demand cabinet-approved alignment of ADRHARDP project - Syllad",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU1vWjVYbktVaTVnUVEzTHVTWjhFeEdlcFktR1E5T0VUYXJjX3JVdk45R1dNN3h3U0wwenE4VFlNQUY0NnJUd2NkSGRhMTdMbm9zTGQtZUhDYmo2bnZtelVFaU4zdWhPTUFiTVo1SFZqUVBKb3dJVW1MVGR3SS1vMDBZd2wtRmxCN1BWQ1RoQnRiQ1k4TWgzMDI4Zzh4b3RvZ1hwMVVkVldIMDA0M0Z3RDM4SQ?oc=5"
+    },
+    {
+      "text": "The Information Survey: More Than Half of Respondents Take a GLP-1 - The Information",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVEzaW5rNENjWkE5Z2VNVHZ0NVI1ZkpiYXFfZEpIdmJUQjhGRG15SEkwbE9lVVFHam01N3FWcUJQbFFDOGx3dG5pQVlBV3AtOEVnQ04yRVNSLWYyTmJuVkpXRVlUeWVNdTU3cUw3WWZEdk1UcnIzQUI1dUpPMHFSb1lQV2E2TGtGV2hwcUQzQQ?oc=5"
     },
     {
       "text": "US Federal Reserve Survey Flags Business Hesitation, Weak Job Growth - BW People",
@@ -783,10 +787,6 @@
     {
       "text": "Coastal Highway Survey Begins in Ernakulam District - Construction World",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUEZ4QWFXSXJHblplT3d6U0tCUnNMem1RSEQ1MVFOTGRQTmFsS1Y3WFQwT0tpUWw5aWRkUnZCZmRraTdKcEhrVDNOcnRJbkZDYzYzWGxvdnVEajFkRV8zYlg5MnVQcUVkU19MTFEyRjRpQnVyaHdneUhSYVBSYmhIV0lFQ0xON2FEZGdKeEJFMlNCMGdHSnlFWmlqczd5aVY5ZlhpRnM3UTZVZUZYcHRKeXhVWnVhaEw3elp5aWdRVmY4UzNlTF9PMmtaaVd3Sm1xWDdpQjZSR0xmbHFnU3BxSHNUNA?oc=5"
-    },
-    {
-      "text": "RTPI State of Profession survey seeks input from planners - Planning, Building & Construction Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODZlTTItd0VXRXZjNWNlRXY2d1o5dnJQR3BoZHFIdVYyLXFWLTBhUU1UcUNNR3BSOEtmZGg3TG9PbDdZRm14WTZxaDNXakV2VGFneTVRdFgyOEF2b3VDZV9hdlFybXVMZVVDOFo4OXlDZm9EdHRyZFN6WVRJX1BmZHpNd1FwTzZ6c0U1T1pWem1QTFBSMVV3cnZ4X3N3cXlNSWNBZ25GaFdKRWFwWTdBMzZoNURYSTBBUmVqQmFn?oc=5"
     }
   ]
 }
