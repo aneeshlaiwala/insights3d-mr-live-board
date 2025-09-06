@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-06T07:07:57.336Z",
+  "generated_at": "2025-09-06T07:12:55.325Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Japan picked as top destination to revisit: survey - english.kyodonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FcEpjWW43YnhreGY0NDRMY1l6a014eHFIT0lpdzVQNGNZMm9SNTNBWEtNcTgwbjI0YUY2eUlGeThVcDVQTVRJUS1SVm5GYkhXNG9YUk1IZGJrdw?oc=5",
+      "isoDate": "2025-09-06T06:51:00.000Z",
+      "source": "news.google.com",
+      "raw": "Japan picked as top destination to revisit: survey  english.kyodonews.net",
+      "summary": "Japan picked as top destination to revisit: survey english.kyodonews.net",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Fed survey shows strains felt by US businesses, households amid tariffs - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRialRuUml1cElKSXJuWE45Q3JLWVZjZ3MxQVBIcjNIUE94RTdpSl9oOU1raTBBWVAya3k3ajZGZ2dJWGw5NEtrcUJReHVFRTEzSzZVWGVQOXRBX29aV1NPUjlvRGhOaHpBRjFzLVBrMkJFZ2MyUm9EdkFIMHljaXBjZzVaNFlpWmw1N3ZOYmpkb0FGYy1NV29TV2FVTVMzcG80S3Zhc1dFNVk3T1Vhc2tmN1dTVjA?oc=5",
@@ -309,17 +320,6 @@
       ]
     },
     {
-      "title": "New Overwatch 2 Survey Teases More Potential Future Hero Skins - Game Rant",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JdFRXUF9jN1htMEhtVFk0YmY0ck9rdDdyRmZfeFc0cl9FT2hodmNyaUEwRWVoNkNNcVRtVXpfQWoxcUJsMFFlTXVyQjFmVGN5RXJvZ3BPMGU1VVlwMmF3V2xYdFVvbVRCT0s2U2dPWkVpamRuZE1zSWFhMA?oc=5",
-      "isoDate": "2025-09-05T20:03:00.000Z",
-      "source": "news.google.com",
-      "raw": "New Overwatch 2 Survey Teases More Potential Future Hero Skins  Game Rant",
-      "summary": "New Overwatch 2 Survey Teases More Potential Future Hero Skins Game Rant",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Professors want to leave Texas because of tense political climate, survey says - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDNwbHRkOER6UGtIc0FnMU5jT1cxR0p5NXg4c3hnTDBMTGxESmdhTTg4MGZIcGl3NFVtTlpuWEs2VXMwVXZOQmpDbFdqTTNCeTRlUzBWWk04cVVzNXBFQjREN0ZrV3FlSUhNVElEUFVKeUN1RnU1Y2c0V1hBQmE2Z25kQThqakw3Q25lcWtnLTd6eUdh?oc=5",
       "isoDate": "2025-09-05T19:45:44.000Z",
@@ -601,8 +601,8 @@
       "url": "https://x.com/search?q=%23economic"
     },
     {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
+      "label": "#japan",
+      "url": "https://x.com/search?q=%23japan"
     },
     {
       "label": "#reveals",
@@ -658,6 +658,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Japan picked as top destination to revisit: survey - english.kyodonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FcEpjWW43YnhreGY0NDRMY1l6a014eHFIT0lpdzVQNGNZMm9SNTNBWEtNcTgwbjI0YUY2eUlGeThVcDVQTVRJUS1SVm5GYkhXNG9YUk1IZGJrdw?oc=5"
+    },
     {
       "text": "Fed survey shows strains felt by US businesses, households amid tariffs - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRialRuUml1cElKSXJuWE45Q3JLWVZjZ3MxQVBIcjNIUE94RTdpSl9oOU1raTBBWVAya3k3ajZGZ2dJWGw5NEtrcUJReHVFRTEzSzZVWGVQOXRBX29aV1NPUjlvRGhOaHpBRjFzLVBrMkJFZ2MyUm9EdkFIMHljaXBjZzVaNFlpWmw1N3ZOYmpkb0FGYy1NV29TV2FVTVMzcG80S3Zhc1dFNVk3T1Vhc2tmN1dTVjA?oc=5"
@@ -765,10 +769,6 @@
     {
       "text": "‘We’re terrified’: University faculty in the South describe culture of fear on campus in new survey - Louisiana Illuminator",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TWZqUDNGN1JzZVRFa1NJYVJmcWFIQlo5cWlTZWlzUFZPNFZNZEVaN3FKeUxvUkpnOXBiekdQclZsZlNoM05CSU00UGhxR0R6VW11c3dYWnp5LTZUZk1tc19OUXZFUm40eEVLeXlB?oc=5"
-    },
-    {
-      "text": "New Overwatch 2 Survey Teases More Potential Future Hero Skins - Game Rant",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JdFRXUF9jN1htMEhtVFk0YmY0ck9rdDdyRmZfeFc0cl9FT2hodmNyaUEwRWVoNkNNcVRtVXpfQWoxcUJsMFFlTXVyQjFmVGN5RXJvZ3BPMGU1VVlwMmF3V2xYdFVvbVRCT0s2U2dPWkVpamRuZE1zSWFhMA?oc=5"
     },
     {
       "text": "Professors want to leave Texas because of tense political climate, survey says - The Texas Tribune",
