@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-06T17:06:35.742Z",
+  "generated_at": "2025-09-06T17:10:49.973Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Supreme Court panel on students’ mental health gets State Nodal Officers; over 1 lakh survey responses received - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMnh2UHRia1hHTGlhRDljQ0EtZnNveTYwNzVEWm9LT0EzcW11NVU1TGR5TWVvdXFzNlpsUlFuS2hKQ29wbklEbnJYRno4OXhrN19DaXZhY0dLb2lVQlVqT1NqT0o5Zk9EMWFCZy1OR2VvUzBGRmR3MkQtcVZLU29KZkR3VmFYNmJ6N05sblNQLS1OdC0wUmhTdFBCam9fSVdQd1h3VS1UQlk3X2RBQjhTWThOWUxkd3pXUC1mczYwazdqb3lJQWZKSzduVVEwOU04UE1KTl8zRHZwSk5uYk9sXzFDRGd1NG9LOVZZS3lKa0J5WWVrRVpNZ1VLTTXSAYMCQVVfeXFMUFlEWnFwb2xNWC12a3FDX09zY1ctX01maG9aMmkxQVpRX3lZSGk1NFFMLUtBMjNYRl9yMTc1UDdVUGxrck4xb2tFQ05tQm5BRG9FZVFpa0FjclN4M2JTMkpubzZPZ1JxZ3piTE1ZVVpzel93XzRLVUJBalpCMUNGODRTR0U0Z3NGYlJoVEQxNEtqV01kaXVmLTctM04yU1dRTHdqeF9EU3pkcmMtNEwtSkNRNnlQeVdHd0pURkVTUngyRjZ6N3JwdzV6Q2prUDBNVjl1TFd4UzE3WFhIM2dtRXh2amgwQW5QWkRYNjIxdVdzb3Fabkd2ZmM2Q1czN3h1Qkx3NA?oc=5",
+      "isoDate": "2025-09-06T16:59:00.000Z",
+      "source": "news.google.com",
+      "raw": "Supreme Court panel on students’ mental health gets State Nodal Officers; over 1 lakh survey responses received  The Hindu",
+      "summary": "Supreme Court panel on students’ mental health gets State Nodal Officers; over 1 lakh survey responses received The Hindu",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Georgia schools struggle with teacher burnout and shortages, survey reveals - thecurrentga.org",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHNjck5LdDdRNk5vM09ZMjh3UVVpMGlua0xFQTdEMktSWlZPYkgtUVJTYUpINDk4cDJ0dXg1OHNOWjlaMVluUGdTdFhyc2xJTnZBZGNDeEpkNVJ3LW9yc2VUQ1doNDhXSzZSLU1wZEwxR1kwcS1vMXFCcm13cEhTaU03c2R2OXFqMktBSW5ha3pqcDdrc2Jjc1NlSDlYR0d2bDAtT2NVNDlvY1htdklXcg?oc=5",
@@ -551,17 +562,6 @@
         "AI in MR",
         "CX"
       ]
-    },
-    {
-      "title": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5",
-      "isoDate": "2025-09-05T12:03:59.000Z",
-      "source": "news.google.com",
-      "raw": "Survey reveals a close battle for best Pixel 10 Pro alternative  Android Authority",
-      "summary": "Survey reveals a close battle for best Pixel 10 Pro alternative Android Authority",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -646,6 +646,10 @@
       "url": "https://x.com/search?q=%23boost"
     },
     {
+      "label": "#court",
+      "url": "https://x.com/search?q=%23court"
+    },
+    {
       "label": "#crop",
       "url": "https://x.com/search?q=%23crop"
     },
@@ -664,13 +668,13 @@
     {
       "label": "#driven",
       "url": "https://x.com/search?q=%23driven"
-    },
-    {
-      "label": "#during",
-      "url": "https://x.com/search?q=%23during"
     }
   ],
   "ticker": [
+    {
+      "text": "Supreme Court panel on students’ mental health gets State Nodal Officers; over 1 lakh survey responses received - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMnh2UHRia1hHTGlhRDljQ0EtZnNveTYwNzVEWm9LT0EzcW11NVU1TGR5TWVvdXFzNlpsUlFuS2hKQ29wbklEbnJYRno4OXhrN19DaXZhY0dLb2lVQlVqT1NqT0o5Zk9EMWFCZy1OR2VvUzBGRmR3MkQtcVZLU29KZkR3VmFYNmJ6N05sblNQLS1OdC0wUmhTdFBCam9fSVdQd1h3VS1UQlk3X2RBQjhTWThOWUxkd3pXUC1mczYwazdqb3lJQWZKSzduVVEwOU04UE1KTl8zRHZwSk5uYk9sXzFDRGd1NG9LOVZZS3lKa0J5WWVrRVpNZ1VLTTXSAYMCQVVfeXFMUFlEWnFwb2xNWC12a3FDX09zY1ctX01maG9aMmkxQVpRX3lZSGk1NFFMLUtBMjNYRl9yMTc1UDdVUGxrck4xb2tFQ05tQm5BRG9FZVFpa0FjclN4M2JTMkpubzZPZ1JxZ3piTE1ZVVpzel93XzRLVUJBalpCMUNGODRTR0U0Z3NGYlJoVEQxNEtqV01kaXVmLTctM04yU1dRTHdqeF9EU3pkcmMtNEwtSkNRNnlQeVdHd0pURkVTUngyRjZ6N3JwdzV6Q2prUDBNVjl1TFd4UzE3WFhIM2dtRXh2amgwQW5QWkRYNjIxdVdzb3Fabkd2ZmM2Q1czN3h1Qkx3NA?oc=5"
+    },
     {
       "text": "Georgia schools struggle with teacher burnout and shortages, survey reveals - thecurrentga.org",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHNjck5LdDdRNk5vM09ZMjh3UVVpMGlua0xFQTdEMktSWlZPYkgtUVJTYUpINDk4cDJ0dXg1OHNOWjlaMVluUGdTdFhyc2xJTnZBZGNDeEpkNVJ3LW9yc2VUQ1doNDhXSzZSLU1wZEwxR1kwcS1vMXFCcm13cEhTaU03c2R2OXFqMktBSW5ha3pqcDdrc2Jjc1NlSDlYR0d2bDAtT2NVNDlvY1htdklXcg?oc=5"
@@ -786,10 +790,6 @@
     {
       "text": "Sri Lanka monkey survey sparks skepticism & oddball ideas for deterring crop raiders - Mongabay",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnlNY2ZPT2JvaGp1X0xYbmItdVJEMzlYOGFNYXZ0RzhkOHlhMk5ZRzd0dVRQUUNjbF9aVDB4RWNoYVdyVWJGVU5kbWF5NEVLVXl0cXpsNzhXT1FKWDhwVnVKbjRKZW5VY3dUVW50N1FyRkFldjhjbS12RUlnVWJQQkJ4YjUtSkZWdHhJUGNIZlVnNE5yNTNTVDc2R1RKMkJPS0FFSEgxdHdZYm8tdU1pRWRRU2NUbmFQ?oc=5"
-    },
-    {
-      "text": "Farm Labor Survey nixed - Brownfield Ag News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZGlDSFF3dkxMZXNQc3IyTWRXMUxIUEpKM1lZaXlOVURiLWktN1BWdVpTWTdvc1puM3FOeUd4ano4RE5lOTU5dHBwMWJueVNyamZIQzl0R0NxZlBCX0gwbzEwREp1OFl2MmtsQmFWRQ?oc=5"
     }
   ]
 }
