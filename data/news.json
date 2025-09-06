@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-06T11:06:22.744Z",
+  "generated_at": "2025-09-06T11:10:19.506Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -553,14 +553,14 @@
       ]
     },
     {
-      "title": "IXOPAY Strengthens Customer Experience Leadership with Appointment of Angie Okelberry and Benjamin Canova - FF News | Fintech Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1ZkQlh6SzlxNkhBVndVR1p4ckpUM1ZEUDZWS293UC1NZGxfN3hrbVRTR2UxYTMxS2xhVWFHdW9ueG5ERmlTQW15UEVGOXZNNlZnOVBfR1NnNzM0MlRYUnBURFhoRFFlcmFLZkphUGI0QmxldnJFVlNCXzByMy1kcm9MX1R4a09qUHJkNmFaNGFxU2V5NW5KelJXbEJwYzJOa2daYXhhbnhQaVl3SDJNNVJuMmkwZkZWQU13REkwZ0QzZWVmUUdTOTNuVTJDYk8zcDZXc3B0cWpsU04w?oc=5",
-      "isoDate": "2025-09-05T12:22:03.000Z",
+      "title": "Survey reveals a close battle for best Pixel 10 Pro alternative - Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3BhdVBGc0I2N2RsRlZQM2ZSVHJMSUlCckVfcTJzeXMyUl9xandCbVRPMmNCTVZMNTVDT1pjWGNkWF9JLUl5aVNTVExhRWJWNTdrTUk0YTF4aVBVMXVLckxyanNDS29KbDJFQ2hTMGFwOEVxUExkdVhtZFpZbGxWQ1BGNFNsTnFSbm5sanAzQQ?oc=5",
+      "isoDate": "2025-09-05T12:18:17.000Z",
       "source": "news.google.com",
-      "raw": "IXOPAY Strengthens Customer Experience Leadership with Appointment of Angie Okelberry and Benjamin Canova  FF News | Fintech Finance",
-      "summary": "IXOPAY Strengthens Customer Experience Leadership with Appointment of Angie Okelberry and Benjamin Canova FF News | Fintech Finance",
+      "raw": "Survey reveals a close battle for best Pixel 10 Pro alternative  Android Authority",
+      "summary": "Survey reveals a close battle for best Pixel 10 Pro alternative Android Authority",
       "topics": [
-        "CX"
+        "(Other)"
       ]
     }
   ],
@@ -598,6 +598,10 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
+      "label": "#reveals",
+      "url": "https://x.com/search?q=%23reveals"
+    },
+    {
       "label": "#among",
       "url": "https://x.com/search?q=%23among"
     },
@@ -608,18 +612,6 @@
     {
       "label": "#japan",
       "url": "https://x.com/search?q=%23japan"
-    },
-    {
-      "label": "#reveals",
-      "url": "https://x.com/search?q=%23reveals"
-    },
-    {
-      "label": "#customer",
-      "url": "https://x.com/search?q=%23customer"
-    },
-    {
-      "label": "#experience",
-      "url": "https://x.com/search?q=%23experience"
     },
     {
       "label": "#india",
@@ -650,6 +642,10 @@
       "url": "https://x.com/search?q=%23conduct"
     },
     {
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
+    },
+    {
       "label": "#district",
       "url": "https://x.com/search?q=%23district"
     },
@@ -668,6 +664,10 @@
     {
       "label": "#educational",
       "url": "https://x.com/search?q=%23educational"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
     }
   ],
   "ticker": [
