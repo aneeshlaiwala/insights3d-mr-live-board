@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-07T18:11:33.982Z",
+  "generated_at": "2025-09-07T18:18:10.756Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -94,6 +94,17 @@
       "source": "news.google.com",
       "raw": "One-Fifth of Britons Hold Antisemitic Views, Survey Finds  VINnews",
       "summary": "One-Fifth of Britons Hold Antisemitic Views, Survey Finds VINnews",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Police Launch Social Media Survey – Have Your Say - loveandover.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVmM5SXhndzZudDlaQlh3bnU5ZHVOdjNyUVNSQWxDSWE5UXA4YWQwSExCV054TmZLbGx5YmZnWGlvV2c1RTJSTEExUmswbVlyMHJhSDRUVnZVTGhwVHh2Qklxb3FvYldHV19tVm9yX1YzWlYtVTdOTHhLdXk?oc=5",
+      "isoDate": "2025-09-07T15:24:33.000Z",
+      "source": "news.google.com",
+      "raw": "Police Launch Social Media Survey – Have Your Say  loveandover.com",
+      "summary": "Police Launch Social Media Survey – Have Your Say loveandover.com",
       "topics": [
         "(Other)"
       ]
@@ -551,17 +562,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "AICPA and CIMA US Economic Outlook Survey - theaccountant-online.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOW5xTk1WUW9odjVKYzBfbWl6VDBRSlBISFJaZmg0YWtqSGhnbFEzVFBzVlNENHV0eDd4Q2NONGRNWHY5NkFWd2tKem5BNUpCVGMybmh4dDg5dS1mVlRwRUhRUEw2WklkNE9BbXQzZUxJSWF3d3pOam5vbUJEcGhqWjlXQQ?oc=5",
-      "isoDate": "2025-09-05T11:26:15.000Z",
-      "source": "news.google.com",
-      "raw": "AICPA and CIMA US Economic Outlook Survey  theaccountant-online.com",
-      "summary": "AICPA and CIMA US Economic Outlook Survey theaccountant-online.com",
-      "topics": [
-        "AI in MR"
-      ]
     }
   ],
   "funding_ma": [],
@@ -591,6 +591,10 @@
       "url": "https://x.com/search?q=%23karnataka"
     },
     {
+      "label": "#social",
+      "url": "https://x.com/search?q=%23social"
+    },
+    {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
     },
@@ -613,10 +617,6 @@
     {
       "label": "#most",
       "url": "https://x.com/search?q=%23most"
-    },
-    {
-      "label": "#social",
-      "url": "https://x.com/search?q=%23social"
     },
     {
       "label": "#than",
@@ -679,6 +679,10 @@
     {
       "text": "One-Fifth of Britons Hold Antisemitic Views, Survey Finds - VINnews",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkZqcHVHU0hvX3pMc2lTUXdxZjVrMVEwMWFaUTA3cGMxOGxPMFdVdDNPYXpSSTBiMFdXaDF3WHBTUkxIb3BNM3NxNWlBbDEzTUt5MVpFajRpZXdpOWotNW5tQkFPQTdoejNjOG1wcFBUcHA5cG5HYXhFQ2N2a3RzRWcyZ3E3WGdyUUNLdHVKQThlUQ?oc=5"
+    },
+    {
+      "text": "Police Launch Social Media Survey – Have Your Say - loveandover.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVmM5SXhndzZudDlaQlh3bnU5ZHVOdjNyUVNSQWxDSWE5UXA4YWQwSExCV054TmZLbGx5YmZnWGlvV2c1RTJSTEExUmswbVlyMHJhSDRUVnZVTGhwVHh2Qklxb3FvYldHV19tVm9yX1YzWlYtVTdOTHhLdXk?oc=5"
     },
     {
       "text": "Communication Concepts: Customer experience is more than customer service - Boulder Daily Camera",
@@ -763,10 +767,6 @@
     {
       "text": "Unlocking Tourism Insights: New Survey to Boost Andaman's Appeal - Devdiscourse",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnBFZHd1WWFKUVdnTUdndkprNDdzNWNlaUNqTHhrUjdaRWtOSEtWeVVRdlAwQlNCcnY5TGhNNGkzUEItd3RuMGlMY1NvaUN1cjZiMjRtZG40enFncExDUjNrOTNwWDE5di1fS0J3dldGaTJ0bWxzS3JlU19YOUw1NzB3M0ptNmNtQUJnTFdBQzlKalFhUUVLSVU5TUczVElPWVNxUjBBQk45Y3BtUWJDc0FQUzdSZXPSAbwBQVVfeXFMTmJ6eGxmbWdPQXhQRTg3cTVKSUgwd2hQYWVVbWFxdzZUOW1KUktQdkdFbUI1YWNmUmtQU3lKTHozVElWWEM4NWRLMmpMMmtMY3BrcDhmLUFRUDFEVWxiZUE0MUdDVzNBTVhHdVdHbTEycnVzenhEdENnS3o0Tm1WQlpPdVFob2pxVUUzR1I5LUtRQXVMUEZmMmFrUlBQRzdRcHF0QXVwV1ktWHZaSjhmUjNpd3hIcDhuZzh6S1M?oc=5"
-    },
-    {
-      "text": "Karnataka caste census: Panel prepares sixty survey questions to be posed to seven crore people - Vartha Bharati",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTlPOTV1NENPaVJ0YnlVU1NyMHhRZXNtYUxtRFRoVnpfNi1YRmRsd0dYSlJvd1FNbjBjZVJiNi1ZZ09JV0tTLUtmUk93NUlDWFp3bDlESnNKSzBvaWRueVhYV2VncVRuX2xOekRDTzFlVmZEM1lsVGQxM3V2X3FpZVBnWjBWRmVHbjhVNk1hNWg4UjRScFJzSkRoZk5weEpGNG0xUllUaVZUTVJJdXlCNEJ5T0F0bUpQc1BWMWJCSi15SHdBbXExcjQ4Z0ZUdw?oc=5"
     }
   ]
 }
