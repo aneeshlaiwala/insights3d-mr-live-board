@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-07T20:14:31.398Z",
+  "generated_at": "2025-09-07T21:07:40.628Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,51 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Modi to visit Punjab tomorrow, will survey flood-ravaged areas - Tribune India",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0l0SFh6U3F0RjdSNzlBX1VoTTM2Q1pWS1hLSlN6NXhkalhSTEprbVJFbUdUbmphVkVMSFM1WkhWVmxDaHByYUNubDByNjUxN3ZGZWRHeXZRT0ZpYUdYNk10U1hDOFpIRkJZZmc0QlM1LVlMNDQ0eWZENHA3Qkh6Q2xjeW00ZS10YXVBMks2cEpjNlRIN1haRk1IVmtpazVLMmtUblJWVWFWSlNVQV9F0gGoAUFVX3lxTE9iX3BVNWR1d2QtZ185NmtUV2ZkdF9DUHAzR2ZvNXJRQUMzMGJnMkg4b2J0c0pTUFp3MS16NkpWZmJia3dYak1rTFQwczhZeVZsZ3N4cEI1Tk01LVp1MnEzN2NlaXJfXzVLTDFmODF2NXBPQXhWR21EdW8zTG5ES2hLel9HQVhYdWVuUlFteWZ2Y1c0amZDWUZ4ZVpGYVVCVkJrUVdqR0h4dA?oc=5",
+      "isoDate": "2025-09-07T20:30:28.000Z",
+      "source": "news.google.com",
+      "raw": "Modi to visit Punjab tomorrow, will survey flood-ravaged areas  Tribune India",
+      "summary": "Modi to visit Punjab tomorrow, will survey flood-ravaged areas Tribune India",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Most Social Security recipients wouldn't be able to manage benefit cuts, survey shows - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDh5QVJvb0QxcGR2RmZXTHZGSDhjei1WSFh5bFZFdjM2TWo1Z1FSUm5ibW91cG1SWlA0VG01VjJFR3pydTM5VDgtVG44OFhSQnl2OG80ZWVCc25rNHBlTXh5UW4xWWM4OUpNZEoyU1hVZS1WNmZoSktZWnhTNnNVeGp3Y2VJTGxfcnVkS3AwcnJVdFdqQ0F2SzRnRkhUQ2lLN09PRnB4eEtLd0F4ajFIQ3RTWQ?oc=5",
+      "isoDate": "2025-09-07T20:20:02.000Z",
+      "source": "news.google.com",
+      "raw": "Most Social Security recipients wouldn't be able to manage benefit cuts, survey shows  USA Today",
+      "summary": "Most Social Security recipients wouldn't be able to manage benefit cuts, survey shows USA Today",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Survey: Wisconsinites skipping meals to make ends meet - VernonReporter",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzVVM3B2dEF6bUR6VW9tcjZKVnZXcEVjYkRnMXVwY1BJempmS1B3OWZmdG9FOHV2eXB6TVRhRnUzUDAtVkJhanVTeEhnUThXbV9CbW5FYnhDNWc1cHpmeDVRUUxnaEdZeWFOdWFHTXMyaHlQYjlZUE9xd010d0V5bS1nTk55ZHg1?oc=5",
+      "isoDate": "2025-09-07T20:17:25.000Z",
+      "source": "news.google.com",
+      "raw": "Survey: Wisconsinites skipping meals to make ends meet  VernonReporter",
+      "summary": "Survey: Wisconsinites skipping meals to make ends meet VernonReporter",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Communication Concepts: Customer experience is more than customer service - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHJQaW83TW91bGJFeHVFblNsbXgtVHB4YnlYYkpFT2plbXgxTVVFTDRkekpESHd2UVFHbnBBaEtJdkxPNzJfS0pqXzJsWkhtNEpLZ2xZbklXMkRJOEVIMGQwM1Y0a1h1d1ZWX2xzc3BuVnE3RTFxa0FoUzdXb1hib0NwM1VMT1g5N0dKZHk1WFhSaHJPY3M0NkhRcjdKYkR6TUd4RHRYck9QRjR0SGRVdUxB?oc=5",
+      "isoDate": "2025-09-07T19:03:40.000Z",
+      "source": "news.google.com",
+      "raw": "Communication Concepts: Customer experience is more than customer service  Boulder Daily Camera",
+      "summary": "Communication Concepts: Customer experience is more than customer service Boulder Daily Camera",
+      "topics": [
+        "AI in MR",
+        "CX"
+      ]
+    },
     {
       "title": "Editorial: Karnataka Survey on Devadasis, Transgender Persons Aims at Inclusive Governance - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3dBblZpRlZFLWFoMnZOQWxzanVwLWNpU1c1S2ZqNWg4OHU3YnctS2NkOThLdU1CcmRIOGhvWjBSYmZSajh3ZlBnWVQyakFXSVNnN21EVTZZNEROQlhmV3djT1VrSVNrZzN0cDZRaEtZX3hyWU42NFZYR0hjS0otMGZ2eUh1ZGhQRHhXa2ZsSXJkUER5bm02WXlOVzYzUQ?oc=5",
@@ -89,17 +134,6 @@
       ]
     },
     {
-      "title": "Survey: Social Security Cuts Would Be Unmanageable for Over 60% of Recipients - Nasdaq",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZQUklHeXR6UmpWVmpab05ZaF85dGJvOEdkZHduTEk1WUpyQlZHUlBWWm5HdmpNSDU2MjVxeDRraDUxcTVJQUtYS3ZPVmVqRjlMVGtuNll5ZEhETC11amZYU3pDcmtaSndZeVNUUFRJQVpVdjlWcjV4c04wb2R0Rm13RE96ZVZiN0REU0dSaFBtTWJybTJzTWNnYnZNS2pUSkE?oc=5",
-      "isoDate": "2025-09-07T16:39:00.000Z",
-      "source": "news.google.com",
-      "raw": "Survey: Social Security Cuts Would Be Unmanageable for Over 60% of Recipients  Nasdaq",
-      "summary": "Survey: Social Security Cuts Would Be Unmanageable for Over 60% of Recipients Nasdaq",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Pastoral planning survey continues to receive responses - The Catholic Times",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUZseEl0S3BCTnE2amFQTmg2TkJ2QXBBYTlGcFNSMkEwdHBHMUdNeWluTHlnRzFWcVVzVnRGMlRvUHEtczRUWlFWbXRiU1NEM1d1TEVSemlRMi1nUGg3U2JteTBzV1ZZX09oTl9pN05yMjFncnFydklCU2kyejd5Ty1DaEhqcjEzWFJQQ0J5RzZla0lUbW9DTFZicE94U1NaTDZRMG44NVRZQQ?oc=5",
       "isoDate": "2025-09-07T16:25:21.000Z",
@@ -133,6 +167,17 @@
       ]
     },
     {
+      "title": "Comerica Survey: Small Businesses Confident About Growth, Cautious But Curious On AI - CU Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzJOTmFfUjZfd0J6ZG5LWXJ3N0RPejJXTGQ4UG40dmRVR2JKQVFYQjNXaHZybTlrMTJscHU5S1NsZ1hnMGVmcEFZdGxZcFhpWlcyeERrZ3RocVI2dEctZV9raGRscms2MzlVaUJ3UGtrcmhuVEFwS3NQY2FsQXZHUUV5Z3RGMFotVE5Yc0k0UWlmMnd5S2ZFangtWk1ZSFVadDR0UE1DazZ1S2IyeDkyTkRxRlRrSVl1UTQw?oc=5",
+      "isoDate": "2025-09-07T15:53:15.000Z",
+      "source": "news.google.com",
+      "raw": "Comerica Survey: Small Businesses Confident About Growth, Cautious But Curious On AI  CU Today",
+      "summary": "Comerica Survey: Small Businesses Confident About Growth, Cautious But Curious On AI CU Today",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
       "title": "PM Modi To Visit Punjab On September 9, Conduct Aerial Survey Of Flood-Hit Areas - Free Press Journal",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZk5Fc2NVTlROSDhld2Q3TW5IZUVRZDBBZHdqU1RtbS1vTEVSOHJQUUY1eGk4YU10WTEyemlfUFZLRE1kRGQ4eXlZcG9QU051bk0zajN3aml1UWpFdm9OZUY3TWZ6MnpTNm95OHk5X3JLWlJCTE54QUhHVzBQWVRoSnNMS3lhY1dpeWxGcVBUcmxTc3o2cjFLNEdlNHFDNHpVNG1LQ0xOSnVIS3dyNTNQYWlObmFzODlZb21v0gHAAUFVX3lxTE5jSm5CdWVxMHI0MWdibjFVak9pc0E1T1dIb1ZkMkctaDRpSDNmS1lQNUdld29UbGp4XzlmVlRmVzR4aHM4ZHhqVXpSX3hJaVhEdmtORWVkOTdTdEcxc2I0d08tY1V1SnRSZVVnZjZWMFZNd1Y0UVVpVEpqTnBIOFJPQ2JrVnZiM0FGT09VM1pzY1RLMkxYRlhpMF93RkcxeTZnSW1Xa0Qtc09jMDhOYTROaUZwVmxnR194QjQ5bGhLNw?oc=5",
       "isoDate": "2025-09-07T15:40:53.000Z",
@@ -152,29 +197,6 @@
       "summary": "Madhya Pradesh: Baijnath Temple In Badnawar Finally Gets Survey Attention Free Press Journal",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Most drivers in the US confuse alcoholic beverages with energy drinks and soda - survey - Українські Національні Новини",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkZRNXgybjFwYnV5WWQ4ZTVhUVBDaGFLTHBUZEQycWNoUzhDRENMTUNFSEQxeVNkdXZfa3lSbDhIUjVoUUg0UHFGNU1GZE9KR2R5OUxObmtpa003ZWhaV2djMGg4RWF4SU13RWdGMTl2ZU0zeDdVTy1QTi1FNk5vVEJKYTVmeGRCMnJBM1JEeEFpOHhEV1dLX2NZWkY4WTViSVZMXzdOTEU5X0pi0gGrAUFVX3lxTE5henhoSzlqQVZtelZfdTZXak8ydVNrSmNxSlJGWnNxaHptNG8tdFFZcDJlSGJsemsxV2FpVnFJMnpRMFVzaS1GRjNHandha2NiQ0ZyQld2MW5ST1VpRWJyWUVkc0pNV1FVc3R0cW1OM3lOVVF3TUZFd0ZZY2lLTzlqMGdPR2lidkFCZ3cteXlTY3V4Yk1UNGl2Qkcya2k4aXl2WDJVU0NVTnpLaw?oc=5",
-      "isoDate": "2025-09-07T14:27:09.000Z",
-      "source": "news.google.com",
-      "raw": "Most drivers in the US confuse alcoholic beverages with energy drinks and soda - survey  Українські Національні Новини",
-      "summary": "Most drivers in the US confuse alcoholic beverages with energy drinks and soda - survey Українські Національні Новини",
-      "topics": [
-        "AI in MR"
-      ]
-    },
-    {
-      "title": "Communication Concepts: Customer experience is more than customer service - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHJQaW83TW91bGJFeHVFblNsbXgtVHB4YnlYYkpFT2plbXgxTVVFTDRkekpESHd2UVFHbnBBaEtJdkxPNzJfS0pqXzJsWkhtNEpLZ2xZbklXMkRJOEVIMGQwM1Y0a1h1d1ZWX2xzc3BuVnE3RTFxa0FoUzdXb1hib0NwM1VMT1g5N0dKZHk1WFhSaHJPY3M0NkhRcjdKYkR6TUd4RHRYck9QRjR0SGRVdUxB?oc=5",
-      "isoDate": "2025-09-07T14:23:39.000Z",
-      "source": "news.google.com",
-      "raw": "Communication Concepts: Customer experience is more than customer service  Boulder Daily Camera",
-      "summary": "Communication Concepts: Customer experience is more than customer service Boulder Daily Camera",
-      "topics": [
-        "AI in MR",
-        "CX"
       ]
     },
     {
@@ -354,17 +376,6 @@
       ]
     },
     {
-      "title": "Unlocking Tourism Insights: New Survey to Boost Andaman's Appeal - Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnBFZHd1WWFKUVdnTUdndkprNDdzNWNlaUNqTHhrUjdaRWtOSEtWeVVRdlAwQlNCcnY5TGhNNGkzUEItd3RuMGlMY1NvaUN1cjZiMjRtZG40enFncExDUjNrOTNwWDE5di1fS0J3dldGaTJ0bWxzS3JlU19YOUw1NzB3M0ptNmNtQUJnTFdBQzlKalFhUUVLSVU5TUczVElPWVNxUjBBQk45Y3BtUWJDc0FQUzdSZXPSAbwBQVVfeXFMTmJ6eGxmbWdPQXhQRTg3cTVKSUgwd2hQYWVVbWFxdzZUOW1KUktQdkdFbUI1YWNmUmtQU3lKTHozVElWWEM4NWRLMmpMMmtMY3BrcDhmLUFRUDFEVWxiZUE0MUdDVzNBTVhHdVdHbTEycnVzenhEdENnS3o0Tm1WQlpPdVFob2pxVUUzR1I5LUtRQXVMUEZmMmFrUlBQRzdRcHF0QXVwV1ktWHZaSjhmUjNpd3hIcDhuZzh6S1M?oc=5",
-      "isoDate": "2025-09-06T08:46:24.000Z",
-      "source": "news.google.com",
-      "raw": "Unlocking Tourism Insights: New Survey to Boost Andaman's Appeal  Devdiscourse",
-      "summary": "Unlocking Tourism Insights: New Survey to Boost Andaman's Appeal Devdiscourse",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Karnataka caste census: Panel prepares sixty survey questions to be posed to seven crore people - Vartha Bharati",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTlPOTV1NENPaVJ0YnlVU1NyMHhRZXNtYUxtRFRoVnpfNi1YRmRsd0dYSlJvd1FNbjBjZVJiNi1ZZ09JV0tTLUtmUk93NUlDWFp3bDlESnNKSzBvaWRueVhYV2VncVRuX2xOekRDTzFlVmZEM1lsVGQxM3V2X3FpZVBnWjBWRmVHbjhVNk1hNWg4UjRScFJzSkRoZk5weEpGNG0xUllUaVZUTVJJdXlCNEJ5T0F0bUpQc1BWMWJCSi15SHdBbXExcjQ4Z0ZUdw?oc=5",
       "isoDate": "2025-09-06T06:30:00.000Z",
@@ -476,6 +487,17 @@
       ]
     },
     {
+      "title": "32GB RAM Is the New Norm for PC Gamers, Steam Survey Shows - extremetech.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDZwb05HdEdpSy1uYU5UekhITWRYQklxeE1NM09BNVBwMHJha05xVFpMUE81bXBwVDNCWW5XcHpOTnZuZ1BjRFBDR2NSUmduUGc0VG1JRENrQkRYN3h1U296d0g4QnFpMDFjTUNjb1R3c1VGdWR1dGVZekdKRUs0ZlZnVElzNHQtMVl6eW5EM1BmYzZGMlNRckIyaw?oc=5",
+      "isoDate": "2025-09-04T11:00:00.000Z",
+      "source": "news.google.com",
+      "raw": "32GB RAM Is the New Norm for PC Gamers, Steam Survey Shows  extremetech.com",
+      "summary": "32GB RAM Is the New Norm for PC Gamers, Steam Survey Shows extremetech.com",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "UK businesses cut jobs at fastest pace since 2021, BoE survey shows - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRzhKRWtUMGlDSkFqSGE3bnlTdnJWLUdTcVRad25TQm5RQW81S0pyaGlfNlBHbG1wVl9xeExydHBrUnp4OU5CNVRtRXpUazRsUUt3VXRVcUcwanJqNzZQUmNuMGl1OGdHWmdHdGx1Yko?oc=5",
       "isoDate": "2025-09-04T10:33:00.000Z",
@@ -540,28 +562,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Our survey of Green party members suggests Zack Polanski has the mandate to take his party in a more radical direction - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMDh0bUVuXzRGX3RNN29zNkxwcEdnUFpJVFZ3NFE4MDFZTjFQTnJzTlhOT0l6M044ajd2ekRNT3Q5NHZqNTBPeGFIM1VpUzVtVjA3cUNldkxwc2s0LW9sV29lY0I3WlludlBpQy1MeUJoanBxS1dveUkzNUplaTFpd1NhNUtna0xlM0JGbU10TzBZdkhMZG9wSHh0bzV4SEN6dTJBU3RwdDRTRXVXNGNrVzlqTlVkZ1ZFU2tZSktHVWtRbU1VQzZ3QS1VN1daT011WVplcHNFUG14NHB4cmpEV3JBQ0w0SWFq?oc=5",
-      "isoDate": "2025-09-03T12:40:35.000Z",
-      "source": "news.google.com",
-      "raw": "Our survey of Green party members suggests Zack Polanski has the mandate to take his party in a more radical direction  The Conversation",
-      "summary": "Our survey of Green party members suggests Zack Polanski has the mandate to take his party in a more radical direction The Conversation",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "OPEC Oil Output Rose In August Amid Supply Revival, Survey Shows - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb091cWdsRndHcFF5VmtqdzhyazNRZjlZZmlrT1lCc0pydF8xcDlsZDF4WVRWV3dabUxvZ0VrTWdtY1dzZk41TDZIbnpKVmx4M1c1VXpjbXp1eFVGd0lXWk0xS0h3VmJEcUM0MktadTM0dWRIM3c5dC1JSEpqczNUNGhYQmZyektQZThxU1lUc1VkaF9qMTFmdEg3Y294QXdsZFVnakxydkRzUFcyajIzNzl6UHc?oc=5",
-      "isoDate": "2025-09-03T12:30:07.000Z",
-      "source": "news.google.com",
-      "raw": "OPEC Oil Output Rose In August Amid Supply Revival, Survey Shows  Bloomberg.com",
-      "summary": "OPEC Oil Output Rose In August Amid Supply Revival, Survey Shows Bloomberg.com",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [],
@@ -569,6 +569,10 @@
     {
       "label": "#survey",
       "url": "https://x.com/search?q=%23survey"
+    },
+    {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
     },
     {
       "label": "#india",
@@ -579,8 +583,8 @@
       "url": "https://x.com/search?q=%23reveals"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
+      "label": "#areas",
+      "url": "https://x.com/search?q=%23areas"
     },
     {
       "label": "#customer",
@@ -603,40 +607,28 @@
       "url": "https://x.com/search?q=%23aerial"
     },
     {
-      "label": "#areas",
-      "url": "https://x.com/search?q=%23areas"
-    },
-    {
       "label": "#first",
       "url": "https://x.com/search?q=%23first"
     },
     {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
+      "label": "#flood",
+      "url": "https://x.com/search?q=%23flood"
     },
     {
-      "label": "#tourism",
-      "url": "https://x.com/search?q=%23tourism"
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#americans",
       "url": "https://x.com/search?q=%23americans"
     },
     {
-      "label": "#andaman",
-      "url": "https://x.com/search?q=%23andaman"
-    },
-    {
       "label": "#asked",
       "url": "https://x.com/search?q=%23asked"
     },
     {
-      "label": "#august",
-      "url": "https://x.com/search?q=%23august"
-    },
-    {
-      "label": "#boost",
-      "url": "https://x.com/search?q=%23boost"
+      "label": "#businesses",
+      "url": "https://x.com/search?q=%23businesses"
     },
     {
       "label": "#caste",
@@ -645,9 +637,33 @@
     {
       "label": "#complete",
       "url": "https://x.com/search?q=%23complete"
+    },
+    {
+      "label": "#concepts",
+      "url": "https://x.com/search?q=%23concepts"
+    },
+    {
+      "label": "#court",
+      "url": "https://x.com/search?q=%23court"
     }
   ],
   "ticker": [
+    {
+      "text": "Modi to visit Punjab tomorrow, will survey flood-ravaged areas - Tribune India",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0l0SFh6U3F0RjdSNzlBX1VoTTM2Q1pWS1hLSlN6NXhkalhSTEprbVJFbUdUbmphVkVMSFM1WkhWVmxDaHByYUNubDByNjUxN3ZGZWRHeXZRT0ZpYUdYNk10U1hDOFpIRkJZZmc0QlM1LVlMNDQ0eWZENHA3Qkh6Q2xjeW00ZS10YXVBMks2cEpjNlRIN1haRk1IVmtpazVLMmtUblJWVWFWSlNVQV9F0gGoAUFVX3lxTE9iX3BVNWR1d2QtZ185NmtUV2ZkdF9DUHAzR2ZvNXJRQUMzMGJnMkg4b2J0c0pTUFp3MS16NkpWZmJia3dYak1rTFQwczhZeVZsZ3N4cEI1Tk01LVp1MnEzN2NlaXJfXzVLTDFmODF2NXBPQXhWR21EdW8zTG5ES2hLel9HQVhYdWVuUlFteWZ2Y1c0amZDWUZ4ZVpGYVVCVkJrUVdqR0h4dA?oc=5"
+    },
+    {
+      "text": "Most Social Security recipients wouldn't be able to manage benefit cuts, survey shows - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDh5QVJvb0QxcGR2RmZXTHZGSDhjei1WSFh5bFZFdjM2TWo1Z1FSUm5ibW91cG1SWlA0VG01VjJFR3pydTM5VDgtVG44OFhSQnl2OG80ZWVCc25rNHBlTXh5UW4xWWM4OUpNZEoyU1hVZS1WNmZoSktZWnhTNnNVeGp3Y2VJTGxfcnVkS3AwcnJVdFdqQ0F2SzRnRkhUQ2lLN09PRnB4eEtLd0F4ajFIQ3RTWQ?oc=5"
+    },
+    {
+      "text": "Survey: Wisconsinites skipping meals to make ends meet - VernonReporter",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzVVM3B2dEF6bUR6VW9tcjZKVnZXcEVjYkRnMXVwY1BJempmS1B3OWZmdG9FOHV2eXB6TVRhRnUzUDAtVkJhanVTeEhnUThXbV9CbW5FYnhDNWc1cHpmeDVRUUxnaEdZeWFOdWFHTXMyaHlQYjlZUE9xd010d0V5bS1nTk55ZHg1?oc=5"
+    },
+    {
+      "text": "Communication Concepts: Customer experience is more than customer service - Boulder Daily Camera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHJQaW83TW91bGJFeHVFblNsbXgtVHB4YnlYYkpFT2plbXgxTVVFTDRkekpESHd2UVFHbnBBaEtJdkxPNzJfS0pqXzJsWkhtNEpLZ2xZbklXMkRJOEVIMGQwM1Y0a1h1d1ZWX2xzc3BuVnE3RTFxa0FoUzdXb1hib0NwM1VMT1g5N0dKZHk1WFhSaHJPY3M0NkhRcjdKYkR6TUd4RHRYck9QRjR0SGRVdUxB?oc=5"
+    },
     {
       "text": "Editorial: Karnataka Survey on Devadasis, Transgender Persons Aims at Inclusive Governance - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3dBblZpRlZFLWFoMnZOQWxzanVwLWNpU1c1S2ZqNWg4OHU3YnctS2NkOThLdU1CcmRIOGhvWjBSYmZSajh3ZlBnWVQyakFXSVNnN21EVTZZNEROQlhmV3djT1VrSVNrZzN0cDZRaEtZX3hyWU42NFZYR0hjS0otMGZ2eUh1ZGhQRHhXa2ZsSXJkUER5bm02WXlOVzYzUQ?oc=5"
@@ -677,10 +693,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQk1sMXJlZTN5X0hHeC05dTM3QXNZdTVyWDd3TkJ5NVRZT0h1ZUpwa3RsdmtPVEN0VUhOdmpkeTRwUmk4aU1OYjBqWlJoRkwzWlNaamFLLUVQZ18tS2dVMUJDQ1JMZGxid0E3aUdmVDdIbzloejJ5a1FYVmEtM2xOOVpMLTJhY0pzMWREaHJrZFdKNjQxSjFzZEdES2ZyRWZna0pXZlotM1l1eXdGcW5fVw?oc=5"
     },
     {
-      "text": "Survey: Social Security Cuts Would Be Unmanageable for Over 60% of Recipients - Nasdaq",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZQUklHeXR6UmpWVmpab05ZaF85dGJvOEdkZHduTEk1WUpyQlZHUlBWWm5HdmpNSDU2MjVxeDRraDUxcTVJQUtYS3ZPVmVqRjlMVGtuNll5ZEhETC11amZYU3pDcmtaSndZeVNUUFRJQVpVdjlWcjV4c04wb2R0Rm13RE96ZVZiN0REU0dSaFBtTWJybTJzTWNnYnZNS2pUSkE?oc=5"
-    },
-    {
       "text": "Pastoral planning survey continues to receive responses - The Catholic Times",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUZseEl0S3BCTnE2amFQTmg2TkJ2QXBBYTlGcFNSMkEwdHBHMUdNeWluTHlnRzFWcVVzVnRGMlRvUHEtczRUWlFWbXRiU1NEM1d1TEVSemlRMi1nUGg3U2JteTBzV1ZZX09oTl9pN05yMjFncnFydklCU2kyejd5Ty1DaEhqcjEzWFJQQ0J5RzZla0lUbW9DTFZicE94U1NaTDZRMG44NVRZQQ?oc=5"
     },
@@ -693,20 +705,16 @@
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbF90NUJSV29KWlNyYlNmUW5iME91NFNSUEs4cFd2RVBPWGtGZjFWMlVpY0pNTWVlX0FDb0pQNTlBWkRpZWM3X09ZY256M0Y1QUx0a2M5RHo5dHRpcEJMZGpxdUZweVo3QkFyc1hMQnU0YzM2SlVkUmxneHBNU1JqUThQd3BIODA5dTdjUTd1bUw2OEtLbVBUMUhxMlpkZzZXdFlkckhtY1huRE1aaEFZTmdxcTBfUnNVZ2Z1a0F5RWNpOUdFYTJ4VnBFdHNtVzNJM3lDWU5DQnpzR0RHUlRCTHZYOTV5U1kycVJkV3VZMmo1TE90TThaUTBhUnNBSlJqUU9hQmJjdm5iZmRUb3EwX05KRQ?oc=5"
     },
     {
+      "text": "Comerica Survey: Small Businesses Confident About Growth, Cautious But Curious On AI - CU Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzJOTmFfUjZfd0J6ZG5LWXJ3N0RPejJXTGQ4UG40dmRVR2JKQVFYQjNXaHZybTlrMTJscHU5S1NsZ1hnMGVmcEFZdGxZcFhpWlcyeERrZ3RocVI2dEctZV9raGRscms2MzlVaUJ3UGtrcmhuVEFwS3NQY2FsQXZHUUV5Z3RGMFotVE5Yc0k0UWlmMnd5S2ZFangtWk1ZSFVadDR0UE1DazZ1S2IyeDkyTkRxRlRrSVl1UTQw?oc=5"
+    },
+    {
       "text": "PM Modi To Visit Punjab On September 9, Conduct Aerial Survey Of Flood-Hit Areas - Free Press Journal",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZk5Fc2NVTlROSDhld2Q3TW5IZUVRZDBBZHdqU1RtbS1vTEVSOHJQUUY1eGk4YU10WTEyemlfUFZLRE1kRGQ4eXlZcG9QU051bk0zajN3aml1UWpFdm9OZUY3TWZ6MnpTNm95OHk5X3JLWlJCTE54QUhHVzBQWVRoSnNMS3lhY1dpeWxGcVBUcmxTc3o2cjFLNEdlNHFDNHpVNG1LQ0xOSnVIS3dyNTNQYWlObmFzODlZb21v0gHAAUFVX3lxTE5jSm5CdWVxMHI0MWdibjFVak9pc0E1T1dIb1ZkMkctaDRpSDNmS1lQNUdld29UbGp4XzlmVlRmVzR4aHM4ZHhqVXpSX3hJaVhEdmtORWVkOTdTdEcxc2I0d08tY1V1SnRSZVVnZjZWMFZNd1Y0UVVpVEpqTnBIOFJPQ2JrVnZiM0FGT09VM1pzY1RLMkxYRlhpMF93RkcxeTZnSW1Xa0Qtc09jMDhOYTROaUZwVmxnR194QjQ5bGhLNw?oc=5"
     },
     {
       "text": "Madhya Pradesh: Baijnath Temple In Badnawar Finally Gets Survey Attention - Free Press Journal",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGFyN19UM1FsUF90a2JPeV9zbmJYR0ZwODVIb1JGWGZQcmNyRGs4bjFCS2NlTUJadzl6dmhHOXJXdmtKaWxRUmhkbC1xZjdHZmdoTXd1c2JJQ0xvczlwbHQ4c29CbWRuaTZtNEZDTm45b0hYZWVnN3ZCTHpsREUxZl9GZWFFNkY2SmZPU1V4RWY4Mkp2YTFrc3lsLXJqUWFUSjllOC1Od1IyeWFzYllIStIBtgFBVV95cUxQbGVJN3V6dU5YQ1J3bk8zbFJ3YTVGaHlZYTY0LXNBRlhDMU1UbVN2S01jX2tVVHJDY0dQbnFyRlZUSnJZWFVBeTZVamNJVDcxQWxtTmJqaVBlay1ocUxoYUYwZmwyLWNUUXZ0OE00aTdWMTZtMGY0c1B5V1YwZFJHQ1B4bHpHYVQyQnZJbkNlMTJCOWlfS2RMNEN0V25qN1EzbGJUa1lVeVFKZUVJNVlLOXRpVVZBUQ?oc=5"
-    },
-    {
-      "text": "Most drivers in the US confuse alcoholic beverages with energy drinks and soda - survey - Українські Національні Новини",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkZRNXgybjFwYnV5WWQ4ZTVhUVBDaGFLTHBUZEQycWNoUzhDRENMTUNFSEQxeVNkdXZfa3lSbDhIUjVoUUg0UHFGNU1GZE9KR2R5OUxObmtpa003ZWhaV2djMGg4RWF4SU13RWdGMTl2ZU0zeDdVTy1QTi1FNk5vVEJKYTVmeGRCMnJBM1JEeEFpOHhEV1dLX2NZWkY4WTViSVZMXzdOTEU5X0pi0gGrAUFVX3lxTE5henhoSzlqQVZtelZfdTZXak8ydVNrSmNxSlJGWnNxaHptNG8tdFFZcDJlSGJsemsxV2FpVnFJMnpRMFVzaS1GRjNHandha2NiQ0ZyQld2MW5ST1VpRWJyWUVkc0pNV1FVc3R0cW1OM3lOVVF3TUZFd0ZZY2lLTzlqMGdPR2lidkFCZ3cteXlTY3V4Yk1UNGl2Qkcya2k4aXl2WDJVU0NVTnpLaw?oc=5"
-    },
-    {
-      "text": "Communication Concepts: Customer experience is more than customer service - Boulder Daily Camera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHJQaW83TW91bGJFeHVFblNsbXgtVHB4YnlYYkpFT2plbXgxTVVFTDRkekpESHd2UVFHbnBBaEtJdkxPNzJfS0pqXzJsWkhtNEpLZ2xZbklXMkRJOEVIMGQwM1Y0a1h1d1ZWX2xzc3BuVnE3RTFxa0FoUzdXb1hib0NwM1VMT1g5N0dKZHk1WFhSaHJPY3M0NkhRcjdKYkR6TUd4RHRYck9QRjR0SGRVdUxB?oc=5"
     },
     {
       "text": "Karnataka Caste Survey: Lingayats asked to identify themselves as separate religious group, distinct from - The Economic Times",
@@ -759,14 +767,6 @@
     {
       "text": "85 Ancient Inscriptions Discovered in Chikkamagaluru During Karnataka Heritage Survey - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ19zcDlIR2R4VnlGdlRxT004MVV0NU5xYXBEZmVaSU5wVmp5c2NONi1WOHlYTE9NaVgxM3dMYlRiMUoyZVNYTFlrQWFKeXVvek54YUplZDJhX21lT3RfVXgwMzlVeXVJV0ZtSEo5UldRMER6M1BYdVZwVFBLUlFFVmlsSFBnM2FjeUJiY0tPQTBKOEd5NFFULWpaVFlOSGZ2X0pHb2Qwb1kzRmpFX2pCSTZwUm54Z3hK?oc=5"
-    },
-    {
-      "text": "Bulldozer action on UP University after land encroachment survey, protests - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSE5PeWQtczV4MDc5c091b2taR2FOWGJfRnJDdXBZY3ItMy1XeHV6UmVpemhtd1RiYVRqbXRYdlpEVEN2QUxONEoxMkNjVWJIUFNSX3pEVE9CZUs2M2UyZU9QOE9EemYtOVVtLTM3c29LY1AzaWNxZFZJYWplVktmeExRaU9ad1k0QkZZS0hJLTdxOTdxdzlCd3JfczlPSjRRTlQtTk1JSVVMRU1ubXhDZ1hzR3JjUHMxVFVCU2dTMFJQcmdQOGt1UGE0SW5TcjU1ZWZUX1o5SzJ5ZmRIZGloQTdpQ2RjSDh0MTBMSENkU2w4TnFINEHSAfsBQVVfeXFMTUYtMlp0UWZ5UUZvMlM0aENDRXBTWkVMdlhwcy1EOG5zUU1ZRWVseGxMVWdyVGxJUUNCUG1Hd3pYLVNkRC0zeGFKWmF4UXRDT2RWSHFrVVZqQm9IaFMzUUJ2ZWJJMjViSzZNVy0yc0stcDFTYUpRVGgxcWcwS1dWdWxhNGhUb0daWFV3cm9lUmd1ZlJwT2N6bFRSaTUyR2RSSXBXRFZBcUI2Nk1YcEZFOTMxSnlWYnc4SWtqNzR0dTczU3o1QThiQmlPOHBHZ1JETS1OOThSSktYNXVPQjRfN1F5M1Brd19mVWVWQ3NPSlF6SVg3eWtKMHJ1RjQ?oc=5"
-    },
-    {
-      "text": "Parents asked to complete survey on Jersey family court - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tMUlPVWdBUE5tZ0lzVnNIdlcyZTJNam9LNzQ1TWdoU1VSYVBkbDQ3OUw2dEhqYUtMV0JvZVhPbzJiNVZmSmZLNG9xN1M4S1RwQnQtR3BkVmNXUdIBX0FVX3lxTFAxbUFFVFRBZEp6M2hsejdqOUNaal9PTHYxZ0pqd0loNEFLVGtjVkVmX1FEVWhESzBjN1RtQk4xRDVkamczZUhWQVpiTEJHTWlEbXJqcGRXQ0d1dTBzSVln?oc=5"
     }
   ]
 }
