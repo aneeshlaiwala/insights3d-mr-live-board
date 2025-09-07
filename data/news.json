@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-07T00:49:48.043Z",
+  "generated_at": "2025-09-07T01:14:01.249Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -409,6 +409,17 @@
       ]
     },
     {
+      "title": "Religious ‘nones’ on rise, many believe in afterlife but 50% say religion hurts society—Pew survey - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRlBzbjRFV2t4S1ItTlBGeXM1VVV3a2xZYTJoczVQdVFncEptdHg3cU8zcnRlNHJ2VG11aGhSTy00YXZfdk1DMlVGdE8wU2VYY1ljYjBqcmdCN29aandwTzFDUEpPLTNraEIwV1lmUG80bzR0UEQtM2phbE05VnU3Snp3XzFZUFJ2MFNIRmFmTG5vWGw1dHp4c3h2WEVPQ3FjZGI2djBCZExiVXh2Y0xZTGxBTWFRQ0ZsamtmNXZ2WFB4R3YxenVrctIBzgFBVV95cUxOcGpNbXJZSkVUeGZWMWVESl90QzB1UEsydUVMNGgtNHFDcmZLcVB1cUNQM0xWWDhIdHFkUUNhb05GWXlGVW9vd3ZFbE9hODdsSDJMQW1jV1F6V252cnNOeE9zUGJseEZGM1hFSE5tenAyVVZ2UGtBMGR1dDdQdkRuQThGdTFfMHkzMExYZHlGV19oajl3c1dWTnVySVNydXI5STg5UVFxY0ZTSXQyZjRseXg0Ry1qa3lwZzNIcXI4TS1tSmw4SUpyU2xvTkkzZw?oc=5",
+      "isoDate": "2025-09-04T15:31:24.000Z",
+      "source": "news.google.com",
+      "raw": "Religious ‘nones’ on rise, many believe in afterlife but 50% say religion hurts society—Pew survey  ThePrint",
+      "summary": "Religious ‘nones’ on rise, many believe in afterlife but 50% say religion hurts society—Pew survey ThePrint",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Exhaustive Survey On Unmarked Graves In Kashmir Punctures Pakistani Propaganda | Exclusive - News18",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTFzSXo4WlZTNXFRM1FvRkJ6NWpNRDFIS0tMdVpieU5qaDdsWE14dEVFLW1zWDl5c0Fnd3paa2xnVzdnX3N5ZWdTQVFvT1JsNDVxN1prUHNXcGRsNDdrZXJuTWlNSDZGTmJtT0hGUDZyX2dQMGdvUGRHa0lWeHQ5SERYWEtXbGJfWXZ2TzB4QkswbmFwc1VhbXdYSlNEVUxGUTZKcC1vQ00tUW41dm9sZzJJcWV4UUY0ejQ5NVg0WDl6NDJUei1aRW9n0gHPAUFVX3lxTE1FQk5CTVNtcDJHbDk5ck9QaEUxRXJMOUVRSWdXQnNLeVVrU1psdk9qQmJtb0RRNnphREctZWlHazVVT2VmY0xyMUFENnZsZWlqUDVXVFFpa3BNVjRWbXZOZGhRcnB2R3JpWEc1VlZhVEJCb2RjM1d2ZVB1VnFPX0lPUFBacC1nWTdIQjd6dF9ITktKcGI1RnBaekNvTzAyODBCWjZ4ZmRqb0NiWWZKaHJ4eGFleU1QVU5uMlRNTjNIR2M0YXdYOGJFRms2MTQ5Yw?oc=5",
       "isoDate": "2025-09-04T11:35:07.000Z",
@@ -550,17 +561,6 @@
       "topics": [
         "(Other)"
       ]
-    },
-    {
-      "title": "Senior developers let AI do more of the coding — survey - InfoWorld",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb25FVUpjUnlFOE9NdVdLQjZrbks4SXlhWnJkYlZYWVZHZkdFelhoaTdMN0dTeVdNSVUtSUZPN1Axb2d2QTd2UkhnR3VJUjV2dnRCbmV5THk5ai0wcDRRY21IOERnWkJ2T2xRdGt1RWFUbkUxSnN6S2t5LXd6enNjQ1RWemRBU3AySUpZYmhhd0R5WkFXTlJwWm9xN1JvMHpvdFE?oc=5",
-      "isoDate": "2025-09-02T20:54:03.000Z",
-      "source": "news.google.com",
-      "raw": "Senior developers let AI do more of the coding — survey  InfoWorld",
-      "summary": "Senior developers let AI do more of the coding — survey InfoWorld",
-      "topics": [
-        "AI in MR"
-      ]
     }
   ],
   "funding_ma": [],
@@ -570,12 +570,12 @@
       "url": "https://x.com/search?q=%23survey"
     },
     {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
-    },
-    {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
+    },
+    {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#india",
@@ -586,16 +586,16 @@
       "url": "https://x.com/search?q=%23reveals"
     },
     {
-      "label": "#more",
-      "url": "https://x.com/search?q=%23more"
-    },
-    {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
     },
     {
       "label": "#karnataka",
       "url": "https://x.com/search?q=%23karnataka"
+    },
+    {
+      "label": "#more",
+      "url": "https://x.com/search?q=%23more"
     },
     {
       "label": "#most",
