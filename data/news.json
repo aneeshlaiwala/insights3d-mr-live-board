@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-08T20:10:20.500Z",
+  "generated_at": "2025-09-08T20:16:29.489Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Americans give capitalism its lowest ever rating in new Gallup survey - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0o3SGJPX3k4NHFZR2g5ZmdXWmJBRlloY2N1bE1veGpSV3NHeDYwb2g0X1Q2Q2hiWmtUUV91Z28tclkwV3F6M2dRZmRqRkZkcnMyc2t4RFBZVC1QRk5Tc1N5U3VOYzFkdkFjdkNHVGpBVzA3bmhDV1hiZm10VDMxVExBek15dGZ6Q2dQbHFB?oc=5",
+      "isoDate": "2025-09-08T20:13:44.000Z",
+      "source": "news.google.com",
+      "raw": "Americans give capitalism its lowest ever rating in new Gallup survey  Axios",
+      "summary": "Americans give capitalism its lowest ever rating in new Gallup survey Axios",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "About a quarter of DC retirement plan sponsors considering alternative assets, BlackRock survey says - Pensions & Investments",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDFOYW9wTDYzbWtFdjRCV3M0ajJzVXMyWEpJNDlDX29yeU1vY1F6THliQURyanp3UWVUUEJxa2xPSkxFNWJRMHFydVgzWGFaRXJzSVk3b1RqempuZVluZ3g1ckFqWV9DSlozOVBJbklFeVc1X3NzbnpkOHhZYVFMaktoWG9jQXhadE5iMndGQWR5eUJzTkFVMzVkOXZkT2RjN09fT0RCUC1HVk9P?oc=5",
@@ -551,17 +562,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "Urban India to spend ₹2.19 lakh cr this festive season: Survey | 'Online shopping to rise to 28% this yr' | Inshorts - Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOURnemtvaE4yUEpvWXZyMW9iWHhfTms4dC1na0VPa1k4RkQwMlVtMzRMcDEwckEwV0doc1lqSFNXQWhRd1dRY0lUSUhnbW1qd2tfMmxFcTdIUXpNWTYwZFlzeklQYU5LajhwMVlyVEhFdDFVWENzcmdaNjRRN013bE12OTRIYTRTRGVrZ1ItYnFPbFE1eVVrR3QwS3JQMC1YU2hHUUF0MjnSAa4BQVVfeXFMTzRJbjY3WHhKQ0JLTk9QWWZzUVA0LVJfM2FvVlE2ZG1jMEo5LVJSN2NLWHFQMXNHUHpxaUczQkloNW5uYTRnS0NucU84Y3A3TVdIUTZRT2sxMG9nWUlVMkJwMnF3ZVhrM2UyVHdUdWlvX0lVenlodVJhZk1QbGJaWjcwdFdsWm9WSUpwYkpFYTk3NGV6WkxRWlp4YlkwSFNORmxoaFdSUDFyYmQ4MnNn?oc=5",
-      "isoDate": "2025-09-08T10:34:05.000Z",
-      "source": "news.google.com",
-      "raw": "Urban India to spend ₹2.19 lakh cr this festive season: Survey | 'Online shopping to rise to 28% this yr' | Inshorts  Inshorts",
-      "summary": "Urban India to spend ₹2.19 lakh cr this festive season: Survey | 'Online shopping to rise to 28% this yr' | Inshorts Inshorts",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -595,16 +595,16 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
-    },
-    {
       "label": "#aerial",
       "url": "https://x.com/search?q=%23aerial"
     },
     {
       "label": "#himachal",
       "url": "https://x.com/search?q=%23himachal"
+    },
+    {
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
     },
     {
       "label": "#modi",
@@ -660,6 +660,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Americans give capitalism its lowest ever rating in new Gallup survey - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0o3SGJPX3k4NHFZR2g5ZmdXWmJBRlloY2N1bE1veGpSV3NHeDYwb2g0X1Q2Q2hiWmtUUV91Z28tclkwV3F6M2dRZmRqRkZkcnMyc2t4RFBZVC1QRk5Tc1N5U3VOYzFkdkFjdkNHVGpBVzA3bmhDV1hiZm10VDMxVExBek15dGZ6Q2dQbHFB?oc=5"
+    },
     {
       "text": "About a quarter of DC retirement plan sponsors considering alternative assets, BlackRock survey says - Pensions & Investments",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDFOYW9wTDYzbWtFdjRCV3M0ajJzVXMyWEpJNDlDX29yeU1vY1F6THliQURyanp3UWVUUEJxa2xPSkxFNWJRMHFydVgzWGFaRXJzSVk3b1RqempuZVluZ3g1ckFqWV9DSlozOVBJbklFeVc1X3NzbnpkOHhZYVFMaktoWG9jQXhadE5iMndGQWR5eUJzTkFVMzVkOXZkT2RjN09fT0RCUC1HVk9P?oc=5"
@@ -775,10 +779,6 @@
     {
       "text": "North India floods: PM Modi to visit Punjab, Himachal on September 9; to survey affected areas, meet vict - Times of India",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRXdyOHVpX1BZV0hWb1l3RlBoQzNTWGx2REZlYm44ekRMcy11SHFaaWtmSU96Z3ZIbzBSLUhZU0l2NS1MdFFFRVJXWUVDSllLRngxV24tVzkxLWxsNUNQX0I5S1loenlBcWY4WU1qSUtnM0hzZUNxRjVjSTFCc25fcVpoa2Zua2FSQVg4MDBfX3U3V21oMnBSRFQxZ0JoNFgxU2pMV1JGTzc5UWZiRXg1WjdaMU5Vb19PU1RHWE9JMzVscmxhcm5NZFlEVDFNSUJzaHZHdWxiVEEtaHRhUE1NMzlnN0lmMTg0ci1ZMmxsOHVJSXhfZ0lHWDVwSE9VMExPMGfSAYcCQVVfeXFMT0ZBZDNGdzUtS0ZjLWJ6bE1FN1VoUTRPTy1PcmRTV0JMRTBGQVZ1S0pjV0ZCQ3dSNFF6TjUyeEZNbnV4cUZaazh3U0hoOGhUc2hvdWk3emVBLWo2aWJPNDNhSVV1bWd5MHpfRzN2NDdrbUhsemwxVG5xRTZLYjFNRDhFeWhIRmppUmZQQVR4bXpiajJramFfay0yTjNtb1hTWDdCU1hyQ3gyT2lQOThoaTdEWUtCSG4ya21FVzhNdzRZd1ItdUdrd0Z0Wk5IRFp2WThFcGd2eVIwcGtjd21QeFFmMkZabHBrQzliSWZIRmJMX1BYZ2pRNXRoVlBGX2RoM2tmQ0VzaFE?oc=5"
-    },
-    {
-      "text": "Survey: 55% of Companies Say Federal Pressure on DEI Has Affected Philanthropy - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0lRcjd1b1NfUXRuRU44UDJ0NHp1VVJzT3Bxd21KeU83emxuV2NGbWp0MGVCNml0VnpRendtaThLWERMa1d2WG95MEF3NDhteVl4ZWlidG1GNlJTRE1yT1laTkNWT2lDcl9FZkoyZWdPYktQbEhRcDhZb1g4aWNnWi1DbXpvVWMtNm02MU5rdGJqY3c5eGtaVFFKdzY5RHowTTVjdnJoZF9VTWg0eUJaelFFejBZVzVHWXBfa3RhX2dKcFdkN3RrbjRWSVE?oc=5"
     }
   ]
 }
