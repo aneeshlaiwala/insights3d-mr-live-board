@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-08T13:22:51.991Z",
+  "generated_at": "2025-09-08T13:26:29.858Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Office Depot Transforms Customer Experience by Launching Industr - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmxJMlk0Q0gxcTV6MzU4SDk0cWcwX1FyMG1vSjBndXlmOXRhRkQxT2dQVG5qNl9ON0pyX0tJenV6ZnZiMktPWUpxQ24yeTd4OTVqRXljWFZXTzhjQWFNa1g4ZlFITjZjcHluWWRpSXNqSkFfMlN5TE40M3hTSG50UWxSd0ZPSlFBY0lJUzNZM1kwcHNDQ2wzLWl0ZXAydlNub2dveWN6SWU2bXNpRmZHUFBqQTZacG5lcjZyaFN3U3c1UWRjUkkzR0pFOGFVTUVGeC1sQmIyUDVoYlNhSWc0Zm5wWkg?oc=5",
+      "isoDate": "2025-09-08T13:24:18.000Z",
+      "source": "news.google.com",
+      "raw": "Office Depot Transforms Customer Experience by Launching Industr  GuruFocus",
+      "summary": "Office Depot Transforms Customer Experience by Launching Industr GuruFocus",
+      "topics": [
+        "CX"
+      ]
+    },
     {
       "title": "Precipitate's IP Geophysical Survey Reveals New 1,600-metre-long Exploration Corridor at the Southeast and Centro Zones of the Juan de Herrera Project, Dominican Republic - Junior Mining Network",
       "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNb0xYY0JfTzNSZTFFV2llbENnZm44akluR0dWZWJnQ2U2c1FPRkhKZWVNOEt0bU9BZ2xWTXFuUHpjVXBDSTF2eWZPY1dDV21ORVJtRGR1a2dBbU5PWnZGS3Q5NF9VNl9KR2dyNm9LOTRLZy0tVzhEbGxsTWNtV0hodXNaY1VRVjZuWE1Vb0NFOWo1OGQxTXFzRHFBdzAtVVZUaTFVSlJaM3dPZHRUUTV3OEp1WDFsSUt0MU1tMENQY3JRTnV4UFlfV1hhbXZxdVNNNmcxLWRjUzdEdHg2RHJhaTkyNGZadmRIczVBQXJyalFGd3AzbWxCNFF1TGN2MlBWOGFXaXhfU18wZHBqRGtQendpUDFzb1d0dzV0eG51UmJkSHJKeVdUN0pUdE9HbWs0dElRa3VKT2xmbHFhZDlKSkJ3RjQwNndwY2c2cnV3SDRMazl2MHRJQkdjWk9SX1dhVVJzTGczUTJZRmpvN1U4Y1h4dTRRMmRmMmtTb3JNc25XUUU3?oc=5",
@@ -555,17 +566,6 @@
       "topics": [
         "AI in MR"
       ]
-    },
-    {
-      "title": "Video: Congress MP piggybacks on villager during Bihar flood survey, sparks row - India Today",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFFDVUdGek44OEFKOHNscy1PWk5LWGQwamFyWmFoRnFaRFpOQm51dWhaYXlqVjdPaXg1SUQ5anJaRTNLYk5IeGJ3aldUYlRSbXJJS1A0SzBYY1ZJbFZBbTdtb2NIRVdVc1VmZ29FVmFZNGZQYXFwbU82bUdxOXp2UVQtUExMZlc4U0N3ME5XTzd1US1QNm1fUUZuYllLdTBVbWFqVHcybF9hbzU2ZVZDVEpRTHR1aDVPc2tQQ2wzV251azJFd0pseUJjV3dCT28?oc=5",
-      "isoDate": "2025-09-08T04:32:07.000Z",
-      "source": "news.google.com",
-      "raw": "Video: Congress MP piggybacks on villager during Bihar flood survey, sparks row  India Today",
-      "summary": "Video: Congress MP piggybacks on villager during Bihar flood survey, sparks row India Today",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -635,24 +635,12 @@
       "url": "https://x.com/search?q=%23ai"
     },
     {
-      "label": "#during",
-      "url": "https://x.com/search?q=%23during"
-    },
-    {
       "label": "#over",
       "url": "https://x.com/search?q=%23over"
     },
     {
-      "label": "#bihar",
-      "url": "https://x.com/search?q=%23bihar"
-    },
-    {
-      "label": "#congress",
-      "url": "https://x.com/search?q=%23congress"
-    },
-    {
-      "label": "#flood",
-      "url": "https://x.com/search?q=%23flood"
+      "label": "#during",
+      "url": "https://x.com/search?q=%23during"
     },
     {
       "label": "#india",
@@ -663,8 +651,12 @@
       "url": "https://x.com/search?q=%23shopping"
     },
     {
-      "label": "#video",
-      "url": "https://x.com/search?q=%23video"
+      "label": "#bihar",
+      "url": "https://x.com/search?q=%23bihar"
+    },
+    {
+      "label": "#congress",
+      "url": "https://x.com/search?q=%23congress"
     },
     {
       "label": "#festive",
@@ -673,6 +665,10 @@
     {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
+    },
+    {
+      "label": "#flood",
+      "url": "https://x.com/search?q=%23flood"
     },
     {
       "label": "#online",
@@ -685,6 +681,10 @@
     {
       "label": "#shows",
       "url": "https://x.com/search?q=%23shows"
+    },
+    {
+      "label": "#video",
+      "url": "https://x.com/search?q=%23video"
     },
     {
       "label": "#acquisition",
@@ -700,6 +700,10 @@
     }
   ],
   "ticker": [
+    {
+      "text": "Office Depot Transforms Customer Experience by Launching Industr - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmxJMlk0Q0gxcTV6MzU4SDk0cWcwX1FyMG1vSjBndXlmOXRhRkQxT2dQVG5qNl9ON0pyX0tJenV6ZnZiMktPWUpxQ24yeTd4OTVqRXljWFZXTzhjQWFNa1g4ZlFITjZjcHluWWRpSXNqSkFfMlN5TE40M3hTSG50UWxSd0ZPSlFBY0lJUzNZM1kwcHNDQ2wzLWl0ZXAydlNub2dveWN6SWU2bXNpRmZHUFBqQTZacG5lcjZyaFN3U3c1UWRjUkkzR0pFOGFVTUVGeC1sQmIyUDVoYlNhSWc0Zm5wWkg?oc=5"
+    },
     {
       "text": "Precipitate's IP Geophysical Survey Reveals New 1,600-metre-long Exploration Corridor at the Southeast and Centro Zones of the Juan de Herrera Project, Dominican Republic - Junior Mining Network",
       "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNb0xYY0JfTzNSZTFFV2llbENnZm44akluR0dWZWJnQ2U2c1FPRkhKZWVNOEt0bU9BZ2xWTXFuUHpjVXBDSTF2eWZPY1dDV21ORVJtRGR1a2dBbU5PWnZGS3Q5NF9VNl9KR2dyNm9LOTRLZy0tVzhEbGxsTWNtV0hodXNaY1VRVjZuWE1Vb0NFOWo1OGQxTXFzRHFBdzAtVVZUaTFVSlJaM3dPZHRUUTV3OEp1WDFsSUt0MU1tMENQY3JRTnV4UFlfV1hhbXZxdVNNNmcxLWRjUzdEdHg2RHJhaTkyNGZadmRIczVBQXJyalFGd3AzbWxCNFF1TGN2MlBWOGFXaXhfU18wZHBqRGtQendpUDFzb1d0dzV0eG51UmJkSHJKeVdUN0pUdE9HbWs0dElRa3VKT2xmbHFhZDlKSkJ3RjQwNndwY2c2cnV3SDRMazl2MHRJQkdjWk9SX1dhVVJzTGczUTJZRmpvN1U4Y1h4dTRRMmRmMmtTb3JNc25XUUU3?oc=5"
@@ -815,10 +819,6 @@
     {
       "text": "Ministry survey finds 276,000 job vacancies across Taiwan - Taipei Times",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44V3RVN21OMGFJSldkQkJqRHQyRktNQWJ2TExPbmJYN09haFZvRmZXMllla3lKZ0ZPdjRsSUlzb1lwejhGYm5ZTWdNWTdWamVHRDlSWlJCOC0yQVNjOWlyYjNjR2VGS2RVZDNmOFV1ZDY2UDRPSmc4VHVR?oc=5"
-    },
-    {
-      "text": "81% express concern over house affordability, Mumbai bucks the trend:Survey - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdzktb1BvU1d6TFYzc1lwM29aTjNhWklsVGpiMG03eDNTNm9CbHZhczhQa3JUaDBLNXVrcTB0aTA0OW1rTG5BZ1FGOGt5SkpTa1hrMC1HSlMwdW5KdUJoUXFyN0o4Z2dPbGxiSjNMdlN5NU1OTzBuNDJ0Y1pNa2NkYUJCVjhOUkM5UkVQUVlMTGU3dl9NOHRQc2NjeG80TGNDd0lpTVBULUs2U2VEMnlJVWFqYkFXaWpHb0R1YXZMNEszbDI0aXNWNEptN2t0dUxCTFBXVWVzd0tFZVFkdGM3S0F5aWRqcFnSAewBQVVfeXFMTzduMXZ0TUgxR0VLYWV4N2NySDVUU3NQc0ROVnBEeWZZd0dtTTRVMm9MaUpwT1ctM1pJMXRHeXMxRk9qS2VXNG5EWDJxNVVvQk90eXRzaTkzSjgxYkVselJuekFKVEZVV0Nld3h0LUVrdnJzTF9xVU1OTFFEZVZobGtHSTRod0ptNHFSZkZKdWEyaGpRb18zSFVseEhkbUM0cVlkOU5Zbjl6ek1jeUNzUDYwOWpDZ1NkNTVmUEd5aW5hTVIzckZnZ2NkYkM3R0RzbHpfRWlYbzdRSjFlRTFHbE5RaVM5UHRWZmJBNHM?oc=5"
     }
   ]
 }
