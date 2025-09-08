@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-08T17:08:37.047Z",
+  "generated_at": "2025-09-08T17:13:25.450Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Consumers Open to Cell Phone Upgrades, Age Determines Priorities: Survey - Telecompetitor",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3ZkT2szMDdfaF9EbHhOc2JtalFRa3dMSG5FVkotREUya2RwcGpwX0VYY3FDN2hBcWhRMHpYbmF2N1JuUExralpfenZmU1NCU3FXM1YwVnAySXNzOXNhNk8xQndXVnllcHRBT0VXZWpUMUlIdXBiYVpGdXFyRHpwMEd5c1hoRXNzV2U4T2o4bnpVSldyOG8yZG5OWHd3bk5ueVJxSg?oc=5",
+      "isoDate": "2025-09-08T17:00:00.000Z",
+      "source": "news.google.com",
+      "raw": "Consumers Open to Cell Phone Upgrades, Age Determines Priorities: Survey  Telecompetitor",
+      "summary": "Consumers Open to Cell Phone Upgrades, Age Determines Priorities: Survey Telecompetitor",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Guernsey Airport roof survey begins after Storm Ciarán damage. - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WaF80MHFpenVYbUctTXN1UUVrNDFfbDVMNEoyQ0hGaXpXdVhHVWRaOG1EVkxiRGVTT0lKbzJncU9aV0t0UDJFMlZzLUFrQU1zNlBCS2dNWHBkZ9IBX0FVX3lxTE9UWWs5blExVmVSMTVqTWhCOFRFVVNLQXM4cGo3dkp0Ym4yOGJtTlJ2TnNTZm5pVFNFYjFSb21HVExjZFVtRnRqazBRcU5fWk1mNVJ0OFBtdWwtMEFNbHZJ?oc=5",
@@ -30,17 +41,6 @@
       "summary": "Office Depot Unveils ’15-Minute Pickup Promise’ to Enhance Customer Experience Loyalty360",
       "topics": [
         "CX"
-      ]
-    },
-    {
-      "title": "Employment Survey Weakens, Adding to Signs of Faltering Labor Market - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHgwN053RXpQZ2hOWnRKZ1g1SjRaQ0ZaTnZha0xCOV9rbG9RemU2VGRMU3NFSUNObnNmRFY4dVhWZmdMQW5oZFpHcUpfc1BuNVFYd0Z6eV9TMVgwcGFzcXVpbG5jbll5cDV5Q3pJRkZWTkxZdDNoUG9aNE5tWE9CQThrdm5TX1FNNlpCbG5sVVNnX2xBWmVNY3ZsVDVBanZac1VCSnpYRXZtUWxCclFTb0dycUxZckQ4MXZGdElwQnJUNHotTUlhS3c4SUhNNlY1TG8xNF9GT244VGVCQlE?oc=5",
-      "isoDate": "2025-09-08T15:59:42.000Z",
-      "source": "news.google.com",
-      "raw": "Employment Survey Weakens, Adding to Signs of Faltering Labor Market  MSN",
-      "summary": "Employment Survey Weakens, Adding to Signs of Faltering Labor Market MSN",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -613,6 +613,10 @@
       "url": "https://x.com/search?q=%23affected"
     },
     {
+      "label": "#consumers",
+      "url": "https://x.com/search?q=%23consumers"
+    },
+    {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
     },
@@ -631,10 +635,6 @@
     {
       "label": "#results",
       "url": "https://x.com/search?q=%23results"
-    },
-    {
-      "label": "#adding",
-      "url": "https://x.com/search?q=%23adding"
     },
     {
       "label": "#anarock",
@@ -657,11 +657,15 @@
       "url": "https://x.com/search?q=%23conduct"
     },
     {
-      "label": "#consumers",
-      "url": "https://x.com/search?q=%23consumers"
+      "label": "#depot",
+      "url": "https://x.com/search?q=%23depot"
     }
   ],
   "ticker": [
+    {
+      "text": "Consumers Open to Cell Phone Upgrades, Age Determines Priorities: Survey - Telecompetitor",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3ZkT2szMDdfaF9EbHhOc2JtalFRa3dMSG5FVkotREUya2RwcGpwX0VYY3FDN2hBcWhRMHpYbmF2N1JuUExralpfenZmU1NCU3FXM1YwVnAySXNzOXNhNk8xQndXVnllcHRBT0VXZWpUMUlIdXBiYVpGdXFyRHpwMEd5c1hoRXNzV2U4T2o4bnpVSldyOG8yZG5OWHd3bk5ueVJxSg?oc=5"
+    },
     {
       "text": "Guernsey Airport roof survey begins after Storm Ciarán damage. - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WaF80MHFpenVYbUctTXN1UUVrNDFfbDVMNEoyQ0hGaXpXdVhHVWRaOG1EVkxiRGVTT0lKbzJncU9aV0t0UDJFMlZzLUFrQU1zNlBCS2dNWHBkZ9IBX0FVX3lxTE9UWWs5blExVmVSMTVqTWhCOFRFVVNLQXM4cGo3dkp0Ym4yOGJtTlJ2TnNTZm5pVFNFYjFSb21HVExjZFVtRnRqazBRcU5fWk1mNVJ0OFBtdWwtMEFNbHZJ?oc=5"
@@ -669,10 +673,6 @@
     {
       "text": "Office Depot Unveils ’15-Minute Pickup Promise’ to Enhance Customer Experience - Loyalty360",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWlETGpxT3pnN1JWSzlQX2YzRHBvRXVrelJLTDZsY1BCUkxrQ203UG5SaW5NZjFpYVV2U0hlbGdBOHI1NTltZ3dFb25uOUlFT0xjRVlpUEdXYXZnM2xzZHNSNTBvd2lReTVJTWRQN0N5SmxsQUhYUDlucF9SUjZuNUhYNFViZjQ5QzB6ZUFwSWdGekdLSXBiZEYwRmd4bnpvR1E?oc=5"
-    },
-    {
-      "text": "Employment Survey Weakens, Adding to Signs of Faltering Labor Market - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHgwN053RXpQZ2hOWnRKZ1g1SjRaQ0ZaTnZha0xCOV9rbG9RemU2VGRMU3NFSUNObnNmRFY4dVhWZmdMQW5oZFpHcUpfc1BuNVFYd0Z6eV9TMVgwcGFzcXVpbG5jbll5cDV5Q3pJRkZWTkxZdDNoUG9aNE5tWE9CQThrdm5TX1FNNlpCbG5sVVNnX2xBWmVNY3ZsVDVBanZac1VCSnpYRXZtUWxCclFTb0dycUxZckQ4MXZGdElwQnJUNHotTUlhS3c4SUhNNlY1TG8xNF9GT244VGVCQlE?oc=5"
     },
     {
       "text": "Pallas’s cat spotted in Arunachal: Landmark survey reveals six wild cats thriving above 4,200 metres - Syllad",
