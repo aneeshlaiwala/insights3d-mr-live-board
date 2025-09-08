@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-08T23:09:59.268Z",
+  "generated_at": "2025-09-08T23:14:16.155Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -74,6 +74,17 @@
       "summary": "New National Teddy Bear Day Survey Finds 92% Still Have Their Ch GuruFocus",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Survey: Coloradans skeptical of party politics, economic outlook remains grim - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmFYYUlmZGdkdXFBMUl4TXdCejhybjgtTlJuN0hnLTB5bVFzRmlMNVVLeVg2MVlEQXFxYzhqTzdtRDBWY1Ztb193dEc3M285WUtMZ05iLW9xOGN2dDhxMU4yeHN1X2ZHQTRvUW5mQ09ZSEhmWEJyZkVDV2E0T2VOOUM2Vl93dmdqTjRmY01WZXYxR2pyT09wVEtDaTQ3dlY0VGwtMTlUUkltZU42SjltN1h3eUJHdDlxdV9TOQ?oc=5",
+      "isoDate": "2025-09-08T20:22:00.000Z",
+      "source": "news.google.com",
+      "raw": "Survey: Coloradans skeptical of party politics, economic outlook remains grim  Colorado Politics",
+      "summary": "Survey: Coloradans skeptical of party politics, economic outlook remains grim Colorado Politics",
+      "topics": [
+        "AI in MR"
       ]
     },
     {
@@ -550,17 +561,6 @@
       "topics": [
         "CX"
       ]
-    },
-    {
-      "title": "18% of Gen Z Women in India Choose Childfree Life, Survey Finds Growing Push for Fertility Awareness - The Logical Indian",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHFLSlBBSl9fT0ZEcjZuVnh0Wlk2UHRxbUtoc0RBV3d1QjBIRVloTWl2UG9tcUZKWUZEM3R4MTd3WFNKdUQtTnVaQklxNlRvbU5TWjQ4N1ZJRXVrYzF5MmVIMnhjVDdPLW5ZS2Q3X0hMYXZrUlo0VlBDWFlzd3FGNFllQW94NHNNbjVYRkpvWEY3S0ZKVncwTlhnQlZ0azZEZGIzc1ZQdTBwR0RGdnRCZTN4TWVjeVVMX2ZfQXpiRXB2UWV3bnhB?oc=5",
-      "isoDate": "2025-09-08T12:56:42.000Z",
-      "source": "news.google.com",
-      "raw": "18% of Gen Z Women in India Choose Childfree Life, Survey Finds Growing Push for Fertility Awareness  The Logical Indian",
-      "summary": "18% of Gen Z Women in India Choose Childfree Life, Survey Finds Growing Push for Fertility Awareness The Logical Indian",
-      "topics": [
-        "(Other)"
-      ]
     }
   ],
   "funding_ma": [
@@ -605,10 +605,6 @@
       "url": "https://x.com/search?q=%23aerial"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#himachal",
       "url": "https://x.com/search?q=%23himachal"
     },
@@ -623,6 +619,10 @@
     {
       "label": "#consumers",
       "url": "https://x.com/search?q=%23consumers"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#punjab",
@@ -657,16 +657,16 @@
       "url": "https://x.com/search?q=%23flood"
     },
     {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
-    },
-    {
       "label": "#reveals",
       "url": "https://x.com/search?q=%23reveals"
     },
     {
       "label": "#sentiment",
       "url": "https://x.com/search?q=%23sentiment"
+    },
+    {
+      "label": "#shows",
+      "url": "https://x.com/search?q=%23shows"
     }
   ],
   "ticker": [
@@ -693,6 +693,10 @@
     {
       "text": "New National Teddy Bear Day Survey Finds 92% Still Have Their Ch - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVBLOVc3RGJYQmdiWU12alVJU1FiU3p0Uk9rNEVnVnZya1d4bm9LMXRLd1JGVUFyblQydUg2VWt6Q0ZoZkFSMUhHNnBnckplRVdrZTd1WU5ZNUlUMU9hQ3dJd3hkUVdGTmxTY3RJZzQ0VURjLVNERVEyWkplWWdRWVdIdGg2QW53XzI1LUd4c3hsc2ZMUGwtYy0wTnNkc1pjRm9DVUhhYzE5akpzSEpIdEhHdHNqMG5Iazdhd3hKT3lJLVhHbHRaZHc0QmtsLUlma2tRai1n?oc=5"
+    },
+    {
+      "text": "Survey: Coloradans skeptical of party politics, economic outlook remains grim - Colorado Politics",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmFYYUlmZGdkdXFBMUl4TXdCejhybjgtTlJuN0hnLTB5bVFzRmlMNVVLeVg2MVlEQXFxYzhqTzdtRDBWY1Ztb193dEc3M285WUtMZ05iLW9xOGN2dDhxMU4yeHN1X2ZHQTRvUW5mQ09ZSEhmWEJyZkVDV2E0T2VOOUM2Vl93dmdqTjRmY01WZXYxR2pyT09wVEtDaTQ3dlY0VGwtMTlUUkltZU42SjltN1h3eUJHdDlxdV9TOQ?oc=5"
     },
     {
       "text": "Economist / YouGov U.S. tracking survey data - YouGov",
@@ -785,10 +789,6 @@
     {
       "text": "Gen X lags as retirement confidence gap widens, BlackRock survey finds - InvestmentNews",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZHJ6YnBTemhsQkFvaTBKM1BUQlJYUTFNNWhGMHpfX0VONGJDRVRUWWNFMnJUMVBZRlU5ZGxsNkhpbDFsejJnbjVIRDBQMEJuTE11U05EOURqZDROUFhlWk9hS3pqZFRYTE5SYnQ0MkgtOUNucnNNY0djSUJLR3lzWDY0eHUxaHVmRUVVdjJrclR2cmxXMDE1cFZOam5sUTRCWk5tSl9sMHluY1VZVEJ4NUdDYS04ODBSR2pxRzhmNEZmWjgxeUE?oc=5"
-    },
-    {
-      "text": "Survey finds serviced apartment sector upbeat despite global headwinds - Serviced Apartment News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEF6X1BUNFBQYnZveGIwU0RqeF9rTlh1Zi05Tm9mNGN1SHRYTjkyMmVETGQ5Z2lhMzhWRng1aHZxeWNfUm44ZWZvdkVvaXF4LVEyR2M0UU95Yk9RNm9nQjJ0TVZJbTdmMmd2bkVDUUdzZUU0TG5zOVFiNWhEMkZZNzZhSi1WaG10?oc=5"
     }
   ]
 }
