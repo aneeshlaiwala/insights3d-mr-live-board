@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-09T16:18:54.806Z",
+  "generated_at": "2025-09-09T17:08:21.798Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,28 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Main Street bracing for fewer jobs and higher inflation: Fed survey - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2RjR1VmXzFfNkdVZHp0N2p2MnpPWUtIVmxVakNMZUtvbnEwQUJUcXZFOVlPYXlZOUlOUUI0aDNxenpPU2VFRUc4NlJCbFFpbUFpUnFnZ2ZkT2RYRVdLQ3B0NHhrcDQ3YmRHQ25WOVZvQ19keHdXeUp5YlcyVjEydTRnS1hWdkVOUlRzRGtwNTViZTdCV0RXd3JrMA?oc=5",
+      "isoDate": "2025-09-09T16:47:00.000Z",
+      "source": "news.google.com",
+      "raw": "Main Street bracing for fewer jobs and higher inflation: Fed survey  TheStreet",
+      "summary": "Main Street bracing for fewer jobs and higher inflation: Fed survey TheStreet",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
+      "title": "From the frontlines of climate change: Survey investigates stances of small-island states - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRzRhRGpqZ2Q5RnpjRE91aDExT19ldkstdHVUbUdBcU5UVURreFlDYnZQMHQxSFJ0X0d6Zmc0Q3M4S3ZHWEo5Vnl0UzA3bEtpZWFhUFRneUR6YTcwbExnUHdndVZWMXVrRjBEOF91YXNIbC1HbVI5dkRsQVYyaDg?oc=5",
+      "isoDate": "2025-09-09T16:30:10.000Z",
+      "source": "news.google.com",
+      "raw": "From the frontlines of climate change: Survey investigates stances of small-island states  Phys.org",
+      "summary": "From the frontlines of climate change: Survey investigates stances of small-island states Phys.org",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "6 in 10 Europeans say von der Leyen should quit after trade deal with Trump, survey finds - politico.eu",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0lDQXRlMGs3Q2FzLUJTemVtYUNJUThUR0tzVHVrVVIzZXFqV0tLYkFBeUZlSHd6MnZNaXlpX0hSeEtvODVoak1iT08zRzZIUmpOQ0lDX1cySGVQQjc0QjhhYUZxSzJkWUdaYjVSS01QWDVVWnpWNV9iRV9pVGFja2RaVjVCV3A3bUJJRW5TNDVYWDhn?oc=5",
@@ -35,7 +57,7 @@
     {
       "title": "HR pros have little confidence in workforce’s current skills, survey says - HR Dive",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNUxCTGh3UXRXRHNjSmVLTHc5Y0IwcHVhNmtnblZwNHIxSnBfYU1FSkFiM3I4WHgwbmc0cVNlSVFOMFBoSHFnZmx4Z1RvOG5NSGZDTXIzWkpZdURKaF9RLTFVWDF4Zm81em5R?oc=5",
-      "isoDate": "2025-09-09T15:31:09.000Z",
+      "isoDate": "2025-09-09T15:31:41.000Z",
       "source": "news.google.com",
       "raw": "HR pros have little confidence in workforce’s current skills, survey says  HR Dive",
       "summary": "HR pros have little confidence in workforce’s current skills, survey says HR Dive",
@@ -66,6 +88,17 @@
       ]
     },
     {
+      "title": "PM undertakes aerial survey of flood and rain affected areas of Himachal Pradesh - jknewstoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnFEUno5akNzUkhvU0RGM1ZrWWZueTFnbGFkSEZTdWg4ZHVMNmpieWdzQWVFcTNSc2RIQ3pzbllkbVp2LXN1S3lHMzJnYTN5MGl0OEhISkUyRkc4RU1EU0NwMVlMc1FQTEQwUEMtYTRjWkFmX3hLZ1hiQkp3TE5oWE1GZzFBTWRWdHJvTVJ5cFpYNjNTcXBlSnZuV1RvMFAwMC1nYnBUTHk?oc=5",
+      "isoDate": "2025-09-09T15:02:38.000Z",
+      "source": "news.google.com",
+      "raw": "PM undertakes aerial survey of flood and rain affected areas of Himachal Pradesh  jknewstoday.com",
+      "summary": "PM undertakes aerial survey of flood and rain affected areas of Himachal Pradesh jknewstoday.com",
+      "topics": [
+        "AI in MR"
+      ]
+    },
+    {
       "title": "Einstein Bros. Bagels to elevate customer experience with next-gen store design - World Coffee Portal",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWVjNHZ3ZHNuT0t5UUVlUHdjcDdkQUtZSUZDdUpocEhxMHpkdGpVTnZxdW5pWFg3ekxjbDBtdUM2NjJrdkN6aXlma1FnZFAwNFQ3Q2QyWUZyVlREWGlDX2FwYWVEakJfUTE0RjVRYnp1c1FodmpuV2FXOUFCa1R0TTZjRTZsTU02NHhsbXVoTHVBYmJiMDRFM1VBRGxqT0lGSVdlelMza3RqM2toN1BtcUJkTEpoc3ZSWkE?oc=5",
       "isoDate": "2025-09-09T14:58:53.000Z",
@@ -83,6 +116,17 @@
       "source": "news.google.com",
       "raw": "Karnataka: Chikkamagaluru DC holds meeting on socio-economic survey  The Hindu",
       "summary": "Karnataka: Chikkamagaluru DC holds meeting on socio-economic survey The Hindu",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Ministry of Power launches stakeholder survey for India Energy Stack - ET EnergyWorld",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc0hPb2V2aEx5ME5VSTF3V1FBcW5aRWVWNU1CY1pDMFRoMnduMXh2N2puaUdYS0R1MmpETEhwQ3NjdkRWWmtCMjUxOUVJVUZlYk13d1FCelg4aFRjeWhkUkE5cUpTNjJOTU1scnhPeXJMUVI3VFRncVNqc0RVdVprRGVBWFRLanpBdDhLbGcxcDA4MmdSWDdSSXVuOHJzZlBoQmZCcHpqdGlyVXZWeWM0c1RmMlhlT2M2RlNBWVNUOTcwdVZGWEJKelY2ZmcyeElTT2ZockgxeTJFSzFnUTNtTFpGQ3dJai1GSElUWHA3RURMN2NL0gH6AUFVX3lxTE5xYldQZGJDeFFCbDVscDREVEhBSlg0dE9oSDBleDVhTUNHdHhzWEE0T3hoc3BNOXdVUENjVW9aRHJTTVk2UzdxbE1pd3FPcTB2VTBQTDRqUUdxc3UtTlpLWnBDTFdKZTR2eXMyOUY4eC15S3puWTNkRlFxT1dPazEzbmt5X2xqT2pSWm80ZUI4OTIzLVZKOEwtRWhJb0hnUjNsZ0hJbWVMRlgwRzZfdGJKQXIyUHdzZGhYOVRWRDlDc3pfdURaaloxTXRoUE4taksyemRSSW8xQl9NdWswSE8tVDNVNUhRakFPU2Zrdy1hdTY0QnlGNlFzemc?oc=5",
+      "isoDate": "2025-09-09T14:39:22.000Z",
+      "source": "news.google.com",
+      "raw": "Ministry of Power launches stakeholder survey for India Energy Stack  ET EnergyWorld",
+      "summary": "Ministry of Power launches stakeholder survey for India Energy Stack ET EnergyWorld",
       "topics": [
         "(Other)"
       ]
@@ -152,6 +196,19 @@
       "summary": "Survey reveals which natural disasters scare Americans the most AccuWeather",
       "topics": [
         "(Other)"
+      ]
+    },
+    {
+      "title": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZlFFU1BRRWlMVzJTOEtDZ1BKNEFSTzdadkdpOHFya3ZWWi1zdjBidEtobDd4MU1sU3RJOVYzMGItcW40UDVYeUc1cHRiMXA1aWVLVnpzck8yZmNMYzVkUkE2QnJBN3RCRTVNbXlBX0tJUktncUI1cXI2VjRqaVNicl9fTVV6WEhYWFI4enZrbHc0WUlSVFhxMUJlMmcwd2NDU2Fma3lXZXdOTjdlVmJIWVljQ0VjdEhRZnN6S0RPTW5NRVlpNmlqZ0VWUEd5YkVlZTB2dXAxNzh1SU9oQ3NPUHlBNzltNDBvWm9oVGFuaF9DNlkxRVZN?oc=5",
+      "isoDate": "2025-09-09T13:48:00.000Z",
+      "source": "news.google.com",
+      "raw": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration  Business Wire",
+      "summary": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration Business Wire",
+      "topics": [
+        "AI in MR",
+        "CX",
+        "B2B"
       ]
     },
     {
@@ -277,17 +334,6 @@
       ]
     },
     {
-      "title": "PM Modi Conducts Aerial Survey To Review Situation In Flood-Hit Himachal Pradesh And Punjab | N18S - News18",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeEFkUGVQTEkyMDM0UTJtNV9pdDY0MjhDS1RKTExpVV91UEdRR2MyMTJ4TE55cGl5cVRFMlF4YWlldS12SDdxV0kxR3g5SFdKVGI5OVJXV3Y0NHl0SEJOOUpTT1U3WDNVNXJWMUs5NWZMVS1tM2hnMlFUanVLdk5VY3FBem9HaFJpeVhVYzRIZXQ4VG9XYjdTeVZsZVd1TkpET3FlNy1paTU5bzcwZlk4WGF2ckNMTllQWUljN05FNkpEdkNOZzVfSUx3VE9WVmZoTWxCMWc3eGxHc0dfdlBWWGZHS1FfTC1uOGc?oc=5",
-      "isoDate": "2025-09-09T12:56:44.000Z",
-      "source": "news.google.com",
-      "raw": "PM Modi Conducts Aerial Survey To Review Situation In Flood-Hit Himachal Pradesh And Punjab | N18S  News18",
-      "summary": "PM Modi Conducts Aerial Survey To Review Situation In Flood-Hit Himachal Pradesh And Punjab | N18S News18",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Punjab floods: PM Modi conducts aerial survey, meets affected people in Gurdaspur - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGFTaXRfSnZYMWVQdmJ6TERFQ1FEb051N3FmVUI0bkNGdEQ4MDJOOFJHRjNPcG1OVldzcWxWQ0w1VE5BVVBub2dPeEl2Xy1ULXBPSW5fNVdHUG1aZ0d2Z05WenhENGptWkNDRjlrOS1KbFhUQ1pNdUUzcDFweVRDRXVlOF9jNzJ0YVAyMVNNRGtZYk0tdWc3ZU82NXRPVEtwV09mNU9PZl93bk5NVzZMcndCd9IBugFBVV95cUxPdmxkQVFqeFMzVGZJRUhWS3p5MWl6ei1CUXZzNy13bGRSbWpkMUNlUU1ENEZaZnBTTzBuanR3cUREWlVyV1Y0TGpkR0YwMm5YajUtVWhmSGRUTVZUejBTSzJVV185RGZfRm1HUTRhcmJsX2xSb1BKYTJEVVQtTURMT0lSZlFoWHN1d1ZGM21WTnE0RFNxWFBGcUE4WjFTVG9UWFZnandnbWZlR2l0VFp4QjFhb0ZCTWloYXc?oc=5",
       "isoDate": "2025-09-09T12:54:00.000Z",
@@ -318,6 +364,17 @@
       "summary": "India Flood Relief PM Modi: Rs 1,500 Crore Aid Announced for Himachal After Punjab Aerial Survey Deccan Herald",
       "topics": [
         "AI in MR"
+      ]
+    },
+    {
+      "title": "Americans give capitalism its lowest ever rating in new Gallup survey - Axios",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0o3SGJPX3k4NHFZR2g5ZmdXWmJBRlloY2N1bE1veGpSV3NHeDYwb2g0X1Q2Q2hiWmtUUV91Z28tclkwV3F6M2dRZmRqRkZkcnMyc2t4RFBZVC1QRk5Tc1N5U3VOYzFkdkFjdkNHVGpBVzA3bmhDV1hiZm10VDMxVExBek15dGZ6Q2dQbHFB?oc=5",
+      "isoDate": "2025-09-09T12:36:52.000Z",
+      "source": "news.google.com",
+      "raw": "Americans give capitalism its lowest ever rating in new Gallup survey  Axios",
+      "summary": "Americans give capitalism its lowest ever rating in new Gallup survey Axios",
+      "topics": [
+        "(Other)"
       ]
     },
     {
@@ -365,17 +422,6 @@
       ]
     },
     {
-      "title": "Indian household expenses up 33% since 2022, 45% struggling to manage budgets: Worldpanel India survey - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaDZxdXhqeWE4VmlXMDJiQlFmeWJCV1djcWRBMW9ZclU4UlNiZFhxUmtZYV9EUVlhVnZQdXdxanU0N1dQSXVuMS1xMmNsWHdXWUhvaGpHRHE0T0hocmRJcXVHYjhvcFhqXzlEbGNoMlFLb1Nidm9lZ3FjNlRScUVPSTZkRUJHR3BWczhrUDNGTHdPaGp4dm51VG5DdDdJTW9ScDRoTmFMNnV6Vlh2Vjg5VzgwUUlKUU5JQ29fWGp2d25ZRGxaUjV5T0hKaTBkbERkclhwUUFZdnJlQ3NVWDZiTjJRLW3SAeoBQVVfeXFMTWdjSnZ5UHNoZGJuaXBYSGtLY3lSUWlXa2NFcVRDSFM3c2xaLTRmbUpoRHRhUjhnUWtiUEVWRXE5bVU3OTNhc0hNX1k2VkJhYV85d2EzMVJ5U2lRSXFPUnA0RURiY3ZIQW9pemdSZVhOd3g3Q09MNUtxbTlNSGg5ZmdRaklNelg5c0dYRTVBbEtaem1wLWNVYThfN201MHlGT2JrNV9zQ2JBUnhTOXByR0dMUnVhVDg5RGZ2a1RqVkstWmRtSEY1ZmhINFJtUmxEQ2hzdzRsSUdGMHgtV1Bjb2w4d1d3dUFLTEdn?oc=5",
-      "isoDate": "2025-09-09T12:25:04.000Z",
-      "source": "news.google.com",
-      "raw": "Indian household expenses up 33% since 2022, 45% struggling to manage budgets: Worldpanel India survey  CNBC TV18",
-      "summary": "Indian household expenses up 33% since 2022, 45% struggling to manage budgets: Worldpanel India survey CNBC TV18",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "PM undertakes aerial survey of flood affected areas of Punjab - PM India",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3BsT1lIcGNaS3VDbnZER3hsejBWNk95bkYxa1pCVldjcmNhdzhwdW1PM3dweTNhLUVTMTVIQi1BNDZ5Sm5kd1pURGM2cEtUU2ZyMUZBeEIwZ0Q5NUd4LUkxVkE1eEwyYk5xbVljNHVGNlZ3TkJZb1p1aDJDZ2E2UnNHek1ubGhPUkJuTDItZ3JNYWI0MUdlaEt2ZzF4ZmFZaE83VkhrQmRKMk16dkY4ZjVvemlFdXVTUHNzMVR3?oc=5",
       "isoDate": "2025-09-09T12:24:30.000Z",
@@ -404,6 +450,17 @@
       "source": "news.google.com",
       "raw": "Breaking: PM Modi announces Rs 1600 crore financial assistance for flood-hit Punjab after aerial survey  Babushahi News",
       "summary": "Breaking: PM Modi announces Rs 1600 crore financial assistance for flood-hit Punjab after aerial survey Babushahi News",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
+      "title": "Bengaluru consumers show offline shopping preference this festive season, survey finds - Apparel Resources",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRl84UGtjVkMyMEZMVjNEOEpEeDJFeHZhaHcyTHQtN3JlWmNFenI4MjVjVXVHcTJPVlY3bnIxc2ExdTZnYnlJQ3VucUhuMF9IZFhWeWRUY1g0QThHZVI0eGZzZC1OVXNBUnhvRHBQVFI2b0EzTmE0NkJZTm16VVgtZmpkdjlKdHVfd1R5XzUtd1ZZRkpOckRxU0RweWN3QTU3U0JDeHVsQlJ3TEFlYVU3NzMybmlYTXRHdENSREg2SkpFXzY5NG5kWGEzbw?oc=5",
+      "isoDate": "2025-09-09T12:15:44.000Z",
+      "source": "news.google.com",
+      "raw": "Bengaluru consumers show offline shopping preference this festive season, survey finds  Apparel Resources",
+      "summary": "Bengaluru consumers show offline shopping preference this festive season, survey finds Apparel Resources",
       "topics": [
         "(Other)"
       ]
@@ -453,6 +510,17 @@
       ]
     },
     {
+      "title": "Punjab floods: PM conducts aerial survey, meets affected people in Gurdaspur - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWJ2U29xemdkTHBzeWx0dmllbWpTY1pBNFFmZFB5UW9BTkJZc0EydC1OUEU1V2p2Qnp3MjlLRmVWYUh1STVrT3BMeVhNYWFXUlgyaGo5ZVRubzF4ZEVvb3oxYjZHN3hUWWVOYWhzQjctdGhPVzVjcnhhRFhWTW9ETnF5RE1NVjVvT2ZUUGpKRHF6NU41M0R3YnkyQVZtSU5MNDdGV0hiYlRtVTBzR1HSAc4BQVVfeXFMT0R3M1B2ZTRCaF9yb21wMThqSVZrLUhQdzg2TEZFX2JnZFFoUWFJREIyVUg2ZUZOWVR2VUR6Wm5uQlNKNnlJVlhhbG1xamExdTBRcUc3TFJIZVpMWUhha1VUVF9LSGwwcDFnd0VDM2d0bE8yYWJraUlCQUdGV3NzUTJRQVZqN25nclBzLUdwUk9KTXVIYk1YTXR5VEdNX2NMelZWY0ZfQlNGZVU2YUpReXFBVmVfUUxGZW9XLWxLZWdiVkk3RndUZF80NDB5R2c?oc=5",
+      "isoDate": "2025-09-09T12:03:48.000Z",
+      "source": "news.google.com",
+      "raw": "Punjab floods: PM conducts aerial survey, meets affected people in Gurdaspur  ThePrint",
+      "summary": "Punjab floods: PM conducts aerial survey, meets affected people in Gurdaspur ThePrint",
+      "topics": [
+        "(Other)"
+      ]
+    },
+    {
       "title": "Survey finds many college professors in Georgia would not recommend the state to a colleague - Georgia Public Broadcasting",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblU1QmlFYUVRNkJSNE5sYk5QNGpZckU1TW5JVW9pZnV6QVVhYkdaQU5uaS1IZ25oX1pRZWF4c0w1SVNYd2NPY0NYYllpME9DSFpDMU5lQk80c1NyMlZCcjN5amFmUGZWQVRWdVZKd3lhVGhXcUtBRm9uMmx4bmNvZVdic1NCYUxTaVFNOU4wSXFYRDgyR2NHb3ZtT3RkNHp1RmdreU9PUEFwajNnbVVucmw5QQ?oc=5",
       "isoDate": "2025-09-09T12:02:00.000Z",
@@ -486,17 +554,6 @@
       ]
     },
     {
-      "title": "'Tired of hearing about Trump’: Canadians say government is distracted by US president; survey shows dome - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMV80OHdJUWtaek43MktSR2JiWUV6ZUl4alp1V1RKa3VnOG4yUHg3cFp6SV9rVldhZWM4dkN5Z0l0ZFR2MWQ0WjV1dGpaMG1fdzFQMk0wTG9EZWpwQ0VlVFRraTZlRXcxMjY4XzRZWjJBVWU0Wmp1N1BKT3R3bGRYY0psT0lOYU9yM21tbFRibmtadENZWTMtb3RwV2pMek9PZF9zTWgwMVhzWDdzZ1l4VmZZQS1ULUUydTNBTjZLVFJjY0hzc2NLX0tjWXpOblQ4X3RDRzhCYnZrSzh3SlFod1NnT01hampJem90Z0ZCVzYzakljXzlXLUVzS2tUYnlSbG4yLUFlMF9ENHJPZll0RlZfZjdYZVJCZUkzOEZWLVXSAaYCQVVfeXFMUGsxcjFQV3YtMHpIUjhwN3psTGc1ZDlPN1FYeUI1a2RUbEdiTkxJa1JPZjRjbWlYMUx0R0pzN3FleFhlZ0Q1TDdIOVBKNGFTQy1fRzZvNUJsX3ZmX01MYnJpZnRuMzJHV3ZUZGotVHI0aENRRUpHZ2JyNmJvMHplejg3NnFtOVNwM1BxUXpHdW91b1h0SUZFSm1TNE5ZOGVXaXRlRnpONW1vWWx3TEIwZkFaTTBqeS1PMlR0dmh4enZDNURHdVFJRnpTalV5TmJHeTlta3pFSUF2TXNaU1VPRVJ1dnhkR1hqV0R1R2xobEl4VUpyQ1pabG5sM2NGSlFUQ3B0Rkl1UUUxTTZkNVVucUI3TnVXcWp5N0hBUXE4OG1iU2d3am9n?oc=5",
-      "isoDate": "2025-09-09T11:45:00.000Z",
-      "source": "news.google.com",
-      "raw": "'Tired of hearing about Trump’: Canadians say government is distracted by US president; survey shows dome  Times of India",
-      "summary": "'Tired of hearing about Trump’: Canadians say government is distracted by US president; survey shows dome Times of India",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
       "title": "Jharkhand Paves Way for Transgender Inclusivity with Comprehensive Survey - Devdiscourse",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQUt5TEswREhKUFlVOGVDdWRSelEzem9OMnlLbkJxVlZMbHJzM1lZN0x6eHFnYWloemN6bGpiWjQydUM3am5QNTdLUGJlYTdCaUF4RUk3c19ieFJSeVktU1luUXV2dUlOeUVhMV8wMXRqVlBmVjhjdDJfLTROWGlJYzhCVi1PSXFqRU9FT0VrRDNaY0RDX3lQV09yb0t2QkJ2dWxwbGVneERITm9KUnN3NFpsbTZJcF8tRk1rbUl5azJWUHpqaWhJ0gHMAUFVX3lxTE1td204emxod0IyQkRZeERlNVZrM0tLeWcxVG85TU55bXRPWnRqS2IwMjdNV3lUTV9NWEtTUUFWNzVuWURrWkxvU1l3UGk3T3VobGMwNHdZS21zMFhNMmtYYzhJa2REejkzaXNyVUU5WEpOX0lQME16cWt3LVE1N01MUkhIblNpNWRnSXhhVy12Q0NxX3pqMUNnSS1LMjVqaHlJZzcybWItblpUYlo3ZHJuX1MtQjMtazJnUHRXTDA1VjJiaFdzal95aHNsMQ?oc=5",
       "isoDate": "2025-09-09T11:42:12.000Z",
@@ -505,61 +562,6 @@
       "summary": "Jharkhand Paves Way for Transgender Inclusivity with Comprehensive Survey Devdiscourse",
       "topics": [
         "(Other)"
-      ]
-    },
-    {
-      "title": "Crypto survey: 93% back regulation; 9 in 10 say clarity to boost investment - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjcxcFpTVDVWSlFpUm1oSTdVZW9TUFRLdVJ0X0ZwM2hrcGxNbEYtUEViRF9yY0p1QXRFOWNTcm5POWU4MnZ1cm5hQUI2Ym5Kd3JrYkdGcTE1NWFid2NpaVZKMm1DSXFiVTZIcGdUam1vNXY1MURWcGFOQ3VoRWM4NXFGc1huM016UEY1eVhMT3NrNS04dmt5V3FRQzdmSUtqNnJhNUIxZ0d1VkxyVkRSSWhtcld0RjYzTzFMSGpoTXV5aURFY2xRRGRlaw?oc=5",
-      "isoDate": "2025-09-09T11:37:12.000Z",
-      "source": "news.google.com",
-      "raw": "Crypto survey: 93% back regulation; 9 in 10 say clarity to boost investment  Fortune India",
-      "summary": "Crypto survey: 93% back regulation; 9 in 10 say clarity to boost investment Fortune India",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "PM surveys damage in flood-hit Himachal, Punjab; announces Rs 3,100 crore package - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRUdrUEtSdlFhaF8tN29xYmpNX3dIZVQwdXhPdHBzVEpmTUc4LWNPRVY0QWNZTGlLWlg3UHU3WWhGYnByRFJ1UHpQbGVVS2E3UFZOWUUyM084b0VsOExJTUt4VFRVT0pjaFQ4WkptTHVvdXFURzcwdHJKTFZ1OTZ3ZUdad1VjRVVYdVhVX3VVdU9nei1jTkZKTWhkdFRqRkRRdnQ0X3BJZWRka2ZlU01PQWloUGZaWUVlWEFaczUtaFZmOHdyN3JsQm1sWW43QWhmU0hGdDBSVVTSAd4BQVVfeXFMT2NLUE9GUTdMdlFQdWdyaWMwNzRsa2htbF9ZVlBDT01BcUE4YmlaV2lkWVNWcmZxT09MUm1nT2pjSGxGZWFpVVdrV1kxNGNXTmY2ZmNSano4clk4OW5fY3Fzdkt4WXJmV2xjY3VJNjJSVmwzRDF3QU5IMXJXSXJQOWQxVk9IWkIxTHZ6d2w1UE4tRWVTZUd1ak9QcE96dUozRkVMS3VCNGtYd05Zd2dqYUZDRm1nRjBfd3QtU2hQSS1lQklvTVJUMWdlUFA2QjhJNkxhcHFYZ0l6aHVOcEl3?oc=5",
-      "isoDate": "2025-09-09T11:27:19.000Z",
-      "source": "news.google.com",
-      "raw": "PM surveys damage in flood-hit Himachal, Punjab; announces Rs 3,100 crore package  India Today",
-      "summary": "PM surveys damage in flood-hit Himachal, Punjab; announces Rs 3,100 crore package India Today",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "PM Modi conducts aerial survey of flood-hit areas in Punjab - Tribune India",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXowN3NIVDBkV19hX0ZCQVhBUWgzdHVDY0Jidk93NjExTUd1eEx1aWRnOS12c21zRG0zZmtjZHlpVlZma1RPRnB0VG8yckNrR3NIWUQtUTNHdHFabzhXSmxtMDJhMml0S0ZiUlp5ZkhXeFpMRXZyU0pDQ0x1Ty1qc2J0OTJEekZ5Y0JhanMxNFM5eUVrWTFnZ21XNWtUTXV4UlZZ0gGnAUFVX3lxTFBZN19ENXlKNUg4MEhfUFBvUFliZE5zNmNJSjhRVjRCbHo4V3pTTUIwYWtfekx6Y0xSRXhFdXAtNmNaSUVWV1E2Y2lsSmdRRjV0bHNodEJvdzFnQUpKQXdCcWlyZnRENjQ3bThPTlRDQmpXdUMza1RCZ3VTZ2E4eklXU1hoYVlYVUJ1N1ZveGZzZk1VQjI4dld4eUxxUk1tOFdZQ2duU0tB?oc=5",
-      "isoDate": "2025-09-09T11:24:45.000Z",
-      "source": "news.google.com",
-      "raw": "PM Modi conducts aerial survey of flood-hit areas in Punjab  Tribune India",
-      "summary": "PM Modi conducts aerial survey of flood-hit areas in Punjab Tribune India",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Jharkhand plans statewide survey to identify, support transgender community - The Statesman",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVlvcTlLdnlnYXprMzFnbEVzZ09fa1Zyd1FxMl9obDg5VmNnZ29SVnNkbE1Jd29GdHo5VnhfTmxIYmhtLVhMLTBXaXFFNjJPSm8xQUhaaVpNYUhEVVRVcnI5WGZENzU3WUZvZ0FFQ20zbEhqdDhKOVdlTVVaRXNyb25naTNwb0M2Ml9peVVRcXFBeXRXYTR1OGplaHFtOENhamR5dXZuREsyVEQtMDk5NTNQa2NVSEE3WUtHczFwVDBSRmvSAcgBQVVfeXFMTUdZeW1IcTZIdWNsNnJWOVpzRUpRQ3R1dFAxS2FTOGdWc3Z0RzdmaVlOVl93WGh0WHBJTFJlLXFHSUM1ekFvakZlSkFaMm5COVIxcFJhaXZGb3hkbEVTQWhrc3dfSjZCM1lBempsclZnNWUzYUlMVW4zZ3FJeElIZjFIT0g1dHM2MEFpM3phZXZRWnp4NFptSjA2VWUzWlQtOGNKVmh0dWgyeVpwMjBPWDBPTVI3SGNmdGZzclZxMlBIOUdwM0pfNXg?oc=5",
-      "isoDate": "2025-09-09T11:24:00.000Z",
-      "source": "news.google.com",
-      "raw": "Jharkhand plans statewide survey to identify, support transgender community  The Statesman",
-      "summary": "Jharkhand plans statewide survey to identify, support transgender community The Statesman",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Perfect 200! Indore Creates History, Tops Air Quality Survey After Leading Swachhta Race - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWhRVFBBaDB6Q3NvbjZFTWVFN1ZOSzFubHlEV25VMjJwZUR4X2QwaWwtNnlFUGhQUWlVaHdRQ0JZZ1dGTmpMa1J1X0RpODRXTl96MnRBQUhTb2lKRlh1X2RxTXpZdGw2WjVjdTZmYm9YdDl0ai1YYmVUNjdaT3FJTlRUdER3Q2RrM0ZYUHNGSlNCSjBiZUVHanJ0RDRNQnk5ZlJfNlZTN3ltX0JWeUNJdGQ4d0lka2lwOWpDUXYwaEUwQjDSAcgBQVVfeXFMUEtabG93LVMtcFBmRVkzRlVPcTVVRnhXM1puYXZLdUctcUhvMG81bG9YandPT09kcUZWcFp6cjFhLWZ3VVZCY3BhTzg5cmhFN2o3LWZIazBXZjhLeVNqcUN3TG5Ub0VCZXQyem1oVHpqVnB1eklvbEU2aGF4Y3dkTmxkVm42cGRmNFVVQldCTUdDQTZyN21vZDRtdE1XQUlxZmR1TGJIYUY4cjQxMDlVTDNVZ1VqLWFMVzNWbmdfNjNXM0ZwOEpNZzk?oc=5",
-      "isoDate": "2025-09-09T11:22:50.000Z",
-      "source": "news.google.com",
-      "raw": "Perfect 200! Indore Creates History, Tops Air Quality Survey After Leading Swachhta Race  Free Press Journal",
-      "summary": "Perfect 200! Indore Creates History, Tops Air Quality Survey After Leading Swachhta Race Free Press Journal",
-      "topics": [
-        "AI in MR"
       ]
     }
   ],
@@ -617,24 +619,12 @@
       "url": "https://x.com/search?q=%23himachal"
     },
     {
-      "label": "#announces",
-      "url": "https://x.com/search?q=%23announces"
-    },
-    {
-      "label": "#after",
-      "url": "https://x.com/search?q=%23after"
+      "label": "#affected",
+      "url": "https://x.com/search?q=%23affected"
     },
     {
       "label": "#AI",
       "url": "https://x.com/search?q=%23ai"
-    },
-    {
-      "label": "#areas",
-      "url": "https://x.com/search?q=%23areas"
-    },
-    {
-      "label": "#crore",
-      "url": "https://x.com/search?q=%23crore"
     },
     {
       "label": "#customer",
@@ -645,31 +635,51 @@
       "url": "https://x.com/search?q=%23experience"
     },
     {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
+      "label": "#launches",
+      "url": "https://x.com/search?q=%23launches"
     },
     {
-      "label": "#affected",
-      "url": "https://x.com/search?q=%23affected"
+      "label": "#announces",
+      "url": "https://x.com/search?q=%23announces"
+    },
+    {
+      "label": "#areas",
+      "url": "https://x.com/search?q=%23areas"
     },
     {
       "label": "#finds",
       "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#launches",
-      "url": "https://x.com/search?q=%23launches"
+      "label": "#india",
+      "url": "https://x.com/search?q=%23india"
     },
     {
-      "label": "#reveals",
-      "url": "https://x.com/search?q=%23reveals"
+      "label": "#after",
+      "url": "https://x.com/search?q=%23after"
     },
     {
-      "label": "#assistance",
-      "url": "https://x.com/search?q=%23assistance"
+      "label": "#crore",
+      "url": "https://x.com/search?q=%23crore"
+    },
+    {
+      "label": "#energy",
+      "url": "https://x.com/search?q=%23energy"
+    },
+    {
+      "label": "#floods",
+      "url": "https://x.com/search?q=%23floods"
     }
   ],
   "ticker": [
+    {
+      "text": "Main Street bracing for fewer jobs and higher inflation: Fed survey - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2RjR1VmXzFfNkdVZHp0N2p2MnpPWUtIVmxVakNMZUtvbnEwQUJUcXZFOVlPYXlZOUlOUUI0aDNxenpPU2VFRUc4NlJCbFFpbUFpUnFnZ2ZkT2RYRVdLQ3B0NHhrcDQ3YmRHQ25WOVZvQ19keHdXeUp5YlcyVjEydTRnS1hWdkVOUlRzRGtwNTViZTdCV0RXd3JrMA?oc=5"
+    },
+    {
+      "text": "From the frontlines of climate change: Survey investigates stances of small-island states - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRzRhRGpqZ2Q5RnpjRE91aDExT19ldkstdHVUbUdBcU5UVURreFlDYnZQMHQxSFJ0X0d6Zmc0Q3M4S3ZHWEo5Vnl0UzA3bEtpZWFhUFRneUR6YTcwbExnUHdndVZWMXVrRjBEOF91YXNIbC1HbVI5dkRsQVYyaDg?oc=5"
+    },
     {
       "text": "6 in 10 Europeans say von der Leyen should quit after trade deal with Trump, survey finds - politico.eu",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0lDQXRlMGs3Q2FzLUJTemVtYUNJUThUR0tzVHVrVVIzZXFqV0tLYkFBeUZlSHd6MnZNaXlpX0hSeEtvODVoak1iT08zRzZIUmpOQ0lDX1cySGVQQjc0QjhhYUZxSzJkWUdaYjVSS01QWDVVWnpWNV9iRV9pVGFja2RaVjVCV3A3bUJJRW5TNDVYWDhn?oc=5"
@@ -691,12 +701,20 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWVFTUdaaFJScUt5bFlMbUVudjBpNmR2UFdXczFVZmJkeFJFcWw4bE1HbUkyN3pPOExFUWxGekoxNklmY1lhcmhfNHBhbUNkdmxoVmpIRnAwWFduXzdFdVB3dFI3NGNxRHR6emtOZm1rbGFnbkh6U005b2xoY1l2b29IR0NJeWNRUmw4eUM4ZnFsRHA4MHJZV3B2di1aeUNZRWpWU0lVUUFXRGN2TG1kd2tPeXAzdV9xdlZLR1JOOXZzZFAwS3QzQtIBzgFBVV95cUxNUU9XM1p5bEFlc2prLTU0OGVibGpRMi1IblYxcXI2cFctOFhLSUdUZkNQZ2FfUUJKV0xaOVZZOGVwV041YkFWRnlOMnA0M2s3WmRnc253RHRHNElwMExZUzdXMXdMZElsNVRZdEZXSnBnRVNqUnRQaGkySE5ZajBxdjJySlpYWXN6OWNVSHBveWNhU19MVWxERl90TVRIVlB6emNZZzdERG0xSDVwdXlSM2dZR25rNXdXSVRtQmJURm9Yc09ISXZySTctVlpfQQ?oc=5"
     },
     {
+      "text": "PM undertakes aerial survey of flood and rain affected areas of Himachal Pradesh - jknewstoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnFEUno5akNzUkhvU0RGM1ZrWWZueTFnbGFkSEZTdWg4ZHVMNmpieWdzQWVFcTNSc2RIQ3pzbllkbVp2LXN1S3lHMzJnYTN5MGl0OEhISkUyRkc4RU1EU0NwMVlMc1FQTEQwUEMtYTRjWkFmX3hLZ1hiQkp3TE5oWE1GZzFBTWRWdHJvTVJ5cFpYNjNTcXBlSnZuV1RvMFAwMC1nYnBUTHk?oc=5"
+    },
+    {
       "text": "Einstein Bros. Bagels to elevate customer experience with next-gen store design - World Coffee Portal",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWVjNHZ3ZHNuT0t5UUVlUHdjcDdkQUtZSUZDdUpocEhxMHpkdGpVTnZxdW5pWFg3ekxjbDBtdUM2NjJrdkN6aXlma1FnZFAwNFQ3Q2QyWUZyVlREWGlDX2FwYWVEakJfUTE0RjVRYnp1c1FodmpuV2FXOUFCa1R0TTZjRTZsTU02NHhsbXVoTHVBYmJiMDRFM1VBRGxqT0lGSVdlelMza3RqM2toN1BtcUJkTEpoc3ZSWkE?oc=5"
     },
     {
       "text": "Karnataka: Chikkamagaluru DC holds meeting on socio-economic survey - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNEQ4S1E2NE1OckVsSmNrdnU3ajZtcVpRaTZLbVpvZWlQTXJOSnVBcy1wSTN5aHF2LUdrMUtWZlBVcXU0LXBHM0ZkeF9DYUNlalFJZENjMUdCSUZqWVljV0VhUW1NNjNXSEI3YVNKYVVhdFpCN3VoZERrLTVJVlI3SjFyLTUzYzU0NFRfX2NGSGhseEdJdnNBTGVVajN0cTZwWkhfd1lTZmswd3RxX3FGVFlUSnN1SzlHYXE4enkzcHJmaE53dDB1QmZ4S3M4N0xv0gHXAUFVX3lxTE9tV0ZKVUtTZjhnY2EyTlJRMlQ1ZjJNNS1wTjNCMHpUQnBqeUxMS2Q3a01GanozLVBqRVRGY21uRHVkQUxoOU9RdEh6TzRDZXhzbklHT2lXX2o0QkZEU2h0UlI0SVZ2amFNZEd3WGphZW9WVzhWRXpzbmVrQjRVRGVEaVJpVlpPejV4anBjUE1JNlI0TXNxYlNjUXRDakZkM2E1bjlWbDdhLWVSQ0VCY1cwTXk1TVc2NG5iN29haE1hUHZJd1JPWlBwYU1HOGExZXNrVmlOM2hJ?oc=5"
+    },
+    {
+      "text": "Ministry of Power launches stakeholder survey for India Energy Stack - ET EnergyWorld",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc0hPb2V2aEx5ME5VSTF3V1FBcW5aRWVWNU1CY1pDMFRoMnduMXh2N2puaUdYS0R1MmpETEhwQ3NjdkRWWmtCMjUxOUVJVUZlYk13d1FCelg4aFRjeWhkUkE5cUpTNjJOTU1scnhPeXJMUVI3VFRncVNqc0RVdVprRGVBWFRLanpBdDhLbGcxcDA4MmdSWDdSSXVuOHJzZlBoQmZCcHpqdGlyVXZWeWM0c1RmMlhlT2M2RlNBWVNUOTcwdVZGWEJKelY2ZmcyeElTT2ZockgxeTJFSzFnUTNtTFpGQ3dJai1GSElUWHA3RURMN2NL0gH6AUFVX3lxTE5xYldQZGJDeFFCbDVscDREVEhBSlg0dE9oSDBleDVhTUNHdHhzWEE0T3hoc3BNOXdVUENjVW9aRHJTTVk2UzdxbE1pd3FPcTB2VTBQTDRqUUdxc3UtTlpLWnBDTFdKZTR2eXMyOUY4eC15S3puWTNkRlFxT1dPazEzbmt5X2xqT2pSWm80ZUI4OTIzLVZKOEwtRWhJb0hnUjNsZ0hJbWVMRlgwRzZfdGJKQXIyUHdzZGhYOVRWRDlDc3pfdURaaloxTXRoUE4taksyemRSSW8xQl9NdWswSE8tVDNVNUhRakFPU2Zrdy1hdTY0QnlGNlFzemc?oc=5"
     },
     {
       "text": "GPS survey for Poozhithode-Padinjarathara road to be completed soon - The Hindu",
@@ -721,6 +739,10 @@
     {
       "text": "Survey reveals which natural disasters scare Americans the most - AccuWeather",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3l2eHlBeF9lQTJLSmczZHNfQVN4S1BOb3NpQXJOd2tVLVYwQXlRa3lBelNoZk9QM210Ykg2WHVxZ0RMWm9oYXUxME9yS09VWUd1U3pCVHJmVnZtQnYwM2tDOEtJN1NjQm9uUmhRdnRZbjVINGZMdDZib0VZMl9HMGJpVWVYMUEycE9zbVpVRm5pWGhXS0lfVVAwRUI3YV9Ra1JrZk1jVFFrR1p5Q2JzZDdDcHNJZw?oc=5"
+    },
+    {
+      "text": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZlFFU1BRRWlMVzJTOEtDZ1BKNEFSTzdadkdpOHFya3ZWWi1zdjBidEtobDd4MU1sU3RJOVYzMGItcW40UDVYeUc1cHRiMXA1aWVLVnpzck8yZmNMYzVkUkE2QnJBN3RCRTVNbXlBX0tJUktncUI1cXI2VjRqaVNicl9fTVV6WEhYWFI4enZrbHc0WUlSVFhxMUJlMmcwd2NDU2Fma3lXZXdOTjdlVmJIWVljQ0VjdEhRZnN6S0RPTW5NRVlpNmlqZ0VWUEd5YkVlZTB2dXAxNzh1SU9oQ3NPUHlBNzltNDBvWm9oVGFuaF9DNlkxRVZN?oc=5"
     },
     {
       "text": "Apple loses to HP in ACSI personal computer satisfaction survey - AppleInsider",
@@ -767,28 +789,8 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDV4VkFodlQxbFpLNndmR0dtV1NSNUp0eDVsb1ZEcVJWYkNsT0RnazAtRVhxczJXNkptVmY4MlprXy1KM3Qta3JnbnRFbWpZTEM4SDBTMFlBemZlY3JyN3dnTm1iX0I4dmd4MEpZWHhydHVJbjhZejFqYlhuSGR4a1NRekY3enNLSDdGZWlvdWV2eUdzTmxqaEVzaDJMT0tzZHhSZWFR?oc=5"
     },
     {
-      "text": "PM Modi Conducts Aerial Survey To Review Situation In Flood-Hit Himachal Pradesh And Punjab | N18S - News18",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeEFkUGVQTEkyMDM0UTJtNV9pdDY0MjhDS1RKTExpVV91UEdRR2MyMTJ4TE55cGl5cVRFMlF4YWlldS12SDdxV0kxR3g5SFdKVGI5OVJXV3Y0NHl0SEJOOUpTT1U3WDNVNXJWMUs5NWZMVS1tM2hnMlFUanVLdk5VY3FBem9HaFJpeVhVYzRIZXQ4VG9XYjdTeVZsZVd1TkpET3FlNy1paTU5bzcwZlk4WGF2ckNMTllQWUljN05FNkpEdkNOZzVfSUx3VE9WVmZoTWxCMWc3eGxHc0dfdlBWWGZHS1FfTC1uOGc?oc=5"
-    },
-    {
       "text": "Punjab floods: PM Modi conducts aerial survey, meets affected people in Gurdaspur - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGFTaXRfSnZYMWVQdmJ6TERFQ1FEb051N3FmVUI0bkNGdEQ4MDJOOFJHRjNPcG1OVldzcWxWQ0w1VE5BVVBub2dPeEl2Xy1ULXBPSW5fNVdHUG1aZ0d2Z05WenhENGptWkNDRjlrOS1KbFhUQ1pNdUUzcDFweVRDRXVlOF9jNzJ0YVAyMVNNRGtZYk0tdWc3ZU82NXRPVEtwV09mNU9PZl93bk5NVzZMcndCd9IBugFBVV95cUxPdmxkQVFqeFMzVGZJRUhWS3p5MWl6ei1CUXZzNy13bGRSbWpkMUNlUU1ENEZaZnBTTzBuanR3cUREWlVyV1Y0TGpkR0YwMm5YajUtVWhmSGRUTVZUejBTSzJVV185RGZfRm1HUTRhcmJsX2xSb1BKYTJEVVQtTURMT0lSZlFoWHN1d1ZGM21WTnE0RFNxWFBGcUE4WjFTVG9UWFZnandnbWZlR2l0VFp4QjFhb0ZCTWloYXc?oc=5"
-    },
-    {
-      "text": "A market on the move: benchmarking survey - Global Reinsurance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdER3OVlzYnhLMjVwR1dLQWp3clZsTl9vRkFUREZlOHJPTTFVa0Y3eVNlYmJxVjhLTTBVVE01XzdsUGgzWGVxd09pRGlCTFl3T2Nfc1A0Q2JwNEpDRHZ3eVRXcjFEdmlONnhHSWJMVUxWbkYxSGprZ2d5QUpCXzAtZ3A3WWZ5LTRESFF6MGhIOGlieG1GdlJBVzBJMlBqdVJLMUlCRA?oc=5"
-    },
-    {
-      "text": "India Flood Relief PM Modi: Rs 1,500 Crore Aid Announced for Himachal After Punjab Aerial Survey - Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTDIydllubllJaUcyd1pTalRBaXpoUDBSTE1KSmlZWWVZdGduVHMxa21BdEtSSmg5TzBVbWp1QmdEcUdFSU9xbUZKSm1ubE5wci1jYm9RdmZnTDRUeHV2T251OU10QWZOTEhmU01ZS1NacGJfNVlmRmJBc1I0dkw4SlRrcVB0NS1BQ3FFOUlMS25kcTBqN20tSlhIT3Y1TUxyb2hmcU9HeHJFdzVBQ0RPLTFnSmhkMkVqVzd4aUwwVHAwTHFRLV9abzZ2cnZiaDBVQ0ZoQjh4TEUycWs0cmkwUHlkM0ZwVnNwbzhzLTNCZ0VjUDg?oc=5"
-    },
-    {
-      "text": "PM Modi conducts aerial survey of flood-hit areas in Punjab and Himachal Pradesh - Mid-day",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGhFaDVYNExVUGZ1MmNlS24wOFJpUnNFXzk1Vm55SXFfRE04N0pPZ3I4b1NZWDVGQ0Z6dUNHdVp4TmhZaFQ2eExzZGdfODJPb3RZdVFFaXhaZDFNbFh1SWI1V29zaHlxcWo3cWFfM2Z0dU95eDFCYVplbk92VFF4RWkwckFEb3d3NzM0bjVYb1pGUzVuQzNCWmdWOWcxazV4N2Y1cWFoSW5KTXQ2SDk2Y1lTR2dPTXd5Umljc1Q2bEw2TWtPc3NsWFA2WHhGSTQ4cTJ30gHYAUFVX3lxTE9MWlNFQlZ3RmdMVTRPenA2MTZzSmRTZ0RvTUdjTWo4MExJS3VoNnVkdEZGenpjTGF3dmNSWUpuVjR1QlZkbnNJeC1Nd2NVYXJvenRtQ3dpSjdvZGcxakhOZmFXRjByOVJtR0VHX0ZzdmlsU2x2aDJNdFdnQ2Y2X1dvcy1uWmp1S2t4VDBPN28yX3NmejNpckE0TkkzbzdlZV9FSS1BWkxwc1J3WXpuVFJQSHVwQ1RTdE9Lc05IdjVhOG9TWnl2emlmZUZvU0lBSEJqTkJ5OFN1VA?oc=5"
-    },
-    {
-      "text": "Evening news wrap: Nepal's KP Oli ousted as prime minister; PM Modi conducts aerial survey of flood-hit H - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOYVNNSk9ZV2FoSjM2VlFNclBXanpzUy1BVVpKM3A5QWpJRS1pMlF3QURJdDlSTWk3cUh6X0dwalMwcUVVbjRjU1RwNUJHRm5tT0RNeEZQeURYRFpUMEl4Y2swZWxZTEJLV3YtWk5aQzlXM2gtRElCNXpSQXptSlplU20wQTFoOHZIRTd2ems5ZVFiMFNiZnNXbjB1YldoYmRVdzRyWk5leHhMUDNXZWlaekU3NlVwM0RwSkt0ZFlCTXlVb0lVbVdBVHl4ZnpLVm9lczJqNTEyOEl2a2xwams2RVRfaUJwS2swTXdPUzRDSmd3NUJnb3VfbGxGNXlmdDJ2N2JrcFR3Rk5RV1dxMEJWbkZOM3VpN28zSXNnT0pQV3VNRlVQQkdVYV9VVEt0TDDSAbQCQVVfeXFMT2FNUnUyNV83R2w3a2hfajlTekw2clVNT011N0pZaVh5U2RZdDNuRW9DUWk4c2lENzV4V2FaVjlvdzEydkx3bDM0WmVRZTdtVXhYWWJMd0tHMDJsbnc3UXRGc0NRTTMya3JfWWR1MWx6ZlpJcXctbUo0OHpyYmVTOHg5NjM2WlhxbTd5MnFST1BfT002M2JYaVc2cHlYM1hhcS10ODJsUUtEMkhUWWZ4dHA3b1BWSXREbHVGN2MxQUFBdm5MTmc3Wkg5M2luSHByVEVLN1lUWkZfZ01TdW5aUjdaY0hwT2tTSkw0czY5el9ka3NIMHFaTGQteE4yM2JHNTR5TE1ja2NuWC1SLTFNdHJxZGhoMldXaDE1WTdRS3huOTZqb3lkS1UwR09Lck9odnE5NWY?oc=5"
     }
   ]
 }
