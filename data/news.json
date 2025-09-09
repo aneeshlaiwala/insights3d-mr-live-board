@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-09T11:08:45.035Z",
+  "generated_at": "2025-09-09T11:13:25.064Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "MHRA launches survey seeking feedback from MedTech stakeholders - Medical Buyer",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEdURHBscXhIeEdRamdIeDJTaTFmLU1mbnBFZ2ZaV3dEMHFhdlpqRWpuTHh5bW9ieVdKaDJ5TzRGVm5Vd25yTFdRaVpiNzJYZE12dWZjLUpYSUo0ejJGZm1tZklia0RtQVZibDFBaFBtelhmbnFvWVR0T0I4WUtNeENYTUVXWkxGUFFVUW8weGdxYkttbkE?oc=5",
+      "isoDate": "2025-09-09T11:10:22.000Z",
+      "source": "news.google.com",
+      "raw": "MHRA launches survey seeking feedback from MedTech stakeholders  Medical Buyer",
+      "summary": "MHRA launches survey seeking feedback from MedTech stakeholders Medical Buyer",
+      "topics": [
+        "Healthcare"
+      ]
+    },
     {
       "title": "PM Modi announces ₹1,500 Cr relief for flood-hit Himachal after aerial survey - Awaz The Voice",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHMxYXhkdEdzWHFSdHhaVnlCc2FwUjJSUUNDNzdEcGVyVUJlZFlHUnYwT0NQa2U5RlFOQ3kwQXBlSGdDdi1KcDVYUTlrbVJuT2dhOHZ1OUV1VDF2Rkc5X2VjaGs2TUMtdlNtSjNrTTlJX2gweDlVcFFXVENCVFludUJCUEl4dm91WEFwa0hNZDVTb0hmZEYwZUxRRGpVblR6NGM1MWFrLUEzQkF0eWVuWkZrY1BnQ1czZzJkWA?oc=5",
@@ -30,17 +41,6 @@
       "summary": "CFO Interest in AI in Finance is Growing, with the Number of Finance Organizations Leveraging AI More Than Doubling Year-Over-Year, Protiviti's Latest Global Finance Trends Survey Finds PR Newswire UK",
       "topics": [
         "AI in MR"
-      ]
-    },
-    {
-      "title": "Survey: 74% UK marketers plan to increase programmatic CTV spend - Advanced Television",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFNMc2N6M1hKQ0xEUkxWMGlEakVhOUdlVWNfdzBWU1duMGpvVEY1c21GYVNwUnI1eDljdjBwVUROV3QxcVEzMHRxTWtGTU8yMHFvRzNCakdfWjdOdTVxdk92MnV3RUp6RDZHdDF6ZU1DX183V2p2d3U0QmFiUkV6Wko3OUhjQVFla1RGUnR5STBZaUlIdU9TN2N1bkFPS01jY01YRl9aRGtNTF9xa0pV?oc=5",
-      "isoDate": "2025-09-09T10:38:33.000Z",
-      "source": "news.google.com",
-      "raw": "Survey: 74% UK marketers plan to increase programmatic CTV spend  Advanced Television",
-      "summary": "Survey: 74% UK marketers plan to increase programmatic CTV spend Advanced Television",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -673,16 +673,16 @@
   ],
   "ticker": [
     {
+      "text": "MHRA launches survey seeking feedback from MedTech stakeholders - Medical Buyer",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMEdURHBscXhIeEdRamdIeDJTaTFmLU1mbnBFZ2ZaV3dEMHFhdlpqRWpuTHh5bW9ieVdKaDJ5TzRGVm5Vd25yTFdRaVpiNzJYZE12dWZjLUpYSUo0ejJGZm1tZklia0RtQVZibDFBaFBtelhmbnFvWVR0T0I4WUtNeENYTUVXWkxGUFFVUW8weGdxYkttbkE?oc=5"
+    },
+    {
       "text": "PM Modi announces ₹1,500 Cr relief for flood-hit Himachal after aerial survey - Awaz The Voice",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHMxYXhkdEdzWHFSdHhaVnlCc2FwUjJSUUNDNzdEcGVyVUJlZFlHUnYwT0NQa2U5RlFOQ3kwQXBlSGdDdi1KcDVYUTlrbVJuT2dhOHZ1OUV1VDF2Rkc5X2VjaGs2TUMtdlNtSjNrTTlJX2gweDlVcFFXVENCVFludUJCUEl4dm91WEFwa0hNZDVTb0hmZEYwZUxRRGpVblR6NGM1MWFrLUEzQkF0eWVuWkZrY1BnQ1czZzJkWA?oc=5"
     },
     {
       "text": "CFO Interest in AI in Finance is Growing, with the Number of Finance Organizations Leveraging AI More Than Doubling Year-Over-Year, Protiviti's Latest Global Finance Trends Survey Finds - PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNV1hmTU10QnRxUjU5Vm1Wa3FMY3pBQU5zTFFrWjcteUNQMnRrREdPNGtSS01XZW0tMTV3Tl9kQlNEUnlzWEZ4RzVkQ3N2em90QXhNZDZaUGJLSGVkTUFIMUJIakJ1REtyOHJaU0RmbUYtWlYtNUtyVFlFT3JFeTdydUhWd2ZtdDlmY002d3c2UlNBWC0tRjVlRG8zMENCdDhRSk5LZkpXMlZmSTNEVlFfN0FuNjVDQ3VoTTdSd0c0VjVYa3Q0OE9Ccjc2eDBrOTNycDJoY2lzcTY4Q0RCb1B2aVl4c096bE5aZnJTdmc0ZDByTHNwMTZIaC1oQXp1MC0yUnBNaV9mVUgxT0I3VGVqdWNpWXk1cC1pNDEtVF9iSVFRQS0xQXpQc0lMUTB3Sy1yZzVwYUNJVlJBbjdlMGE4NjRVd1pJSENnYmVFLWtWanlWc0xETVlPQVhTTEk?oc=5"
-    },
-    {
-      "text": "Survey: 74% UK marketers plan to increase programmatic CTV spend - Advanced Television",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFNMc2N6M1hKQ0xEUkxWMGlEakVhOUdlVWNfdzBWU1duMGpvVEY1c21GYVNwUnI1eDljdjBwVUROV3QxcVEzMHRxTWtGTU8yMHFvRzNCakdfWjdOdTVxdk92MnV3RUp6RDZHdDF6ZU1DX183V2p2d3U0QmFiUkV6Wko3OUhjQVFla1RGUnR5STBZaUlIdU9TN2N1bkFPS01jY01YRl9aRGtNTF9xa0pV?oc=5"
     },
     {
       "text": "PM Modi Conducts Aerial Survey In Flood-Hit Himachal, Heads To Punjab For Review - Swarajya",
