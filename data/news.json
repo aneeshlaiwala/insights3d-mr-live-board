@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-09T23:08:46.166Z",
+  "generated_at": "2025-09-09T23:13:01.287Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "How two innovative startups are using Ordnance Survey data to help save lives - Emergency Services Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3ZULUROUWhLUE9fdFJDaWU3NURnX0xFUTI4T1FKaWpzczdWclBQSDFyQmp5OTFodGIza2dDLUhFZFBfMk5vSDNNWE1NQ1FBb1JnY1NuSFh5bGZIMEZVMTlnWjhQcDB1OGs5Z0ZrOE53N2VfUXJFODBWNkdXcGx1SGVBOGE3YmQ2YUFfaGxMV0w0UlAtMVdVRmNHMDRxRFFWc19NY29pWmFCZEVwd3dsOUdYM0NXZG5WTEJSanZtaVQ1UQ?oc=5",
+      "isoDate": "2025-09-09T23:01:00.000Z",
+      "source": "news.google.com",
+      "raw": "How two innovative startups are using Ordnance Survey data to help save lives  Emergency Services Times",
+      "summary": "How two innovative startups are using Ordnance Survey data to help save lives Emergency Services Times",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Q&A: Survey reveals the reasons employers may be losing top talent - Digital Journal",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzRlS3k1VURKRmNKaFgwNlNVSjRQSlhiVXFZa2FfSUd4TjNrdXQ0RVZyWnZrRkFhT1NhY1o0Y1ZTSGlwVFA2eERuOFNzZUx3S3pNNlI1VWtQalFkZWYtQ3F4aW9Fc1pqZlB0ZncxWlZhZnRob29SZXJZelhfTTZsOU5POXVMbGdGTnNQWnFWWWFyZVJ0MXh1WlUweU9IYjVFWENhbTJ2SHV3VUJNTXVVRFpR?oc=5",
@@ -64,17 +75,6 @@
       "topics": [
         "Healthcare",
         "Innovation in MR"
-      ]
-    },
-    {
-      "title": "Florida students’ speech is most free at FSU, survey finds - Florida Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUNybmJieXJmV19QNlZiSkx4MEtldUF6M0R5VThyRHB5TWtoREx6NGh4UzNIZF9HU0NGcVR2cU9HM3BVZEt1bUNTWmZma1lCNUNfQkg2RmhDc1V5ZEwtanc2VGNaWVFtWmdHdmVmR1NadldYN29DM0V4QjBUWnJic1BfMmdELUpOcWI2WUlueFdCdE5jOHRwUXYzWQ?oc=5",
-      "isoDate": "2025-09-09T21:01:04.000Z",
-      "source": "news.google.com",
-      "raw": "Florida students’ speech is most free at FSU, survey finds  Florida Phoenix",
-      "summary": "Florida students’ speech is most free at FSU, survey finds Florida Phoenix",
-      "topics": [
-        "(Other)"
       ]
     },
     {
@@ -582,10 +582,6 @@
       "url": "https://x.com/search?q=%23survey"
     },
     {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
       "label": "#aerial",
       "url": "https://x.com/search?q=%23aerial"
     },
@@ -596,6 +592,10 @@
     {
       "label": "#customer",
       "url": "https://x.com/search?q=%23customer"
+    },
+    {
+      "label": "#finds",
+      "url": "https://x.com/search?q=%23finds"
     },
     {
       "label": "#flood",
@@ -660,6 +660,10 @@
   ],
   "ticker": [
     {
+      "text": "How two innovative startups are using Ordnance Survey data to help save lives - Emergency Services Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3ZULUROUWhLUE9fdFJDaWU3NURnX0xFUTI4T1FKaWpzczdWclBQSDFyQmp5OTFodGIza2dDLUhFZFBfMk5vSDNNWE1NQ1FBb1JnY1NuSFh5bGZIMEZVMTlnWjhQcDB1OGs5Z0ZrOE53N2VfUXJFODBWNkdXcGx1SGVBOGE3YmQ2YUFfaGxMV0w0UlAtMVdVRmNHMDRxRFFWc19NY29pWmFCZEVwd3dsOUdYM0NXZG5WTEJSanZtaVQ1UQ?oc=5"
+    },
+    {
       "text": "Q&A: Survey reveals the reasons employers may be losing top talent - Digital Journal",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzRlS3k1VURKRmNKaFgwNlNVSjRQSlhiVXFZa2FfSUd4TjNrdXQ0RVZyWnZrRkFhT1NhY1o0Y1ZTSGlwVFA2eERuOFNzZUx3S3pNNlI1VWtQalFkZWYtQ3F4aW9Fc1pqZlB0ZncxWlZhZnRob29SZXJZelhfTTZsOU5POXVMbGdGTnNQWnFWWWFyZVJ0MXh1WlUweU9IYjVFWENhbTJ2SHV3VUJNTXVVRFpR?oc=5"
     },
@@ -678,10 +682,6 @@
     {
       "text": "Survey: Advanced Threat Detection Tops Healthcare Leaders’ Cybersecurity Wish List - Healthcare Innovation",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORm5uS2NfeUlhWHRTdFQ0dlNWcHRtY2dCTmpZcXVkTzIxbm5SQkNQYkxERGFVUVJXY0ZJN1VackNzOUswUG9oVlBWS2xva1gzbEcxczVaNTNEQkQtanBVU2U1d3M5Z3dQMGtOSzMxU281VEo2am95QXc2QUZDUmM5ZEd3azNDMmRlU2hEaDBkcnRrRmFyaVBxdG9sQ0E5UHpVN2VWV1J4QmdwenpUU3dVX01BdkYyUzBNNUlIa1lqSERRMXJ1OHd6cEFWbzAydS1NV0E1WU1vb0NjZw?oc=5"
-    },
-    {
-      "text": "Florida students’ speech is most free at FSU, survey finds - Florida Phoenix",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUNybmJieXJmV19QNlZiSkx4MEtldUF6M0R5VThyRHB5TWtoREx6NGh4UzNIZF9HU0NGcVR2cU9HM3BVZEt1bUNTWmZma1lCNUNfQkg2RmhDc1V5ZEwtanc2VGNaWVFtWmdHdmVmR1NadldYN29DM0V4QjBUWnJic1BfMmdELUpOcWI2WUlueFdCdE5jOHRwUXYzWQ?oc=5"
     },
     {
       "text": "Officer leading Gyanvapi survey retires from ASI, gets another post, subject to ACC approval - The Indian Express",
