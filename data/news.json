@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-09T14:08:02.994Z",
+  "generated_at": "2025-09-09T14:13:09.833Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,19 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZlFFU1BRRWlMVzJTOEtDZ1BKNEFSTzdadkdpOHFya3ZWWi1zdjBidEtobDd4MU1sU3RJOVYzMGItcW40UDVYeUc1cHRiMXA1aWVLVnpzck8yZmNMYzVkUkE2QnJBN3RCRTVNbXlBX0tJUktncUI1cXI2VjRqaVNicl9fTVV6WEhYWFI4enZrbHc0WUlSVFhxMUJlMmcwd2NDU2Fma3lXZXdOTjdlVmJIWVljQ0VjdEhRZnN6S0RPTW5NRVlpNmlqZ0VWUEd5YkVlZTB2dXAxNzh1SU9oQ3NPUHlBNzltNDBvWm9oVGFuaF9DNlkxRVZN?oc=5",
+      "isoDate": "2025-09-09T13:48:00.000Z",
+      "source": "news.google.com",
+      "raw": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration  Business Wire",
+      "summary": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration Business Wire",
+      "topics": [
+        "AI in MR",
+        "CX",
+        "B2B"
+      ]
+    },
     {
       "title": "Apple loses to HP in ACSI personal computer satisfaction survey - AppleInsider",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUU0Nkw5VjJRMWxPZnNELUZIeUs1QjdncHpsdk9SeVViWjl1ZHBodUM4VGtrdjIyTXpzNmFWZllXRnpuMWsyQVNsSjk4WXNONFpVY2lzNnN0MTVmaXh5d1R0UkZYaFJ0OWpyRlNVSTg3UXBMYmtYWDRKdWFvTmRweUsxdEZTQmhDX1dBM2RoMkNVRm9faXVXMDJIV1BZMnZESWlpQjhkdUZmQQ?oc=5",
@@ -293,17 +306,6 @@
       "source": "news.google.com",
       "raw": "PM Modi conducts aerial survey of flood-affected areas in Punjab; Watch Video  Babushahi News",
       "summary": "PM Modi conducts aerial survey of flood-affected areas in Punjab; Watch Video Babushahi News",
-      "topics": [
-        "(Other)"
-      ]
-    },
-    {
-      "title": "Survey finds many college professors in Georgia would not recommend the state to a colleague - Georgia Public Broadcasting",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblU1QmlFYUVRNkJSNE5sYk5QNGpZckU1TW5JVW9pZnV6QVVhYkdaQU5uaS1IZ25oX1pRZWF4c0w1SVNYd2NPY0NYYllpME9DSFpDMU5lQk80c1NyMlZCcjN5amFmUGZWQVRWdVZKd3lhVGhXcUtBRm9uMmx4bmNvZVdic1NCYUxTaVFNOU4wSXFYRDgyR2NHb3ZtT3RkNHp1RmdreU9PUEFwajNnbVVucmw5QQ?oc=5",
-      "isoDate": "2025-09-09T12:02:00.000Z",
-      "source": "news.google.com",
-      "raw": "Survey finds many college professors in Georgia would not recommend the state to a colleague  Georgia Public Broadcasting",
-      "summary": "Survey finds many college professors in Georgia would not recommend the state to a colleague Georgia Public Broadcasting",
       "topics": [
         "(Other)"
       ]
@@ -621,16 +623,16 @@
       "url": "https://x.com/search?q=%23areas"
     },
     {
+      "label": "#AI",
+      "url": "https://x.com/search?q=%23ai"
+    },
+    {
       "label": "#affected",
       "url": "https://x.com/search?q=%23affected"
     },
     {
       "label": "#after",
       "url": "https://x.com/search?q=%23after"
-    },
-    {
-      "label": "#AI",
-      "url": "https://x.com/search?q=%23ai"
     },
     {
       "label": "#announces",
@@ -645,6 +647,10 @@
       "url": "https://x.com/search?q=%23undertakes"
     },
     {
+      "label": "#launches",
+      "url": "https://x.com/search?q=%23launches"
+    },
+    {
       "label": "#assistance",
       "url": "https://x.com/search?q=%23assistance"
     },
@@ -653,23 +659,23 @@
       "url": "https://x.com/search?q=%23back"
     },
     {
+      "label": "#customer",
+      "url": "https://x.com/search?q=%23customer"
+    },
+    {
+      "label": "#experience",
+      "url": "https://x.com/search?q=%23experience"
+    },
+    {
       "label": "#finance",
       "url": "https://x.com/search?q=%23finance"
-    },
-    {
-      "label": "#finds",
-      "url": "https://x.com/search?q=%23finds"
-    },
-    {
-      "label": "#floods",
-      "url": "https://x.com/search?q=%23floods"
-    },
-    {
-      "label": "#india",
-      "url": "https://x.com/search?q=%23india"
     }
   ],
   "ticker": [
+    {
+      "text": "Genesys Launches AI Agents with Greater Autonomy to Drive Enterprise-Wide Customer Experience Orchestration - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZlFFU1BRRWlMVzJTOEtDZ1BKNEFSTzdadkdpOHFya3ZWWi1zdjBidEtobDd4MU1sU3RJOVYzMGItcW40UDVYeUc1cHRiMXA1aWVLVnpzck8yZmNMYzVkUkE2QnJBN3RCRTVNbXlBX0tJUktncUI1cXI2VjRqaVNicl9fTVV6WEhYWFI4enZrbHc0WUlSVFhxMUJlMmcwd2NDU2Fma3lXZXdOTjdlVmJIWVljQ0VjdEhRZnN6S0RPTW5NRVlpNmlqZ0VWUEd5YkVlZTB2dXAxNzh1SU9oQ3NPUHlBNzltNDBvWm9oVGFuaF9DNlkxRVZN?oc=5"
+    },
     {
       "text": "Apple loses to HP in ACSI personal computer satisfaction survey - AppleInsider",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUU0Nkw5VjJRMWxPZnNELUZIeUs1QjdncHpsdk9SeVViWjl1ZHBodUM4VGtrdjIyTXpzNmFWZllXRnpuMWsyQVNsSjk4WXNONFpVY2lzNnN0MTVmaXh5d1R0UkZYaFJ0OWpyRlNVSTg3UXBMYmtYWDRKdWFvTmRweUsxdEZTQmhDX1dBM2RoMkNVRm9faXVXMDJIV1BZMnZESWlpQjhkdUZmQQ?oc=5"
@@ -773,10 +779,6 @@
     {
       "text": "PM Modi conducts aerial survey of flood-affected areas in Punjab; Watch Video - Babushahi News",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMlpvQnU5RG1WOVVpWGVFblc0U2VQM1dGQlF3QTZwWnFzQU12WU9iWi1MbkFYWFFDQUdpTGNWWU0zOWcwaFVMSjJ3d09CT3dlV2ozVVc5RUF1N1BXZTFQLUR1c1hxR01wamlNb2JMUURpWU56aFpYMWZ0eGNteGUtZlVIanV4X3FiT2dURnBPMFRvNW9sdUQtelk3cEpGcVJDWXBQUnlsaUNFOEFqTnAyamRRbUtnQnBHaEFTNE9Xbno3RXRiTnN4SndYVUtrSzBRbnc?oc=5"
-    },
-    {
-      "text": "Survey finds many college professors in Georgia would not recommend the state to a colleague - Georgia Public Broadcasting",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblU1QmlFYUVRNkJSNE5sYk5QNGpZckU1TW5JVW9pZnV6QVVhYkdaQU5uaS1IZ25oX1pRZWF4c0w1SVNYd2NPY0NYYllpME9DSFpDMU5lQk80c1NyMlZCcjN5amFmUGZWQVRWdVZKd3lhVGhXcUtBRm9uMmx4bmNvZVdic1NCYUxTaVFNOU4wSXFYRDgyR2NHb3ZtT3RkNHp1RmdreU9PUEFwajNnbVVucmw5QQ?oc=5"
     },
     {
       "text": "Nearly half of Israeli tech startups incorporate abroad, survey finds By Reuters - Investing.com",
