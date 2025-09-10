@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-10T06:15:17.792Z",
+  "generated_at": "2025-09-10T06:22:24.542Z",
   "topics_available": [
     "AI in MR",
     "CX",
@@ -10,6 +10,17 @@
     "Qualitative Research"
   ],
   "top_news": [
+    {
+      "title": "Punjab Governor conducts aerial survey of flood-affected areas of Punjab - The News Mill",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWVEM3F4cEQxWk94ZU1rS3NHM3lJc3BmY0xWd2c0bzJlM0V5Xy1VYzJlVllVbnRjcExJY3hXaUwxUFhwdkcwZkFyNTNZM2V6clA3NkR6ZlUwakNmSWUyaWxTaElTNVpfRkY1YTVvb01kTktzczlINGZQRmpoRmd1SE1aV1ZNd0VhN0RjZlZibUZRemcyNGpZMXRyaE9fejdJajd4MkZ6bWg?oc=5",
+      "isoDate": "2025-09-10T06:04:37.000Z",
+      "source": "news.google.com",
+      "raw": "Punjab Governor conducts aerial survey of flood-affected areas of Punjab  The News Mill",
+      "summary": "Punjab Governor conducts aerial survey of flood-affected areas of Punjab The News Mill",
+      "topics": [
+        "(Other)"
+      ]
+    },
     {
       "title": "Investor sentiment rebounds as valuations stabilise, survey shows - Green Street News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWY0bTBXUnpobklycjBBMklVNkl3WllLRVk3bzM1di1Bd3VxcVJMbFlSVmJvcTF0alBpNlZtS0d0WmN6d1gtcm9BR3J5N096UHdGS1ZUWHVScXdZM3hsbjlFcHJmWEVzby0zM1AtVTdDNzFPRGpXeDF1azBTeHp0MTU4SEg2U0ZUMEFUV0tSb1RfR2R0YktyMnZaWTRJT3dQREpB?oc=5",
@@ -356,17 +367,6 @@
       ]
     },
     {
-      "title": "Big Three PBM Use Falls, Transparent PBM Use More Than Doubles, Annual Survey Shows - Managed Healthcare Executive",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFlyMktENjFjdElPUDN4RUVrcWQwOHVOa0hHQjhIbEVINXU2YkxWOFRkRHlxWHZxNFowMERoNUs5dHpNOG4tS1hMYm5pT2liODdEbUt1S1RXa2p6U1E2cW5wazJRcDdXRjJ0SjR2a2s4WXV6YlRQOTM5eW9FSWZVUDd2SFdXWDViNHBYOG12b3FsZGpHek1UeDRZWEc2RUdwUmx6ckdVQ1pqX1ZZMDl4N1pQWGlweURhR1h4bG43bGNjb3FnNnhBaQ?oc=5",
-      "isoDate": "2025-09-09T20:51:03.000Z",
-      "source": "news.google.com",
-      "raw": "Big Three PBM Use Falls, Transparent PBM Use More Than Doubles, Annual Survey Shows  Managed Healthcare Executive",
-      "summary": "Big Three PBM Use Falls, Transparent PBM Use More Than Doubles, Annual Survey Shows Managed Healthcare Executive",
-      "topics": [
-        "Healthcare"
-      ]
-    },
-    {
       "title": "Officer leading Gyanvapi survey retires from ASI, gets another post, subject to ACC approval - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1RqQkRWMWo2aTZTTEpUUlA4cGE1VVc5SXdjelJpRUNqcm1iTmhwQjV4c2RreTBMWE5aQzcya3FXM0tzNUhuVUdKZnVQR21LN0htcWdqVE0tdUhzb182cFBRQmU4V0NlZXZGM3d4SzBtU3NEMlJlMmFlU2NyZ2NMS1U1dm5aenBNTzhncjJKeFhJanRleEpoT0dxZ0RMWnN6SDAwdWRoQW54TUxWMlJmRmdvc3UtWE9vUThTbzk5QUUtNWpqb0g2dWkzbm1RT24tWWJxMDhGONIB3gFBVV95cUxOWFB2NndZUDFUUkNMUk5qVVNFcUpReXd0eTFMZ3hWUnFYa3RCbTNuUE1sSmNTQVVZbGNyYVZrcllBdVEtYURDTTQwbWN1SlNvSjdNc0FjemRqNGR3ZHBPR0VSZzk4ZVUzb0xfSnhpWm9rdll5azB5NFNmT0hFRV9DeS1SdTMwNGs0TG5HazVZcnJWVTI4c0drZEV5d2dNakJFR2tmTS1HTzJjRU5mMkFDV2YwdXMyRGFra3hoU093M1BLbGtDMkxmMS12M19lV3ZRZEJoa2l6M2U1M245aFE?oc=5",
       "isoDate": "2025-09-09T20:51:00.000Z",
@@ -572,6 +572,14 @@
       "url": "https://x.com/search?q=%23survey"
     },
     {
+      "label": "#flood",
+      "url": "https://x.com/search?q=%23flood"
+    },
+    {
+      "label": "#aerial",
+      "url": "https://x.com/search?q=%23aerial"
+    },
+    {
       "label": "#clean",
       "url": "https://x.com/search?q=%23clean"
     },
@@ -584,12 +592,8 @@
       "url": "https://x.com/search?q=%23finds"
     },
     {
-      "label": "#flood",
-      "url": "https://x.com/search?q=%23flood"
-    },
-    {
-      "label": "#aerial",
-      "url": "https://x.com/search?q=%23aerial"
+      "label": "#punjab",
+      "url": "https://x.com/search?q=%23punjab"
     },
     {
       "label": "#cancer",
@@ -598,6 +602,10 @@
     {
       "label": "#care",
       "url": "https://x.com/search?q=%23care"
+    },
+    {
+      "label": "#conducts",
+      "url": "https://x.com/search?q=%23conducts"
     },
     {
       "label": "#experience",
@@ -632,23 +640,19 @@
       "url": "https://x.com/search?q=%23public"
     },
     {
-      "label": "#shows",
-      "url": "https://x.com/search?q=%23shows"
-    },
-    {
-      "label": "#conducts",
-      "url": "https://x.com/search?q=%23conducts"
+      "label": "#areas",
+      "url": "https://x.com/search?q=%23areas"
     },
     {
       "label": "#customer",
       "url": "https://x.com/search?q=%23customer"
-    },
-    {
-      "label": "#himachal",
-      "url": "https://x.com/search?q=%23himachal"
     }
   ],
   "ticker": [
+    {
+      "text": "Punjab Governor conducts aerial survey of flood-affected areas of Punjab - The News Mill",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWVEM3F4cEQxWk94ZU1rS3NHM3lJc3BmY0xWd2c0bzJlM0V5Xy1VYzJlVllVbnRjcExJY3hXaUwxUFhwdkcwZkFyNTNZM2V6clA3NkR6ZlUwakNmSWUyaWxTaElTNVpfRkY1YTVvb01kTktzczlINGZQRmpoRmd1SE1aV1ZNd0VhN0RjZlZibUZRemcyNGpZMXRyaE9fejdJajd4MkZ6bWg?oc=5"
+    },
     {
       "text": "Investor sentiment rebounds as valuations stabilise, survey shows - Green Street News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWY0bTBXUnpobklycjBBMklVNkl3WllLRVk3bzM1di1Bd3VxcVJMbFlSVmJvcTF0alBpNlZtS0d0WmN6d1gtcm9BR3J5N096UHdGS1ZUWHVScXdZM3hsbjlFcHJmWEVzby0zM1AtVTdDNzFPRGpXeDF1azBTeHp0MTU4SEg2U0ZUMEFUV0tSb1RfR2R0YktyMnZaWTRJT3dQREpB?oc=5"
@@ -764,10 +768,6 @@
     {
       "text": "Indore, Jabalpur, Agra, Surat top air quality survey - Tribune India",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXo3dXl5WFpHUzZZSmE4dEtwS0RNSlZGUzNGQ2YyejQ2eE1nbmo2X3duLWlmQXhtbW5BTEhOWm1PSFR2T3JXV0lkSk91UzFUZUl0ME9oR3FvaER6all2UUZ2TWpLX3hJS0Y3dUh0ODBERlU5QmxJOFRzSjRYc0xXRndidGpqb2RaaENfZUtiZkhYMWJW0gGYAUFVX3lxTE5wT3NZbGdvb2UzajJ6SDN1d3hxanotZ3RzLWtrdDZXYlQ2NkwzQ3NzVkFzVFJVZUtVWFB6N1FacXNVV2hCaUZBWEQ3bXZmclVFbUJiNlozdzhUOGNXb2JKNFZabnZpdk9pVEhNM1U1cGNhX3RJeXRuUFJHVkJ3VTNpNlBZSENucE9yaVpxUC1za09kZzZzS0Vm?oc=5"
-    },
-    {
-      "text": "Q&A: Survey reveals the reasons employers may be losing top talent - Digital Journal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzRlS3k1VURKRmNKaFgwNlNVSjRQSlhiVXFZa2FfSUd4TjNrdXQ0RVZyWnZrRkFhT1NhY1o0Y1ZTSGlwVFA2eERuOFNzZUx3S3pNNlI1VWtQalFkZWYtQ3F4aW9Fc1pqZlB0ZncxWlZhZnRob29SZXJZelhfTTZsOU5POXVMbGdGTnNQWnFWWWFyZVJ0MXh1WlUweU9IYjVFWENhbTJ2SHV3VUJNTXVVRFpR?oc=5"
     }
   ]
 }
